@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Culture Show: Tents - The..."@en-gb .
+<http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04bxcs5#p022pjml> .
+<http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;fac9a~20140724T074500Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23UWP4> .
+<http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04837zg#programme> .
+<http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Culture Show: Tents - The..."@en-gb .
+<http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc#id> <http://purl.org/ontology/po/schedule_date> "2014-07-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc.nt> .
+<http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/725a2fc2e4f64c829fed13d09d23ebfc/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/725a2fc2e4f64c829fed13d09d23ebfc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/725a2fc2e4f64c829fed13d09d23ebfc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Culture Show: Tents - The...'"@en-gb .
+<http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc#version> .
+<http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04bxcs5#programme> .
+<http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc#version> .
+<http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc#id> .
+<http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/725a2fc2e4f64c829fed13d09d23ebfc/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/725a2fc2e4f64c829fed13d09d23ebfc/player> .
+<http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b04837zg> .
+<http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/725a2fc2e4f64c829fed13d09d23ebfc#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Culture Show: Tents - The...'"@en-gb .

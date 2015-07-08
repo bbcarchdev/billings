@@ -1,0 +1,24 @@
+<http://billings.acropolis.org.uk/0817ef7b445f499e92e365a3089c57ef.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/0817ef7b445f499e92e365a3089c57ef> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/0817ef7b445f499e92e365a3089c57ef#id> .
+<http://billings.acropolis.org.uk/0817ef7b445f499e92e365a3089c57ef#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/0817ef7b445f499e92e365a3089c57ef.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/0817ef7b445f499e92e365a3089c57ef> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/0817ef7b445f499e92e365a3089c57ef.nt> .
+<http://billings.acropolis.org.uk/0817ef7b445f499e92e365a3089c57ef.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/0817ef7b445f499e92e365a3089c57ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/0817ef7b445f499e92e365a3089c57ef> <http://purl.org/dc/terms/title> "Information about the broadcast 'Jedward's Big Adventure'"@en-gb .
+<http://billings.acropolis.org.uk/0817ef7b445f499e92e365a3089c57ef#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/0817ef7b445f499e92e365a3089c57ef/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/0817ef7b445f499e92e365a3089c57ef/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/0817ef7b445f499e92e365a3089c57ef#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/0817ef7b445f499e92e365a3089c57ef#version> .
+<http://billings.acropolis.org.uk/0817ef7b445f499e92e365a3089c57ef#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/0817ef7b445f499e92e365a3089c57ef#id> <http://purl.org/ontology/po/schedule_date> "2014-05-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/0817ef7b445f499e92e365a3089c57ef#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Jedward's Big Adventure'"@en-gb .
+<http://billings.acropolis.org.uk/0817ef7b445f499e92e365a3089c57ef#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1200;fca5~20140502T083000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/0817ef7b445f499e92e365a3089c57ef#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/0817ef7b445f499e92e365a3089c57ef#id> <http://www.w3.org/2000/01/rdf-schema#label> "Jedward's Big Adventure"@en-gb .
+<http://billings.acropolis.org.uk/0817ef7b445f499e92e365a3089c57ef#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SW0E1> .
+<http://billings.acropolis.org.uk/0817ef7b445f499e92e365a3089c57ef#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Jedward's Big Adventure"@en-gb .
+<http://billings.acropolis.org.uk/0817ef7b445f499e92e365a3089c57ef#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/0817ef7b445f499e92e365a3089c57ef#version> .
+<http://devapi.bbcredux.com/0817ef7b445f499e92e365a3089c57ef/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/0817ef7b445f499e92e365a3089c57ef/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/0817ef7b445f499e92e365a3089c57ef#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/0817ef7b445f499e92e365a3089c57ef/player> .

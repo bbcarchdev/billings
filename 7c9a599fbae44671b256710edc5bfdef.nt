@@ -1,0 +1,24 @@
+<http://devapi.bbcredux.com/7c9a599fbae44671b256710edc5bfdef/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/7c9a599fbae44671b256710edc5bfdef#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/7c9a599fbae44671b256710edc5bfdef#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/7c9a599fbae44671b256710edc5bfdef#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Rhyme Rocket'"@en-gb .
+<http://billings.acropolis.org.uk/7c9a599fbae44671b256710edc5bfdef.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/7c9a599fbae44671b256710edc5bfdef#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/7c9a599fbae44671b256710edc5bfdef#version> .
+<http://billings.acropolis.org.uk/7c9a599fbae44671b256710edc5bfdef#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/7c9a599fbae44671b256710edc5bfdef#version> .
+<http://billings.acropolis.org.uk/7c9a599fbae44671b256710edc5bfdef.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/7c9a599fbae44671b256710edc5bfdef#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SQ61W> .
+<http://billings.acropolis.org.uk/7c9a599fbae44671b256710edc5bfdef.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/7c9a599fbae44671b256710edc5bfdef#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/7c9a599fbae44671b256710edc5bfdef/player> .
+<http://billings.acropolis.org.uk/7c9a599fbae44671b256710edc5bfdef> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/7c9a599fbae44671b256710edc5bfdef.nt> .
+<http://devapi.bbcredux.com/7c9a599fbae44671b256710edc5bfdef/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/7c9a599fbae44671b256710edc5bfdef/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/7c9a599fbae44671b256710edc5bfdef#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1240;ad88~20141031T144000Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/7c9a599fbae44671b256710edc5bfdef#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Rhyme Rocket"@en-gb .
+<http://billings.acropolis.org.uk/7c9a599fbae44671b256710edc5bfdef> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/7c9a599fbae44671b256710edc5bfdef#id> .
+<http://billings.acropolis.org.uk/7c9a599fbae44671b256710edc5bfdef#id> <http://purl.org/ontology/po/schedule_date> "2014-10-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/7c9a599fbae44671b256710edc5bfdef#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/7c9a599fbae44671b256710edc5bfdef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/7c9a599fbae44671b256710edc5bfdef> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Rhyme Rocket'"@en-gb .
+<http://billings.acropolis.org.uk/7c9a599fbae44671b256710edc5bfdef#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/7c9a599fbae44671b256710edc5bfdef#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Rhyme Rocket"@en-gb .
+<http://devapi.bbcredux.com/7c9a599fbae44671b256710edc5bfdef/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

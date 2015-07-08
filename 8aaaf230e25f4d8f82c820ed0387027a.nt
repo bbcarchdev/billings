@@ -1,0 +1,24 @@
+<http://devapi.bbcredux.com/8aaaf230e25f4d8f82c820ed0387027a/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/8aaaf230e25f4d8f82c820ed0387027a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/8aaaf230e25f4d8f82c820ed0387027a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/8aaaf230e25f4d8f82c820ed0387027a> <http://purl.org/dc/terms/title> "Information about the broadcast 'Egypt's Lost Queens'"@en-gb .
+<http://billings.acropolis.org.uk/8aaaf230e25f4d8f82c820ed0387027a#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/240VWB> .
+<http://billings.acropolis.org.uk/8aaaf230e25f4d8f82c820ed0387027a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/8aaaf230e25f4d8f82c820ed0387027a> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/8aaaf230e25f4d8f82c820ed0387027a#id> .
+<http://billings.acropolis.org.uk/8aaaf230e25f4d8f82c820ed0387027a#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Egypt's Lost Queens"@en-gb .
+<http://billings.acropolis.org.uk/8aaaf230e25f4d8f82c820ed0387027a.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/8aaaf230e25f4d8f82c820ed0387027a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/8aaaf230e25f4d8f82c820ed0387027a#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..11c0;ec75~20150607T180000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/8aaaf230e25f4d8f82c820ed0387027a#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/8aaaf230e25f4d8f82c820ed0387027a#version> .
+<http://billings.acropolis.org.uk/8aaaf230e25f4d8f82c820ed0387027a#id> <http://purl.org/ontology/po/schedule_date> "2015-06-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/8aaaf230e25f4d8f82c820ed0387027a#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/8aaaf230e25f4d8f82c820ed0387027a.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/8aaaf230e25f4d8f82c820ed0387027a#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/8aaaf230e25f4d8f82c820ed0387027a#version> .
+<http://billings.acropolis.org.uk/8aaaf230e25f4d8f82c820ed0387027a#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/8aaaf230e25f4d8f82c820ed0387027a/player> .
+<http://billings.acropolis.org.uk/8aaaf230e25f4d8f82c820ed0387027a#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Egypt's Lost Queens'"@en-gb .
+<http://billings.acropolis.org.uk/8aaaf230e25f4d8f82c820ed0387027a#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/8aaaf230e25f4d8f82c820ed0387027a#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/8aaaf230e25f4d8f82c820ed0387027a> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/8aaaf230e25f4d8f82c820ed0387027a.nt> .
+<http://billings.acropolis.org.uk/8aaaf230e25f4d8f82c820ed0387027a#id> <http://www.w3.org/2000/01/rdf-schema#label> "Egypt's Lost Queens"@en-gb .
+<http://devapi.bbcredux.com/8aaaf230e25f4d8f82c820ed0387027a/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/8aaaf230e25f4d8f82c820ed0387027a.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .

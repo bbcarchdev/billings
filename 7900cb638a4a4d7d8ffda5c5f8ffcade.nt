@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Graham Norton Show"@en-gb .
+<http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b05ssbqt> .
+<http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Graham Norton Show'"@en-gb .
+<http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b05ssbqr#programme> .
+<http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade#version> .
+<http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade.nt> .
+<http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade#version> .
+<http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/7900cb638a4a4d7d8ffda5c5f8ffcade/player> .
+<http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b05ssbqr#p02pjxf0> .
+<http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4b0ae~20150501T214000Z--PT0H45M0S> .
+<http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1RKGGY> .
+<http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b05ssbqt#programme> .
+<http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade#id> <http://purl.org/ontology/po/schedule_date> "2015-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade#id> .
+<http://devapi.bbcredux.com/7900cb638a4a4d7d8ffda5c5f8ffcade/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/7900cb638a4a4d7d8ffda5c5f8ffcade/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Graham Norton Show"@en-gb .
+<http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/7900cb638a4a4d7d8ffda5c5f8ffcade/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/7900cb638a4a4d7d8ffda5c5f8ffcade/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/7900cb638a4a4d7d8ffda5c5f8ffcade> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Graham Norton Show'"@en-gb .

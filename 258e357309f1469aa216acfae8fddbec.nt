@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec#id> <http://www.w3.org/2000/01/rdf-schema#label> "Commonwealth Games 2014"@en-gb .
+<http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04brk0j#p022pjnh> .
+<http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;fab68~20140724T170000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Commonwealth Games 2014'"@en-gb .
+<http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec.nt> .
+<http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/258e357309f1469aa216acfae8fddbec/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec#version> .
+<http://devapi.bbcredux.com/258e357309f1469aa216acfae8fddbec/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec#id> <http://purl.org/ontology/po/schedule_date> "2014-07-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/258e357309f1469aa216acfae8fddbec/player> .
+<http://devapi.bbcredux.com/258e357309f1469aa216acfae8fddbec/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/258e357309f1469aa216acfae8fddbec/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04brk0j#programme> .
+<http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec> <http://purl.org/dc/terms/title> "Information about the broadcast 'Commonwealth Games 2014'"@en-gb .
+<http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec#id> .
+<http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/7A39X2> .
+<http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04brk0z#programme> .
+<http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Commonwealth Games 2014"@en-gb .
+<http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec#version> .
+<http://billings.acropolis.org.uk/258e357309f1469aa216acfae8fddbec#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b04brk0z> .

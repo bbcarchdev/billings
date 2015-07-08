@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1RECDY> .
+<http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04j31nb#programme> .
+<http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Invictus Games"@en-gb .
+<http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283#version> .
+<http://devapi.bbcredux.com/91e05a9290e14158a0cd3b5070068283/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/91e05a9290e14158a0cd3b5070068283/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/91e05a9290e14158a0cd3b5070068283/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283#id> <http://www.w3.org/2000/01/rdf-schema#label> "Invictus Games"@en-gb .
+<http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/91e05a9290e14158a0cd3b5070068283/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283#id> <http://purl.org/ontology/po/schedule_date> "2014-09-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b04j31nb> .
+<http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Invictus Games'"@en-gb .
+<http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283#id> .
+<http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283.nt> .
+<http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283#version> .
+<http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04j31m6#p0262bb3> .
+<http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4fb00~20140914T121500Z--PT3H0M0S> .
+<http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283> <http://purl.org/dc/terms/title> "Information about the broadcast 'Invictus Games'"@en-gb .
+<http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/91e05a9290e14158a0cd3b5070068283/player> .
+<http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04j31m6#programme> .
+<http://billings.acropolis.org.uk/91e05a9290e14158a0cd3b5070068283#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .

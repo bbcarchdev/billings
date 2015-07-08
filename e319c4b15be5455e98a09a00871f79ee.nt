@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Guess List"@en-gb .
+<http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/e319c4b15be5455e98a09a00871f79ee/player> .
+<http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee#id> .
+<http://devapi.bbcredux.com/e319c4b15be5455e98a09a00871f79ee/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/e319c4b15be5455e98a09a00871f79ee/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Guess List"@en-gb .
+<http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee#version> .
+<http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee#version> .
+<http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b042wmvx> .
+<http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Guess List'"@en-gb .
+<http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b042wmvl#programme> .
+<http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b042wmvl#p01xzx2n> .
+<http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;48fd5~20140506T221000Z--PT0H40M0S> .
+<http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/e319c4b15be5455e98a09a00871f79ee/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee#id> <http://purl.org/ontology/po/schedule_date> "2014-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee.nt> .
+<http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1RKFI8> .
+<http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b042wmvx#programme> .
+<http://devapi.bbcredux.com/e319c4b15be5455e98a09a00871f79ee/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Guess List'"@en-gb .
+<http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/e319c4b15be5455e98a09a00871f79ee#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .

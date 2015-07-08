@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0.nt> .
+<http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Points of View'"@en-gb .
+<http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Points of View"@en-gb .
+<http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0#id> <http://purl.org/ontology/po/schedule_date> "2014-10-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b04lc9vq> .
+<http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0#id> <http://www.w3.org/2000/01/rdf-schema#label> "Points of View"@en-gb .
+<http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/6aae6e400a8f44a2937307b5a3578fa0/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/6aae6e400a8f44a2937307b5a3578fa0/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0#id> .
+<http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23V7FT> .
+<http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04lc9vq#programme> .
+<http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/6aae6e400a8f44a2937307b5a3578fa0/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0#version> .
+<http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04lc9km#p027cqzq> .
+<http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4cdbd~20141005T150000Z--PT0H15M0S> .
+<http://devapi.bbcredux.com/6aae6e400a8f44a2937307b5a3578fa0/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/6aae6e400a8f44a2937307b5a3578fa0/player> .
+<http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0> <http://purl.org/dc/terms/title> "Information about the broadcast 'Points of View'"@en-gb .
+<http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04lc9km#programme> .
+<http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/6aae6e400a8f44a2937307b5a3578fa0#version> .

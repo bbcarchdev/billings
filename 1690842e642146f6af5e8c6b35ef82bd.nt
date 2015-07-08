@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd#id> <http://www.w3.org/2000/01/rdf-schema#label> "Children's Hospital: The Chaplains"@en-gb .
+<http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd#id> .
+<http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23VMDF> .
+<http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04ndg9l#programme> .
+<http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd#version> .
+<http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b04ndg9l> .
+<http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd> <http://purl.org/dc/terms/title> "Information about the broadcast 'Children's Hospital: The Chaplains'"@en-gb .
+<http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04nd1sw#p028x7cf> .
+<http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;ff87d~20141027T193000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd.nt> .
+<http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/1690842e642146f6af5e8c6b35ef82bd/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/1690842e642146f6af5e8c6b35ef82bd/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Children's Hospital: The Chaplains"@en-gb .
+<http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Children's Hospital: The Chaplains'"@en-gb .
+<http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04nd1sw#programme> .
+<http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/1690842e642146f6af5e8c6b35ef82bd/player> .
+<http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd#version> .
+<http://billings.acropolis.org.uk/1690842e642146f6af5e8c6b35ef82bd#id> <http://purl.org/ontology/po/schedule_date> "2014-10-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/1690842e642146f6af5e8c6b35ef82bd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/1690842e642146f6af5e8c6b35ef82bd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .

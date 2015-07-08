@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04vt5wf#p02cqmn8> .
+<http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1280;f5e0~20141125T101500Z--PT0H45M0S> .
+<http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Live European Parliament - Papal Address"@en-gb .
+<http://devapi.bbcredux.com/39fafcb86c51428b852a02c43068d98a/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04vt5wf#programme> .
+<http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a> <http://purl.org/dc/terms/title> "Information about the broadcast 'Live European Parliament - Papal Address'"@en-gb .
+<http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a#version> .
+<http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a#id> .
+<http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a.nt> .
+<http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a#id> <http://purl.org/ontology/po/schedule_date> "2014-11-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/2AX81G> .
+<http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04vt62d#programme> .
+<http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/39fafcb86c51428b852a02c43068d98a/player> .
+<http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a#id> <http://www.w3.org/2000/01/rdf-schema#label> "Live European Parliament - Papal Address"@en-gb .
+<http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b04vt62d> .
+<http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a#version> .
+<http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/39fafcb86c51428b852a02c43068d98a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/39fafcb86c51428b852a02c43068d98a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Live European Parliament - Papal Address'"@en-gb .
+<http://billings.acropolis.org.uk/39fafcb86c51428b852a02c43068d98a.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/39fafcb86c51428b852a02c43068d98a/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

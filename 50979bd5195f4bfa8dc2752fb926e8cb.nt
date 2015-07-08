@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb#version> .
+<http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb> <http://purl.org/dc/terms/title> "Information about the broadcast 'Russell Howard's Good News'"@en-gb .
+<http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb#version> .
+<http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb#id> <http://www.w3.org/2000/01/rdf-schema#label> "Russell Howard's Good News"@en-gb .
+<http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb#id> <http://purl.org/ontology/po/schedule_date> "2015-06-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Russell Howard's Good News'"@en-gb .
+<http://devapi.bbcredux.com/50979bd5195f4bfa8dc2752fb926e8cb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/50979bd5195f4bfa8dc2752fb926e8cb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb#id> .
+<http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01h212m> .
+<http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01llrzy#programme> .
+<http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Russell Howard's Good News"@en-gb .
+<http://devapi.bbcredux.com/50979bd5195f4bfa8dc2752fb926e8cb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/50979bd5195f4bfa8dc2752fb926e8cb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb.nt> .
+<http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/50979bd5195f4bfa8dc2752fb926e8cb/player> .
+<http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01llrzy#p02t5s2h> .
+<http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10c0;e9e7~20150619T214500Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1RKE7A> .
+<http://billings.acropolis.org.uk/50979bd5195f4bfa8dc2752fb926e8cb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01h212m#programme> .

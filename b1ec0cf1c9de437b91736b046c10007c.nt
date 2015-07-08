@@ -1,0 +1,24 @@
+<http://billings.acropolis.org.uk/b1ec0cf1c9de437b91736b046c10007c#id> <http://purl.org/ontology/po/schedule_date> "2015-03-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/b1ec0cf1c9de437b91736b046c10007c/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/b1ec0cf1c9de437b91736b046c10007c.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/b1ec0cf1c9de437b91736b046c10007c#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/b1ec0cf1c9de437b91736b046c10007c.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/b1ec0cf1c9de437b91736b046c10007c#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/b1ec0cf1c9de437b91736b046c10007c/player> .
+<http://billings.acropolis.org.uk/b1ec0cf1c9de437b91736b046c10007c#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/b1ec0cf1c9de437b91736b046c10007c#version> .
+<http://billings.acropolis.org.uk/b1ec0cf1c9de437b91736b046c10007c#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SW1N0> .
+<http://billings.acropolis.org.uk/b1ec0cf1c9de437b91736b046c10007c#episode> <http://www.w3.org/2000/01/rdf-schema#label> "ROY"@en-gb .
+<http://billings.acropolis.org.uk/b1ec0cf1c9de437b91736b046c10007c#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/b1ec0cf1c9de437b91736b046c10007c#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/b1ec0cf1c9de437b91736b046c10007c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b1ec0cf1c9de437b91736b046c10007c#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'ROY'"@en-gb .
+<http://billings.acropolis.org.uk/b1ec0cf1c9de437b91736b046c10007c.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/b1ec0cf1c9de437b91736b046c10007c#id> <http://www.w3.org/2000/01/rdf-schema#label> "ROY"@en-gb .
+<http://billings.acropolis.org.uk/b1ec0cf1c9de437b91736b046c10007c> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/b1ec0cf1c9de437b91736b046c10007c#id> .
+<http://billings.acropolis.org.uk/b1ec0cf1c9de437b91736b046c10007c#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1200;b595~20150322T183000Z--PT0H28M0S> .
+<http://billings.acropolis.org.uk/b1ec0cf1c9de437b91736b046c10007c#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/b1ec0cf1c9de437b91736b046c10007c#version> .
+<http://billings.acropolis.org.uk/b1ec0cf1c9de437b91736b046c10007c> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/b1ec0cf1c9de437b91736b046c10007c.nt> .
+<http://devapi.bbcredux.com/b1ec0cf1c9de437b91736b046c10007c/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/b1ec0cf1c9de437b91736b046c10007c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/b1ec0cf1c9de437b91736b046c10007c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b1ec0cf1c9de437b91736b046c10007c> <http://purl.org/dc/terms/title> "Information about the broadcast 'ROY'"@en-gb .
+<http://billings.acropolis.org.uk/b1ec0cf1c9de437b91736b046c10007c#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .

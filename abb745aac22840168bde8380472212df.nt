@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/abb745aac22840168bde8380472212df/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/abb745aac22840168bde8380472212df/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/abb745aac22840168bde8380472212df/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SW07Q> .
+<http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01n8jk1#programme> .
+<http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df#id> <http://purl.org/ontology/po/schedule_date> "2015-05-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df.nt> .
+<http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01n85yx#programme> .
+<http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Tilly and Friends"@en-gb .
+<http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Tilly and Friends'"@en-gb .
+<http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01n85yx#p02qwl6j> .
+<http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1240;a52a~20150516T122500Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df#version> .
+<http://devapi.bbcredux.com/abb745aac22840168bde8380472212df/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df#id> <http://www.w3.org/2000/01/rdf-schema#label> "Tilly and Friends"@en-gb .
+<http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df> <http://purl.org/dc/terms/title> "Information about the broadcast 'Tilly and Friends'"@en-gb .
+<http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01n8jk1> .
+<http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/abb745aac22840168bde8380472212df/player> .
+<http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df#version> .
+<http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/abb745aac22840168bde8380472212df#id> .

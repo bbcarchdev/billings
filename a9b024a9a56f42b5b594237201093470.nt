@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Echoes from the Dead'"@en-gb .
+<http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Echoes from the Dead"@en-gb .
+<http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470#id> <http://purl.org/ontology/po/schedule_date> "2015-06-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470.nt> .
+<http://devapi.bbcredux.com/a9b024a9a56f42b5b594237201093470/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/a9b024a9a56f42b5b594237201093470/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470#id> .
+<http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4J63MU> .
+<http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04lp7xn#programme> .
+<http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470#version> .
+<http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/a9b024a9a56f42b5b594237201093470/player> .
+<http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470#version> .
+<http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470#id> <http://www.w3.org/2000/01/rdf-schema#label> "Echoes from the Dead"@en-gb .
+<http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470> <http://purl.org/dc/terms/title> "Information about the broadcast 'Echoes from the Dead'"@en-gb .
+<http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/a9b024a9a56f42b5b594237201093470/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04lp70q#programme> .
+<http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b04lp7xn> .
+<http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04lp70q#p02sy748> .
+<http://billings.acropolis.org.uk/a9b024a9a56f42b5b594237201093470#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..11c0;efba~20150613T200000Z--PT1H35M0S> .
+<http://devapi.bbcredux.com/a9b024a9a56f42b5b594237201093470/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

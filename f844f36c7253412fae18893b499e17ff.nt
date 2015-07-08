@@ -1,0 +1,24 @@
+<http://devapi.bbcredux.com/f844f36c7253412fae18893b499e17ff/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/f844f36c7253412fae18893b499e17ff#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/f844f36c7253412fae18893b499e17ff.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/f844f36c7253412fae18893b499e17ff> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/f844f36c7253412fae18893b499e17ff.nt> .
+<http://billings.acropolis.org.uk/f844f36c7253412fae18893b499e17ff#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Dateline London"@en-gb .
+<http://billings.acropolis.org.uk/f844f36c7253412fae18893b499e17ff#id> <http://www.w3.org/2000/01/rdf-schema#label> "Dateline London"@en-gb .
+<http://billings.acropolis.org.uk/f844f36c7253412fae18893b499e17ff#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/f844f36c7253412fae18893b499e17ff/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/f844f36c7253412fae18893b499e17ff#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1100;ff96~20140629T013000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/f844f36c7253412fae18893b499e17ff#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/f844f36c7253412fae18893b499e17ff/player> .
+<http://billings.acropolis.org.uk/f844f36c7253412fae18893b499e17ff> <http://purl.org/dc/terms/title> "Information about the broadcast 'Dateline London'"@en-gb .
+<http://billings.acropolis.org.uk/f844f36c7253412fae18893b499e17ff#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcnews24#id> .
+<http://billings.acropolis.org.uk/f844f36c7253412fae18893b499e17ff#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/f844f36c7253412fae18893b499e17ff.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/f844f36c7253412fae18893b499e17ff.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/f844f36c7253412fae18893b499e17ff> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/f844f36c7253412fae18893b499e17ff#id> .
+<http://billings.acropolis.org.uk/f844f36c7253412fae18893b499e17ff#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/211UNP> .
+<http://billings.acropolis.org.uk/f844f36c7253412fae18893b499e17ff#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/f844f36c7253412fae18893b499e17ff#version> .
+<http://billings.acropolis.org.uk/f844f36c7253412fae18893b499e17ff#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/f844f36c7253412fae18893b499e17ff#version> .
+<http://billings.acropolis.org.uk/f844f36c7253412fae18893b499e17ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f844f36c7253412fae18893b499e17ff#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Dateline London'"@en-gb .
+<http://devapi.bbcredux.com/f844f36c7253412fae18893b499e17ff/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/f844f36c7253412fae18893b499e17ff/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f844f36c7253412fae18893b499e17ff#id> <http://purl.org/ontology/po/schedule_date> "2014-06-29"^^<http://www.w3.org/2001/XMLSchema#date> .

@@ -1,0 +1,24 @@
+<http://billings.acropolis.org.uk/84be507fac7c4d4eb294e1cc5fa45dda#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23UV5O> .
+<http://billings.acropolis.org.uk/84be507fac7c4d4eb294e1cc5fa45dda> <http://purl.org/dc/terms/title> "Information about the broadcast 'Rock 'n' Roll Britannia'"@en-gb .
+<http://devapi.bbcredux.com/84be507fac7c4d4eb294e1cc5fa45dda/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/84be507fac7c4d4eb294e1cc5fa45dda> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/84be507fac7c4d4eb294e1cc5fa45dda#id> .
+<http://devapi.bbcredux.com/84be507fac7c4d4eb294e1cc5fa45dda/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/84be507fac7c4d4eb294e1cc5fa45dda#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/84be507fac7c4d4eb294e1cc5fa45dda/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/84be507fac7c4d4eb294e1cc5fa45dda/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/84be507fac7c4d4eb294e1cc5fa45dda#id> <http://www.w3.org/2000/01/rdf-schema#label> "Rock 'n' Roll Britannia"@en-gb .
+<http://billings.acropolis.org.uk/84be507fac7c4d4eb294e1cc5fa45dda#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/84be507fac7c4d4eb294e1cc5fa45dda/player> .
+<http://billings.acropolis.org.uk/84be507fac7c4d4eb294e1cc5fa45dda.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/84be507fac7c4d4eb294e1cc5fa45dda#id> <http://purl.org/ontology/po/schedule_date> "2015-04-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/84be507fac7c4d4eb294e1cc5fa45dda> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/84be507fac7c4d4eb294e1cc5fa45dda.nt> .
+<http://billings.acropolis.org.uk/84be507fac7c4d4eb294e1cc5fa45dda#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/84be507fac7c4d4eb294e1cc5fa45dda#version> .
+<http://billings.acropolis.org.uk/84be507fac7c4d4eb294e1cc5fa45dda#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/84be507fac7c4d4eb294e1cc5fa45dda#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/84be507fac7c4d4eb294e1cc5fa45dda#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Rock 'n' Roll Britannia'"@en-gb .
+<http://billings.acropolis.org.uk/84be507fac7c4d4eb294e1cc5fa45dda#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..11c0;db81~20150411T224500Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/84be507fac7c4d4eb294e1cc5fa45dda#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Rock 'n' Roll Britannia"@en-gb .
+<http://billings.acropolis.org.uk/84be507fac7c4d4eb294e1cc5fa45dda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/84be507fac7c4d4eb294e1cc5fa45dda.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/84be507fac7c4d4eb294e1cc5fa45dda.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/84be507fac7c4d4eb294e1cc5fa45dda#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/84be507fac7c4d4eb294e1cc5fa45dda#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/84be507fac7c4d4eb294e1cc5fa45dda#version> .

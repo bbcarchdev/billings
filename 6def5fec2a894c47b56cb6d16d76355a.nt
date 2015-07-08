@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a#id> .
+<http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/6def5fec2a894c47b56cb6d16d76355a/player> .
+<http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b05wy2gf#programme> .
+<http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/8S7G2Q> .
+<http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b05t3fd2#programme> .
+<http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a#id> <http://purl.org/ontology/po/schedule_date> "2015-05-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/6def5fec2a894c47b56cb6d16d76355a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/6def5fec2a894c47b56cb6d16d76355a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b05wy2gf#p02rk66s> .
+<http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..11c0;e807~20150528T013000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b05t3fd2> .
+<http://devapi.bbcredux.com/6def5fec2a894c47b56cb6d16d76355a/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/6def5fec2a894c47b56cb6d16d76355a/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Our World"@en-gb .
+<http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a> <http://purl.org/dc/terms/title> "Information about the broadcast 'Our World'"@en-gb .
+<http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Our World'"@en-gb .
+<http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a#version> .
+<http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a#id> <http://www.w3.org/2000/01/rdf-schema#label> "Our World"@en-gb .
+<http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a.nt> .
+<http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/6def5fec2a894c47b56cb6d16d76355a#version> .

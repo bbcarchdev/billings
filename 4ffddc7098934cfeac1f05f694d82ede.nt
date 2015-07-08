@@ -1,0 +1,24 @@
+<http://billings.acropolis.org.uk/4ffddc7098934cfeac1f05f694d82ede#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/4ffddc7098934cfeac1f05f694d82ede/player> .
+<http://billings.acropolis.org.uk/4ffddc7098934cfeac1f05f694d82ede> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/4ffddc7098934cfeac1f05f694d82ede#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/4ffddc7098934cfeac1f05f694d82ede#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Jules Verne's Rocket to the Moon'"@en-gb .
+<http://billings.acropolis.org.uk/4ffddc7098934cfeac1f05f694d82ede#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/4ffddc7098934cfeac1f05f694d82ede#version> .
+<http://billings.acropolis.org.uk/4ffddc7098934cfeac1f05f694d82ede#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/4ffddc7098934cfeac1f05f694d82ede#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/4ffddc7098934cfeac1f05f694d82ede#version> .
+<http://devapi.bbcredux.com/4ffddc7098934cfeac1f05f694d82ede/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/4ffddc7098934cfeac1f05f694d82ede> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/4ffddc7098934cfeac1f05f694d82ede.nt> .
+<http://billings.acropolis.org.uk/4ffddc7098934cfeac1f05f694d82ede#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;ff1fb~20150314T061500Z--PT1H55M0S> .
+<http://billings.acropolis.org.uk/4ffddc7098934cfeac1f05f694d82ede#id> <http://purl.org/ontology/po/schedule_date> "2015-03-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/4ffddc7098934cfeac1f05f694d82ede> <http://purl.org/dc/terms/title> "Information about the broadcast 'Jules Verne's Rocket to the Moon'"@en-gb .
+<http://billings.acropolis.org.uk/4ffddc7098934cfeac1f05f694d82ede#id> <http://www.w3.org/2000/01/rdf-schema#label> "Jules Verne's Rocket to the Moon"@en-gb .
+<http://billings.acropolis.org.uk/4ffddc7098934cfeac1f05f694d82ede> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/4ffddc7098934cfeac1f05f694d82ede#id> .
+<http://devapi.bbcredux.com/4ffddc7098934cfeac1f05f694d82ede/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/4ffddc7098934cfeac1f05f694d82ede/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/4ffddc7098934cfeac1f05f694d82ede/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/4ffddc7098934cfeac1f05f694d82ede.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/4ffddc7098934cfeac1f05f694d82ede.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/4ffddc7098934cfeac1f05f694d82ede#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/4ffddc7098934cfeac1f05f694d82ede#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4J3TAQ> .
+<http://billings.acropolis.org.uk/4ffddc7098934cfeac1f05f694d82ede#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Jules Verne's Rocket to the Moon"@en-gb .
+<http://billings.acropolis.org.uk/4ffddc7098934cfeac1f05f694d82ede.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/4ffddc7098934cfeac1f05f694d82ede#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .

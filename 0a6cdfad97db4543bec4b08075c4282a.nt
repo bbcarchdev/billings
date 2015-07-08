@@ -1,0 +1,24 @@
+<http://billings.acropolis.org.uk/0a6cdfad97db4543bec4b08075c4282a.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/0a6cdfad97db4543bec4b08075c4282a#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/2OGCYW> .
+<http://billings.acropolis.org.uk/0a6cdfad97db4543bec4b08075c4282a#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/0a6cdfad97db4543bec4b08075c4282a#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1280;8bf2~20150321T210000Z--PT0H50M0S> .
+<http://billings.acropolis.org.uk/0a6cdfad97db4543bec4b08075c4282a#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/0a6cdfad97db4543bec4b08075c4282a/player> .
+<http://billings.acropolis.org.uk/0a6cdfad97db4543bec4b08075c4282a#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/0a6cdfad97db4543bec4b08075c4282a#version> .
+<http://billings.acropolis.org.uk/0a6cdfad97db4543bec4b08075c4282a#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/0a6cdfad97db4543bec4b08075c4282a#version> .
+<http://billings.acropolis.org.uk/0a6cdfad97db4543bec4b08075c4282a#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Keir Hardie Lecture"@en-gb .
+<http://billings.acropolis.org.uk/0a6cdfad97db4543bec4b08075c4282a#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://devapi.bbcredux.com/0a6cdfad97db4543bec4b08075c4282a/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://devapi.bbcredux.com/0a6cdfad97db4543bec4b08075c4282a/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/0a6cdfad97db4543bec4b08075c4282a#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/0a6cdfad97db4543bec4b08075c4282a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/0a6cdfad97db4543bec4b08075c4282a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/0a6cdfad97db4543bec4b08075c4282a.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/0a6cdfad97db4543bec4b08075c4282a.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/0a6cdfad97db4543bec4b08075c4282a> <http://purl.org/dc/terms/title> "Information about the broadcast 'Keir Hardie Lecture'"@en-gb .
+<http://billings.acropolis.org.uk/0a6cdfad97db4543bec4b08075c4282a#id> <http://www.w3.org/2000/01/rdf-schema#label> "Keir Hardie Lecture"@en-gb .
+<http://billings.acropolis.org.uk/0a6cdfad97db4543bec4b08075c4282a> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/0a6cdfad97db4543bec4b08075c4282a.nt> .
+<http://billings.acropolis.org.uk/0a6cdfad97db4543bec4b08075c4282a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/0a6cdfad97db4543bec4b08075c4282a#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Keir Hardie Lecture'"@en-gb .
+<http://billings.acropolis.org.uk/0a6cdfad97db4543bec4b08075c4282a#id> <http://purl.org/ontology/po/schedule_date> "2015-03-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/0a6cdfad97db4543bec4b08075c4282a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/0a6cdfad97db4543bec4b08075c4282a> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/0a6cdfad97db4543bec4b08075c4282a#id> .

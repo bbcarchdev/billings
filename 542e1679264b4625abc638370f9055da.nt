@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04tcm7f#p02cmypg> .
+<http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1280;f33d~20141202T233000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da#id> .
+<http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da> <http://purl.org/dc/terms/title> "Information about the broadcast 'Welsh First Minister's Questions'"@en-gb .
+<http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da#id> <http://www.w3.org/2000/01/rdf-schema#label> "Welsh First Minister's Questions"@en-gb .
+<http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04tcm7f#programme> .
+<http://devapi.bbcredux.com/542e1679264b4625abc638370f9055da/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da#id> <http://purl.org/ontology/po/schedule_date> "2014-12-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da#version> .
+<http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da.nt> .
+<http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b04tcmb3> .
+<http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Welsh First Minister's Questions"@en-gb .
+<http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da#version> .
+<http://devapi.bbcredux.com/542e1679264b4625abc638370f9055da/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/542e1679264b4625abc638370f9055da/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Welsh First Minister's Questions'"@en-gb .
+<http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/2A4RJ7> .
+<http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04tcmb3#programme> .
+<http://billings.acropolis.org.uk/542e1679264b4625abc638370f9055da#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/542e1679264b4625abc638370f9055da/player> .
+<http://devapi.bbcredux.com/542e1679264b4625abc638370f9055da/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd#version> .
+<http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/ead986863a3f4025b4e261d4731495bd/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/ead986863a3f4025b4e261d4731495bd/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd#id> .
+<http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b051s09q#programme> .
+<http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd#id> <http://purl.org/ontology/po/schedule_date> "2015-02-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/ead986863a3f4025b4e261d4731495bd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/ead986863a3f4025b4e261d4731495bd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Week in Parliament"@en-gb .
+<http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Week in Parliament'"@en-gb .
+<http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd#version> .
+<http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b051s09z> .
+<http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Week in Parliament"@en-gb .
+<http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b051s09q#p02hy1xg> .
+<http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1280;fcfc~20150208T000000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/ead986863a3f4025b4e261d4731495bd/player> .
+<http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/2E78HD> .
+<http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b051s09z#programme> .
+<http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Week in Parliament'"@en-gb .
+<http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd.nt> .
+<http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/ead986863a3f4025b4e261d4731495bd#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .

@@ -1,0 +1,24 @@
+<http://billings.acropolis.org.uk/c5e090d8915e44208356b730dc50d60e#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/c5e090d8915e44208356b730dc50d60e#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Live House of Commons"@en-gb .
+<http://billings.acropolis.org.uk/c5e090d8915e44208356b730dc50d60e.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/c5e090d8915e44208356b730dc50d60e#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1280;ee9a~20141030T114500Z--PT5H55M0S> .
+<http://billings.acropolis.org.uk/c5e090d8915e44208356b730dc50d60e.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/c5e090d8915e44208356b730dc50d60e#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/c5e090d8915e44208356b730dc50d60e#version> .
+<http://billings.acropolis.org.uk/c5e090d8915e44208356b730dc50d60e#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/c5e090d8915e44208356b730dc50d60e#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/c5e090d8915e44208356b730dc50d60e.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/c5e090d8915e44208356b730dc50d60e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c5e090d8915e44208356b730dc50d60e#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/c5e090d8915e44208356b730dc50d60e/player> .
+<http://billings.acropolis.org.uk/c5e090d8915e44208356b730dc50d60e#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Live House of Commons'"@en-gb .
+<http://billings.acropolis.org.uk/c5e090d8915e44208356b730dc50d60e> <http://purl.org/dc/terms/title> "Information about the broadcast 'Live House of Commons'"@en-gb .
+<http://billings.acropolis.org.uk/c5e090d8915e44208356b730dc50d60e#id> <http://www.w3.org/2000/01/rdf-schema#label> "Live House of Commons"@en-gb .
+<http://devapi.bbcredux.com/c5e090d8915e44208356b730dc50d60e/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/c5e090d8915e44208356b730dc50d60e#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/2739U1> .
+<http://devapi.bbcredux.com/c5e090d8915e44208356b730dc50d60e/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/c5e090d8915e44208356b730dc50d60e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/c5e090d8915e44208356b730dc50d60e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c5e090d8915e44208356b730dc50d60e#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/c5e090d8915e44208356b730dc50d60e#version> .
+<http://billings.acropolis.org.uk/c5e090d8915e44208356b730dc50d60e> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/c5e090d8915e44208356b730dc50d60e.nt> .
+<http://billings.acropolis.org.uk/c5e090d8915e44208356b730dc50d60e> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/c5e090d8915e44208356b730dc50d60e#id> .
+<http://billings.acropolis.org.uk/c5e090d8915e44208356b730dc50d60e#id> <http://purl.org/ontology/po/schedule_date> "2014-10-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/c5e090d8915e44208356b730dc50d60e#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .

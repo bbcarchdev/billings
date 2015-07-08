@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/640c57510937421a8e55fa6949ca484a/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a#id> .
+<http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a#id> <http://purl.org/ontology/po/schedule_date> "2014-11-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b04t1p2z> .
+<http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a.nt> .
+<http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/640c57510937421a8e55fa6949ca484a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/640c57510937421a8e55fa6949ca484a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a#episode> <http://www.w3.org/2000/01/rdf-schema#label> "New: Meet the Pups"@en-gb .
+<http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04t1m4q#p02bz3vl> .
+<http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1240;bfc0~20141124T073500Z--PT0H5M0S> .
+<http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'New: Meet the Pups'"@en-gb .
+<http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04t1m4q#programme> .
+<http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/640c57510937421a8e55fa6949ca484a/player> .
+<http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a#version> .
+<http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a#version> .
+<http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a> <http://purl.org/dc/terms/title> "Information about the broadcast 'New: Meet the Pups'"@en-gb .
+<http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a#id> <http://www.w3.org/2000/01/rdf-schema#label> "New: Meet the Pups"@en-gb .
+<http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SW35O> .
+<http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04t1p2z#programme> .
+<http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/640c57510937421a8e55fa6949ca484a#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://devapi.bbcredux.com/640c57510937421a8e55fa6949ca484a/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

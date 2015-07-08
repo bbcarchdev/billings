@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b05wzjwq#programme> .
+<http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/2SM24J> .
+<http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b05wzkpp#programme> .
+<http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Northern Ireland Assembly - Public...'"@en-gb .
+<http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Northern Ireland Assembly - Public..."@en-gb .
+<http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc#version> .
+<http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc> <http://purl.org/dc/terms/title> "Information about the broadcast 'Northern Ireland Assembly - Public...'"@en-gb .
+<http://devapi.bbcredux.com/10be910be9334a30a7abf852e488a1dc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/10be910be9334a30a7abf852e488a1dc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc.nt> .
+<http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b05wzjwq#p02r5jwn> .
+<http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1280;9797~20150512T054500Z--PT1H25M0S> .
+<http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc#id> <http://www.w3.org/2000/01/rdf-schema#label> "Northern Ireland Assembly - Public..."@en-gb .
+<http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc#id> .
+<http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://devapi.bbcredux.com/10be910be9334a30a7abf852e488a1dc/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b05wzkpp> .
+<http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc#id> <http://purl.org/ontology/po/schedule_date> "2015-05-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/10be910be9334a30a7abf852e488a1dc/player> .
+<http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/10be910be9334a30a7abf852e488a1dc#version> .
+<http://devapi.bbcredux.com/10be910be9334a30a7abf852e488a1dc/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

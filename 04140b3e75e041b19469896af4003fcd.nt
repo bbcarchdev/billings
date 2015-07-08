@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd#id> <http://www.w3.org/2000/01/rdf-schema#label> "Sweat the Small Stuff"@en-gb .
+<http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd#version> .
+<http://devapi.bbcredux.com/04140b3e75e041b19469896af4003fcd/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0446czm> .
+<http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1RKH39> .
+<http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0446czm#programme> .
+<http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Sweat the Small Stuff"@en-gb .
+<http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/04140b3e75e041b19469896af4003fcd/player> .
+<http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd#version> .
+<http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd.nt> .
+<http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Sweat the Small Stuff'"@en-gb .
+<http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd#id> .
+<http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0446cxq#p01yvfzl> .
+<http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10c0;c781~20140524T000000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd#id> <http://purl.org/ontology/po/schedule_date> "2014-05-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0446cxq#programme> .
+<http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd> <http://purl.org/dc/terms/title> "Information about the broadcast 'Sweat the Small Stuff'"@en-gb .
+<http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/04140b3e75e041b19469896af4003fcd/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/04140b3e75e041b19469896af4003fcd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/04140b3e75e041b19469896af4003fcd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/04140b3e75e041b19469896af4003fcd#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .

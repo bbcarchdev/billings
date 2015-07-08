@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Victoria Derbyshire'"@en-gb .
+<http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Victoria Derbyshire"@en-gb .
+<http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb> <http://purl.org/dc/terms/title> "Information about the broadcast 'Victoria Derbyshire'"@en-gb .
+<http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb#id> <http://purl.org/ontology/po/schedule_date> "2015-05-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b05vwmg2#p02r1d8w> .
+<http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1100;ddc5~20150519T081500Z--PT1H45M0S> .
+<http://devapi.bbcredux.com/bef91f2649d842a08139659507c6a5eb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/bef91f2649d842a08139659507c6a5eb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b05vwmg2#programme> .
+<http://devapi.bbcredux.com/bef91f2649d842a08139659507c6a5eb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/bef91f2649d842a08139659507c6a5eb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcnews24#id> .
+<http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b05vwmqq> .
+<http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/bef91f2649d842a08139659507c6a5eb/player> .
+<http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb#id> <http://www.w3.org/2000/01/rdf-schema#label> "Victoria Derbyshire"@en-gb .
+<http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/2S0EGX> .
+<http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b05vwmqq#programme> .
+<http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb#version> .
+<http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb.nt> .
+<http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb#version> .
+<http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/bef91f2649d842a08139659507c6a5eb#id> .

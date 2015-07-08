@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df> <http://purl.org/dc/terms/title> "Information about the broadcast 'Escape to the Continent'"@en-gb .
+<http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b043gx6p> .
+<http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/241AQ0> .
+<http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b043gx6p#programme> .
+<http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Escape to the Continent'"@en-gb .
+<http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df#id> <http://purl.org/ontology/po/schedule_date> "2014-05-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b043gx4y#p01xzzw3> .
+<http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;f95e1~20140507T173000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b043gx4y#programme> .
+<http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df#version> .
+<http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Escape to the Continent"@en-gb .
+<http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df.nt> .
+<http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/927bed1a84e940828a0d251ac1b2b3df/player> .
+<http://devapi.bbcredux.com/927bed1a84e940828a0d251ac1b2b3df/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/927bed1a84e940828a0d251ac1b2b3df/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df#id> .
+<http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df#version> .
+<http://billings.acropolis.org.uk/927bed1a84e940828a0d251ac1b2b3df#id> <http://www.w3.org/2000/01/rdf-schema#label> "Escape to the Continent"@en-gb .
+<http://devapi.bbcredux.com/927bed1a84e940828a0d251ac1b2b3df/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/927bed1a84e940828a0d251ac1b2b3df/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .

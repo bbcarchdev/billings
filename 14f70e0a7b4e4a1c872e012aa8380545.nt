@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545#id> .
+<http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545#version> .
+<http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0444xg2#programme> .
+<http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545> <http://purl.org/dc/terms/title> "Information about the broadcast 'Laurence Olivier: Talking Pictures'"@en-gb .
+<http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/14f70e0a7b4e4a1c872e012aa8380545/player> .
+<http://devapi.bbcredux.com/14f70e0a7b4e4a1c872e012aa8380545/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/14f70e0a7b4e4a1c872e012aa8380545/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545.nt> .
+<http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545#id> <http://www.w3.org/2000/01/rdf-schema#label> "Laurence Olivier: Talking Pictures"@en-gb .
+<http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Laurence Olivier: Talking Pictures"@en-gb .
+<http://devapi.bbcredux.com/14f70e0a7b4e4a1c872e012aa8380545/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/14f70e0a7b4e4a1c872e012aa8380545/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23VMBS> .
+<http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0444xgj#programme> .
+<http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0444xg2#p01yr5ms> .
+<http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;faf9c~20140517T115000Z--PT0H35M0S> .
+<http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0444xgj> .
+<http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545#version> .
+<http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545#id> <http://purl.org/ontology/po/schedule_date> "2014-05-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/14f70e0a7b4e4a1c872e012aa8380545#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Laurence Olivier: Talking Pictures'"@en-gb .

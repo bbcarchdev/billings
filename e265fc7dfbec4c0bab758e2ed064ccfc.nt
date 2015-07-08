@@ -1,0 +1,24 @@
+<http://billings.acropolis.org.uk/e265fc7dfbec4c0bab758e2ed064ccfc#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;49364~20150207T121000Z--PT0H40M0S> .
+<http://billings.acropolis.org.uk/e265fc7dfbec4c0bab758e2ed064ccfc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/e265fc7dfbec4c0bab758e2ed064ccfc> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/e265fc7dfbec4c0bab758e2ed064ccfc.nt> .
+<http://billings.acropolis.org.uk/e265fc7dfbec4c0bab758e2ed064ccfc> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/e265fc7dfbec4c0bab758e2ed064ccfc#id> .
+<http://billings.acropolis.org.uk/e265fc7dfbec4c0bab758e2ed064ccfc#id> <http://www.w3.org/2000/01/rdf-schema#label> "Football Focus"@en-gb .
+<http://billings.acropolis.org.uk/e265fc7dfbec4c0bab758e2ed064ccfc#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/e265fc7dfbec4c0bab758e2ed064ccfc#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/e265fc7dfbec4c0bab758e2ed064ccfc/player> .
+<http://billings.acropolis.org.uk/e265fc7dfbec4c0bab758e2ed064ccfc#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/e265fc7dfbec4c0bab758e2ed064ccfc#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Football Focus"@en-gb .
+<http://billings.acropolis.org.uk/e265fc7dfbec4c0bab758e2ed064ccfc.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/e265fc7dfbec4c0bab758e2ed064ccfc#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Football Focus'"@en-gb .
+<http://billings.acropolis.org.uk/e265fc7dfbec4c0bab758e2ed064ccfc#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/7A3ANG> .
+<http://billings.acropolis.org.uk/e265fc7dfbec4c0bab758e2ed064ccfc#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/e265fc7dfbec4c0bab758e2ed064ccfc#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/e265fc7dfbec4c0bab758e2ed064ccfc#version> .
+<http://billings.acropolis.org.uk/e265fc7dfbec4c0bab758e2ed064ccfc#id> <http://purl.org/ontology/po/schedule_date> "2015-02-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/e265fc7dfbec4c0bab758e2ed064ccfc/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/e265fc7dfbec4c0bab758e2ed064ccfc.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/e265fc7dfbec4c0bab758e2ed064ccfc#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/e265fc7dfbec4c0bab758e2ed064ccfc#version> .
+<http://billings.acropolis.org.uk/e265fc7dfbec4c0bab758e2ed064ccfc.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/e265fc7dfbec4c0bab758e2ed064ccfc#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/e265fc7dfbec4c0bab758e2ed064ccfc/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/e265fc7dfbec4c0bab758e2ed064ccfc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/e265fc7dfbec4c0bab758e2ed064ccfc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/e265fc7dfbec4c0bab758e2ed064ccfc> <http://purl.org/dc/terms/title> "Information about the broadcast 'Football Focus'"@en-gb .

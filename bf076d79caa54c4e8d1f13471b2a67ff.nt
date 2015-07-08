@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Ten Minute Rule Bill - Armed Forces'"@en-gb .
+<http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff#id> <http://www.w3.org/2000/01/rdf-schema#label> "Ten Minute Rule Bill - Armed Forces"@en-gb .
+<http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Ten Minute Rule Bill - Armed Forces"@en-gb .
+<http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff#version> .
+<http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04t24d2#programme> .
+<http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff.nt> .
+<http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff#id> <http://purl.org/ontology/po/schedule_date> "2014-11-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/bf076d79caa54c4e8d1f13471b2a67ff/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/bf076d79caa54c4e8d1f13471b2a67ff/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/29YPN1> .
+<http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04t24t4#programme> .
+<http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff#version> .
+<http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/bf076d79caa54c4e8d1f13471b2a67ff/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/bf076d79caa54c4e8d1f13471b2a67ff/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff> <http://purl.org/dc/terms/title> "Information about the broadcast 'Ten Minute Rule Bill - Armed Forces'"@en-gb .
+<http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04t24d2#p02b9d4q> .
+<http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1280;f2d9~20141107T174000Z--PT0H20M0S> .
+<http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b04t24t4> .
+<http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff#id> .
+<http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/bf076d79caa54c4e8d1f13471b2a67ff/player> .
+<http://billings.acropolis.org.uk/bf076d79caa54c4e8d1f13471b2a67ff#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .

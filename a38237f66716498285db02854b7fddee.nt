@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01qy068#p01yvbdj> .
+<http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1200;9116~20140522T085500Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee#id> <http://www.w3.org/2000/01/rdf-schema#label> "Super Human Challenge"@en-gb .
+<http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee#version> .
+<http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Super Human Challenge'"@en-gb .
+<http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/T2QPC> .
+<http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01qy06x#programme> .
+<http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/a38237f66716498285db02854b7fddee/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee#id> .
+<http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/a38237f66716498285db02854b7fddee/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/a38237f66716498285db02854b7fddee/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/a38237f66716498285db02854b7fddee/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee#id> <http://purl.org/ontology/po/schedule_date> "2014-05-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01qy068#programme> .
+<http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee> <http://purl.org/dc/terms/title> "Information about the broadcast 'Super Human Challenge'"@en-gb .
+<http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee#version> .
+<http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01qy06x> .
+<http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/a38237f66716498285db02854b7fddee/player> .
+<http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee.nt> .
+<http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/a38237f66716498285db02854b7fddee#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Super Human Challenge"@en-gb .

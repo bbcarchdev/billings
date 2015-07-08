@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0091s7x#programme> .
+<http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e#version> .
+<http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0091s7x#p029r7kx> .
+<http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;fa28d~20141109T233000Z--PT1H50M0S> .
+<http://devapi.bbcredux.com/9c5ce26ac51d47bc9da9b628d9f7a81e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/9c5ce26ac51d47bc9da9b628d9f7a81e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Alpha Dog'"@en-gb .
+<http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/9c5ce26ac51d47bc9da9b628d9f7a81e/player> .
+<http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e#id> <http://purl.org/ontology/po/schedule_date> "2014-11-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Alpha Dog"@en-gb .
+<http://devapi.bbcredux.com/9c5ce26ac51d47bc9da9b628d9f7a81e/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e.nt> .
+<http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e#id> <http://www.w3.org/2000/01/rdf-schema#label> "Alpha Dog"@en-gb .
+<http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e#version> .
+<http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e#id> .
+<http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00mf3ct> .
+<http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/9c5ce26ac51d47bc9da9b628d9f7a81e/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e> <http://purl.org/dc/terms/title> "Information about the broadcast 'Alpha Dog'"@en-gb .
+<http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4J6237> .
+<http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00mf3ct#programme> .
+<http://billings.acropolis.org.uk/9c5ce26ac51d47bc9da9b628d9f7a81e.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .

@@ -1,0 +1,24 @@
+<http://billings.acropolis.org.uk/cf43f222a3ff4c3797cae6556c0bcceb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/cf43f222a3ff4c3797cae6556c0bcceb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/cf43f222a3ff4c3797cae6556c0bcceb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/cf43f222a3ff4c3797cae6556c0bcceb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1240;db8b~20150119T100500Z--PT0H20M0S> .
+<http://billings.acropolis.org.uk/cf43f222a3ff4c3797cae6556c0bcceb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/cf43f222a3ff4c3797cae6556c0bcceb#id> .
+<http://billings.acropolis.org.uk/cf43f222a3ff4c3797cae6556c0bcceb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/cf43f222a3ff4c3797cae6556c0bcceb#id> <http://purl.org/ontology/po/schedule_date> "2015-01-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/cf43f222a3ff4c3797cae6556c0bcceb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/cf43f222a3ff4c3797cae6556c0bcceb/player> .
+<http://billings.acropolis.org.uk/cf43f222a3ff4c3797cae6556c0bcceb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/cf43f222a3ff4c3797cae6556c0bcceb.nt> .
+<http://billings.acropolis.org.uk/cf43f222a3ff4c3797cae6556c0bcceb> <http://purl.org/dc/terms/title> "Information about the broadcast 'New: Let's Play'"@en-gb .
+<http://billings.acropolis.org.uk/cf43f222a3ff4c3797cae6556c0bcceb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/cf43f222a3ff4c3797cae6556c0bcceb#version> .
+<http://billings.acropolis.org.uk/cf43f222a3ff4c3797cae6556c0bcceb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'New: Let's Play'"@en-gb .
+<http://billings.acropolis.org.uk/cf43f222a3ff4c3797cae6556c0bcceb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/cf43f222a3ff4c3797cae6556c0bcceb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/cf43f222a3ff4c3797cae6556c0bcceb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/cf43f222a3ff4c3797cae6556c0bcceb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/cf43f222a3ff4c3797cae6556c0bcceb#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SW2OP> .
+<http://billings.acropolis.org.uk/cf43f222a3ff4c3797cae6556c0bcceb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/cf43f222a3ff4c3797cae6556c0bcceb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/cf43f222a3ff4c3797cae6556c0bcceb#id> <http://www.w3.org/2000/01/rdf-schema#label> "New: Let's Play"@en-gb .
+<http://billings.acropolis.org.uk/cf43f222a3ff4c3797cae6556c0bcceb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/cf43f222a3ff4c3797cae6556c0bcceb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/cf43f222a3ff4c3797cae6556c0bcceb#version> .
+<http://billings.acropolis.org.uk/cf43f222a3ff4c3797cae6556c0bcceb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "New: Let's Play"@en-gb .
+<http://devapi.bbcredux.com/cf43f222a3ff4c3797cae6556c0bcceb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

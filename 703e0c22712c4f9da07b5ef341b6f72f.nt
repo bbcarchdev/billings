@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f#version> .
+<http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f.nt> .
+<http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/703e0c22712c4f9da07b5ef341b6f72f/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f#id> .
+<http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Story of Tracy Beaker'"@en-gb .
+<http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f#version> .
+<http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00799vs> .
+<http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f#id> <http://purl.org/ontology/po/schedule_date> "2015-05-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4CBGSL> .
+<http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00799vs#programme> .
+<http://devapi.bbcredux.com/703e0c22712c4f9da07b5ef341b6f72f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/703e0c22712c4f9da07b5ef341b6f72f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/703e0c22712c4f9da07b5ef341b6f72f/player> .
+<http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Story of Tracy Beaker"@en-gb .
+<http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Story of Tracy Beaker'"@en-gb .
+<http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Story of Tracy Beaker"@en-gb .
+<http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b005p36z#p02q05pq> .
+<http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1200;d09f~20150505T171500Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/703e0c22712c4f9da07b5ef341b6f72f#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b005p36z#programme> .
+<http://devapi.bbcredux.com/703e0c22712c4f9da07b5ef341b6f72f/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

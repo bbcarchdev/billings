@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd#version> .
+<http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Adventures of Abney and Teal"@en-gb .
+<http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd.nt> .
+<http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Adventures of Abney and Teal"@en-gb .
+<http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SW0AF> .
+<http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01c19my#programme> .
+<http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Adventures of Abney and Teal'"@en-gb .
+<http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd#id> <http://purl.org/ontology/po/schedule_date> "2014-11-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd#version> .
+<http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd#id> .
+<http://devapi.bbcredux.com/b635f5cdeccf4672889ef0db0df8bbfd/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Adventures of Abney and Teal'"@en-gb .
+<http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/b635f5cdeccf4672889ef0db0df8bbfd/player> .
+<http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01c17s9#p02bvhv2> .
+<http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1240;bd66~20141129T180000Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01c19my> .
+<http://billings.acropolis.org.uk/b635f5cdeccf4672889ef0db0df8bbfd#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01c17s9#programme> .
+<http://devapi.bbcredux.com/b635f5cdeccf4672889ef0db0df8bbfd/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/b635f5cdeccf4672889ef0db0df8bbfd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/b635f5cdeccf4672889ef0db0df8bbfd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .

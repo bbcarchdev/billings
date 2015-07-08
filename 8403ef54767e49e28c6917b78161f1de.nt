@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04bwxmt#p022p8w6> .
+<http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;fafc7~20140721T200000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de.nt> .
+<http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de#id> .
+<http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23V76R> .
+<http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04bwxnd#programme> .
+<http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de#version> .
+<http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04bwxmt#programme> .
+<http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/8403ef54767e49e28c6917b78161f1de/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/8403ef54767e49e28c6917b78161f1de/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Clothes to Die For"@en-gb .
+<http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Clothes to Die For'"@en-gb .
+<http://devapi.bbcredux.com/8403ef54767e49e28c6917b78161f1de/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/8403ef54767e49e28c6917b78161f1de/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de#id> <http://purl.org/ontology/po/schedule_date> "2014-07-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de#version> .
+<http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/8403ef54767e49e28c6917b78161f1de/player> .
+<http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de> <http://purl.org/dc/terms/title> "Information about the broadcast 'Clothes to Die For'"@en-gb .
+<http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de#id> <http://www.w3.org/2000/01/rdf-schema#label> "Clothes to Die For"@en-gb .
+<http://billings.acropolis.org.uk/8403ef54767e49e28c6917b78161f1de#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b04bwxnd> .

@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Election Today"@en-gb .
+<http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/300359aaa77c4bd19712fdda610fdcb5/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Election Today'"@en-gb .
+<http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b05tb6cq> .
+<http://devapi.bbcredux.com/300359aaa77c4bd19712fdda610fdcb5/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/300359aaa77c4bd19712fdda610fdcb5/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5#id> <http://purl.org/ontology/po/schedule_date> "2015-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/2R5GDC> .
+<http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b05tb6cq#programme> .
+<http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/300359aaa77c4bd19712fdda610fdcb5/player> .
+<http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5#id> <http://www.w3.org/2000/01/rdf-schema#label> "Election Today"@en-gb .
+<http://devapi.bbcredux.com/300359aaa77c4bd19712fdda610fdcb5/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b05tb4zj#p02q0cxn> .
+<http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1280;932f~20150506T083000Z--PT0H35M0S> .
+<http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5> <http://purl.org/dc/terms/title> "Information about the broadcast 'Election Today'"@en-gb .
+<http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b05tb4zj#programme> .
+<http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5#id> .
+<http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5#version> .
+<http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5#version> .
+<http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/300359aaa77c4bd19712fdda610fdcb5.nt> .

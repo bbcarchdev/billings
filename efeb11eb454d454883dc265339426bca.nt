@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/26A53O> .
+<http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04lcjb7#programme> .
+<http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04lcj56#programme> .
+<http://devapi.bbcredux.com/efeb11eb454d454883dc265339426bca/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/efeb11eb454d454883dc265339426bca/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Film Review'"@en-gb .
+<http://devapi.bbcredux.com/efeb11eb454d454883dc265339426bca/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/efeb11eb454d454883dc265339426bca/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04lcj56#p027kmyy> .
+<http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1100;cf34~20141010T204500Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/efeb11eb454d454883dc265339426bca/player> .
+<http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca#id> .
+<http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcnews24#id> .
+<http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca#version> .
+<http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca#id> <http://purl.org/ontology/po/schedule_date> "2014-10-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Film Review"@en-gb .
+<http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca.nt> .
+<http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Film Review'"@en-gb .
+<http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Film Review"@en-gb .
+<http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca#version> .
+<http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/efeb11eb454d454883dc265339426bca#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b04lcjb7> .

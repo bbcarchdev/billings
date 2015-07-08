@@ -1,0 +1,24 @@
+<http://billings.acropolis.org.uk/9b6fda5322cd4241b495e27a05a5475e.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/9b6fda5322cd4241b495e27a05a5475e#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/9b6fda5322cd4241b495e27a05a5475e#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/9b6fda5322cd4241b495e27a05a5475e#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4d7d1~20140822T104500Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/9b6fda5322cd4241b495e27a05a5475e> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/9b6fda5322cd4241b495e27a05a5475e#id> .
+<http://billings.acropolis.org.uk/9b6fda5322cd4241b495e27a05a5475e#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/247NY5> .
+<http://billings.acropolis.org.uk/9b6fda5322cd4241b495e27a05a5475e#id> <http://www.w3.org/2000/01/rdf-schema#label> "Real Lives Reunited"@en-gb .
+<http://billings.acropolis.org.uk/9b6fda5322cd4241b495e27a05a5475e#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/9b6fda5322cd4241b495e27a05a5475e#version> .
+<http://billings.acropolis.org.uk/9b6fda5322cd4241b495e27a05a5475e#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/9b6fda5322cd4241b495e27a05a5475e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/9b6fda5322cd4241b495e27a05a5475e> <http://purl.org/dc/terms/title> "Information about the broadcast 'Real Lives Reunited'"@en-gb .
+<http://billings.acropolis.org.uk/9b6fda5322cd4241b495e27a05a5475e#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Real Lives Reunited"@en-gb .
+<http://devapi.bbcredux.com/9b6fda5322cd4241b495e27a05a5475e/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/9b6fda5322cd4241b495e27a05a5475e/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/9b6fda5322cd4241b495e27a05a5475e#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Real Lives Reunited'"@en-gb .
+<http://devapi.bbcredux.com/9b6fda5322cd4241b495e27a05a5475e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/9b6fda5322cd4241b495e27a05a5475e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/9b6fda5322cd4241b495e27a05a5475e.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/9b6fda5322cd4241b495e27a05a5475e#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/9b6fda5322cd4241b495e27a05a5475e#id> <http://purl.org/ontology/po/schedule_date> "2014-08-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/9b6fda5322cd4241b495e27a05a5475e#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/9b6fda5322cd4241b495e27a05a5475e/player> .
+<http://billings.acropolis.org.uk/9b6fda5322cd4241b495e27a05a5475e#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/9b6fda5322cd4241b495e27a05a5475e#version> .
+<http://billings.acropolis.org.uk/9b6fda5322cd4241b495e27a05a5475e.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/9b6fda5322cd4241b495e27a05a5475e> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/9b6fda5322cd4241b495e27a05a5475e.nt> .

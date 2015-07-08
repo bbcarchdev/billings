@@ -1,0 +1,24 @@
+<http://devapi.bbcredux.com/7814d10fa8bf417194d5f26ada2683ef/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/7814d10fa8bf417194d5f26ada2683ef#id> <http://purl.org/ontology/po/schedule_date> "2015-04-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/7814d10fa8bf417194d5f26ada2683ef#id> <http://www.w3.org/2000/01/rdf-schema#label> "Sounds of the 70s 2"@en-gb .
+<http://billings.acropolis.org.uk/7814d10fa8bf417194d5f26ada2683ef#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/7814d10fa8bf417194d5f26ada2683ef#version> .
+<http://billings.acropolis.org.uk/7814d10fa8bf417194d5f26ada2683ef#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/7814d10fa8bf417194d5f26ada2683ef.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/7814d10fa8bf417194d5f26ada2683ef#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/7814d10fa8bf417194d5f26ada2683ef/player> .
+<http://devapi.bbcredux.com/7814d10fa8bf417194d5f26ada2683ef/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/7814d10fa8bf417194d5f26ada2683ef/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/7814d10fa8bf417194d5f26ada2683ef/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/7814d10fa8bf417194d5f26ada2683ef#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23V5XH> .
+<http://billings.acropolis.org.uk/7814d10fa8bf417194d5f26ada2683ef> <http://purl.org/dc/terms/title> "Information about the broadcast 'Sounds of the 70s 2'"@en-gb .
+<http://billings.acropolis.org.uk/7814d10fa8bf417194d5f26ada2683ef#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/7814d10fa8bf417194d5f26ada2683ef#version> .
+<http://billings.acropolis.org.uk/7814d10fa8bf417194d5f26ada2683ef#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..11c0;d960~20150405T021500Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/7814d10fa8bf417194d5f26ada2683ef#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Sounds of the 70s 2"@en-gb .
+<http://billings.acropolis.org.uk/7814d10fa8bf417194d5f26ada2683ef> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/7814d10fa8bf417194d5f26ada2683ef#id> .
+<http://billings.acropolis.org.uk/7814d10fa8bf417194d5f26ada2683ef#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/7814d10fa8bf417194d5f26ada2683ef.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/7814d10fa8bf417194d5f26ada2683ef#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/7814d10fa8bf417194d5f26ada2683ef#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Sounds of the 70s 2'"@en-gb .
+<http://billings.acropolis.org.uk/7814d10fa8bf417194d5f26ada2683ef.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/7814d10fa8bf417194d5f26ada2683ef#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/7814d10fa8bf417194d5f26ada2683ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/7814d10fa8bf417194d5f26ada2683ef> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/7814d10fa8bf417194d5f26ada2683ef.nt> .

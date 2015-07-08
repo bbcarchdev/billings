@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b001yzzy#p01yv649> .
+<http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..11c0;e701~20140521T200000Z--PT1H55M0S> .
+<http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/f56b846e37094693b02e2166040a3569/player> .
+<http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569#version> .
+<http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'American Beauty'"@en-gb .
+<http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569> <http://purl.org/dc/terms/title> "Information about the broadcast 'American Beauty'"@en-gb .
+<http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00dh7dc> .
+<http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://devapi.bbcredux.com/f56b846e37094693b02e2166040a3569/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/f56b846e37094693b02e2166040a3569/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://devapi.bbcredux.com/f56b846e37094693b02e2166040a3569/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/f56b846e37094693b02e2166040a3569/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569#id> .
+<http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569#version> .
+<http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569#episode> <http://www.w3.org/2000/01/rdf-schema#label> "American Beauty"@en-gb .
+<http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b001yzzy#programme> .
+<http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4J3W36> .
+<http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00dh7dc#programme> .
+<http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569.nt> .
+<http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569#id> <http://purl.org/ontology/po/schedule_date> "2014-05-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/f56b846e37094693b02e2166040a3569#id> <http://www.w3.org/2000/01/rdf-schema#label> "American Beauty"@en-gb .

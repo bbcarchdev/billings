@@ -1,0 +1,24 @@
+<http://billings.acropolis.org.uk/63b2a61060474a7ca1c7d041046011ce#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/63b2a61060474a7ca1c7d041046011ce#version> .
+<http://billings.acropolis.org.uk/63b2a61060474a7ca1c7d041046011ce#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/63b2a61060474a7ca1c7d041046011ce#version> .
+<http://devapi.bbcredux.com/63b2a61060474a7ca1c7d041046011ce/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/63b2a61060474a7ca1c7d041046011ce/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://devapi.bbcredux.com/63b2a61060474a7ca1c7d041046011ce/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/63b2a61060474a7ca1c7d041046011ce/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/63b2a61060474a7ca1c7d041046011ce#id> <http://purl.org/ontology/po/schedule_date> "2014-06-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/63b2a61060474a7ca1c7d041046011ce.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/63b2a61060474a7ca1c7d041046011ce> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/63b2a61060474a7ca1c7d041046011ce.nt> .
+<http://billings.acropolis.org.uk/63b2a61060474a7ca1c7d041046011ce> <http://purl.org/dc/terms/title> "Information about the broadcast 'What's New Scooby-Doo?'"@en-gb .
+<http://billings.acropolis.org.uk/63b2a61060474a7ca1c7d041046011ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/63b2a61060474a7ca1c7d041046011ce#episode> <http://www.w3.org/2000/01/rdf-schema#label> "What's New Scooby-Doo?"@en-gb .
+<http://billings.acropolis.org.uk/63b2a61060474a7ca1c7d041046011ce#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/63b2a61060474a7ca1c7d041046011ce.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/63b2a61060474a7ca1c7d041046011ce#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1200;9f91~20140621T173500Z--PT0H23M0S> .
+<http://billings.acropolis.org.uk/63b2a61060474a7ca1c7d041046011ce#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'What's New Scooby-Doo?'"@en-gb .
+<http://billings.acropolis.org.uk/63b2a61060474a7ca1c7d041046011ce#id> <http://www.w3.org/2000/01/rdf-schema#label> "What's New Scooby-Doo?"@en-gb .
+<http://billings.acropolis.org.uk/63b2a61060474a7ca1c7d041046011ce> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/63b2a61060474a7ca1c7d041046011ce#id> .
+<http://billings.acropolis.org.uk/63b2a61060474a7ca1c7d041046011ce#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/63b2a61060474a7ca1c7d041046011ce#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/63b2a61060474a7ca1c7d041046011ce#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4BAJNP> .
+<http://billings.acropolis.org.uk/63b2a61060474a7ca1c7d041046011ce#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/63b2a61060474a7ca1c7d041046011ce/player> .
+<http://billings.acropolis.org.uk/63b2a61060474a7ca1c7d041046011ce#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/63b2a61060474a7ca1c7d041046011ce.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .

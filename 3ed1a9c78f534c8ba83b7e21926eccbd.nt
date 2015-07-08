@@ -1,0 +1,23 @@
+<http://billings.acropolis.org.uk/3ed1a9c78f534c8ba83b7e21926eccbd#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/3ed1a9c78f534c8ba83b7e21926eccbd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/3ed1a9c78f534c8ba83b7e21926eccbd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/3ed1a9c78f534c8ba83b7e21926eccbd#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/3ed1a9c78f534c8ba83b7e21926eccbd/player> .
+<http://billings.acropolis.org.uk/3ed1a9c78f534c8ba83b7e21926eccbd> <http://purl.org/dc/terms/title> "Information about the broadcast 'This is CBeebies!'"@en-gb .
+<http://billings.acropolis.org.uk/3ed1a9c78f534c8ba83b7e21926eccbd#id> <http://purl.org/ontology/po/schedule_date> "2014-05-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/3ed1a9c78f534c8ba83b7e21926eccbd#episode> <http://www.w3.org/2000/01/rdf-schema#label> "This is CBeebies!"@en-gb .
+<http://billings.acropolis.org.uk/3ed1a9c78f534c8ba83b7e21926eccbd#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'This is CBeebies!'"@en-gb .
+<http://billings.acropolis.org.uk/3ed1a9c78f534c8ba83b7e21926eccbd#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1240;a95c~20140526T175800Z--PT10H32M0S> .
+<http://billings.acropolis.org.uk/3ed1a9c78f534c8ba83b7e21926eccbd> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/3ed1a9c78f534c8ba83b7e21926eccbd#id> .
+<http://billings.acropolis.org.uk/3ed1a9c78f534c8ba83b7e21926eccbd#id> <http://www.w3.org/2000/01/rdf-schema#label> "This is CBeebies!"@en-gb .
+<http://billings.acropolis.org.uk/3ed1a9c78f534c8ba83b7e21926eccbd#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/3ed1a9c78f534c8ba83b7e21926eccbd> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/3ed1a9c78f534c8ba83b7e21926eccbd.nt> .
+<http://billings.acropolis.org.uk/3ed1a9c78f534c8ba83b7e21926eccbd.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/3ed1a9c78f534c8ba83b7e21926eccbd/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/3ed1a9c78f534c8ba83b7e21926eccbd/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/3ed1a9c78f534c8ba83b7e21926eccbd.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/3ed1a9c78f534c8ba83b7e21926eccbd#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/3ed1a9c78f534c8ba83b7e21926eccbd#version> .
+<http://billings.acropolis.org.uk/3ed1a9c78f534c8ba83b7e21926eccbd.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/3ed1a9c78f534c8ba83b7e21926eccbd#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/3ed1a9c78f534c8ba83b7e21926eccbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/3ed1a9c78f534c8ba83b7e21926eccbd#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/3ed1a9c78f534c8ba83b7e21926eccbd#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/3ed1a9c78f534c8ba83b7e21926eccbd#version> .

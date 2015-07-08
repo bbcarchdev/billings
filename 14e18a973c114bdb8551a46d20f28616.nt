@@ -1,0 +1,24 @@
+<http://devapi.bbcredux.com/14e18a973c114bdb8551a46d20f28616/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/14e18a973c114bdb8551a46d20f28616#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Born to be Wild: The Golden Age of...'"@en-gb .
+<http://billings.acropolis.org.uk/14e18a973c114bdb8551a46d20f28616.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/14e18a973c114bdb8551a46d20f28616#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/14e18a973c114bdb8551a46d20f28616#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..11c0;d49f~20150326T010000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/14e18a973c114bdb8551a46d20f28616.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/14e18a973c114bdb8551a46d20f28616/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/14e18a973c114bdb8551a46d20f28616#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/14e18a973c114bdb8551a46d20f28616> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/14e18a973c114bdb8551a46d20f28616#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/14e18a973c114bdb8551a46d20f28616#version> .
+<http://billings.acropolis.org.uk/14e18a973c114bdb8551a46d20f28616#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/14e18a973c114bdb8551a46d20f28616#version> .
+<http://billings.acropolis.org.uk/14e18a973c114bdb8551a46d20f28616#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/247LGP> .
+<http://billings.acropolis.org.uk/14e18a973c114bdb8551a46d20f28616#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/14e18a973c114bdb8551a46d20f28616#id> <http://www.w3.org/2000/01/rdf-schema#label> "Born to be Wild: The Golden Age of..."@en-gb .
+<http://billings.acropolis.org.uk/14e18a973c114bdb8551a46d20f28616#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/14e18a973c114bdb8551a46d20f28616/player> .
+<http://billings.acropolis.org.uk/14e18a973c114bdb8551a46d20f28616> <http://purl.org/dc/terms/title> "Information about the broadcast 'Born to be Wild: The Golden Age of...'"@en-gb .
+<http://billings.acropolis.org.uk/14e18a973c114bdb8551a46d20f28616#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Born to be Wild: The Golden Age of..."@en-gb .
+<http://billings.acropolis.org.uk/14e18a973c114bdb8551a46d20f28616> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/14e18a973c114bdb8551a46d20f28616.nt> .
+<http://billings.acropolis.org.uk/14e18a973c114bdb8551a46d20f28616.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/14e18a973c114bdb8551a46d20f28616#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/14e18a973c114bdb8551a46d20f28616#id> <http://purl.org/ontology/po/schedule_date> "2015-03-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/14e18a973c114bdb8551a46d20f28616/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/14e18a973c114bdb8551a46d20f28616/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/14e18a973c114bdb8551a46d20f28616> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/14e18a973c114bdb8551a46d20f28616#id> .

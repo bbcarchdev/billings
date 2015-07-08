@@ -1,0 +1,24 @@
+<http://billings.acropolis.org.uk/c260303b7e44470c989a9f306288ffef.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/c260303b7e44470c989a9f306288ffef/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/c260303b7e44470c989a9f306288ffef#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/c260303b7e44470c989a9f306288ffef#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/c260303b7e44470c989a9f306288ffef.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/c260303b7e44470c989a9f306288ffef#id> <http://purl.org/ontology/po/schedule_date> "2014-05-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/c260303b7e44470c989a9f306288ffef#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/c260303b7e44470c989a9f306288ffef/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/c260303b7e44470c989a9f306288ffef/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c260303b7e44470c989a9f306288ffef#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/c260303b7e44470c989a9f306288ffef/player> .
+<http://billings.acropolis.org.uk/c260303b7e44470c989a9f306288ffef#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcnews24#id> .
+<http://billings.acropolis.org.uk/c260303b7e44470c989a9f306288ffef#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/c260303b7e44470c989a9f306288ffef#version> .
+<http://billings.acropolis.org.uk/c260303b7e44470c989a9f306288ffef#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/c260303b7e44470c989a9f306288ffef#version> .
+<http://billings.acropolis.org.uk/c260303b7e44470c989a9f306288ffef#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1XZYU9> .
+<http://billings.acropolis.org.uk/c260303b7e44470c989a9f306288ffef> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Travel Show'"@en-gb .
+<http://billings.acropolis.org.uk/c260303b7e44470c989a9f306288ffef#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1100;a31e~20140503T133000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/c260303b7e44470c989a9f306288ffef> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/c260303b7e44470c989a9f306288ffef.nt> .
+<http://billings.acropolis.org.uk/c260303b7e44470c989a9f306288ffef#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Travel Show'"@en-gb .
+<http://billings.acropolis.org.uk/c260303b7e44470c989a9f306288ffef.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/c260303b7e44470c989a9f306288ffef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c260303b7e44470c989a9f306288ffef#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Travel Show"@en-gb .
+<http://billings.acropolis.org.uk/c260303b7e44470c989a9f306288ffef#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Travel Show"@en-gb .
+<http://billings.acropolis.org.uk/c260303b7e44470c989a9f306288ffef> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/c260303b7e44470c989a9f306288ffef#id> .
+<http://devapi.bbcredux.com/c260303b7e44470c989a9f306288ffef/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

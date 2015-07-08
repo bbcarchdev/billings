@@ -1,0 +1,24 @@
+<http://billings.acropolis.org.uk/50c7e8f77a9e46de97a2e6657ab94ffd#id> <http://www.w3.org/2000/01/rdf-schema#label> "Match of the Day: FA Cup Highlights"@en-gb .
+<http://billings.acropolis.org.uk/50c7e8f77a9e46de97a2e6657ab94ffd> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/50c7e8f77a9e46de97a2e6657ab94ffd.nt> .
+<http://billings.acropolis.org.uk/50c7e8f77a9e46de97a2e6657ab94ffd> <http://purl.org/dc/terms/title> "Information about the broadcast 'Match of the Day: FA Cup Highlights'"@en-gb .
+<http://billings.acropolis.org.uk/50c7e8f77a9e46de97a2e6657ab94ffd#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Match of the Day: FA Cup Highlights"@en-gb .
+<http://billings.acropolis.org.uk/50c7e8f77a9e46de97a2e6657ab94ffd#id> <http://purl.org/ontology/po/schedule_date> "2015-03-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/50c7e8f77a9e46de97a2e6657ab94ffd#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://devapi.bbcredux.com/50c7e8f77a9e46de97a2e6657ab94ffd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/50c7e8f77a9e46de97a2e6657ab94ffd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/50c7e8f77a9e46de97a2e6657ab94ffd#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/50c7e8f77a9e46de97a2e6657ab94ffd#version> .
+<http://billings.acropolis.org.uk/50c7e8f77a9e46de97a2e6657ab94ffd> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/50c7e8f77a9e46de97a2e6657ab94ffd#id> .
+<http://billings.acropolis.org.uk/50c7e8f77a9e46de97a2e6657ab94ffd.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/50c7e8f77a9e46de97a2e6657ab94ffd#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/7A3B09> .
+<http://billings.acropolis.org.uk/50c7e8f77a9e46de97a2e6657ab94ffd#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Match of the Day: FA Cup Highlights'"@en-gb .
+<http://billings.acropolis.org.uk/50c7e8f77a9e46de97a2e6657ab94ffd#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/50c7e8f77a9e46de97a2e6657ab94ffd/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/50c7e8f77a9e46de97a2e6657ab94ffd#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/50c7e8f77a9e46de97a2e6657ab94ffd#version> .
+<http://billings.acropolis.org.uk/50c7e8f77a9e46de97a2e6657ab94ffd#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/50c7e8f77a9e46de97a2e6657ab94ffd#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/50c7e8f77a9e46de97a2e6657ab94ffd.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/50c7e8f77a9e46de97a2e6657ab94ffd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/50c7e8f77a9e46de97a2e6657ab94ffd.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/50c7e8f77a9e46de97a2e6657ab94ffd#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/50c7e8f77a9e46de97a2e6657ab94ffd/player> .
+<http://billings.acropolis.org.uk/50c7e8f77a9e46de97a2e6657ab94ffd#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4e5d1~20150308T223000Z--PT0H35M0S> .
+<http://devapi.bbcredux.com/50c7e8f77a9e46de97a2e6657ab94ffd/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
