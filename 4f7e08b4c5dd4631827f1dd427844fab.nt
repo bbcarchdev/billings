@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00p99jd> .
+<http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00p992v#p01q535q> .
+<http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1200;d213~20140131T125000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00p992v#programme> .
+<http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab#version> .
+<http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab.nt> .
+<http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab#version> .
+<http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab> <http://purl.org/dc/terms/title> "Information about the broadcast 'Dani's House'"@en-gb .
+<http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Dani's House'"@en-gb .
+<http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab#id> <http://www.w3.org/2000/01/rdf-schema#label> "Dani's House"@en-gb .
+<http://devapi.bbcredux.com/4f7e08b4c5dd4631827f1dd427844fab/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/4f7e08b4c5dd4631827f1dd427844fab/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Dani's House"@en-gb .
+<http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/4f7e08b4c5dd4631827f1dd427844fab/player> .
+<http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/4f7e08b4c5dd4631827f1dd427844fab/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/4f7e08b4c5dd4631827f1dd427844fab/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab#id> .
+<http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SVZA3> .
+<http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00p99jd#programme> .
+<http://billings.acropolis.org.uk/4f7e08b4c5dd4631827f1dd427844fab#id> <http://purl.org/ontology/po/schedule_date> "2014-01-31"^^<http://www.w3.org/2001/XMLSchema#date> .

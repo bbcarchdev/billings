@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03v337n#p01rvgph> .
+<http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1100;8a55~20140217T024500Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Sport Today'"@en-gb .
+<http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf#version> .
+<http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf#id> <http://www.w3.org/2000/01/rdf-schema#label> "Sport Today"@en-gb .
+<http://devapi.bbcredux.com/aab21bab4ba34411a1b5b20f91f7beaf/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/aab21bab4ba34411a1b5b20f91f7beaf/player> .
+<http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03v337n#programme> .
+<http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf> <http://purl.org/dc/terms/title> "Information about the broadcast 'Sport Today'"@en-gb .
+<http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf#version> .
+<http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf.nt> .
+<http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Sport Today"@en-gb .
+<http://devapi.bbcredux.com/aab21bab4ba34411a1b5b20f91f7beaf/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/aab21bab4ba34411a1b5b20f91f7beaf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/aab21bab4ba34411a1b5b20f91f7beaf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcnews24#id> .
+<http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b03v33dl> .
+<http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf#id> <http://purl.org/ontology/po/schedule_date> "2014-02-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1THHZ8> .
+<http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03v33dl#programme> .
+<http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/aab21bab4ba34411a1b5b20f91f7beaf#id> .

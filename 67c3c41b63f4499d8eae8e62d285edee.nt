@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee.nt> .
+<http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Inside My Mind'"@en-gb .
+<http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee> <http://purl.org/dc/terms/title> "Information about the broadcast 'Inside My Mind'"@en-gb .
+<http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/240UW9> .
+<http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/p016hz87#programme> .
+<http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee#version> .
+<http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/p016hz87> .
+<http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee#id> <http://www.w3.org/2000/01/rdf-schema#label> "Inside My Mind"@en-gb .
+<http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee#version> .
+<http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee#id> .
+<http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/67c3c41b63f4499d8eae8e62d285edee/player> .
+<http://devapi.bbcredux.com/67c3c41b63f4499d8eae8e62d285edee/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/67c3c41b63f4499d8eae8e62d285edee/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Inside My Mind"@en-gb .
+<http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b038d3fw#p01drdfd> .
+<http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10c0;dfbe~20130814T020000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b038d3fw#programme> .
+<http://billings.acropolis.org.uk/67c3c41b63f4499d8eae8e62d285edee#id> <http://purl.org/ontology/po/schedule_date> "2013-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/67c3c41b63f4499d8eae8e62d285edee/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/67c3c41b63f4499d8eae8e62d285edee/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .

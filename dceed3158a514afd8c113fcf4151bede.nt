@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/dceed3158a514afd8c113fcf4151bede/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/dceed3158a514afd8c113fcf4151bede/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03kk1c5#p01rxznw> .
+<http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..11c0;caa7~20140222T003500Z--PT1H5M0S> .
+<http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede> <http://purl.org/dc/terms/title> "Information about the broadcast 'Blues America'"@en-gb .
+<http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede.nt> .
+<http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23UVA8> .
+<http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03kk1j7#programme> .
+<http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede#version> .
+<http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03kk1c5#programme> .
+<http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/dceed3158a514afd8c113fcf4151bede/player> .
+<http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede#id> <http://www.w3.org/2000/01/rdf-schema#label> "Blues America"@en-gb .
+<http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede#id> .
+<http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b03kk1j7> .
+<http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede#version> .
+<http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Blues America"@en-gb .
+<http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede#id> <http://purl.org/ontology/po/schedule_date> "2014-02-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Blues America'"@en-gb .
+<http://billings.acropolis.org.uk/dceed3158a514afd8c113fcf4151bede#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/dceed3158a514afd8c113fcf4151bede/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://devapi.bbcredux.com/dceed3158a514afd8c113fcf4151bede/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

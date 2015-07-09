@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf.nt> .
+<http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf#version> .
+<http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://devapi.bbcredux.com/ac1405fafbca4d56adbe3554198f2aaf/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/ac1405fafbca4d56adbe3554198f2aaf/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf#id> <http://purl.org/ontology/po/schedule_date> "2014-04-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf#version> .
+<http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b041mb06#p01x6rvs> .
+<http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;f8ba5~20140419T203000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/2418HJ> .
+<http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b041mbw4#programme> .
+<http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b041mb06#programme> .
+<http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b041mbw4> .
+<http://devapi.bbcredux.com/ac1405fafbca4d56adbe3554198f2aaf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/ac1405fafbca4d56adbe3554198f2aaf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf> <http://purl.org/dc/terms/title> "Information about the broadcast 'Messiah at the Foundling Hospital'"@en-gb .
+<http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf#id> .
+<http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf#id> <http://www.w3.org/2000/01/rdf-schema#label> "Messiah at the Foundling Hospital"@en-gb .
+<http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Messiah at the Foundling Hospital"@en-gb .
+<http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Messiah at the Foundling Hospital'"@en-gb .
+<http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/ac1405fafbca4d56adbe3554198f2aaf/player> .
+<http://billings.acropolis.org.uk/ac1405fafbca4d56adbe3554198f2aaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .

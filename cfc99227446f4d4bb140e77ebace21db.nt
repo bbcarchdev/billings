@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The A to Z of TV Cooking"@en-gb .
+<http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The A to Z of TV Cooking'"@en-gb .
+<http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db#id> <http://purl.org/ontology/po/schedule_date> "2014-03-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b04w5mxc> .
+<http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/cfc99227446f4d4bb140e77ebace21db/player> .
+<http://devapi.bbcredux.com/cfc99227446f4d4bb140e77ebace21db/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/cfc99227446f4d4bb140e77ebace21db/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/cfc99227446f4d4bb140e77ebace21db/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db#version> .
+<http://devapi.bbcredux.com/cfc99227446f4d4bb140e77ebace21db/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db#id> .
+<http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03ybwpq#programme> .
+<http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db> <http://purl.org/dc/terms/title> "Information about the broadcast 'The A to Z of TV Cooking'"@en-gb .
+<http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db.nt> .
+<http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23VM2P> .
+<http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b04w5mxc#programme> .
+<http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db#version> .
+<http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03ybwpq#p01tdhsh> .
+<http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;fc8d3~20140313T130000Z--PT0H20M0S> .
+<http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db#id> <http://www.w3.org/2000/01/rdf-schema#label> "The A to Z of TV Cooking"@en-gb .
+<http://billings.acropolis.org.uk/cfc99227446f4d4bb140e77ebace21db#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .

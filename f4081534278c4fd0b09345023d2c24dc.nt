@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01m7thm> .
+<http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc#id> .
+<http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc#id> <http://purl.org/ontology/po/schedule_date> "2013-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01m7tgg#p01l95tr> .
+<http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1240;a65b~20131122T133000Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Rhyme Rocket'"@en-gb .
+<http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Rhyme Rocket'"@en-gb .
+<http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Rhyme Rocket"@en-gb .
+<http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc.nt> .
+<http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc#version> .
+<http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://devapi.bbcredux.com/f4081534278c4fd0b09345023d2c24dc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/f4081534278c4fd0b09345023d2c24dc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/f4081534278c4fd0b09345023d2c24dc/player> .
+<http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc#version> .
+<http://devapi.bbcredux.com/f4081534278c4fd0b09345023d2c24dc/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Rhyme Rocket"@en-gb .
+<http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01m7tgg#programme> .
+<http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SQBRZ> .
+<http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01m7thm#programme> .
+<http://billings.acropolis.org.uk/f4081534278c4fd0b09345023d2c24dc#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/f4081534278c4fd0b09345023d2c24dc/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

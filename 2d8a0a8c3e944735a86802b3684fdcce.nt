@@ -1,0 +1,23 @@
+<http://devapi.bbcredux.com/2d8a0a8c3e944735a86802b3684fdcce/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/2d8a0a8c3e944735a86802b3684fdcce/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/2d8a0a8c3e944735a86802b3684fdcce#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/2d8a0a8c3e944735a86802b3684fdcce#version> .
+<http://billings.acropolis.org.uk/2d8a0a8c3e944735a86802b3684fdcce#episode> <http://www.w3.org/2000/01/rdf-schema#label> "This Is BBC Three"@en-gb .
+<http://billings.acropolis.org.uk/2d8a0a8c3e944735a86802b3684fdcce> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/2d8a0a8c3e944735a86802b3684fdcce.nt> .
+<http://billings.acropolis.org.uk/2d8a0a8c3e944735a86802b3684fdcce> <http://purl.org/dc/terms/title> "Information about the broadcast 'This Is BBC Three'"@en-gb .
+<http://billings.acropolis.org.uk/2d8a0a8c3e944735a86802b3684fdcce#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/2d8a0a8c3e944735a86802b3684fdcce.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/2d8a0a8c3e944735a86802b3684fdcce#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10c0;dd37~20130906T175800Z--PT0H2M0S> .
+<http://billings.acropolis.org.uk/2d8a0a8c3e944735a86802b3684fdcce#id> <http://purl.org/ontology/po/schedule_date> "2013-09-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/2d8a0a8c3e944735a86802b3684fdcce#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/2d8a0a8c3e944735a86802b3684fdcce#version> .
+<http://devapi.bbcredux.com/2d8a0a8c3e944735a86802b3684fdcce/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/2d8a0a8c3e944735a86802b3684fdcce#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/2d8a0a8c3e944735a86802b3684fdcce.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/2d8a0a8c3e944735a86802b3684fdcce#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'This Is BBC Three'"@en-gb .
+<http://billings.acropolis.org.uk/2d8a0a8c3e944735a86802b3684fdcce#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/2d8a0a8c3e944735a86802b3684fdcce.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/2d8a0a8c3e944735a86802b3684fdcce#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/2d8a0a8c3e944735a86802b3684fdcce#id> <http://www.w3.org/2000/01/rdf-schema#label> "This Is BBC Three"@en-gb .
+<http://billings.acropolis.org.uk/2d8a0a8c3e944735a86802b3684fdcce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/2d8a0a8c3e944735a86802b3684fdcce#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/2d8a0a8c3e944735a86802b3684fdcce/player> .
+<http://billings.acropolis.org.uk/2d8a0a8c3e944735a86802b3684fdcce> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/2d8a0a8c3e944735a86802b3684fdcce#id> .
+<http://devapi.bbcredux.com/2d8a0a8c3e944735a86802b3684fdcce/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

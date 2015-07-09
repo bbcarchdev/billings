@@ -1,0 +1,23 @@
+<http://billings.acropolis.org.uk/c0657d545585408fa2a765d842b87dcb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c0657d545585408fa2a765d842b87dcb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/c0657d545585408fa2a765d842b87dcb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/c0657d545585408fa2a765d842b87dcb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/c0657d545585408fa2a765d842b87dcb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c0657d545585408fa2a765d842b87dcb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/c0657d545585408fa2a765d842b87dcb#version> .
+<http://billings.acropolis.org.uk/c0657d545585408fa2a765d842b87dcb#id> <http://purl.org/ontology/po/schedule_date> "2014-02-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/c0657d545585408fa2a765d842b87dcb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/c0657d545585408fa2a765d842b87dcb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/c0657d545585408fa2a765d842b87dcb#id> .
+<http://billings.acropolis.org.uk/c0657d545585408fa2a765d842b87dcb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/c0657d545585408fa2a765d842b87dcb.nt> .
+<http://devapi.bbcredux.com/c0657d545585408fa2a765d842b87dcb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/c0657d545585408fa2a765d842b87dcb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;f9359~20140226T021000Z--PT1H50M0S> .
+<http://billings.acropolis.org.uk/c0657d545585408fa2a765d842b87dcb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/c0657d545585408fa2a765d842b87dcb#id> <http://www.w3.org/2000/01/rdf-schema#label> "This Is BBC Two"@en-gb .
+<http://billings.acropolis.org.uk/c0657d545585408fa2a765d842b87dcb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/c0657d545585408fa2a765d842b87dcb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "This Is BBC Two"@en-gb .
+<http://billings.acropolis.org.uk/c0657d545585408fa2a765d842b87dcb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/c0657d545585408fa2a765d842b87dcb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/c0657d545585408fa2a765d842b87dcb> <http://purl.org/dc/terms/title> "Information about the broadcast 'This Is BBC Two'"@en-gb .
+<http://billings.acropolis.org.uk/c0657d545585408fa2a765d842b87dcb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/c0657d545585408fa2a765d842b87dcb/player> .
+<http://billings.acropolis.org.uk/c0657d545585408fa2a765d842b87dcb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/c0657d545585408fa2a765d842b87dcb#version> .
+<http://billings.acropolis.org.uk/c0657d545585408fa2a765d842b87dcb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'This Is BBC Two'"@en-gb .
+<http://billings.acropolis.org.uk/c0657d545585408fa2a765d842b87dcb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .

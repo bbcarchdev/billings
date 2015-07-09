@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf.nt> .
+<http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf#id> .
+<http://devapi.bbcredux.com/27b97c999528404ba591e84b45d98ddf/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/2418BQ> .
+<http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03sg6fq#programme> .
+<http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b03sg6fq> .
+<http://devapi.bbcredux.com/27b97c999528404ba591e84b45d98ddf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/27b97c999528404ba591e84b45d98ddf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Great Interior Design Challenge"@en-gb .
+<http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Great Interior Design Challenge"@en-gb .
+<http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03sg6fl#programme> .
+<http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/27b97c999528404ba591e84b45d98ddf/player> .
+<http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf#id> <http://purl.org/ontology/po/schedule_date> "2014-01-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf#version> .
+<http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03sg6fl#p01pnfn6> .
+<http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;fe0fc~20140120T190000Z--PT1H0M0S> .
+<http://devapi.bbcredux.com/27b97c999528404ba591e84b45d98ddf/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Great Interior Design Challenge'"@en-gb .
+<http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf#version> .
+<http://billings.acropolis.org.uk/27b97c999528404ba591e84b45d98ddf#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Great Interior Design Challenge'"@en-gb .

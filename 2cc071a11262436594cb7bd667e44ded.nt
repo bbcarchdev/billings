@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded#id> .
+<http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded.nt> .
+<http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Daily Politics'"@en-gb .
+<http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03wvfmc#p01sb0g7> .
+<http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;fa250~20140226T113000Z--PT1H30M0S> .
+<http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded> <http://purl.org/dc/terms/title> "Information about the broadcast 'Daily Politics'"@en-gb .
+<http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/5AHVT6> .
+<http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03wvfmf#programme> .
+<http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded#version> .
+<http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Daily Politics"@en-gb .
+<http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03wvfmc#programme> .
+<http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b03wvfmf> .
+<http://devapi.bbcredux.com/2cc071a11262436594cb7bd667e44ded/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded#version> .
+<http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded#id> <http://www.w3.org/2000/01/rdf-schema#label> "Daily Politics"@en-gb .
+<http://devapi.bbcredux.com/2cc071a11262436594cb7bd667e44ded/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded#id> <http://purl.org/ontology/po/schedule_date> "2014-02-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/2cc071a11262436594cb7bd667e44ded#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/2cc071a11262436594cb7bd667e44ded/player> .
+<http://devapi.bbcredux.com/2cc071a11262436594cb7bd667e44ded/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/2cc071a11262436594cb7bd667e44ded/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .

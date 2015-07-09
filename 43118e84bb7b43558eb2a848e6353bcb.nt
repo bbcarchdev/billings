@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb#id> <http://www.w3.org/2000/01/rdf-schema#label> "Pop's Greatest Dance Crazes"@en-gb .
+<http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb> <http://purl.org/dc/terms/title> "Information about the broadcast 'Pop's Greatest Dance Crazes'"@en-gb .
+<http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0129c7s> .
+<http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Pop's Greatest Dance Crazes"@en-gb .
+<http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1REB64> .
+<http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0129c7s#programme> .
+<http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/43118e84bb7b43558eb2a848e6353bcb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/43118e84bb7b43558eb2a848e6353bcb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/43118e84bb7b43558eb2a848e6353bcb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb.nt> .
+<http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb#id> <http://purl.org/ontology/po/schedule_date> "2013-08-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb#id> .
+<http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0129c7n#p01fdsdj> .
+<http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10c0;e33e~20130827T013500Z--PT0H25M0S> .
+<http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Pop's Greatest Dance Crazes'"@en-gb .
+<http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0129c7n#programme> .
+<http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/43118e84bb7b43558eb2a848e6353bcb/player> .
+<http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb#version> .
+<http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/43118e84bb7b43558eb2a848e6353bcb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/43118e84bb7b43558eb2a848e6353bcb#version> .

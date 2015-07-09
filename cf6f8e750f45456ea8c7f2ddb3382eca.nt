@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcnews24#id> .
+<http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03zq6sv#programme> .
+<http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03zq6sv#p01w1nvh> .
+<http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1100;e099~20140403T023000Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Asia Business Report"@en-gb .
+<http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca#version> .
+<http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca.nt> .
+<http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Asia Business Report'"@en-gb .
+<http://devapi.bbcredux.com/cf6f8e750f45456ea8c7f2ddb3382eca/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b03zq6zf> .
+<http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca#id> <http://www.w3.org/2000/01/rdf-schema#label> "Asia Business Report"@en-gb .
+<http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca> <http://purl.org/dc/terms/title> "Information about the broadcast 'Asia Business Report'"@en-gb .
+<http://devapi.bbcredux.com/cf6f8e750f45456ea8c7f2ddb3382eca/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca#version> .
+<http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1W0VQL> .
+<http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03zq6zf#programme> .
+<http://devapi.bbcredux.com/cf6f8e750f45456ea8c7f2ddb3382eca/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/cf6f8e750f45456ea8c7f2ddb3382eca/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca#id> .
+<http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca#id> <http://purl.org/ontology/po/schedule_date> "2014-04-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/cf6f8e750f45456ea8c7f2ddb3382eca/player> .
+<http://billings.acropolis.org.uk/cf6f8e750f45456ea8c7f2ddb3382eca.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .

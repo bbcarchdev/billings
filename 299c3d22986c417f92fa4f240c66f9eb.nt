@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/299c3d22986c417f92fa4f240c66f9eb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/299c3d22986c417f92fa4f240c66f9eb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Food & Drink'"@en-gb .
+<http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/299c3d22986c417f92fa4f240c66f9eb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb#version> .
+<http://devapi.bbcredux.com/299c3d22986c417f92fa4f240c66f9eb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b03tz2tw> .
+<http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03tz2tr#p01qjqjv> .
+<http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;ff0dd~20140203T203000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb> <http://purl.org/dc/terms/title> "Information about the broadcast 'Food & Drink'"@en-gb .
+<http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03tz2tr#programme> .
+<http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/299c3d22986c417f92fa4f240c66f9eb/player> .
+<http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb#id> <http://purl.org/ontology/po/schedule_date> "2014-02-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb#id> <http://www.w3.org/2000/01/rdf-schema#label> "Food & Drink"@en-gb .
+<http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb#id> .
+<http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23V6UI> .
+<http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03tz2tw#programme> .
+<http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb.nt> .
+<http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb#version> .
+<http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Food & Drink"@en-gb .
+<http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/299c3d22986c417f92fa4f240c66f9eb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .

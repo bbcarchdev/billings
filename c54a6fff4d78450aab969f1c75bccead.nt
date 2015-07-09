@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/c54a6fff4d78450aab969f1c75bccead/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Turbo Boost"@en-gb .
+<http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b03ft8tp> .
+<http://devapi.bbcredux.com/c54a6fff4d78450aab969f1c75bccead/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/c54a6fff4d78450aab969f1c75bccead/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead#id> <http://purl.org/ontology/po/schedule_date> "2014-02-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/c54a6fff4d78450aab969f1c75bccead/player> .
+<http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03fq5f2#p01r1xgr> .
+<http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1200;d920~20140208T123500Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead#version> .
+<http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03fq5f2#programme> .
+<http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead#version> .
+<http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Turbo Boost'"@en-gb .
+<http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead#id> <http://www.w3.org/2000/01/rdf-schema#label> "Turbo Boost"@en-gb .
+<http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead.nt> .
+<http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SQECY> .
+<http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03ft8tp#programme> .
+<http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead#id> .
+<http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead> <http://purl.org/dc/terms/title> "Information about the broadcast 'Turbo Boost'"@en-gb .
+<http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/c54a6fff4d78450aab969f1c75bccead.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/c54a6fff4d78450aab969f1c75bccead/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

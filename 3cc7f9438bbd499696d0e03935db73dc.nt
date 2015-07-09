@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/3cc7f9438bbd499696d0e03935db73dc/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/3cc7f9438bbd499696d0e03935db73dc/player> .
+<http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b039g9zy#programme> .
+<http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc#version> .
+<http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SILIE> .
+<http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b039gb5l#programme> .
+<http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc#id> <http://www.w3.org/2000/01/rdf-schema#label> "Scooby-Doo! Mystery Incorporated"@en-gb .
+<http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc#id> <http://purl.org/ontology/po/schedule_date> "2014-03-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b039gb5l> .
+<http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc#version> .
+<http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Scooby-Doo! Mystery Incorporated'"@en-gb .
+<http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Scooby-Doo! Mystery Incorporated"@en-gb .
+<http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc> <http://purl.org/dc/terms/title> "Information about the broadcast 'Scooby-Doo! Mystery Incorporated'"@en-gb .
+<http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc#id> .
+<http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc.nt> .
+<http://devapi.bbcredux.com/3cc7f9438bbd499696d0e03935db73dc/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/3cc7f9438bbd499696d0e03935db73dc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/3cc7f9438bbd499696d0e03935db73dc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b039g9zy#p01thm9f> .
+<http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1200;e516~20140318T151500Z--PT0H20M0S> .
+<http://billings.acropolis.org.uk/3cc7f9438bbd499696d0e03935db73dc#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .

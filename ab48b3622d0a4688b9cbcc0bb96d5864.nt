@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/ab48b3622d0a4688b9cbcc0bb96d5864/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b03d02xd> .
+<http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864#id> <http://www.w3.org/2000/01/rdf-schema#label> "Question Time"@en-gb .
+<http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864#id> .
+<http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/ab48b3622d0a4688b9cbcc0bb96d5864/player> .
+<http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03dx3th#p01hwpb8> .
+<http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;fc514~20131011T090000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03dx3th#programme> .
+<http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864#version> .
+<http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Question Time'"@en-gb .
+<http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864#version> .
+<http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Question Time"@en-gb .
+<http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864#id> <http://purl.org/ontology/po/schedule_date> "2013-10-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/ab48b3622d0a4688b9cbcc0bb96d5864/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/ab48b3622d0a4688b9cbcc0bb96d5864/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/ab48b3622d0a4688b9cbcc0bb96d5864/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864.nt> .
+<http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/247O79> .
+<http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03d02xd#programme> .
+<http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/ab48b3622d0a4688b9cbcc0bb96d5864> <http://purl.org/dc/terms/title> "Information about the broadcast 'Question Time'"@en-gb .

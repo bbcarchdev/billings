@@ -1,0 +1,24 @@
+<http://billings.acropolis.org.uk/527bec7eb3b3450ca732b24ce790adfc#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/527bec7eb3b3450ca732b24ce790adfc.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/527bec7eb3b3450ca732b24ce790adfc> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/527bec7eb3b3450ca732b24ce790adfc.nt> .
+<http://devapi.bbcredux.com/527bec7eb3b3450ca732b24ce790adfc/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/527bec7eb3b3450ca732b24ce790adfc#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..11c0;dc10~20140413T223000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/527bec7eb3b3450ca732b24ce790adfc#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Danny Boy - The Ballad That Bewitched...'"@en-gb .
+<http://billings.acropolis.org.uk/527bec7eb3b3450ca732b24ce790adfc#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/527bec7eb3b3450ca732b24ce790adfc> <http://purl.org/dc/terms/title> "Information about the broadcast 'Danny Boy - The Ballad That Bewitched...'"@en-gb .
+<http://billings.acropolis.org.uk/527bec7eb3b3450ca732b24ce790adfc> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/527bec7eb3b3450ca732b24ce790adfc#id> .
+<http://billings.acropolis.org.uk/527bec7eb3b3450ca732b24ce790adfc#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/57L9UZ> .
+<http://billings.acropolis.org.uk/527bec7eb3b3450ca732b24ce790adfc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/527bec7eb3b3450ca732b24ce790adfc#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Danny Boy - The Ballad That Bewitched..."@en-gb .
+<http://billings.acropolis.org.uk/527bec7eb3b3450ca732b24ce790adfc.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/527bec7eb3b3450ca732b24ce790adfc#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/527bec7eb3b3450ca732b24ce790adfc#version> .
+<http://billings.acropolis.org.uk/527bec7eb3b3450ca732b24ce790adfc#id> <http://purl.org/ontology/po/schedule_date> "2014-04-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/527bec7eb3b3450ca732b24ce790adfc#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/527bec7eb3b3450ca732b24ce790adfc/player> .
+<http://devapi.bbcredux.com/527bec7eb3b3450ca732b24ce790adfc/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/527bec7eb3b3450ca732b24ce790adfc#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/527bec7eb3b3450ca732b24ce790adfc.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/527bec7eb3b3450ca732b24ce790adfc#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/527bec7eb3b3450ca732b24ce790adfc#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/527bec7eb3b3450ca732b24ce790adfc#version> .
+<http://devapi.bbcredux.com/527bec7eb3b3450ca732b24ce790adfc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/527bec7eb3b3450ca732b24ce790adfc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/527bec7eb3b3450ca732b24ce790adfc#id> <http://www.w3.org/2000/01/rdf-schema#label> "Danny Boy - The Ballad That Bewitched..."@en-gb .

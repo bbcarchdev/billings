@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c#id> .
+<http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c#version> .
+<http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c.nt> .
+<http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Bear Behaving Badly'"@en-gb .
+<http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c#version> .
+<http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/1376bab8f58b4e6e93cccc657e99d14c/player> .
+<http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ph777#programme> .
+<http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Bear Behaving Badly"@en-gb .
+<http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ph777#p01m2srs> .
+<http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1200;b3dc~20131206T093500Z--PT0H25M0S> .
+<http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SVZIF> .
+<http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ph79m#programme> .
+<http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c> <http://purl.org/dc/terms/title> "Information about the broadcast 'Bear Behaving Badly'"@en-gb .
+<http://devapi.bbcredux.com/1376bab8f58b4e6e93cccc657e99d14c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/1376bab8f58b4e6e93cccc657e99d14c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/1376bab8f58b4e6e93cccc657e99d14c/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/1376bab8f58b4e6e93cccc657e99d14c/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c#id> <http://purl.org/ontology/po/schedule_date> "2013-12-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00ph79m> .
+<http://billings.acropolis.org.uk/1376bab8f58b4e6e93cccc657e99d14c#id> <http://www.w3.org/2000/01/rdf-schema#label> "Bear Behaving Badly"@en-gb .

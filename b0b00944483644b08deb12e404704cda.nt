@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda#id> <http://www.w3.org/2000/01/rdf-schema#label> "Disaster Chefs"@en-gb .
+<http://devapi.bbcredux.com/b0b00944483644b08deb12e404704cda/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Disaster Chefs'"@en-gb .
+<http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/b0b00944483644b08deb12e404704cda/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/b0b00944483644b08deb12e404704cda/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/b0b00944483644b08deb12e404704cda/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03k3fsh#programme> .
+<http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03k3fsh#p01mz108> .
+<http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1200;b905~20131216T130000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b036bpzg> .
+<http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda.nt> .
+<http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/b0b00944483644b08deb12e404704cda/player> .
+<http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda> <http://purl.org/dc/terms/title> "Information about the broadcast 'Disaster Chefs'"@en-gb .
+<http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda#version> .
+<http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda#id> <http://purl.org/ontology/po/schedule_date> "2013-12-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SW1XB> .
+<http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b036bpzg#programme> .
+<http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda#version> .
+<http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Disaster Chefs"@en-gb .
+<http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/b0b00944483644b08deb12e404704cda#id> .

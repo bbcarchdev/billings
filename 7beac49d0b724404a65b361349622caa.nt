@@ -1,0 +1,24 @@
+<http://billings.acropolis.org.uk/7beac49d0b724404a65b361349622caa#id> <http://purl.org/ontology/po/schedule_date> "2013-12-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/7beac49d0b724404a65b361349622caa.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/7beac49d0b724404a65b361349622caa#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/7beac49d0b724404a65b361349622caa#version> .
+<http://devapi.bbcredux.com/7beac49d0b724404a65b361349622caa/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/7beac49d0b724404a65b361349622caa/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/7beac49d0b724404a65b361349622caa#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Father of the Bride 2'"@en-gb .
+<http://billings.acropolis.org.uk/7beac49d0b724404a65b361349622caa#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/7beac49d0b724404a65b361349622caa/player> .
+<http://billings.acropolis.org.uk/7beac49d0b724404a65b361349622caa#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Father of the Bride 2"@en-gb .
+<http://billings.acropolis.org.uk/7beac49d0b724404a65b361349622caa#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/7beac49d0b724404a65b361349622caa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/7beac49d0b724404a65b361349622caa#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/7beac49d0b724404a65b361349622caa> <http://purl.org/dc/terms/title> "Information about the broadcast 'Father of the Bride 2'"@en-gb .
+<http://devapi.bbcredux.com/7beac49d0b724404a65b361349622caa/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/7beac49d0b724404a65b361349622caa/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/7beac49d0b724404a65b361349622caa#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4J3YCU> .
+<http://billings.acropolis.org.uk/7beac49d0b724404a65b361349622caa#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/7beac49d0b724404a65b361349622caa#version> .
+<http://billings.acropolis.org.uk/7beac49d0b724404a65b361349622caa.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/7beac49d0b724404a65b361349622caa.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/7beac49d0b724404a65b361349622caa#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4c3bc~20131229T103000Z--PT1H45M0S> .
+<http://billings.acropolis.org.uk/7beac49d0b724404a65b361349622caa> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/7beac49d0b724404a65b361349622caa#id> .
+<http://billings.acropolis.org.uk/7beac49d0b724404a65b361349622caa#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/7beac49d0b724404a65b361349622caa> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/7beac49d0b724404a65b361349622caa.nt> .
+<http://billings.acropolis.org.uk/7beac49d0b724404a65b361349622caa#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/7beac49d0b724404a65b361349622caa#id> <http://www.w3.org/2000/01/rdf-schema#label> "Father of the Bride 2"@en-gb .

@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48> <http://purl.org/dc/terms/title> "Information about the broadcast 'Operation Mincemeat'"@en-gb .
+<http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00wllmb> .
+<http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/c7e05f05a51d4ae3add4f09605ae4f48/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/c7e05f05a51d4ae3add4f09605ae4f48/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/c7e05f05a51d4ae3add4f09605ae4f48/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48#id> <http://purl.org/ontology/po/schedule_date> "2014-04-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48#id> <http://www.w3.org/2000/01/rdf-schema#label> "Operation Mincemeat"@en-gb .
+<http://devapi.bbcredux.com/c7e05f05a51d4ae3add4f09605ae4f48/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00wlllw#p01wwbrx> .
+<http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..11c0;dc15~20140415T215000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Operation Mincemeat"@en-gb .
+<http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48#id> .
+<http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48.nt> .
+<http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48#version> .
+<http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48#version> .
+<http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/c7e05f05a51d4ae3add4f09605ae4f48/player> .
+<http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/241225> .
+<http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00wllmb#programme> .
+<http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00wlllw#programme> .
+<http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Operation Mincemeat'"@en-gb .
+<http://billings.acropolis.org.uk/c7e05f05a51d4ae3add4f09605ae4f48#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .

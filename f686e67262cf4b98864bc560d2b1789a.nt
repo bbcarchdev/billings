@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b03mngpr> .
+<http://devapi.bbcredux.com/f686e67262cf4b98864bc560d2b1789a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/f686e67262cf4b98864bc560d2b1789a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a#version> .
+<http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Mister Maker Christmas Around the World'"@en-gb .
+<http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03mngp3#programme> .
+<http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/f686e67262cf4b98864bc560d2b1789a/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03mngp3#p01mxnq0> .
+<http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1240;c13b~20131223T163500Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a.nt> .
+<http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/f686e67262cf4b98864bc560d2b1789a/player> .
+<http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a#id> .
+<http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SW1YG> .
+<http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03mngpr#programme> .
+<http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a#version> .
+<http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a#id> <http://purl.org/ontology/po/schedule_date> "2013-12-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/f686e67262cf4b98864bc560d2b1789a/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a> <http://purl.org/dc/terms/title> "Information about the broadcast 'Mister Maker Christmas Around the World'"@en-gb .
+<http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a#id> <http://www.w3.org/2000/01/rdf-schema#label> "Mister Maker Christmas Around the World"@en-gb .
+<http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/f686e67262cf4b98864bc560d2b1789a#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Mister Maker Christmas Around the World"@en-gb .

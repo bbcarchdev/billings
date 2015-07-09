@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/62b83d43436b497d91f1272515ffbc9f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/62b83d43436b497d91f1272515ffbc9f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SW1H6> .
+<http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01qsl16#programme> .
+<http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/62b83d43436b497d91f1272515ffbc9f/player> .
+<http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f> <http://purl.org/dc/terms/title> "Information about the broadcast 'Get Squiggling! Letters'"@en-gb .
+<http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01qsl16> .
+<http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01qsl10#p01jng2k> .
+<http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1240;96f4~20131024T121500Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f#version> .
+<http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Get Squiggling! Letters'"@en-gb .
+<http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f#id> <http://purl.org/ontology/po/schedule_date> "2013-10-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01qsl10#programme> .
+<http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f#version> .
+<http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f.nt> .
+<http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f#id> <http://www.w3.org/2000/01/rdf-schema#label> "Get Squiggling! Letters"@en-gb .
+<http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://devapi.bbcredux.com/62b83d43436b497d91f1272515ffbc9f/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/62b83d43436b497d91f1272515ffbc9f/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f#id> .
+<http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Get Squiggling! Letters"@en-gb .
+<http://billings.acropolis.org.uk/62b83d43436b497d91f1272515ffbc9f#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .

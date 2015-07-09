@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a#id> .
+<http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00n5brm#p01mz8gh> .
+<http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..11c0;b9ed~20131221T020000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a#version> .
+<http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a> <http://purl.org/dc/terms/title> "Information about the broadcast 'Duets: The Andy Williams Show'"@en-gb .
+<http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Duets: The Andy Williams Show"@en-gb .
+<http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a.nt> .
+<http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/7a3c30f3c64f4e379901f7476bd3862a/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/7a3c30f3c64f4e379901f7476bd3862a/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a#id> <http://purl.org/ontology/po/schedule_date> "2013-12-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a#id> <http://www.w3.org/2000/01/rdf-schema#label> "Duets: The Andy Williams Show"@en-gb .
+<http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Duets: The Andy Williams Show'"@en-gb .
+<http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://devapi.bbcredux.com/7a3c30f3c64f4e379901f7476bd3862a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/7a3c30f3c64f4e379901f7476bd3862a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23V1K9> .
+<http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00n5bt9#programme> .
+<http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00n5bt9> .
+<http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/7a3c30f3c64f4e379901f7476bd3862a/player> .
+<http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00n5brm#programme> .
+<http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a#version> .
+<http://billings.acropolis.org.uk/7a3c30f3c64f4e379901f7476bd3862a.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .

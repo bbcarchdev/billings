@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba> <http://purl.org/dc/terms/title> "Information about the broadcast 'Have I Got a Bit More News for You'"@en-gb .
+<http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Have I Got a Bit More News for You'"@en-gb .
+<http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba.nt> .
+<http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba#version> .
+<http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/a96a37dc5764497c865e54be1e44d7ba/player> .
+<http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba#version> .
+<http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1RKGU5> .
+<http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03lnd0w#programme> .
+<http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03lnc7q#p01mkw8k> .
+<http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4a092~20131209T223500Z--PT0H45M0S> .
+<http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba#id> .
+<http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Have I Got a Bit More News for You"@en-gb .
+<http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba#id> <http://www.w3.org/2000/01/rdf-schema#label> "Have I Got a Bit More News for You"@en-gb .
+<http://devapi.bbcredux.com/a96a37dc5764497c865e54be1e44d7ba/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://devapi.bbcredux.com/a96a37dc5764497c865e54be1e44d7ba/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/a96a37dc5764497c865e54be1e44d7ba/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/a96a37dc5764497c865e54be1e44d7ba/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba#id> <http://purl.org/ontology/po/schedule_date> "2013-12-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b03lnd0w> .
+<http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03lnc7q#programme> .
+<http://billings.acropolis.org.uk/a96a37dc5764497c865e54be1e44d7ba#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .

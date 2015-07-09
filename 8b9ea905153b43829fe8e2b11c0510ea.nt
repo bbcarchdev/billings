@@ -1,0 +1,24 @@
+<http://billings.acropolis.org.uk/8b9ea905153b43829fe8e2b11c0510ea#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/8b9ea905153b43829fe8e2b11c0510ea#id> <http://www.w3.org/2000/01/rdf-schema#label> "Mister Maker"@en-gb .
+<http://billings.acropolis.org.uk/8b9ea905153b43829fe8e2b11c0510ea#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Mister Maker"@en-gb .
+<http://billings.acropolis.org.uk/8b9ea905153b43829fe8e2b11c0510ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/8b9ea905153b43829fe8e2b11c0510ea#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/8b9ea905153b43829fe8e2b11c0510ea#id> <http://purl.org/ontology/po/schedule_date> "2013-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/8b9ea905153b43829fe8e2b11c0510ea#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/8b9ea905153b43829fe8e2b11c0510ea/player> .
+<http://billings.acropolis.org.uk/8b9ea905153b43829fe8e2b11c0510ea> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/8b9ea905153b43829fe8e2b11c0510ea.nt> .
+<http://devapi.bbcredux.com/8b9ea905153b43829fe8e2b11c0510ea/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/8b9ea905153b43829fe8e2b11c0510ea.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/8b9ea905153b43829fe8e2b11c0510ea/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/8b9ea905153b43829fe8e2b11c0510ea/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/8b9ea905153b43829fe8e2b11c0510ea#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/8b9ea905153b43829fe8e2b11c0510ea#version> .
+<http://billings.acropolis.org.uk/8b9ea905153b43829fe8e2b11c0510ea#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1240;a4e8~20131117T102500Z--PT0H20M0S> .
+<http://devapi.bbcredux.com/8b9ea905153b43829fe8e2b11c0510ea/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/8b9ea905153b43829fe8e2b11c0510ea#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4CDYH2> .
+<http://billings.acropolis.org.uk/8b9ea905153b43829fe8e2b11c0510ea.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/8b9ea905153b43829fe8e2b11c0510ea> <http://purl.org/dc/terms/title> "Information about the broadcast 'Mister Maker'"@en-gb .
+<http://billings.acropolis.org.uk/8b9ea905153b43829fe8e2b11c0510ea#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/8b9ea905153b43829fe8e2b11c0510ea> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/8b9ea905153b43829fe8e2b11c0510ea#id> .
+<http://billings.acropolis.org.uk/8b9ea905153b43829fe8e2b11c0510ea#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/8b9ea905153b43829fe8e2b11c0510ea#version> .
+<http://billings.acropolis.org.uk/8b9ea905153b43829fe8e2b11c0510ea#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/8b9ea905153b43829fe8e2b11c0510ea#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Mister Maker'"@en-gb .
+<http://billings.acropolis.org.uk/8b9ea905153b43829fe8e2b11c0510ea.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .

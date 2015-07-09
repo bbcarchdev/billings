@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/p01gwbd4> .
+<http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a#id> <http://www.w3.org/2000/01/rdf-schema#label> "Some Girls"@en-gb .
+<http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a#version> .
+<http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/488210d1f07f4cdd9a6e49a27c00c61a/player> .
+<http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/488210d1f07f4cdd9a6e49a27c00c61a/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://devapi.bbcredux.com/488210d1f07f4cdd9a6e49a27c00c61a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/488210d1f07f4cdd9a6e49a27c00c61a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03c9jrp#programme> .
+<http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a> <http://purl.org/dc/terms/title> "Information about the broadcast 'Some Girls'"@en-gb .
+<http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03c9jrp#p01hwpf7> .
+<http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10c0;ef2c~20131011T234500Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/15CL8A> .
+<http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/p01gwbd4#programme> .
+<http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Some Girls'"@en-gb .
+<http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a#version> .
+<http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Some Girls"@en-gb .
+<http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a#id> <http://purl.org/ontology/po/schedule_date> "2013-10-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a.nt> .
+<http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/488210d1f07f4cdd9a6e49a27c00c61a#id> .
+<http://devapi.bbcredux.com/488210d1f07f4cdd9a6e49a27c00c61a/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

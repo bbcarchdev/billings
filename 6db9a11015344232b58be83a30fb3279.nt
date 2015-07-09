@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279#version> .
+<http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279#id> .
+<http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279#version> .
+<http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279> <http://purl.org/dc/terms/title> "Information about the broadcast 'World News Today'"@en-gb .
+<http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/5A79Q1> .
+<http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03vpvvp#programme> .
+<http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279#id> <http://www.w3.org/2000/01/rdf-schema#label> "World News Today"@en-gb .
+<http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03vpvvm#programme> .
+<http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'World News Today'"@en-gb .
+<http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b03vpvvp> .
+<http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279.nt> .
+<http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/6db9a11015344232b58be83a30fb3279/player> .
+<http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279#episode> <http://www.w3.org/2000/01/rdf-schema#label> "World News Today"@en-gb .
+<http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279#id> <http://purl.org/ontology/po/schedule_date> "2014-02-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/6db9a11015344232b58be83a30fb3279/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/6db9a11015344232b58be83a30fb3279/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/6db9a11015344232b58be83a30fb3279/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://devapi.bbcredux.com/6db9a11015344232b58be83a30fb3279/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03vpvvm#p01rxtgz> .
+<http://billings.acropolis.org.uk/6db9a11015344232b58be83a30fb3279#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..11c0;c9ad~20140219T190000Z--PT0H30M0S> .

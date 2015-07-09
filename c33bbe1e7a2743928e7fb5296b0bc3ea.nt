@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/c33bbe1e7a2743928e7fb5296b0bc3ea/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/c33bbe1e7a2743928e7fb5296b0bc3ea/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea> <http://purl.org/dc/terms/title> "Information about the broadcast 'Liberal Democrats 2013'"@en-gb .
+<http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea#version> .
+<http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/c33bbe1e7a2743928e7fb5296b0bc3ea/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/c33bbe1e7a2743928e7fb5296b0bc3ea/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b03bhwst> .
+<http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea#id> <http://www.w3.org/2000/01/rdf-schema#label> "Liberal Democrats 2013"@en-gb .
+<http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03bhws6#programme> .
+<http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea#id> .
+<http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Liberal Democrats 2013"@en-gb .
+<http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea#version> .
+<http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03bhws6#p01g799j> .
+<http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1280;b58f~20130915T020000Z--PT3H0M0S> .
+<http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/c33bbe1e7a2743928e7fb5296b0bc3ea/player> .
+<http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Liberal Democrats 2013'"@en-gb .
+<http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1KWYIP> .
+<http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03bhwst#programme> .
+<http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea#id> <http://purl.org/ontology/po/schedule_date> "2013-09-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/c33bbe1e7a2743928e7fb5296b0bc3ea.nt> .

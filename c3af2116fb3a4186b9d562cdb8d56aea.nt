@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea#version> .
+<http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b038dbd5> .
+<http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea#id> <http://purl.org/ontology/po/schedule_date> "2013-08-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/c3af2116fb3a4186b9d562cdb8d56aea/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea#id> <http://www.w3.org/2000/01/rdf-schema#label> "King Alfred and the Anglo Saxons"@en-gb .
+<http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea#episode> <http://www.w3.org/2000/01/rdf-schema#label> "King Alfred and the Anglo Saxons"@en-gb .
+<http://devapi.bbcredux.com/c3af2116fb3a4186b9d562cdb8d56aea/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/c3af2116fb3a4186b9d562cdb8d56aea/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/c3af2116fb3a4186b9d562cdb8d56aea/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/c3af2116fb3a4186b9d562cdb8d56aea/player> .
+<http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea#version> .
+<http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea#id> .
+<http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea> <http://purl.org/dc/terms/title> "Information about the broadcast 'King Alfred and the Anglo Saxons'"@en-gb .
+<http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/2413I4> .
+<http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b038dbd5#programme> .
+<http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea.nt> .
+<http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'King Alfred and the Anglo Saxons'"@en-gb .
+<http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b038dbck#p01dvgnb> .
+<http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..11c0;9b9e~20130815T211500Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b038dbck#programme> .
+<http://billings.acropolis.org.uk/c3af2116fb3a4186b9d562cdb8d56aea.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .

@@ -1,0 +1,24 @@
+<http://billings.acropolis.org.uk/fb7a08fd1b4244e08c952f9d296b7429#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/fb7a08fd1b4244e08c952f9d296b7429/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/fb7a08fd1b4244e08c952f9d296b7429> <http://purl.org/dc/terms/title> "Information about the broadcast 'HARDtalk'"@en-gb .
+<http://billings.acropolis.org.uk/fb7a08fd1b4244e08c952f9d296b7429#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/fb7a08fd1b4244e08c952f9d296b7429.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/fb7a08fd1b4244e08c952f9d296b7429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/fb7a08fd1b4244e08c952f9d296b7429#id> <http://purl.org/ontology/po/schedule_date> "2014-01-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/fb7a08fd1b4244e08c952f9d296b7429> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/fb7a08fd1b4244e08c952f9d296b7429#id> .
+<http://billings.acropolis.org.uk/fb7a08fd1b4244e08c952f9d296b7429#id> <http://www.w3.org/2000/01/rdf-schema#label> "HARDtalk"@en-gb .
+<http://billings.acropolis.org.uk/fb7a08fd1b4244e08c952f9d296b7429#episode> <http://www.w3.org/2000/01/rdf-schema#label> "HARDtalk"@en-gb .
+<http://billings.acropolis.org.uk/fb7a08fd1b4244e08c952f9d296b7429#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1QTNA4> .
+<http://devapi.bbcredux.com/fb7a08fd1b4244e08c952f9d296b7429/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/fb7a08fd1b4244e08c952f9d296b7429/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/fb7a08fd1b4244e08c952f9d296b7429#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'HARDtalk'"@en-gb .
+<http://billings.acropolis.org.uk/fb7a08fd1b4244e08c952f9d296b7429#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/fb7a08fd1b4244e08c952f9d296b7429/player> .
+<http://billings.acropolis.org.uk/fb7a08fd1b4244e08c952f9d296b7429#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/fb7a08fd1b4244e08c952f9d296b7429#version> .
+<http://billings.acropolis.org.uk/fb7a08fd1b4244e08c952f9d296b7429#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/fb7a08fd1b4244e08c952f9d296b7429.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/fb7a08fd1b4244e08c952f9d296b7429#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/fb7a08fd1b4244e08c952f9d296b7429#version> .
+<http://billings.acropolis.org.uk/fb7a08fd1b4244e08c952f9d296b7429.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/fb7a08fd1b4244e08c952f9d296b7429> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/fb7a08fd1b4244e08c952f9d296b7429.nt> .
+<http://billings.acropolis.org.uk/fb7a08fd1b4244e08c952f9d296b7429#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcnews24#id> .
+<http://billings.acropolis.org.uk/fb7a08fd1b4244e08c952f9d296b7429#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1100;cebf~20140107T043000Z--PT0H30M0S> .
+<http://devapi.bbcredux.com/fb7a08fd1b4244e08c952f9d296b7429/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

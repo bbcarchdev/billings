@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0117f3l> .
+<http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Small Potatoes"@en-gb .
+<http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a.nt> .
+<http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a#version> .
+<http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Small Potatoes'"@en-gb .
+<http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a#id> <http://www.w3.org/2000/01/rdf-schema#label> "Small Potatoes"@en-gb .
+<http://devapi.bbcredux.com/c4c985b962ab44b5b43435e2dd548b6a/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03xl3bx#p01smj68> .
+<http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1240;eecf~20140302T143500Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/c4c985b962ab44b5b43435e2dd548b6a/player> .
+<http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03xl3bx#programme> .
+<http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a#id> <http://purl.org/ontology/po/schedule_date> "2014-03-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a> <http://purl.org/dc/terms/title> "Information about the broadcast 'Small Potatoes'"@en-gb .
+<http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a#version> .
+<http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SW060> .
+<http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0117f3l#programme> .
+<http://devapi.bbcredux.com/c4c985b962ab44b5b43435e2dd548b6a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/c4c985b962ab44b5b43435e2dd548b6a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a#id> .
+<http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/c4c985b962ab44b5b43435e2dd548b6a#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/c4c985b962ab44b5b43435e2dd548b6a/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/85e8e44f49904379b856f16ec2a8c57b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/85e8e44f49904379b856f16ec2a8c57b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/85e8e44f49904379b856f16ec2a8c57b/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b> <http://purl.org/dc/terms/title> "Information about the broadcast 'Justice Questions'"@en-gb .
+<http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/85e8e44f49904379b856f16ec2a8c57b/player> .
+<http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Justice Questions'"@en-gb .
+<http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b#id> <http://purl.org/ontology/po/schedule_date> "2013-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1OUH72> .
+<http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03knkmy#programme> .
+<http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03knjfk#p01ll468> .
+<http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1280;c094~20131117T000000Z--PT1H0M0S> .
+<http://devapi.bbcredux.com/85e8e44f49904379b856f16ec2a8c57b/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b#id> .
+<http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b#version> .
+<http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b.nt> .
+<http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Justice Questions"@en-gb .
+<http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03knjfk#programme> .
+<http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b03knkmy> .
+<http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b#version> .
+<http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b#id> <http://www.w3.org/2000/01/rdf-schema#label> "Justice Questions"@en-gb .
+<http://billings.acropolis.org.uk/85e8e44f49904379b856f16ec2a8c57b#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .

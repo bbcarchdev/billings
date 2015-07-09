@@ -1,0 +1,24 @@
+<http://billings.acropolis.org.uk/a03f380ec8f240a591808d76f5f3becc#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SQCS1> .
+<http://billings.acropolis.org.uk/a03f380ec8f240a591808d76f5f3becc#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Slammer Returns"@en-gb .
+<http://billings.acropolis.org.uk/a03f380ec8f240a591808d76f5f3becc#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Slammer Returns"@en-gb .
+<http://devapi.bbcredux.com/a03f380ec8f240a591808d76f5f3becc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/a03f380ec8f240a591808d76f5f3becc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a03f380ec8f240a591808d76f5f3becc.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/a03f380ec8f240a591808d76f5f3becc> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Slammer Returns'"@en-gb .
+<http://billings.acropolis.org.uk/a03f380ec8f240a591808d76f5f3becc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a03f380ec8f240a591808d76f5f3becc#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/a03f380ec8f240a591808d76f5f3becc#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/a03f380ec8f240a591808d76f5f3becc#version> .
+<http://billings.acropolis.org.uk/a03f380ec8f240a591808d76f5f3becc.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/a03f380ec8f240a591808d76f5f3becc#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/a03f380ec8f240a591808d76f5f3becc#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/a03f380ec8f240a591808d76f5f3becc/player> .
+<http://billings.acropolis.org.uk/a03f380ec8f240a591808d76f5f3becc#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Slammer Returns'"@en-gb .
+<http://billings.acropolis.org.uk/a03f380ec8f240a591808d76f5f3becc#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/a03f380ec8f240a591808d76f5f3becc#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/a03f380ec8f240a591808d76f5f3becc#version> .
+<http://billings.acropolis.org.uk/a03f380ec8f240a591808d76f5f3becc.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/a03f380ec8f240a591808d76f5f3becc/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/a03f380ec8f240a591808d76f5f3becc#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/a03f380ec8f240a591808d76f5f3becc> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/a03f380ec8f240a591808d76f5f3becc.nt> .
+<http://billings.acropolis.org.uk/a03f380ec8f240a591808d76f5f3becc#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1200;a8cc~20131027T085500Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/a03f380ec8f240a591808d76f5f3becc#id> <http://purl.org/ontology/po/schedule_date> "2013-10-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/a03f380ec8f240a591808d76f5f3becc> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/a03f380ec8f240a591808d76f5f3becc#id> .
+<http://devapi.bbcredux.com/a03f380ec8f240a591808d76f5f3becc/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

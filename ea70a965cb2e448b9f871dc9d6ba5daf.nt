@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Motorway Cops"@en-gb .
+<http://devapi.bbcredux.com/ea70a965cb2e448b9f871dc9d6ba5daf/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf.nt> .
+<http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/2416MF> .
+<http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03sgvbf#programme> .
+<http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf#id> <http://purl.org/ontology/po/schedule_date> "2014-01-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Motorway Cops'"@en-gb .
+<http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b03sgvbf> .
+<http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf#id> <http://www.w3.org/2000/01/rdf-schema#label> "Motorway Cops"@en-gb .
+<http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03sgt8c#p01plvlv> .
+<http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10c0;981b~20140116T200000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/ea70a965cb2e448b9f871dc9d6ba5daf/player> .
+<http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf> <http://purl.org/dc/terms/title> "Information about the broadcast 'Motorway Cops'"@en-gb .
+<http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf#version> .
+<http://devapi.bbcredux.com/ea70a965cb2e448b9f871dc9d6ba5daf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/ea70a965cb2e448b9f871dc9d6ba5daf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03sgt8c#programme> .
+<http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf#id> .
+<http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/ea70a965cb2e448b9f871dc9d6ba5daf#version> .
+<http://devapi.bbcredux.com/ea70a965cb2e448b9f871dc9d6ba5daf/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

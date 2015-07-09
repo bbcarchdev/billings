@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Treasure Hunters"@en-gb .
+<http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad#id> <http://purl.org/ontology/po/schedule_date> "2014-04-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad#version> .
+<http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Treasure Hunters'"@en-gb .
+<http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b040z9zb#p01ww95z> .
+<http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4f1cf~20140414T200000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23UVWS> .
+<http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b040zb5q#programme> .
+<http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b040zb5q> .
+<http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad#version> .
+<http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad#id> .
+<http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Treasure Hunters"@en-gb .
+<http://devapi.bbcredux.com/9317f014f7b64c7a9255f0beb166a1ad/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/9317f014f7b64c7a9255f0beb166a1ad/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/9317f014f7b64c7a9255f0beb166a1ad/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad.nt> .
+<http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b040z9zb#programme> .
+<http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/9317f014f7b64c7a9255f0beb166a1ad/player> .
+<http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Treasure Hunters'"@en-gb .
+<http://billings.acropolis.org.uk/9317f014f7b64c7a9255f0beb166a1ad.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/9317f014f7b64c7a9255f0beb166a1ad/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .

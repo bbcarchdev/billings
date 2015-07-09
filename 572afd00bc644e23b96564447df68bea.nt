@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/572afd00bc644e23b96564447df68bea/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/572afd00bc644e23b96564447df68bea/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/572afd00bc644e23b96564447df68bea/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea#id> <http://purl.org/ontology/po/schedule_date> "2014-02-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea#episode> <http://www.w3.org/2000/01/rdf-schema#label> "3rd and Bird"@en-gb .
+<http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/572afd00bc644e23b96564447df68bea/player> .
+<http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of '3rd and Bird'"@en-gb .
+<http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00rgg2j> .
+<http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea> <http://purl.org/dc/terms/title> "Information about the broadcast '3rd and Bird'"@en-gb .
+<http://devapi.bbcredux.com/572afd00bc644e23b96564447df68bea/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00rgg0s#p01qglzl> .
+<http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1240;d92e~20140202T132500Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea#id> .
+<http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea#id> <http://www.w3.org/2000/01/rdf-schema#label> "3rd and Bird"@en-gb .
+<http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00rgg0s#programme> .
+<http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea#version> .
+<http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea.nt> .
+<http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SVYP5> .
+<http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00rgg2j#programme> .
+<http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/572afd00bc644e23b96564447df68bea#version> .

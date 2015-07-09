@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769> <http://purl.org/dc/terms/title> "Information about the broadcast 'Something Special'"@en-gb .
+<http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769#id> .
+<http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769#version> .
+<http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Something Special"@en-gb .
+<http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/e4f2702750b14d34887b59fa4bc40769/player> .
+<http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769#version> .
+<http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769#id> <http://purl.org/ontology/po/schedule_date> "2013-10-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00vjcv0#programme> .
+<http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769.nt> .
+<http://devapi.bbcredux.com/e4f2702750b14d34887b59fa4bc40769/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/e4f2702750b14d34887b59fa4bc40769/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00vjcv0#p01j59gp> .
+<http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1240;9013~20131017T084500Z--PT0H20M0S> .
+<http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SQ5P6> .
+<http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00vjgzk#programme> .
+<http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00vjgzk> .
+<http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/e4f2702750b14d34887b59fa4bc40769/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/e4f2702750b14d34887b59fa4bc40769/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769#id> <http://www.w3.org/2000/01/rdf-schema#label> "Something Special"@en-gb .
+<http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/e4f2702750b14d34887b59fa4bc40769#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Something Special'"@en-gb .

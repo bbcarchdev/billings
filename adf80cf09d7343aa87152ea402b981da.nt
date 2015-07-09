@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da#id> .
+<http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03dzlvw#p01j5b6r> .
+<http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;fdaf4~20131017T080500Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da#version> .
+<http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da#id> <http://purl.org/ontology/po/schedule_date> "2013-10-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da#id> <http://www.w3.org/2000/01/rdf-schema#label> "Robert Peston Goes Shopping"@en-gb .
+<http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da> <http://purl.org/dc/terms/title> "Information about the broadcast 'Robert Peston Goes Shopping'"@en-gb .
+<http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b039w4lt> .
+<http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23UV9O> .
+<http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b039w4lt#programme> .
+<http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/adf80cf09d7343aa87152ea402b981da/player> .
+<http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da.nt> .
+<http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da#version> .
+<http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Robert Peston Goes Shopping"@en-gb .
+<http://devapi.bbcredux.com/adf80cf09d7343aa87152ea402b981da/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Robert Peston Goes Shopping'"@en-gb .
+<http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/adf80cf09d7343aa87152ea402b981da#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03dzlvw#programme> .
+<http://devapi.bbcredux.com/adf80cf09d7343aa87152ea402b981da/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/adf80cf09d7343aa87152ea402b981da/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/adf80cf09d7343aa87152ea402b981da/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .

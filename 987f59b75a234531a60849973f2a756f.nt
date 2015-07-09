@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03sh87t#p01pj6kc> .
+<http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4e4d9~20140110T193000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/5A7CJD> .
+<http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03sh88d#programme> .
+<http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b03sh87t#programme> .
+<http://devapi.bbcredux.com/987f59b75a234531a60849973f2a756f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/987f59b75a234531a60849973f2a756f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f#version> .
+<http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/987f59b75a234531a60849973f2a756f/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/987f59b75a234531a60849973f2a756f/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f#version> .
+<http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f.nt> .
+<http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f#id> <http://www.w3.org/2000/01/rdf-schema#label> "Battered Britain: Storms, Tides and..."@en-gb .
+<http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f> <http://purl.org/dc/terms/title> "Information about the broadcast 'Battered Britain: Storms, Tides and...'"@en-gb .
+<http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f#id> <http://purl.org/ontology/po/schedule_date> "2014-01-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f#id> .
+<http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Battered Britain: Storms, Tides and..."@en-gb .
+<http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Battered Britain: Storms, Tides and...'"@en-gb .
+<http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/987f59b75a234531a60849973f2a756f/player> .
+<http://billings.acropolis.org.uk/987f59b75a234531a60849973f2a756f#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b03sh88d> .
