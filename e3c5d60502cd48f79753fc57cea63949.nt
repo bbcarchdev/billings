@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Route Masters: Running London's...'"@en-gb .
+<http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0379n2m#programme> .
+<http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949#id> <http://purl.org/ontology/po/schedule_date> "2013-07-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/e3c5d60502cd48f79753fc57cea63949/player> .
+<http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Route Masters: Running London's...'"@en-gb .
+<http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Route Masters: Running London's..."@en-gb .
+<http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/2417LO> .
+<http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0379n2p#programme> .
+<http://devapi.bbcredux.com/e3c5d60502cd48f79753fc57cea63949/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://devapi.bbcredux.com/e3c5d60502cd48f79753fc57cea63949/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/e3c5d60502cd48f79753fc57cea63949/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Route Masters: Running London's..."@en-gb .
+<http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949#id> .
+<http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0379n2p> .
+<http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949#version> .
+<http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0379n2m#p01cjm2x> .
+<http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;fd33b~20130717T225000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949#version> .
+<http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/e3c5d60502cd48f79753fc57cea63949.nt> .
+<http://devapi.bbcredux.com/e3c5d60502cd48f79753fc57cea63949/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/f85e27bfff1e42fe91e91d64b1b94f6a/player> .
+<http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01pdv21> .
+<http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Cow That Almost Missed Christmas'"@en-gb .
+<http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIKT7> .
+<http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01pdv21#programme> .
+<http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Cow That Almost Missed Christmas'"@en-gb .
+<http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a#version> .
+<http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Cow That Almost Missed Christmas"@en-gb .
+<http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a#version> .
+<http://devapi.bbcredux.com/f85e27bfff1e42fe91e91d64b1b94f6a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/f85e27bfff1e42fe91e91d64b1b94f6a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/f85e27bfff1e42fe91e91d64b1b94f6a/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a#id> <http://purl.org/ontology/po/schedule_date> "2012-12-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Cow That Almost Missed Christmas"@en-gb .
+<http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a#id> .
+<http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01pdv16#p012f4g5> .
+<http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1240;cd35~20121219T163000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01pdv16#programme> .
+<http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a.nt> .
+<http://billings.acropolis.org.uk/f85e27bfff1e42fe91e91d64b1b94f6a#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/f85e27bfff1e42fe91e91d64b1b94f6a/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

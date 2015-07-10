@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf#version> .
+<http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/146cf4ab111b49a4a0c70eb8d3a93cdf/player> .
+<http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00257tt#programme> .
+<http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/146cf4ab111b49a4a0c70eb8d3a93cdf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/146cf4ab111b49a4a0c70eb8d3a93cdf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/146cf4ab111b49a4a0c70eb8d3a93cdf/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/146cf4ab111b49a4a0c70eb8d3a93cdf/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Vintage Antiques Roadshow'"@en-gb .
+<http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00257tt#p01576cd> .
+<http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;f9fce~20130225T171500Z--PT0H45M0S> .
+<http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Vintage Antiques Roadshow"@en-gb .
+<http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/5410BP> .
+<http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01r2r4d#programme> .
+<http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf#id> <http://purl.org/ontology/po/schedule_date> "2013-02-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf#version> .
+<http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf#id> .
+<http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf> <http://purl.org/dc/terms/title> "Information about the broadcast 'Vintage Antiques Roadshow'"@en-gb .
+<http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf#id> <http://www.w3.org/2000/01/rdf-schema#label> "Vintage Antiques Roadshow"@en-gb .
+<http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf.nt> .
+<http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/146cf4ab111b49a4a0c70eb8d3a93cdf#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01r2r4d> .

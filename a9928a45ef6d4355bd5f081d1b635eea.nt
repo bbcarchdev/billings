@@ -1,0 +1,24 @@
+<http://billings.acropolis.org.uk/a9928a45ef6d4355bd5f081d1b635eea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a9928a45ef6d4355bd5f081d1b635eea.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/a9928a45ef6d4355bd5f081d1b635eea#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/a9928a45ef6d4355bd5f081d1b635eea/player> .
+<http://billings.acropolis.org.uk/a9928a45ef6d4355bd5f081d1b635eea#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;fd437~20130715T063000Z--PT0H45M0S> .
+<http://billings.acropolis.org.uk/a9928a45ef6d4355bd5f081d1b635eea> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/a9928a45ef6d4355bd5f081d1b635eea.nt> .
+<http://billings.acropolis.org.uk/a9928a45ef6d4355bd5f081d1b635eea#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/a9928a45ef6d4355bd5f081d1b635eea#version> .
+<http://devapi.bbcredux.com/a9928a45ef6d4355bd5f081d1b635eea/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/a9928a45ef6d4355bd5f081d1b635eea/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/a9928a45ef6d4355bd5f081d1b635eea/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a9928a45ef6d4355bd5f081d1b635eea#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23V6JX> .
+<http://billings.acropolis.org.uk/a9928a45ef6d4355bd5f081d1b635eea#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/a9928a45ef6d4355bd5f081d1b635eea#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Bargain Hunt'"@en-gb .
+<http://billings.acropolis.org.uk/a9928a45ef6d4355bd5f081d1b635eea#id> <http://www.w3.org/2000/01/rdf-schema#label> "Bargain Hunt"@en-gb .
+<http://billings.acropolis.org.uk/a9928a45ef6d4355bd5f081d1b635eea#id> <http://purl.org/ontology/po/schedule_date> "2013-07-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/a9928a45ef6d4355bd5f081d1b635eea#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/a9928a45ef6d4355bd5f081d1b635eea/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/a9928a45ef6d4355bd5f081d1b635eea.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/a9928a45ef6d4355bd5f081d1b635eea#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/a9928a45ef6d4355bd5f081d1b635eea#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/a9928a45ef6d4355bd5f081d1b635eea#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/a9928a45ef6d4355bd5f081d1b635eea#version> .
+<http://billings.acropolis.org.uk/a9928a45ef6d4355bd5f081d1b635eea> <http://purl.org/dc/terms/title> "Information about the broadcast 'Bargain Hunt'"@en-gb .
+<http://billings.acropolis.org.uk/a9928a45ef6d4355bd5f081d1b635eea#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Bargain Hunt"@en-gb .
+<http://billings.acropolis.org.uk/a9928a45ef6d4355bd5f081d1b635eea.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/a9928a45ef6d4355bd5f081d1b635eea> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/a9928a45ef6d4355bd5f081d1b635eea#id> .

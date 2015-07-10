@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/86d5cbd7de724e0aa69c204076f1caac/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/86d5cbd7de724e0aa69c204076f1caac/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/86d5cbd7de724e0aa69c204076f1caac/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac#version> .
+<http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac#id> .
+<http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac#version> .
+<http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1RK8Z4> .
+<http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b018tsg6#programme> .
+<http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/86d5cbd7de724e0aa69c204076f1caac/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Live at the Apollo'"@en-gb .
+<http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/86d5cbd7de724e0aa69c204076f1caac/player> .
+<http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Live at the Apollo"@en-gb .
+<http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b018tsg6> .
+<http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac#id> <http://www.w3.org/2000/01/rdf-schema#label> "Live at the Apollo"@en-gb .
+<http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac#id> <http://purl.org/ontology/po/schedule_date> "2013-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b018tsg2#programme> .
+<http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b018tsg2#p015s2zz> .
+<http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10c0;b655~20130304T210000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac> <http://purl.org/dc/terms/title> "Information about the broadcast 'Live at the Apollo'"@en-gb .
+<http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac.nt> .
+<http://billings.acropolis.org.uk/86d5cbd7de724e0aa69c204076f1caac#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .

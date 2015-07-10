@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c#id> .
+<http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/1f6c2058bc4143048326a3662ebb550c/player> .
+<http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c#id> <http://www.w3.org/2000/01/rdf-schema#label> "Commons South London NHS Statement"@en-gb .
+<http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/TC829> .
+<http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01qc526#programme> .
+<http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01qc526> .
+<http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c#id> <http://purl.org/ontology/po/schedule_date> "2013-01-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01qc524#programme> .
+<http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01qc524#p013lxjy> .
+<http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1280;93dc~20130111T224000Z--PT0H20M0S> .
+<http://devapi.bbcredux.com/1f6c2058bc4143048326a3662ebb550c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/1f6c2058bc4143048326a3662ebb550c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c.nt> .
+<http://devapi.bbcredux.com/1f6c2058bc4143048326a3662ebb550c/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c#version> .
+<http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Commons South London NHS Statement'"@en-gb .
+<http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Commons South London NHS Statement"@en-gb .
+<http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/1f6c2058bc4143048326a3662ebb550c/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c#version> .
+<http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c> <http://purl.org/dc/terms/title> "Information about the broadcast 'Commons South London NHS Statement'"@en-gb .
+<http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/1f6c2058bc4143048326a3662ebb550c.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .

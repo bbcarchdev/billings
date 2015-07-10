@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada#version> .
+<http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01pwtvf> .
+<http://devapi.bbcredux.com/58b7f16fe9594ce78d06ec0c66375ada/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Riviera: A History in Pictures"@en-gb .
+<http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/247LDB> .
+<http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01pwtvf#programme> .
+<http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/58b7f16fe9594ce78d06ec0c66375ada/player> .
+<http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Riviera: A History in Pictures"@en-gb .
+<http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Riviera: A History in Pictures'"@en-gb .
+<http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada.nt> .
+<http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada#id> .
+<http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Riviera: A History in Pictures'"@en-gb .
+<http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01pwtsl#programme> .
+<http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01pwtsl#p01b2tkf> .
+<http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..11c0;8f56~20130616T003000Z--PT1H0M0S> .
+<http://devapi.bbcredux.com/58b7f16fe9594ce78d06ec0c66375ada/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/58b7f16fe9594ce78d06ec0c66375ada/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada#version> .
+<http://billings.acropolis.org.uk/58b7f16fe9594ce78d06ec0c66375ada#id> <http://purl.org/ontology/po/schedule_date> "2013-06-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/58b7f16fe9594ce78d06ec0c66375ada/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

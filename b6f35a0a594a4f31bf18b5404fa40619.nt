@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619#id> .
+<http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01sgkg8> .
+<http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619#id> <http://purl.org/ontology/po/schedule_date> "2013-04-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619.nt> .
+<http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619#version> .
+<http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/UHZE6> .
+<http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01sgkg8#programme> .
+<http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Prorogation of Parliament'"@en-gb .
+<http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01sgkg2#p0186ks1> .
+<http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1280;a401~20130426T122000Z--PT0H40M0S> .
+<http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01sgkg2#programme> .
+<http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/b6f35a0a594a4f31bf18b5404fa40619/player> .
+<http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619#version> .
+<http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/b6f35a0a594a4f31bf18b5404fa40619/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/b6f35a0a594a4f31bf18b5404fa40619/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Prorogation of Parliament"@en-gb .
+<http://devapi.bbcredux.com/b6f35a0a594a4f31bf18b5404fa40619/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/b6f35a0a594a4f31bf18b5404fa40619/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619#id> <http://www.w3.org/2000/01/rdf-schema#label> "Prorogation of Parliament"@en-gb .
+<http://billings.acropolis.org.uk/b6f35a0a594a4f31bf18b5404fa40619> <http://purl.org/dc/terms/title> "Information about the broadcast 'Prorogation of Parliament'"@en-gb .

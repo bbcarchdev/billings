@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/TQHXZ> .
+<http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01r2j8l#programme> .
+<http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Bottom Line'"@en-gb .
+<http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Bottom Line'"@en-gb .
+<http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcnews24#id> .
+<http://devapi.bbcredux.com/7c32a41a3a2643c59ebe3f5f77f8223e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/7c32a41a3a2643c59ebe3f5f77f8223e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e.nt> .
+<http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Bottom Line"@en-gb .
+<http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e#id> .
+<http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01r2j2p#p0153w30> .
+<http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1100;b684~20130223T043000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01r2j2p#programme> .
+<http://devapi.bbcredux.com/7c32a41a3a2643c59ebe3f5f77f8223e/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/7c32a41a3a2643c59ebe3f5f77f8223e/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01r2j8l> .
+<http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e#version> .
+<http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Bottom Line"@en-gb .
+<http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/7c32a41a3a2643c59ebe3f5f77f8223e/player> .
+<http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e#id> <http://purl.org/ontology/po/schedule_date> "2013-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e#version> .
+<http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/7c32a41a3a2643c59ebe3f5f77f8223e#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .

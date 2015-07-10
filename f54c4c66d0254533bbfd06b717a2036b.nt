@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01bf42q#p012y4df> .
+<http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1200;a2c9~20130105T143000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b#version> .
+<http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b#id> <http://www.w3.org/2000/01/rdf-schema#label> "All Over the Place"@en-gb .
+<http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b#episode> <http://www.w3.org/2000/01/rdf-schema#label> "All Over the Place"@en-gb .
+<http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01bf42z> .
+<http://devapi.bbcredux.com/f54c4c66d0254533bbfd06b717a2036b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/f54c4c66d0254533bbfd06b717a2036b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b#id> .
+<http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b#id> <http://purl.org/ontology/po/schedule_date> "2013-01-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'All Over the Place'"@en-gb .
+<http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01bf42q#programme> .
+<http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b> <http://purl.org/dc/terms/title> "Information about the broadcast 'All Over the Place'"@en-gb .
+<http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b.nt> .
+<http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/T2QFV> .
+<http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01bf42z#programme> .
+<http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/f54c4c66d0254533bbfd06b717a2036b/player> .
+<http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/f54c4c66d0254533bbfd06b717a2036b#version> .
+<http://devapi.bbcredux.com/f54c4c66d0254533bbfd06b717a2036b/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://devapi.bbcredux.com/f54c4c66d0254533bbfd06b717a2036b/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

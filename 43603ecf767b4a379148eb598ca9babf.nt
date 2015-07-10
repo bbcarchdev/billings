@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Baby Bomb"@en-gb .
+<http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01rgrnt#p0169z4g> .
+<http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10c0;b6c3~20130322T003000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/43603ecf767b4a379148eb598ca9babf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/43603ecf767b4a379148eb598ca9babf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Baby Bomb"@en-gb .
+<http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf#version> .
+<http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/240UOP> .
+<http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/p00xs0jr#programme> .
+<http://devapi.bbcredux.com/43603ecf767b4a379148eb598ca9babf/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/p00xs0jr> .
+<http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf#version> .
+<http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf.nt> .
+<http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Baby Bomb'"@en-gb .
+<http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/43603ecf767b4a379148eb598ca9babf/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Baby Bomb'"@en-gb .
+<http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf#id> .
+<http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/43603ecf767b4a379148eb598ca9babf/player> .
+<http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf#id> <http://purl.org/ontology/po/schedule_date> "2013-03-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/43603ecf767b4a379148eb598ca9babf#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01rgrnt#programme> .

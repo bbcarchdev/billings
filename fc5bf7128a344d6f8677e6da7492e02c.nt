@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c#id> .
+<http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SW20J> .
+<http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01sfhwj#programme> .
+<http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c#version> .
+<http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c.nt> .
+<http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c#id> <http://www.w3.org/2000/01/rdf-schema#label> "Magic Hands"@en-gb .
+<http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/fc5bf7128a344d6f8677e6da7492e02c/player> .
+<http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01sfhtz#p01ddh8q> .
+<http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1240;dd61~20130805T142500Z--PT0H5M0S> .
+<http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01sfhwj> .
+<http://devapi.bbcredux.com/fc5bf7128a344d6f8677e6da7492e02c/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c#id> <http://purl.org/ontology/po/schedule_date> "2013-08-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01sfhtz#programme> .
+<http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/fc5bf7128a344d6f8677e6da7492e02c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/fc5bf7128a344d6f8677e6da7492e02c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Magic Hands"@en-gb .
+<http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c#version> .
+<http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c> <http://purl.org/dc/terms/title> "Information about the broadcast 'Magic Hands'"@en-gb .
+<http://billings.acropolis.org.uk/fc5bf7128a344d6f8677e6da7492e02c#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Magic Hands'"@en-gb .
+<http://devapi.bbcredux.com/fc5bf7128a344d6f8677e6da7492e02c/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

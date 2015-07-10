@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8#id> .
+<http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Open All Hours"@en-gb .
+<http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8> <http://purl.org/dc/terms/title> "Information about the broadcast 'Open All Hours'"@en-gb .
+<http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8#version> .
+<http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/67a55384a362414dafcac430e29006b8/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4GYKM8> .
+<http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007c3nc#programme> .
+<http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8#id> <http://www.w3.org/2000/01/rdf-schema#label> "Open All Hours"@en-gb .
+<http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8.nt> .
+<http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0006g6s#p0151hzs> .
+<http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;f9f3a~20130217T193000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8#version> .
+<http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8#id> <http://purl.org/ontology/po/schedule_date> "2013-02-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/67a55384a362414dafcac430e29006b8/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/67a55384a362414dafcac430e29006b8/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/67a55384a362414dafcac430e29006b8/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0006g6s#programme> .
+<http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b007c3nc> .
+<http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Open All Hours'"@en-gb .
+<http://billings.acropolis.org.uk/67a55384a362414dafcac430e29006b8#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/67a55384a362414dafcac430e29006b8/player> .

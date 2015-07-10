@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b016z6pk#programme> .
+<http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Mike the Knight'"@en-gb .
+<http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade.nt> .
+<http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Mike the Knight"@en-gb .
+<http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/9ca7c2614dc142d2af498b8a4308fade/player> .
+<http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade#id> <http://www.w3.org/2000/01/rdf-schema#label> "Mike the Knight"@en-gb .
+<http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade#version> .
+<http://devapi.bbcredux.com/9ca7c2614dc142d2af498b8a4308fade/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/9ca7c2614dc142d2af498b8a4308fade/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade> <http://purl.org/dc/terms/title> "Information about the broadcast 'Mike the Knight'"@en-gb .
+<http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade#version> .
+<http://devapi.bbcredux.com/9ca7c2614dc142d2af498b8a4308fade/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/9ca7c2614dc142d2af498b8a4308fade/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade#id> .
+<http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIKP7> .
+<http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0170d8y#programme> .
+<http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade#id> <http://purl.org/ontology/po/schedule_date> "2013-03-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0170d8y> .
+<http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b016z6pk#p016pn9z> .
+<http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1240;92b0~20130331T105000Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/9ca7c2614dc142d2af498b8a4308fade.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .

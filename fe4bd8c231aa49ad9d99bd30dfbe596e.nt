@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e#id> .
+<http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00sqw9b> .
+<http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Timmy Time"@en-gb .
+<http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIIN1> .
+<http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00sqw9b#programme> .
+<http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e#id> <http://www.w3.org/2000/01/rdf-schema#label> "Timmy Time"@en-gb .
+<http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e#version> .
+<http://devapi.bbcredux.com/fe4bd8c231aa49ad9d99bd30dfbe596e/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e#id> <http://purl.org/ontology/po/schedule_date> "2013-05-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00sqw4c#programme> .
+<http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e.nt> .
+<http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/fe4bd8c231aa49ad9d99bd30dfbe596e/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/fe4bd8c231aa49ad9d99bd30dfbe596e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/fe4bd8c231aa49ad9d99bd30dfbe596e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e#version> .
+<http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Timmy Time'"@en-gb .
+<http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/fe4bd8c231aa49ad9d99bd30dfbe596e/player> .
+<http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e> <http://purl.org/dc/terms/title> "Information about the broadcast 'Timmy Time'"@en-gb .
+<http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00sqw4c#p018v455> .
+<http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1240;ab6b~20130517T072000Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/fe4bd8c231aa49ad9d99bd30dfbe596e#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .

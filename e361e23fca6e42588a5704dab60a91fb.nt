@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb#version> .
+<http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb#version> .
+<http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/2412R9> .
+<http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ykm6t#programme> .
+<http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb#id> <http://www.w3.org/2000/01/rdf-schema#label> "Great Movie Mistakes 2: The Sequel"@en-gb .
+<http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ykm6f#p0179bdz> .
+<http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10c0;b9ad~20130413T180000Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb#id> <http://purl.org/ontology/po/schedule_date> "2013-04-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/e361e23fca6e42588a5704dab60a91fb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/e361e23fca6e42588a5704dab60a91fb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb#id> .
+<http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00ykm6t> .
+<http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb> <http://purl.org/dc/terms/title> "Information about the broadcast 'Great Movie Mistakes 2: The Sequel'"@en-gb .
+<http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/e361e23fca6e42588a5704dab60a91fb/player> .
+<http://devapi.bbcredux.com/e361e23fca6e42588a5704dab60a91fb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/e361e23fca6e42588a5704dab60a91fb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb.nt> .
+<http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Great Movie Mistakes 2: The Sequel'"@en-gb .
+<http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ykm6f#programme> .
+<http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Great Movie Mistakes 2: The Sequel"@en-gb .
+<http://billings.acropolis.org.uk/e361e23fca6e42588a5704dab60a91fb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .

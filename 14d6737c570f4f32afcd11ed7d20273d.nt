@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d.nt> .
+<http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'CBeebies Bedtime Stories'"@en-gb .
+<http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d#id> <http://purl.org/ontology/po/schedule_date> "2013-05-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01pj0lp#p018jmdn> .
+<http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1240;a9aa~20130511T175000Z--PT0H8M0S> .
+<http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01pj0qh> .
+<http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d#version> .
+<http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d#version> .
+<http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d#id> .
+<http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d#episode> <http://www.w3.org/2000/01/rdf-schema#label> "CBeebies Bedtime Stories"@en-gb .
+<http://devapi.bbcredux.com/14d6737c570f4f32afcd11ed7d20273d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/14d6737c570f4f32afcd11ed7d20273d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/14d6737c570f4f32afcd11ed7d20273d/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/14d6737c570f4f32afcd11ed7d20273d/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/14d6737c570f4f32afcd11ed7d20273d/player> .
+<http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01pj0lp#programme> .
+<http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SQBTG> .
+<http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01pj0qh#programme> .
+<http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d#id> <http://www.w3.org/2000/01/rdf-schema#label> "CBeebies Bedtime Stories"@en-gb .
+<http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d> <http://purl.org/dc/terms/title> "Information about the broadcast 'CBeebies Bedtime Stories'"@en-gb .
+<http://billings.acropolis.org.uk/14d6737c570f4f32afcd11ed7d20273d#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .

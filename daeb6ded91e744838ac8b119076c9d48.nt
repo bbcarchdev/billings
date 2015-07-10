@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48#version> .
+<http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48#id> <http://purl.org/ontology/po/schedule_date> "2012-12-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/daeb6ded91e744838ac8b119076c9d48/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/daeb6ded91e744838ac8b119076c9d48/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/daeb6ded91e744838ac8b119076c9d48/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Energy and Climate Change Committee"@en-gb .
+<http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48#version> .
+<http://devapi.bbcredux.com/daeb6ded91e744838ac8b119076c9d48/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48#id> <http://www.w3.org/2000/01/rdf-schema#label> "Energy and Climate Change Committee"@en-gb .
+<http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SYQED> .
+<http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01pp16s#programme> .
+<http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Energy and Climate Change Committee'"@en-gb .
+<http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01pp16s> .
+<http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48.nt> .
+<http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/daeb6ded91e744838ac8b119076c9d48/player> .
+<http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01pp138#p012l600> .
+<http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1280;8f6d~20121222T163500Z--PT2H50M0S> .
+<http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01pp138#programme> .
+<http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48> <http://purl.org/dc/terms/title> "Information about the broadcast 'Energy and Climate Change Committee'"@en-gb .
+<http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/daeb6ded91e744838ac8b119076c9d48#id> .

@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf#id> <http://purl.org/ontology/po/schedule_date> "2013-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01s23nm#p017fxqv> .
+<http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;fe86b~20130416T173000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Helicopter Heroes Down Under'"@en-gb .
+<http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf#id> <http://www.w3.org/2000/01/rdf-schema#label> "Helicopter Heroes Down Under"@en-gb .
+<http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01s23nm#programme> .
+<http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf#id> .
+<http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf> <http://purl.org/dc/terms/title> "Information about the broadcast 'Helicopter Heroes Down Under'"@en-gb .
+<http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23V6OF> .
+<http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01s23np#programme> .
+<http://devapi.bbcredux.com/030b59facfa34538b2310d87e71b4fcf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/030b59facfa34538b2310d87e71b4fcf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf#version> .
+<http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf.nt> .
+<http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Helicopter Heroes Down Under"@en-gb .
+<http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf#version> .
+<http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01s23np> .
+<http://devapi.bbcredux.com/030b59facfa34538b2310d87e71b4fcf/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/030b59facfa34538b2310d87e71b4fcf#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/030b59facfa34538b2310d87e71b4fcf/player> .
+<http://devapi.bbcredux.com/030b59facfa34538b2310d87e71b4fcf/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

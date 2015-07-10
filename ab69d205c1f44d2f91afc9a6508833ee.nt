@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/ab69d205c1f44d2f91afc9a6508833ee/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/ab69d205c1f44d2f91afc9a6508833ee/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/ab69d205c1f44d2f91afc9a6508833ee/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee> <http://purl.org/dc/terms/title> "Information about the broadcast 'Raa Raa the Noisy Lion'"@en-gb .
+<http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee#id> .
+<http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee.nt> .
+<http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01c1dts> .
+<http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01c18ys#programme> .
+<http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Raa Raa the Noisy Lion'"@en-gb .
+<http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee#version> .
+<http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/ab69d205c1f44d2f91afc9a6508833ee/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee#id> <http://purl.org/ontology/po/schedule_date> "2013-01-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Raa Raa the Noisy Lion"@en-gb .
+<http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee#version> .
+<http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01c18ys#p013qzjl> .
+<http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1240;ddd1~20130122T153000Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIKQV> .
+<http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01c1dts#programme> .
+<http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee#id> <http://www.w3.org/2000/01/rdf-schema#label> "Raa Raa the Noisy Lion"@en-gb .
+<http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/ab69d205c1f44d2f91afc9a6508833ee/player> .
+<http://billings.acropolis.org.uk/ab69d205c1f44d2f91afc9a6508833ee#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .

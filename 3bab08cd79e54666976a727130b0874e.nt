@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/3bab08cd79e54666976a727130b0874e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/3bab08cd79e54666976a727130b0874e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e#version> .
+<http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01qy21m#p017pxxd> .
+<http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;f9027~20130423T040500Z--PT0H5M0S> .
+<http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e#id> .
+<http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4OI404> .
+<http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01qy21w#programme> .
+<http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e.nt> .
+<http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/3bab08cd79e54666976a727130b0874e/player> .
+<http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e#id> <http://www.w3.org/2000/01/rdf-schema#label> "What Makes Me, Me? And Other..."@en-gb .
+<http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e#episode> <http://www.w3.org/2000/01/rdf-schema#label> "What Makes Me, Me? And Other..."@en-gb .
+<http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e#version> .
+<http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/3bab08cd79e54666976a727130b0874e/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01qy21m#programme> .
+<http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e#id> <http://purl.org/ontology/po/schedule_date> "2013-04-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'What Makes Me, Me? And Other...'"@en-gb .
+<http://devapi.bbcredux.com/3bab08cd79e54666976a727130b0874e/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01qy21w> .
+<http://billings.acropolis.org.uk/3bab08cd79e54666976a727130b0874e> <http://purl.org/dc/terms/title> "Information about the broadcast 'What Makes Me, Me? And Other...'"@en-gb .

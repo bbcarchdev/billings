@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b02xdp5j#p01b11r5> .
+<http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1280;a72f~20130613T163000Z--PT2H30M0S> .
+<http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1DPKY6> .
+<http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b02xdpdz#programme> .
+<http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9> <http://purl.org/dc/terms/title> "Information about the broadcast 'House of Lords - Priorities for the G8'"@en-gb .
+<http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9#version> .
+<http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9#version> .
+<http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9.nt> .
+<http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b02xdp5j#programme> .
+<http://devapi.bbcredux.com/d18b583ba8a94186b13f172148dafbc9/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/d18b583ba8a94186b13f172148dafbc9/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/d18b583ba8a94186b13f172148dafbc9/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9#episode> <http://www.w3.org/2000/01/rdf-schema#label> "House of Lords - Priorities for the G8"@en-gb .
+<http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9#id> <http://purl.org/ontology/po/schedule_date> "2013-06-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'House of Lords - Priorities for the G8'"@en-gb .
+<http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b02xdpdz> .
+<http://devapi.bbcredux.com/d18b583ba8a94186b13f172148dafbc9/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9#id> <http://www.w3.org/2000/01/rdf-schema#label> "House of Lords - Priorities for the G8"@en-gb .
+<http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/d18b583ba8a94186b13f172148dafbc9/player> .
+<http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/d18b583ba8a94186b13f172148dafbc9#id> .

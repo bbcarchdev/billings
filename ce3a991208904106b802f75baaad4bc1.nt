@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/ce3a991208904106b802f75baaad4bc1/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/ce3a991208904106b802f75baaad4bc1/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/240UPV> .
+<http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01py4x8#programme> .
+<http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1> <http://purl.org/dc/terms/title> "Information about the broadcast 'Food Inspectors'"@en-gb .
+<http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1#id> <http://www.w3.org/2000/01/rdf-schema#label> "Food Inspectors"@en-gb .
+<http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/ce3a991208904106b802f75baaad4bc1/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Food Inspectors"@en-gb .
+<http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1#version> .
+<http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Food Inspectors'"@en-gb .
+<http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1.nt> .
+<http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01py4vy#programme> .
+<http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01py4x8> .
+<http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/ce3a991208904106b802f75baaad4bc1/player> .
+<http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1#version> .
+<http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01py4vy#p012xzhl> .
+<http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4c6d5~20130109T200000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1#id> .
+<http://billings.acropolis.org.uk/ce3a991208904106b802f75baaad4bc1#id> <http://purl.org/ontology/po/schedule_date> "2013-01-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/ce3a991208904106b802f75baaad4bc1/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
