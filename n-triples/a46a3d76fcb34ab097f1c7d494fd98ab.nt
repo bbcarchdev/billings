@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab.nt> .
+<http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/a46a3d76fcb34ab097f1c7d494fd98ab/player> .
+<http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab#id> <http://purl.org/ontology/po/schedule_date> "2012-08-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/a46a3d76fcb34ab097f1c7d494fd98ab/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/a46a3d76fcb34ab097f1c7d494fd98ab/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/a46a3d76fcb34ab097f1c7d494fd98ab/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab#version> .
+<http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b006ypcx#programme> .
+<http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab#version> .
+<http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b006ypcx#p00xhl7n> .
+<http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1200;e8c4~20120826T070000Z--PT1H10M0S> .
+<http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Scooby-Doo and the Loch Ness..."@en-gb .
+<http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab> <http://purl.org/dc/terms/title> "Information about the broadcast 'Scooby-Doo and the Loch Ness...'"@en-gb .
+<http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab#id> .
+<http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIKXR> .
+<http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01hpdh5#programme> .
+<http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab#id> <http://www.w3.org/2000/01/rdf-schema#label> "Scooby-Doo and the Loch Ness..."@en-gb .
+<http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Scooby-Doo and the Loch Ness...'"@en-gb .
+<http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a46a3d76fcb34ab097f1c7d494fd98ab#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01hpdh5> .
+<http://devapi.bbcredux.com/a46a3d76fcb34ab097f1c7d494fd98ab/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

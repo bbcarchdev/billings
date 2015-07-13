@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e#id> <http://purl.org/ontology/po/schedule_date> "2011-10-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/bed9ed67f7ed440e95d3baa1c4524f5e/player> .
+<http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Trust Me I'm a Genie"@en-gb .
+<http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b016yq1z#p00lbpl9> .
+<http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4a793~20111031T073000Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e#version> .
+<http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e#id> <http://www.w3.org/2000/01/rdf-schema#label> "Trust Me I'm a Genie"@en-gb .
+<http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b016yq7d> .
+<http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Trust Me I'm a Genie'"@en-gb .
+<http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b016yq1z#programme> .
+<http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e.nt> .
+<http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e#id> .
+<http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e#version> .
+<http://devapi.bbcredux.com/bed9ed67f7ed440e95d3baa1c4524f5e/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e> <http://purl.org/dc/terms/title> "Information about the broadcast 'Trust Me I'm a Genie'"@en-gb .
+<http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIKKY> .
+<http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b016yq7d#programme> .
+<http://billings.acropolis.org.uk/bed9ed67f7ed440e95d3baa1c4524f5e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/bed9ed67f7ed440e95d3baa1c4524f5e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/bed9ed67f7ed440e95d3baa1c4524f5e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/bed9ed67f7ed440e95d3baa1c4524f5e/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

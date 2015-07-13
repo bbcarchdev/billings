@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b#version> .
+<http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/45a6ef46d661494685d4cbd40fc8d16b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/45a6ef46d661494685d4cbd40fc8d16b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b.nt> .
+<http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b018026q> .
+<http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Accidental Husband"@en-gb .
+<http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/45a6ef46d661494685d4cbd40fc8d16b/player> .
+<http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Accidental Husband"@en-gb .
+<http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00mxbnm#p00thx0s> .
+<http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10c0;dc51~20120613T200000Z--PT1H25M0S> .
+<http://devapi.bbcredux.com/45a6ef46d661494685d4cbd40fc8d16b/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00mxbnm#programme> .
+<http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b#id> .
+<http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4J62FC> .
+<http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b018026q#programme> .
+<http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b#id> <http://purl.org/ontology/po/schedule_date> "2012-06-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Accidental Husband'"@en-gb .
+<http://devapi.bbcredux.com/45a6ef46d661494685d4cbd40fc8d16b/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Accidental Husband'"@en-gb .
+<http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b#version> .
+<http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/45a6ef46d661494685d4cbd40fc8d16b#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .

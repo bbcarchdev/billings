@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0124y7b#p00hmf2s> .
+<http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;fa078~20110625T024500Z--PT0H30M0S> .
+<http://devapi.bbcredux.com/9e30b7615d024e33b81a16e92d22749d/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d#version> .
+<http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Angry Boys"@en-gb .
+<http://devapi.bbcredux.com/9e30b7615d024e33b81a16e92d22749d/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/9e30b7615d024e33b81a16e92d22749d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/9e30b7615d024e33b81a16e92d22749d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4J62JZ> .
+<http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0124y8h#programme> .
+<http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d> <http://purl.org/dc/terms/title> "Information about the broadcast 'Angry Boys'"@en-gb .
+<http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d.nt> .
+<http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0124y8h> .
+<http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0124y7b#programme> .
+<http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d#id> <http://www.w3.org/2000/01/rdf-schema#label> "Angry Boys"@en-gb .
+<http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d#id> .
+<http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d#id> <http://purl.org/ontology/po/schedule_date> "2011-06-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Angry Boys'"@en-gb .
+<http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/9e30b7615d024e33b81a16e92d22749d/player> .
+<http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d#version> .
+<http://billings.acropolis.org.uk/9e30b7615d024e33b81a16e92d22749d#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .

@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01nj2zt> .
+<http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4J62YT> .
+<http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01nj2zt#programme> .
+<http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Inspector Montalbano"@en-gb .
+<http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e.nt> .
+<http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e> <http://purl.org/dc/terms/title> "Information about the broadcast 'Inspector Montalbano'"@en-gb .
+<http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e#id> <http://www.w3.org/2000/01/rdf-schema#label> "Inspector Montalbano"@en-gb .
+<http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/954945963aa7449f97aa162a1d8d167e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/954945963aa7449f97aa162a1d8d167e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e#version> .
+<http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e#id> <http://purl.org/ontology/po/schedule_date> "2012-10-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/954945963aa7449f97aa162a1d8d167e/player> .
+<http://devapi.bbcredux.com/954945963aa7449f97aa162a1d8d167e/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e#version> .
+<http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01nj2xh#programme> .
+<http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Inspector Montalbano'"@en-gb .
+<http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01nj2xh#p00znm2d> .
+<http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..11c0;cd6e~20121020T200000Z--PT1H45M0S> .
+<http://devapi.bbcredux.com/954945963aa7449f97aa162a1d8d167e/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e#id> .
+<http://billings.acropolis.org.uk/954945963aa7449f97aa162a1d8d167e#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .

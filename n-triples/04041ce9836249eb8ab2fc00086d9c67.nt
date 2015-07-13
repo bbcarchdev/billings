@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0121pls#p00jw8yf> .
+<http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;e641~20110825T094500Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67#id> <http://purl.org/ontology/po/schedule_date> "2011-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67#version> .
+<http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67> <http://purl.org/dc/terms/title> "Information about the broadcast 'Same Smile'"@en-gb .
+<http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0121pls#programme> .
+<http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/04041ce9836249eb8ab2fc00086d9c67/player> .
+<http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67#id> .
+<http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67.nt> .
+<http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67#id> <http://www.w3.org/2000/01/rdf-schema#label> "Same Smile"@en-gb .
+<http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0121q6d> .
+<http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Same Smile'"@en-gb .
+<http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Same Smile"@en-gb .
+<http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/04041ce9836249eb8ab2fc00086d9c67/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/04041ce9836249eb8ab2fc00086d9c67/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67#version> .
+<http://devapi.bbcredux.com/04041ce9836249eb8ab2fc00086d9c67/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/T2Q9Q> .
+<http://billings.acropolis.org.uk/04041ce9836249eb8ab2fc00086d9c67#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0121q6d#programme> .
+<http://devapi.bbcredux.com/04041ce9836249eb8ab2fc00086d9c67/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

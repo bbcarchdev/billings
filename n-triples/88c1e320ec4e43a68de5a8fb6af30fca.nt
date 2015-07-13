@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca#version> .
+<http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca#id> .
+<http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b014hn1l#programme> .
+<http://devapi.bbcredux.com/88c1e320ec4e43a68de5a8fb6af30fca/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/88c1e320ec4e43a68de5a8fb6af30fca/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1RKDKJ> .
+<http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b014hn1n#programme> .
+<http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca#id> <http://purl.org/ontology/po/schedule_date> "2011-09-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b014hn1n> .
+<http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/88c1e320ec4e43a68de5a8fb6af30fca/player> .
+<http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca.nt> .
+<http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Shooting Stars"@en-gb .
+<http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://devapi.bbcredux.com/88c1e320ec4e43a68de5a8fb6af30fca/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/88c1e320ec4e43a68de5a8fb6af30fca/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca#id> <http://www.w3.org/2000/01/rdf-schema#label> "Shooting Stars"@en-gb .
+<http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Shooting Stars'"@en-gb .
+<http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca> <http://purl.org/dc/terms/title> "Information about the broadcast 'Shooting Stars'"@en-gb .
+<http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca#version> .
+<http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b014hn1l#p00k1m0z> .
+<http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4d558~20110905T210000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/88c1e320ec4e43a68de5a8fb6af30fca#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .

@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa#id> <http://purl.org/ontology/po/schedule_date> "2012-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Woolly & Tig'"@en-gb .
+<http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa#version> .
+<http://devapi.bbcredux.com/bc133b7d25c647d1af74171e7cbbeafa/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/bc133b7d25c647d1af74171e7cbbeafa/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01f852f> .
+<http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Woolly & Tig"@en-gb .
+<http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa.nt> .
+<http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01f8529#programme> .
+<http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SW15V> .
+<http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01f852f#programme> .
+<http://devapi.bbcredux.com/bc133b7d25c647d1af74171e7cbbeafa/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa#version> .
+<http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa> <http://purl.org/dc/terms/title> "Information about the broadcast 'Woolly & Tig'"@en-gb .
+<http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa#id> <http://www.w3.org/2000/01/rdf-schema#label> "Woolly & Tig"@en-gb .
+<http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/bc133b7d25c647d1af74171e7cbbeafa/player> .
+<http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01f8529#p0111ytc> .
+<http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1240;bc6c~20121119T081000Z--PT0H5M0S> .
+<http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/bc133b7d25c647d1af74171e7cbbeafa#id> .
+<http://devapi.bbcredux.com/bc133b7d25c647d1af74171e7cbbeafa/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf.nt> .
+<http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf#version> .
+<http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf#id> <http://purl.org/ontology/po/schedule_date> "2011-09-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/aac3b225c5ac4e28b9839f82bc771acf/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf> <http://purl.org/dc/terms/title> "Information about the broadcast 'League of Super Evil'"@en-gb .
+<http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00zn5yq#programme> .
+<http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf#version> .
+<http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf#id> .
+<http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/aac3b225c5ac4e28b9839f82bc771acf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/aac3b225c5ac4e28b9839f82bc771acf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIK31> .
+<http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00zn6cw#programme> .
+<http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf#episode> <http://www.w3.org/2000/01/rdf-schema#label> "League of Super Evil"@en-gb .
+<http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf#id> <http://www.w3.org/2000/01/rdf-schema#label> "League of Super Evil"@en-gb .
+<http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00zn6cw> .
+<http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00zn5yq#p00kdvd2> .
+<http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4e5e7~20110920T064500Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/aac3b225c5ac4e28b9839f82bc771acf/player> .
+<http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'League of Super Evil'"@en-gb .
+<http://devapi.bbcredux.com/aac3b225c5ac4e28b9839f82bc771acf/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/aac3b225c5ac4e28b9839f82bc771acf.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .

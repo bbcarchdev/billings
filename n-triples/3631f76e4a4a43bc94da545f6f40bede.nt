@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/3631f76e4a4a43bc94da545f6f40bede/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede.nt> .
+<http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Andrew Marr's History of the World"@en-gb .
+<http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede> <http://purl.org/dc/terms/title> "Information about the broadcast 'Andrew Marr's History of the World'"@en-gb .
+<http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede#id> .
+<http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23VBXH> .
+<http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/p00xnvvn#programme> .
+<http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede#id> <http://purl.org/ontology/po/schedule_date> "2012-11-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/3631f76e4a4a43bc94da545f6f40bede/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/3631f76e4a4a43bc94da545f6f40bede/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01nv9n1#p010g5wr> .
+<http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4dc9c~20121108T024000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/p00xnvvn> .
+<http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede#version> .
+<http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede#version> .
+<http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/3631f76e4a4a43bc94da545f6f40bede/player> .
+<http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Andrew Marr's History of the World'"@en-gb .
+<http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01nv9n1#programme> .
+<http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede#id> <http://www.w3.org/2000/01/rdf-schema#label> "Andrew Marr's History of the World"@en-gb .
+<http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/3631f76e4a4a43bc94da545f6f40bede> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/3631f76e4a4a43bc94da545f6f40bede/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

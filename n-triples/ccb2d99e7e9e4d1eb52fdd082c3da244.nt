@@ -1,0 +1,27 @@
+<http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244#version> .
+<http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244.nt> .
+<http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0078r67#programme> .
+<http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/ccb2d99e7e9e4d1eb52fdd082c3da244/player> .
+<http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244#id> <http://purl.org/ontology/po/schedule_date> "2011-12-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/ccb2d99e7e9e4d1eb52fdd082c3da244/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/ccb2d99e7e9e4d1eb52fdd082c3da244/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244#id> <http://www.w3.org/2000/01/rdf-schema#label> "Mackenna's Gold"@en-gb .
+<http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244> <http://purl.org/dc/terms/title> "Information about the broadcast 'Mackenna's Gold'"@en-gb .
+<http://devapi.bbcredux.com/ccb2d99e7e9e4d1eb52fdd082c3da244/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/ccb2d99e7e9e4d1eb52fdd082c3da244/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00025v4#programme> .
+<http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0078r67> .
+<http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Mackenna's Gold'"@en-gb .
+<http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00025v4#p00mjp1y> .
+<http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;49549~20111221T143000Z--PT2H5M0S> .
+<http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Mackenna's Gold"@en-gb .
+<http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244#version> .
+<http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244#id> .
+<http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/ccb2d99e7e9e4d1eb52fdd082c3da244#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .

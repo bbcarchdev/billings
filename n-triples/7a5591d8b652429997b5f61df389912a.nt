@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a> <http://purl.org/dc/terms/title> "Information about the broadcast 'Big City Park'"@en-gb .
+<http://devapi.bbcredux.com/7a5591d8b652429997b5f61df389912a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/7a5591d8b652429997b5f61df389912a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a#id> <http://www.w3.org/2000/01/rdf-schema#label> "Big City Park"@en-gb .
+<http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a#id> <http://purl.org/ontology/po/schedule_date> "2011-04-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/7a5591d8b652429997b5f61df389912a/player> .
+<http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a#id> .
+<http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a#version> .
+<http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Big City Park'"@en-gb .
+<http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/T2Q24> .
+<http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00tl4x5#programme> .
+<http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00tl4x5> .
+<http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a#version> .
+<http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a.nt> .
+<http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Big City Park"@en-gb .
+<http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00tl3yh#p00g64c7> .
+<http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;c763~20110415T094500Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00tl3yh#programme> .
+<http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/7a5591d8b652429997b5f61df389912a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/7a5591d8b652429997b5f61df389912a/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/7a5591d8b652429997b5f61df389912a/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .

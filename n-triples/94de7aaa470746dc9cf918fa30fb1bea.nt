@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea> <http://purl.org/dc/terms/title> "Information about the broadcast 'Yoko! Jakamoko! Toto!'"@en-gb .
+<http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIIV1> .
+<http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00hv2xr#programme> .
+<http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0021mvb#programme> .
+<http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Yoko! Jakamoko! Toto!"@en-gb .
+<http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea.nt> .
+<http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea#id> <http://purl.org/ontology/po/schedule_date> "2011-07-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea#id> .
+<http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00hv2xr> .
+<http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea#version> .
+<http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/94de7aaa470746dc9cf918fa30fb1bea/player> .
+<http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Yoko! Jakamoko! Toto!'"@en-gb .
+<http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://devapi.bbcredux.com/94de7aaa470746dc9cf918fa30fb1bea/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/94de7aaa470746dc9cf918fa30fb1bea/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/94de7aaa470746dc9cf918fa30fb1bea/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://devapi.bbcredux.com/94de7aaa470746dc9cf918fa30fb1bea/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0021mvb#p00hrqyz> .
+<http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;d9d0~20110702T132000Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea#version> .
+<http://billings.acropolis.org.uk/94de7aaa470746dc9cf918fa30fb1bea#id> <http://www.w3.org/2000/01/rdf-schema#label> "Yoko! Jakamoko! Toto!"@en-gb .

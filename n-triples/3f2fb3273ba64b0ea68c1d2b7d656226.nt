@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/3f2fb3273ba64b0ea68c1d2b7d656226/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/3f2fb3273ba64b0ea68c1d2b7d656226/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/3f2fb3273ba64b0ea68c1d2b7d656226/player> .
+<http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01n841x#p00yz6g7> .
+<http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1240;a2b8~20121002T153000Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'My Story'"@en-gb .
+<http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226#id> <http://purl.org/ontology/po/schedule_date> "2012-10-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/3f2fb3273ba64b0ea68c1d2b7d656226/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/3f2fb3273ba64b0ea68c1d2b7d656226/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01n842m> .
+<http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226.nt> .
+<http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226#version> .
+<http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226#id> .
+<http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226#version> .
+<http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226> <http://purl.org/dc/terms/title> "Information about the broadcast 'My Story'"@en-gb .
+<http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226#episode> <http://www.w3.org/2000/01/rdf-schema#label> "My Story"@en-gb .
+<http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/T2QJH> .
+<http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01n842m#programme> .
+<http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226#id> <http://www.w3.org/2000/01/rdf-schema#label> "My Story"@en-gb .
+<http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01n841x#programme> .
+<http://billings.acropolis.org.uk/3f2fb3273ba64b0ea68c1d2b7d656226.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .

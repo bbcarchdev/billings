@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4GYN56> .
+<http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00tnvnn#programme> .
+<http://devapi.bbcredux.com/5d261d48ce4540e78e81b8136c610aea/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0007szw#programme> .
+<http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea#version> .
+<http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea#id> .
+<http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea> <http://purl.org/dc/terms/title> "Information about the broadcast 'Last of the Summer Wine'"@en-gb .
+<http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00tnvnn> .
+<http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/5d261d48ce4540e78e81b8136c610aea/player> .
+<http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/5d261d48ce4540e78e81b8136c610aea/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Last of the Summer Wine'"@en-gb .
+<http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0007szw#p00h5mcw> .
+<http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..41c0;f763~20110603T002000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea#id> <http://purl.org/ontology/po/schedule_date> "2011-06-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea.nt> .
+<http://devapi.bbcredux.com/5d261d48ce4540e78e81b8136c610aea/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/5d261d48ce4540e78e81b8136c610aea/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea#version> .
+<http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea#id> <http://www.w3.org/2000/01/rdf-schema#label> "Last of the Summer Wine"@en-gb .
+<http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Last of the Summer Wine"@en-gb .
+<http://billings.acropolis.org.uk/5d261d48ce4540e78e81b8136c610aea#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .

@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/072e7d4ea8da4fdeb4e428e3dfee193f/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f#id> .
+<http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIKDO> .
+<http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0183dxs#programme> .
+<http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f#id> <http://www.w3.org/2000/01/rdf-schema#label> "Little Charley Bear"@en-gb .
+<http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01839hd#programme> .
+<http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f#id> <http://purl.org/ontology/po/schedule_date> "2012-11-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f> <http://purl.org/dc/terms/title> "Information about the broadcast 'Little Charley Bear'"@en-gb .
+<http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Little Charley Bear'"@en-gb .
+<http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Little Charley Bear"@en-gb .
+<http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01839hd#p010kcvv> .
+<http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1240;b66b~20121109T113500Z--PT0H5M0S> .
+<http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f#version> .
+<http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/072e7d4ea8da4fdeb4e428e3dfee193f/player> .
+<http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f.nt> .
+<http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0183dxs> .
+<http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/072e7d4ea8da4fdeb4e428e3dfee193f#version> .
+<http://devapi.bbcredux.com/072e7d4ea8da4fdeb4e428e3dfee193f/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/072e7d4ea8da4fdeb4e428e3dfee193f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/072e7d4ea8da4fdeb4e428e3dfee193f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .

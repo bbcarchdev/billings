@@ -1,0 +1,24 @@
+<http://billings.acropolis.org.uk/4e9f27178bf7492c9d9bf7798c98f8ea#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;c66a~20110928T180000Z--PT2H45M0S> .
+<http://billings.acropolis.org.uk/4e9f27178bf7492c9d9bf7798c98f8ea#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/4e9f27178bf7492c9d9bf7798c98f8ea#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/4e9f27178bf7492c9d9bf7798c98f8ea/player> .
+<http://billings.acropolis.org.uk/4e9f27178bf7492c9d9bf7798c98f8ea> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/4e9f27178bf7492c9d9bf7798c98f8ea.nt> .
+<http://billings.acropolis.org.uk/4e9f27178bf7492c9d9bf7798c98f8ea.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/4e9f27178bf7492c9d9bf7798c98f8ea.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/4e9f27178bf7492c9d9bf7798c98f8ea#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/K0AK8> .
+<http://billings.acropolis.org.uk/4e9f27178bf7492c9d9bf7798c98f8ea> <http://purl.org/dc/terms/title> "Information about the broadcast 'Labour 2011'"@en-gb .
+<http://billings.acropolis.org.uk/4e9f27178bf7492c9d9bf7798c98f8ea#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/4e9f27178bf7492c9d9bf7798c98f8ea#version> .
+<http://billings.acropolis.org.uk/4e9f27178bf7492c9d9bf7798c98f8ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/4e9f27178bf7492c9d9bf7798c98f8ea#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/4e9f27178bf7492c9d9bf7798c98f8ea#id> <http://www.w3.org/2000/01/rdf-schema#label> "Labour 2011"@en-gb .
+<http://billings.acropolis.org.uk/4e9f27178bf7492c9d9bf7798c98f8ea#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/4e9f27178bf7492c9d9bf7798c98f8ea#version> .
+<http://billings.acropolis.org.uk/4e9f27178bf7492c9d9bf7798c98f8ea#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Labour 2011'"@en-gb .
+<http://billings.acropolis.org.uk/4e9f27178bf7492c9d9bf7798c98f8ea#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Labour 2011"@en-gb .
+<http://billings.acropolis.org.uk/4e9f27178bf7492c9d9bf7798c98f8ea.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/4e9f27178bf7492c9d9bf7798c98f8ea#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/4e9f27178bf7492c9d9bf7798c98f8ea#id> <http://purl.org/ontology/po/schedule_date> "2011-09-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/4e9f27178bf7492c9d9bf7798c98f8ea> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/4e9f27178bf7492c9d9bf7798c98f8ea#id> .
+<http://devapi.bbcredux.com/4e9f27178bf7492c9d9bf7798c98f8ea/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/4e9f27178bf7492c9d9bf7798c98f8ea#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/4e9f27178bf7492c9d9bf7798c98f8ea/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/4e9f27178bf7492c9d9bf7798c98f8ea/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/4e9f27178bf7492c9d9bf7798c98f8ea/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .

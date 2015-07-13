@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00xxd0t#programme> .
+<http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c#id> <http://purl.org/ontology/po/schedule_date> "2011-01-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c#id> .
+<http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c> <http://purl.org/dc/terms/title> "Information about the broadcast 'Michel Roux's Service'"@en-gb .
+<http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c.nt> .
+<http://devapi.bbcredux.com/f224f126665e4c6592a66b82bc88873c/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/f224f126665e4c6592a66b82bc88873c/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://devapi.bbcredux.com/f224f126665e4c6592a66b82bc88873c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/f224f126665e4c6592a66b82bc88873c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c#version> .
+<http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Michel Roux's Service'"@en-gb .
+<http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c#version> .
+<http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00xxd0t#p00d9sr7> .
+<http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;f8e18~20110124T190000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c#id> <http://www.w3.org/2000/01/rdf-schema#label> "Michel Roux's Service"@en-gb .
+<http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/f224f126665e4c6592a66b82bc88873c/player> .
+<http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00xxdx3> .
+<http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/24121X> .
+<http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00xxdx3#programme> .
+<http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/f224f126665e4c6592a66b82bc88873c#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Michel Roux's Service"@en-gb .

@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af#id> .
+<http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIIA5> .
+<http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b009524t#programme> .
+<http://devapi.bbcredux.com/4ec88366ac25443b9a7bba013c2ae1af/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/4ec88366ac25443b9a7bba013c2ae1af/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af> <http://purl.org/dc/terms/title> "Information about the broadcast 'Frankenstein's Cat'"@en-gb .
+<http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Frankenstein's Cat"@en-gb .
+<http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af#version> .
+<http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b009524t> .
+<http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b009517d#p00xp5s4> .
+<http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;fb93b~20120829T064000Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Frankenstein's Cat'"@en-gb .
+<http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af#id> <http://www.w3.org/2000/01/rdf-schema#label> "Frankenstein's Cat"@en-gb .
+<http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b009517d#programme> .
+<http://devapi.bbcredux.com/4ec88366ac25443b9a7bba013c2ae1af/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/4ec88366ac25443b9a7bba013c2ae1af/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af#id> <http://purl.org/ontology/po/schedule_date> "2012-08-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af#version> .
+<http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/4ec88366ac25443b9a7bba013c2ae1af/player> .
+<http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/4ec88366ac25443b9a7bba013c2ae1af.nt> .

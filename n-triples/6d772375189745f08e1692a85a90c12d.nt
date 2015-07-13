@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/6d772375189745f08e1692a85a90c12d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/6d772375189745f08e1692a85a90c12d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d.nt> .
+<http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00nygdz> .
+<http://devapi.bbcredux.com/6d772375189745f08e1692a85a90c12d/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIJ0V> .
+<http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00nygdz#programme> .
+<http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d#id> .
+<http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00nyfb8#programme> .
+<http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Guess with Jess"@en-gb .
+<http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d#id> <http://www.w3.org/2000/01/rdf-schema#label> "Guess with Jess"@en-gb .
+<http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d> <http://purl.org/dc/terms/title> "Information about the broadcast 'Guess with Jess'"@en-gb .
+<http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/6d772375189745f08e1692a85a90c12d/player> .
+<http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00nyfb8#p00k7crw> .
+<http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4dd6a~20110913T051000Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d#version> .
+<http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d#version> .
+<http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d#id> <http://purl.org/ontology/po/schedule_date> "2011-09-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/6d772375189745f08e1692a85a90c12d#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Guess with Jess'"@en-gb .
+<http://devapi.bbcredux.com/6d772375189745f08e1692a85a90c12d/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

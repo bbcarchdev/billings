@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be#version> .
+<http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/3c00564a36c645b389da7511deafa7be/player> .
+<http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Pinky Dinky Doo'"@en-gb .
+<http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be.nt> .
+<http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be#id> <http://www.w3.org/2000/01/rdf-schema#label> "Pinky Dinky Doo"@en-gb .
+<http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be#id> .
+<http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Pinky Dinky Doo"@en-gb .
+<http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00j3jvc#programme> .
+<http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00j3jyp> .
+<http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/3c00564a36c645b389da7511deafa7be/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/3c00564a36c645b389da7511deafa7be/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00j3jvc#p00qyxg6> .
+<http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;ffe03~20120417T055000Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be#version> .
+<http://devapi.bbcredux.com/3c00564a36c645b389da7511deafa7be/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/3c00564a36c645b389da7511deafa7be/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be#id> <http://purl.org/ontology/po/schedule_date> "2012-04-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be> <http://purl.org/dc/terms/title> "Information about the broadcast 'Pinky Dinky Doo'"@en-gb .
+<http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIIO8> .
+<http://billings.acropolis.org.uk/3c00564a36c645b389da7511deafa7be#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00j3jyp#programme> .

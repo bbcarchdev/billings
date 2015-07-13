@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ylw70#p00dss05> .
+<http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4af46~20110208T220000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb#version> .
+<http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00ylw9d> .
+<http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb#id> .
+<http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/44579de157f04684bed5a4afa7f37dbb/player> .
+<http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/44579de157f04684bed5a4afa7f37dbb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/44579de157f04684bed5a4afa7f37dbb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb> <http://purl.org/dc/terms/title> "Information about the broadcast 'How TV Ruined Your Life'"@en-gb .
+<http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "How TV Ruined Your Life"@en-gb .
+<http://devapi.bbcredux.com/44579de157f04684bed5a4afa7f37dbb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/44579de157f04684bed5a4afa7f37dbb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/15CKOM> .
+<http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ylw9d#programme> .
+<http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb#id> <http://purl.org/ontology/po/schedule_date> "2011-02-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb#id> <http://www.w3.org/2000/01/rdf-schema#label> "How TV Ruined Your Life"@en-gb .
+<http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ylw70#programme> .
+<http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb.nt> .
+<http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb#version> .
+<http://billings.acropolis.org.uk/44579de157f04684bed5a4afa7f37dbb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'How TV Ruined Your Life'"@en-gb .

@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://devapi.bbcredux.com/024da71c2e464a9b913889d4350937dd/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://devapi.bbcredux.com/024da71c2e464a9b913889d4350937dd/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/024da71c2e464a9b913889d4350937dd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/024da71c2e464a9b913889d4350937dd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd> <http://purl.org/dc/terms/title> "Information about the broadcast 'Transatlantic Sessions'"@en-gb .
+<http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0080w4g> .
+<http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd#id> .
+<http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd#version> .
+<http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Transatlantic Sessions'"@en-gb .
+<http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd#version> .
+<http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd.nt> .
+<http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Transatlantic Sessions"@en-gb .
+<http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/024da71c2e464a9b913889d4350937dd/player> .
+<http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/71QAXC> .
+<http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0080w4g#programme> .
+<http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd#id> <http://purl.org/ontology/po/schedule_date> "2011-01-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0080w2p#p00dd5r1> .
+<http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..41c0;eaef~20110128T203000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd#id> <http://www.w3.org/2000/01/rdf-schema#label> "Transatlantic Sessions"@en-gb .
+<http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0080w2p#programme> .
+<http://billings.acropolis.org.uk/024da71c2e464a9b913889d4350937dd#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .

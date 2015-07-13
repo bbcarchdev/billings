@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe.nt> .
+<http://devapi.bbcredux.com/ae843e7edee9455f840d6e70da18bebe/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/ae843e7edee9455f840d6e70da18bebe/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/ae843e7edee9455f840d6e70da18bebe/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Attenborough: 60 Years in the Wild"@en-gb .
+<http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01npk3q#programme> .
+<http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23V5KG> .
+<http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/p00zsrz4#programme> .
+<http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/ae843e7edee9455f840d6e70da18bebe/player> .
+<http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Attenborough: 60 Years in the Wild'"@en-gb .
+<http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe#id> <http://www.w3.org/2000/01/rdf-schema#label> "Attenborough: 60 Years in the Wild"@en-gb .
+<http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe> <http://purl.org/dc/terms/title> "Information about the broadcast 'Attenborough: 60 Years in the Wild'"@en-gb .
+<http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe#version> .
+<http://devapi.bbcredux.com/ae843e7edee9455f840d6e70da18bebe/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe#id> .
+<http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe#version> .
+<http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01npk3q#p011md9x> .
+<http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;ff7e3~20121130T210000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe#id> <http://purl.org/ontology/po/schedule_date> "2012-11-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/ae843e7edee9455f840d6e70da18bebe#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/p00zsrz4> .

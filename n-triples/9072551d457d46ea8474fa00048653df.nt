@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df#id> <http://www.w3.org/2000/01/rdf-schema#label> "Top of the Pops: 1976"@en-gb .
+<http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/9072551d457d46ea8474fa00048653df/player> .
+<http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df#version> .
+<http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df#id> .
+<http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df#id> <http://purl.org/ontology/po/schedule_date> "2011-04-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df> <http://purl.org/dc/terms/title> "Information about the broadcast 'Top of the Pops: 1976'"@en-gb .
+<http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b010p620#programme> .
+<http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Top of the Pops: 1976'"@en-gb .
+<http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df#version> .
+<http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/9072551d457d46ea8474fa00048653df/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4HDAJH> .
+<http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b010p6bp#programme> .
+<http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df.nt> .
+<http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b010p6bp> .
+<http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Top of the Pops: 1976"@en-gb .
+<http://devapi.bbcredux.com/9072551d457d46ea8474fa00048653df/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/9072551d457d46ea8474fa00048653df/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/9072551d457d46ea8474fa00048653df/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b010p620#p00gc7jw> .
+<http://billings.acropolis.org.uk/9072551d457d46ea8474fa00048653df#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..41c0;f39f~20110428T183000Z--PT0H30M0S> .

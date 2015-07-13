@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d#id> .
+<http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/953550486f404ab29596f44458fe264d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/953550486f404ab29596f44458fe264d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d#id> <http://purl.org/ontology/po/schedule_date> "2011-07-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b012p3ky#p00j6562> .
+<http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;fa41b~20110724T223000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b012p3ky#programme> .
+<http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d#version> .
+<http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b012p3vm> .
+<http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/953550486f404ab29596f44458fe264d/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d> <http://purl.org/dc/terms/title> "Information about the broadcast 'World's Craziest Fools'"@en-gb .
+<http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'World's Craziest Fools'"@en-gb .
+<http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d#id> <http://www.w3.org/2000/01/rdf-schema#label> "World's Craziest Fools"@en-gb .
+<http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d#version> .
+<http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1RKDGP> .
+<http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b012p3vm#programme> .
+<http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/953550486f404ab29596f44458fe264d/player> .
+<http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d.nt> .
+<http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/953550486f404ab29596f44458fe264d#episode> <http://www.w3.org/2000/01/rdf-schema#label> "World's Craziest Fools"@en-gb .
+<http://devapi.bbcredux.com/953550486f404ab29596f44458fe264d/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

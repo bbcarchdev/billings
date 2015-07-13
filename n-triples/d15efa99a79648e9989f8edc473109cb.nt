@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/d15efa99a79648e9989f8edc473109cb/player> .
+<http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb#id> <http://purl.org/ontology/po/schedule_date> "2012-02-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb#id> .
+<http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Koala Brothers'"@en-gb .
+<http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Koala Brothers"@en-gb .
+<http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b005tg25#programme> .
+<http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIG7R> .
+<http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0079dly#programme> .
+<http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0079dly> .
+<http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb.nt> .
+<http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Koala Brothers'"@en-gb .
+<http://devapi.bbcredux.com/d15efa99a79648e9989f8edc473109cb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/d15efa99a79648e9989f8edc473109cb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb#version> .
+<http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Koala Brothers"@en-gb .
+<http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b005tg25#p00nrrgf> .
+<http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;96e0~20120208T070000Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/d15efa99a79648e9989f8edc473109cb#version> .
+<http://devapi.bbcredux.com/d15efa99a79648e9989f8edc473109cb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/d15efa99a79648e9989f8edc473109cb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .

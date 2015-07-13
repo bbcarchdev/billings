@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Sun, Sex and Suspicious Parents'"@en-gb .
+<http://devapi.bbcredux.com/f7160253255543e0b4014b23cf63b5cd/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/f7160253255543e0b4014b23cf63b5cd/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd.nt> .
+<http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd#version> .
+<http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd> <http://purl.org/dc/terms/title> "Information about the broadcast 'Sun, Sex and Suspicious Parents'"@en-gb .
+<http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01c1zm4#programme> .
+<http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd#version> .
+<http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/2414A8> .
+<http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01c2025#programme> .
+<http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/f7160253255543e0b4014b23cf63b5cd/player> .
+<http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Sun, Sex and Suspicious Parents"@en-gb .
+<http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01c2025> .
+<http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd#id> <http://purl.org/ontology/po/schedule_date> "2012-02-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd#id> <http://www.w3.org/2000/01/rdf-schema#label> "Sun, Sex and Suspicious Parents"@en-gb .
+<http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01c1zm4#p00nzdrc> .
+<http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;fbeb7~20120215T210000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/f7160253255543e0b4014b23cf63b5cd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/f7160253255543e0b4014b23cf63b5cd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/f7160253255543e0b4014b23cf63b5cd#id> .

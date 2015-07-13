@@ -1,0 +1,27 @@
+<http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00zfn2r> .
+<http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00zfn2r#programme> .
+<http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Cricket World Cup Highlights 2011"@en-gb .
+<http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb#version> .
+<http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb#id> <http://purl.org/ontology/po/schedule_date> "2011-03-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb#version> .
+<http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb.nt> .
+<http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00zfmzl#programme> .
+<http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00zfmzl#p00fbth5> .
+<http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4e184~20110307T232000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/dc0776e7113b4acea01e029a7dc018fb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/dc0776e7113b4acea01e029a7dc018fb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/dc0776e7113b4acea01e029a7dc018fb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/dc0776e7113b4acea01e029a7dc018fb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb> <http://purl.org/dc/terms/title> "Information about the broadcast 'Cricket World Cup Highlights 2011'"@en-gb .
+<http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb#id> <http://www.w3.org/2000/01/rdf-schema#label> "Cricket World Cup Highlights 2011"@en-gb .
+<http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/dc0776e7113b4acea01e029a7dc018fb/player> .
+<http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Cricket World Cup Highlights 2011'"@en-gb .
+<http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/dc0776e7113b4acea01e029a7dc018fb#id> .

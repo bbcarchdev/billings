@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb#version> .
+<http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Big City Park"@en-gb .
+<http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb#id> <http://www.w3.org/2000/01/rdf-schema#label> "Big City Park"@en-gb .
+<http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00tcd10> .
+<http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/T2Q1O> .
+<http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00tcd10#programme> .
+<http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/a49518cf7a444dc0aa3c2992fa97a4fb/player> .
+<http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb#version> .
+<http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00tccl0#programme> .
+<http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb#id> <http://purl.org/ontology/po/schedule_date> "2011-03-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/a49518cf7a444dc0aa3c2992fa97a4fb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/a49518cf7a444dc0aa3c2992fa97a4fb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb.nt> .
+<http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb> <http://purl.org/dc/terms/title> "Information about the broadcast 'Big City Park'"@en-gb .
+<http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb#id> .
+<http://devapi.bbcredux.com/a49518cf7a444dc0aa3c2992fa97a4fb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Big City Park'"@en-gb .
+<http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00tccl0#p00fq39k> .
+<http://billings.acropolis.org.uk/a49518cf7a444dc0aa3c2992fa97a4fb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;c293~20110324T104500Z--PT0H15M0S> .
+<http://devapi.bbcredux.com/a49518cf7a444dc0aa3c2992fa97a4fb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

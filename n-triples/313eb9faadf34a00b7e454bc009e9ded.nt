@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded#id> .
+<http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b013drv0#p00jlqrt> .
+<http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4be41~20110812T001000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23VC4E> .
+<http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b013drw1#programme> .
+<http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b013drw1> .
+<http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Culture Show at the..."@en-gb .
+<http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded.nt> .
+<http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded#version> .
+<http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/313eb9faadf34a00b7e454bc009e9ded/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/313eb9faadf34a00b7e454bc009e9ded/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Culture Show at the...'"@en-gb .
+<http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b013drv0#programme> .
+<http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Culture Show at the..."@en-gb .
+<http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded#version> .
+<http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Culture Show at the...'"@en-gb .
+<http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded#id> <http://purl.org/ontology/po/schedule_date> "2011-08-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/313eb9faadf34a00b7e454bc009e9ded/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/313eb9faadf34a00b7e454bc009e9ded/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/313eb9faadf34a00b7e454bc009e9ded#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/313eb9faadf34a00b7e454bc009e9ded/player> .

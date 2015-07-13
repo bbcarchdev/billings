@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba#version> .
+<http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Westminster Hall'"@en-gb .
+<http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba#id> .
+<http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/LPM3K> .
+<http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b018h2xj#programme> .
+<http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba> <http://purl.org/dc/terms/title> "Information about the broadcast 'Westminster Hall'"@en-gb .
+<http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Westminster Hall"@en-gb .
+<http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b018h2xj> .
+<http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b018h2x2#programme> .
+<http://devapi.bbcredux.com/1b85b3531f6e400c80c56f0846c051ba/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/1b85b3531f6e400c80c56f0846c051ba/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba#id> <http://purl.org/ontology/po/schedule_date> "2011-12-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/1b85b3531f6e400c80c56f0846c051ba/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/1b85b3531f6e400c80c56f0846c051ba/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b018h2x2#p00m858z> .
+<http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;ccfa~20111212T043000Z--PT1H30M0S> .
+<http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba#version> .
+<http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/1b85b3531f6e400c80c56f0846c051ba/player> .
+<http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba#id> <http://www.w3.org/2000/01/rdf-schema#label> "Westminster Hall"@en-gb .
+<http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/1b85b3531f6e400c80c56f0846c051ba.nt> .

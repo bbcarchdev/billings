@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d> <http://purl.org/dc/terms/title> "Information about the broadcast 'Blue Peter'"@en-gb .
+<http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Blue Peter"@en-gb .
+<http://devapi.bbcredux.com/86bae322eca54cc187239848eff4454d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/86bae322eca54cc187239848eff4454d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d#version> .
+<http://devapi.bbcredux.com/86bae322eca54cc187239848eff4454d/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/86bae322eca54cc187239848eff4454d/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SQ7BE> .
+<http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01l3411#programme> .
+<http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d.nt> .
+<http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Blue Peter'"@en-gb .
+<http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01l340n#programme> .
+<http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/86bae322eca54cc187239848eff4454d/player> .
+<http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d#id> .
+<http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d#id> <http://www.w3.org/2000/01/rdf-schema#label> "Blue Peter"@en-gb .
+<http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01l3411> .
+<http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01l340n#p00vzbsn> .
+<http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1200;d45a~20120719T164500Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d#version> .
+<http://billings.acropolis.org.uk/86bae322eca54cc187239848eff4454d#id> <http://purl.org/ontology/po/schedule_date> "2012-07-19"^^<http://www.w3.org/2001/XMLSchema#date> .

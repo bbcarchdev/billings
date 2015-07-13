@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Postman Pat'"@en-gb .
+<http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d.nt> .
+<http://devapi.bbcredux.com/58b43d387f4a4ec19a1f4265dd920f8d/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/58b43d387f4a4ec19a1f4265dd920f8d/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://devapi.bbcredux.com/58b43d387f4a4ec19a1f4265dd920f8d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/58b43d387f4a4ec19a1f4265dd920f8d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d#id> <http://www.w3.org/2000/01/rdf-schema#label> "Postman Pat"@en-gb .
+<http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d#id> .
+<http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b006n6zs#programme> .
+<http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/58b43d387f4a4ec19a1f4265dd920f8d/player> .
+<http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d#version> .
+<http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b006n6zs#p00nmhdt> .
+<http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;9654~20120205T071500Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d> <http://purl.org/dc/terms/title> "Information about the broadcast 'Postman Pat'"@en-gb .
+<http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0079f4y> .
+<http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Postman Pat"@en-gb .
+<http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d#version> .
+<http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d#id> <http://purl.org/ontology/po/schedule_date> "2012-02-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIHN5> .
+<http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0079f4y#programme> .
+<http://billings.acropolis.org.uk/58b43d387f4a4ec19a1f4265dd920f8d.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .

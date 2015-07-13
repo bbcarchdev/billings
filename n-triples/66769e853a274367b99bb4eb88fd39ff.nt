@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/66769e853a274367b99bb4eb88fd39ff/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://devapi.bbcredux.com/66769e853a274367b99bb4eb88fd39ff/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/66769e853a274367b99bb4eb88fd39ff/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23V5CF> .
+<http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b018jc48#programme> .
+<http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/66769e853a274367b99bb4eb88fd39ff/player> .
+<http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b018jc48> .
+<http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff#version> .
+<http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff#id> <http://www.w3.org/2000/01/rdf-schema#label> "Rip Off Britain"@en-gb .
+<http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Rip Off Britain'"@en-gb .
+<http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff#id> <http://purl.org/ontology/po/schedule_date> "2011-12-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b019j261#programme> .
+<http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Rip Off Britain"@en-gb .
+<http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff.nt> .
+<http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/66769e853a274367b99bb4eb88fd39ff/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff> <http://purl.org/dc/terms/title> "Information about the broadcast 'Rip Off Britain'"@en-gb .
+<http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b019j261#p00mm8b2> .
+<http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4ebf3~20111215T091500Z--PT0H45M0S> .
+<http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff#version> .
+<http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/66769e853a274367b99bb4eb88fd39ff#id> .

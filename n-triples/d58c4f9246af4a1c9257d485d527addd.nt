@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd#version> .
+<http://devapi.bbcredux.com/d58c4f9246af4a1c9257d485d527addd/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/d58c4f9246af4a1c9257d485d527addd/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01cl47p#p00p70kk> .
+<http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;fc0f5~20120224T013500Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01cl48b> .
+<http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd#id> .
+<http://devapi.bbcredux.com/d58c4f9246af4a1c9257d485d527addd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/d58c4f9246af4a1c9257d485d527addd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd#version> .
+<http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'My Hometown Fanatics: Stacey...'"@en-gb .
+<http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd#id> <http://purl.org/ontology/po/schedule_date> "2012-02-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd> <http://purl.org/dc/terms/title> "Information about the broadcast 'My Hometown Fanatics: Stacey...'"@en-gb .
+<http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01cl47p#programme> .
+<http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/2415E5> .
+<http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01cl48b#programme> .
+<http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/d58c4f9246af4a1c9257d485d527addd/player> .
+<http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd.nt> .
+<http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd#id> <http://www.w3.org/2000/01/rdf-schema#label> "My Hometown Fanatics: Stacey..."@en-gb .
+<http://billings.acropolis.org.uk/d58c4f9246af4a1c9257d485d527addd#episode> <http://www.w3.org/2000/01/rdf-schema#label> "My Hometown Fanatics: Stacey..."@en-gb .

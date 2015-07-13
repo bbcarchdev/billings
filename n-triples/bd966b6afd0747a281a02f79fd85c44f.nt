@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/bd966b6afd0747a281a02f79fd85c44f/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/bd966b6afd0747a281a02f79fd85c44f/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f#version> .
+<http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f#id> .
+<http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f.nt> .
+<http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f#version> .
+<http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f#id> <http://www.w3.org/2000/01/rdf-schema#label> "Scottish Parliament - Draft Budget"@en-gb .
+<http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/bd966b6afd0747a281a02f79fd85c44f/player> .
+<http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Scottish Parliament - Draft Budget'"@en-gb .
+<http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Scottish Parliament - Draft Budget"@en-gb .
+<http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/S2T92> .
+<http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01n21fy#programme> .
+<http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01n21ch#programme> .
+<http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f> <http://purl.org/dc/terms/title> "Information about the broadcast 'Scottish Parliament - Draft Budget'"@en-gb .
+<http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/bd966b6afd0747a281a02f79fd85c44f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/bd966b6afd0747a281a02f79fd85c44f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01n21fy> .
+<http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01n21ch#p00ykjj3> .
+<http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1280;f7a3~20120922T100000Z--PT1H5M0S> .
+<http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f#id> <http://purl.org/ontology/po/schedule_date> "2012-09-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/bd966b6afd0747a281a02f79fd85c44f.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .

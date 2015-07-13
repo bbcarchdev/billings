@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd#version> .
+<http://devapi.bbcredux.com/de866ba1415f482eae4432809f0a2cbd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/de866ba1415f482eae4432809f0a2cbd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd#episode> <http://www.w3.org/2000/01/rdf-schema#label> "To Buy or Not to Buy"@en-gb .
+<http://devapi.bbcredux.com/de866ba1415f482eae4432809f0a2cbd/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'To Buy or Not to Buy'"@en-gb .
+<http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd#id> <http://purl.org/ontology/po/schedule_date> "2011-03-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd.nt> .
+<http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23UZBB> .
+<http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00zfp68#programme> .
+<http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00zfp68> .
+<http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/de866ba1415f482eae4432809f0a2cbd/player> .
+<http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd#id> .
+<http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd> <http://purl.org/dc/terms/title> "Information about the broadcast 'To Buy or Not to Buy'"@en-gb .
+<http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd#version> .
+<http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00zfp4s#programme> .
+<http://devapi.bbcredux.com/de866ba1415f482eae4432809f0a2cbd/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd#id> <http://www.w3.org/2000/01/rdf-schema#label> "To Buy or Not to Buy"@en-gb .
+<http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00zfp4s#p00fbtgq> .
+<http://billings.acropolis.org.uk/de866ba1415f482eae4432809f0a2cbd#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4d57b~20110307T134500Z--PT0H45M0S> .

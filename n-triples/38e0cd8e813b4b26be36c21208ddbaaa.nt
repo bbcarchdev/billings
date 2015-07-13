@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SW10Z> .
+<http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01dpm3p#programme> .
+<http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa#version> .
+<http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa#id> .
+<http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa#id> <http://www.w3.org/2000/01/rdf-schema#label> "My Life: My Birthday Shook the..."@en-gb .
+<http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa> <http://purl.org/dc/terms/title> "Information about the broadcast 'My Life: My Birthday Shook the...'"@en-gb .
+<http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/38e0cd8e813b4b26be36c21208ddbaaa/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/38e0cd8e813b4b26be36c21208ddbaaa/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/38e0cd8e813b4b26be36c21208ddbaaa/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/38e0cd8e813b4b26be36c21208ddbaaa/player> .
+<http://devapi.bbcredux.com/38e0cd8e813b4b26be36c21208ddbaaa/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'My Life: My Birthday Shook the...'"@en-gb .
+<http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa.nt> .
+<http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa#version> .
+<http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01dpm28#programme> .
+<http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01dpm3p> .
+<http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa#episode> <http://www.w3.org/2000/01/rdf-schema#label> "My Life: My Birthday Shook the..."@en-gb .
+<http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01dpm28#p00q1zc3> .
+<http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4c4cd~20120321T163000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/38e0cd8e813b4b26be36c21208ddbaaa#id> <http://purl.org/ontology/po/schedule_date> "2012-03-21"^^<http://www.w3.org/2001/XMLSchema#date> .

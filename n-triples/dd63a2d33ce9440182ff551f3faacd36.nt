@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Live at the Electric'"@en-gb .
+<http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36#version> .
+<http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36#id> <http://purl.org/ontology/po/schedule_date> "2012-07-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/dd63a2d33ce9440182ff551f3faacd36/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36> <http://purl.org/dc/terms/title> "Information about the broadcast 'Live at the Electric'"@en-gb .
+<http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/dd63a2d33ce9440182ff551f3faacd36/player> .
+<http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Live at the Electric"@en-gb .
+<http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36#version> .
+<http://devapi.bbcredux.com/dd63a2d33ce9440182ff551f3faacd36/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01kxvsr> .
+<http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36#id> <http://www.w3.org/2000/01/rdf-schema#label> "Live at the Electric"@en-gb .
+<http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/dd63a2d33ce9440182ff551f3faacd36/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/dd63a2d33ce9440182ff551f3faacd36/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36#id> .
+<http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36.nt> .
+<http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01kxvsm#programme> .
+<http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01kxvsm#p00w53jp> .
+<http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10c0;e87d~20120724T213000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/15CL36> .
+<http://billings.acropolis.org.uk/dd63a2d33ce9440182ff551f3faacd36#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01kxvsr#programme> .

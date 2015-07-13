@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed.nt> .
+<http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Chopin Prelude in F# Major'"@en-gb .
+<http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed> <http://purl.org/dc/terms/title> "Information about the broadcast 'Chopin Prelude in F# Major'"@en-gb .
+<http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed#version> .
+<http://devapi.bbcredux.com/7526e8d6c4ee47fcb602759298b368ed/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/7526e8d6c4ee47fcb602759298b368ed/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed#id> <http://purl.org/ontology/po/schedule_date> "2011-11-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00xqy1v#p00llzsp> .
+<http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..41c0;8f93~20111111T193000Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed#version> .
+<http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/7526e8d6c4ee47fcb602759298b368ed/player> .
+<http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/54BSWX> .
+<http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00xqy21#programme> .
+<http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00xqy1v#programme> .
+<http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00xqy21> .
+<http://devapi.bbcredux.com/7526e8d6c4ee47fcb602759298b368ed/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/7526e8d6c4ee47fcb602759298b368ed/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed#id> <http://www.w3.org/2000/01/rdf-schema#label> "Chopin Prelude in F# Major"@en-gb .
+<http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed#id> .
+<http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/7526e8d6c4ee47fcb602759298b368ed#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Chopin Prelude in F# Major"@en-gb .

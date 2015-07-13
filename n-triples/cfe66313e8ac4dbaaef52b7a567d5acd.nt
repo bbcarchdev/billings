@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd#id> <http://purl.org/ontology/po/schedule_date> "2012-10-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23UUWN> .
+<http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01n8kbv#programme> .
+<http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd#version> .
+<http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01n8k32#p00z3cvc> .
+<http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4aa2a~20121007T163000Z--PT1H0M0S> .
+<http://devapi.bbcredux.com/cfe66313e8ac4dbaaef52b7a567d5acd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/cfe66313e8ac4dbaaef52b7a567d5acd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd#version> .
+<http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01n8kbv> .
+<http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd#id> <http://www.w3.org/2000/01/rdf-schema#label> "Planet Earth Live: A Meerkat's Tale"@en-gb .
+<http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/cfe66313e8ac4dbaaef52b7a567d5acd/player> .
+<http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd#id> .
+<http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd.nt> .
+<http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/cfe66313e8ac4dbaaef52b7a567d5acd/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Planet Earth Live: A Meerkat's Tale"@en-gb .
+<http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01n8k32#programme> .
+<http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Planet Earth Live: A Meerkat's Tale'"@en-gb .
+<http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd> <http://purl.org/dc/terms/title> "Information about the broadcast 'Planet Earth Live: A Meerkat's Tale'"@en-gb .
+<http://billings.acropolis.org.uk/cfe66313e8ac4dbaaef52b7a567d5acd#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/cfe66313e8ac4dbaaef52b7a567d5acd/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

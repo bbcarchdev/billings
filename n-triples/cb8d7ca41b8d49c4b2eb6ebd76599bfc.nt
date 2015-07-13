@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc#id> .
+<http://devapi.bbcredux.com/cb8d7ca41b8d49c4b2eb6ebd76599bfc/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc.nt> .
+<http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc#id> <http://purl.org/ontology/po/schedule_date> "2012-12-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/cb8d7ca41b8d49c4b2eb6ebd76599bfc/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/cb8d7ca41b8d49c4b2eb6ebd76599bfc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/cb8d7ca41b8d49c4b2eb6ebd76599bfc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01p81y9#p011xc7g> .
+<http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;48cf3~20121206T200000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01p81yc> .
+<http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc#id> <http://www.w3.org/2000/01/rdf-schema#label> "Young Apprentice"@en-gb .
+<http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc#version> .
+<http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc> <http://purl.org/dc/terms/title> "Information about the broadcast 'Young Apprentice'"@en-gb .
+<http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/cb8d7ca41b8d49c4b2eb6ebd76599bfc/player> .
+<http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1RKDS2> .
+<http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01p81yc#programme> .
+<http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc#version> .
+<http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Young Apprentice"@en-gb .
+<http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01p81y9#programme> .
+<http://billings.acropolis.org.uk/cb8d7ca41b8d49c4b2eb6ebd76599bfc#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Young Apprentice'"@en-gb .

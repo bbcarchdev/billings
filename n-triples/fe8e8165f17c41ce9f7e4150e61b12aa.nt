@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa#version> .
+<http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01ndn1m#programme> .
+<http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1RKE8Y> .
+<http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01ndnjt#programme> .
+<http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01ndnjt> .
+<http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01ndn1m#p00znpwp> .
+<http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10c0;8d62~20121021T015500Z--PT0H45M0S> .
+<http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa#id> <http://purl.org/ontology/po/schedule_date> "2012-10-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/fe8e8165f17c41ce9f7e4150e61b12aa/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Russell Howard's Good News Extra'"@en-gb .
+<http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa.nt> .
+<http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa#id> .
+<http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/fe8e8165f17c41ce9f7e4150e61b12aa/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/fe8e8165f17c41ce9f7e4150e61b12aa/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/fe8e8165f17c41ce9f7e4150e61b12aa/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa#id> <http://www.w3.org/2000/01/rdf-schema#label> "Russell Howard's Good News Extra"@en-gb .
+<http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa#version> .
+<http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa> <http://purl.org/dc/terms/title> "Information about the broadcast 'Russell Howard's Good News Extra'"@en-gb .
+<http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/fe8e8165f17c41ce9f7e4150e61b12aa/player> .
+<http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Russell Howard's Good News Extra"@en-gb .
+<http://billings.acropolis.org.uk/fe8e8165f17c41ce9f7e4150e61b12aa.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .

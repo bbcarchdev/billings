@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/2d64b08c88a74140bce8d6bd42871149/player> .
+<http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Heir Hunters'"@en-gb .
+<http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149#id> .
+<http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149#version> .
+<http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/2d64b08c88a74140bce8d6bd42871149/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149#id> <http://www.w3.org/2000/01/rdf-schema#label> "Heir Hunters"@en-gb .
+<http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149.nt> .
+<http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149#id> <http://purl.org/ontology/po/schedule_date> "2012-05-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00z8jjn#programme> .
+<http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149#version> .
+<http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/2d64b08c88a74140bce8d6bd42871149/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/2d64b08c88a74140bce8d6bd42871149/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00z8khr> .
+<http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00z8jjn#p00srsjm> .
+<http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;f903e~20120525T140000Z--PT0H45M0S> .
+<http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Heir Hunters"@en-gb .
+<http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/2410JH> .
+<http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00z8khr#programme> .
+<http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149> <http://purl.org/dc/terms/title> "Information about the broadcast 'Heir Hunters'"@en-gb .
+<http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/2d64b08c88a74140bce8d6bd42871149#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://devapi.bbcredux.com/2d64b08c88a74140bce8d6bd42871149/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

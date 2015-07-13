@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Lords - Economy Debate"@en-gb .
+<http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715.nt> .
+<http://devapi.bbcredux.com/190534710971408f8a9f93d826569715/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/190534710971408f8a9f93d826569715/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b010fnq6#programme> .
+<http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715#id> <http://purl.org/ontology/po/schedule_date> "2011-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715#version> .
+<http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Lords - Economy Debate'"@en-gb .
+<http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715> <http://purl.org/dc/terms/title> "Information about the broadcast 'Lords - Economy Debate'"@en-gb .
+<http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/190534710971408f8a9f93d826569715/player> .
+<http://devapi.bbcredux.com/190534710971408f8a9f93d826569715/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/190534710971408f8a9f93d826569715/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715#id> <http://www.w3.org/2000/01/rdf-schema#label> "Lords - Economy Debate"@en-gb .
+<http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715#version> .
+<http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b010fnq6#p00g6b2k> .
+<http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;b4d2~20110416T195000Z--PT2H0M0S> .
+<http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/HACL2> .
+<http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b010fq66#programme> .
+<http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b010fq66> .
+<http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715#id> .
+<http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/190534710971408f8a9f93d826569715.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .

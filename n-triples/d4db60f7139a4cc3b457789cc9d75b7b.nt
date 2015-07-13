@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00rwmvx> .
+<http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b#id> <http://purl.org/ontology/po/schedule_date> "2012-02-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b.nt> .
+<http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b#version> .
+<http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b> <http://purl.org/dc/terms/title> "Information about the broadcast 'Big Babies'"@en-gb .
+<http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Big Babies'"@en-gb .
+<http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Big Babies"@en-gb .
+<http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/d4db60f7139a4cc3b457789cc9d75b7b/player> .
+<http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00rwmrb#programme> .
+<http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/d4db60f7139a4cc3b457789cc9d75b7b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/d4db60f7139a4cc3b457789cc9d75b7b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SQ2D5> .
+<http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00rwmvx#programme> .
+<http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b#version> .
+<http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b#id> .
+<http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b#id> <http://www.w3.org/2000/01/rdf-schema#label> "Big Babies"@en-gb .
+<http://devapi.bbcredux.com/d4db60f7139a4cc3b457789cc9d75b7b/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00rwmrb#p00nv2v6> .
+<http://billings.acropolis.org.uk/d4db60f7139a4cc3b457789cc9d75b7b#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..123f;f95b6~20120210T134500Z--PT0H15M0S> .
+<http://devapi.bbcredux.com/d4db60f7139a4cc3b457789cc9d75b7b/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

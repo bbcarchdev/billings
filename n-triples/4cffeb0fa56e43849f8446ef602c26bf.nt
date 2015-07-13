@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00wnpwy#p00zx55c> .
+<http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;fbfd3~20121025T072500Z--PT0H20M0S> .
+<http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SW027> .
+<http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00wnw0s#programme> .
+<http://devapi.bbcredux.com/4cffeb0fa56e43849f8446ef602c26bf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/4cffeb0fa56e43849f8446ef602c26bf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf> <http://purl.org/dc/terms/title> "Information about the broadcast 'Mister Maker Comes to Town'"@en-gb .
+<http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Mister Maker Comes to Town'"@en-gb .
+<http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf#version> .
+<http://devapi.bbcredux.com/4cffeb0fa56e43849f8446ef602c26bf/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00wnw0s> .
+<http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf#id> <http://purl.org/ontology/po/schedule_date> "2012-10-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf.nt> .
+<http://devapi.bbcredux.com/4cffeb0fa56e43849f8446ef602c26bf/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00wnpwy#programme> .
+<http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf#id> <http://www.w3.org/2000/01/rdf-schema#label> "Mister Maker Comes to Town"@en-gb .
+<http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Mister Maker Comes to Town"@en-gb .
+<http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf#version> .
+<http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/4cffeb0fa56e43849f8446ef602c26bf/player> .
+<http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf#id> .
+<http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/4cffeb0fa56e43849f8446ef602c26bf#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .

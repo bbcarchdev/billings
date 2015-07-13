@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/4127826bed854b6d88d8e31e89c8c5da/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/4127826bed854b6d88d8e31e89c8c5da/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da#id> <http://purl.org/ontology/po/schedule_date> "2011-06-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00tsj97#p00hbqzz> .
+<http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;d51e~20110611T170000Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4CDYHQ> .
+<http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b009w046#programme> .
+<http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/4127826bed854b6d88d8e31e89c8c5da/player> .
+<http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b009w046> .
+<http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da> <http://purl.org/dc/terms/title> "Information about the broadcast 'Charlie and Lola'"@en-gb .
+<http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da.nt> .
+<http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da#version> .
+<http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da#version> .
+<http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da#id> .
+<http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Charlie and Lola'"@en-gb .
+<http://devapi.bbcredux.com/4127826bed854b6d88d8e31e89c8c5da/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da#id> <http://www.w3.org/2000/01/rdf-schema#label> "Charlie and Lola"@en-gb .
+<http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00tsj97#programme> .
+<http://billings.acropolis.org.uk/4127826bed854b6d88d8e31e89c8c5da#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Charlie and Lola"@en-gb .
+<http://devapi.bbcredux.com/4127826bed854b6d88d8e31e89c8c5da/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

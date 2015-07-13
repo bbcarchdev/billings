@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0088s4b> .
+<http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba#version> .
+<http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba#version> .
+<http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba#id> <http://www.w3.org/2000/01/rdf-schema#label> "Real Rescues"@en-gb .
+<http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba> <http://purl.org/dc/terms/title> "Information about the broadcast 'Real Rescues'"@en-gb .
+<http://devapi.bbcredux.com/dd64839c8846401aa0acdbcc7b417fba/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/dd64839c8846401aa0acdbcc7b417fba/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/36ANED> .
+<http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0088s4b#programme> .
+<http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/dd64839c8846401aa0acdbcc7b417fba/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/dd64839c8846401aa0acdbcc7b417fba/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ylx2c#programme> .
+<http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba.nt> .
+<http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ylx2c#p00dvtnr> .
+<http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4bb35~20110211T143000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Real Rescues'"@en-gb .
+<http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba#id> .
+<http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Real Rescues"@en-gb .
+<http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/dd64839c8846401aa0acdbcc7b417fba/player> .
+<http://billings.acropolis.org.uk/dd64839c8846401aa0acdbcc7b417fba#id> <http://purl.org/ontology/po/schedule_date> "2011-02-11"^^<http://www.w3.org/2001/XMLSchema#date> .

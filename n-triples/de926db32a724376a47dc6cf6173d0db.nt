@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Something Special: We're All Friends'"@en-gb .
+<http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db#id> .
+<http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db#id> <http://purl.org/ontology/po/schedule_date> "2012-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/de926db32a724376a47dc6cf6173d0db/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01nmgx8#p010vxzt> .
+<http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1240;ba1e~20121116T135000Z--PT0H20M0S> .
+<http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db#version> .
+<http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db> <http://purl.org/dc/terms/title> "Information about the broadcast 'Something Special: We're All Friends'"@en-gb .
+<http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Something Special: We're All Friends"@en-gb .
+<http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/de926db32a724376a47dc6cf6173d0db/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/de926db32a724376a47dc6cf6173d0db/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/de926db32a724376a47dc6cf6173d0db/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01nmh39> .
+<http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db#version> .
+<http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/de926db32a724376a47dc6cf6173d0db/player> .
+<http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01nmgx8#programme> .
+<http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db.nt> .
+<http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SQ5S0> .
+<http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01nmh39#programme> .
+<http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db#id> <http://www.w3.org/2000/01/rdf-schema#label> "Something Special: We're All Friends"@en-gb .
+<http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/de926db32a724376a47dc6cf6173d0db.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .

@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/1e855024eaca4d7ca26e1a97667b364a/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a#id> <http://purl.org/ontology/po/schedule_date> "2011-10-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b012h9ll#p00l37np> .
+<http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;49b13~20111020T093000Z--PT0H15M0S> .
+<http://devapi.bbcredux.com/1e855024eaca4d7ca26e1a97667b364a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/1e855024eaca4d7ca26e1a97667b364a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/1e855024eaca4d7ca26e1a97667b364a/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b012hbzt> .
+<http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a#version> .
+<http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a#id> <http://www.w3.org/2000/01/rdf-schema#label> "Baby Jake"@en-gb .
+<http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/1e855024eaca4d7ca26e1a97667b364a/player> .
+<http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SW0NG> .
+<http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b012hbzt#programme> .
+<http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a#id> .
+<http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Baby Jake'"@en-gb .
+<http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b012h9ll#programme> .
+<http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a.nt> .
+<http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Baby Jake"@en-gb .
+<http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a> <http://purl.org/dc/terms/title> "Information about the broadcast 'Baby Jake'"@en-gb .
+<http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/1e855024eaca4d7ca26e1a97667b364a#version> .

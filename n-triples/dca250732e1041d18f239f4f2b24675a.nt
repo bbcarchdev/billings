@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a.nt> .
+<http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/dca250732e1041d18f239f4f2b24675a/player> .
+<http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a#version> .
+<http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a#id> .
+<http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00t1qbg> .
+<http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Deadly 60"@en-gb .
+<http://devapi.bbcredux.com/dca250732e1041d18f239f4f2b24675a/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a> <http://purl.org/dc/terms/title> "Information about the broadcast 'Deadly 60'"@en-gb .
+<http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00t1q97#programme> .
+<http://devapi.bbcredux.com/dca250732e1041d18f239f4f2b24675a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/dca250732e1041d18f239f4f2b24675a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/T2PPF> .
+<http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00t1qbg#programme> .
+<http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a#version> .
+<http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a#id> <http://purl.org/ontology/po/schedule_date> "2012-01-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00t1q97#p00mxrsh> .
+<http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..123f;f8e8a~20120109T074500Z--PT0H35M0S> .
+<http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Deadly 60'"@en-gb .
+<http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a#id> <http://www.w3.org/2000/01/rdf-schema#label> "Deadly 60"@en-gb .
+<http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/dca250732e1041d18f239f4f2b24675a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/dca250732e1041d18f239f4f2b24675a/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

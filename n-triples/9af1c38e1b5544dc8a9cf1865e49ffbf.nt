@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf#id> .
+<http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/2412SB> .
+<http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01k6k3m#programme> .
+<http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/9af1c38e1b5544dc8a9cf1865e49ffbf/player> .
+<http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01k6k3m> .
+<http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01k6k33#p00ts3dw> .
+<http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;fd5d0~20120620T200000Z--PT1H0M0S> .
+<http://devapi.bbcredux.com/9af1c38e1b5544dc8a9cf1865e49ffbf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/9af1c38e1b5544dc8a9cf1865e49ffbf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Secret History of Our Streets'"@en-gb .
+<http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf#version> .
+<http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01k6k33#programme> .
+<http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Secret History of Our Streets"@en-gb .
+<http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf#version> .
+<http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Secret History of Our Streets'"@en-gb .
+<http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/9af1c38e1b5544dc8a9cf1865e49ffbf/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/9af1c38e1b5544dc8a9cf1865e49ffbf/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Secret History of Our Streets"@en-gb .
+<http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf#id> <http://purl.org/ontology/po/schedule_date> "2012-06-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/9af1c38e1b5544dc8a9cf1865e49ffbf.nt> .

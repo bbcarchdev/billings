@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/5bff734a7629484ebdbe62947c2790ae/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/5bff734a7629484ebdbe62947c2790ae/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/5bff734a7629484ebdbe62947c2790ae/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00jvj6d#programme> .
+<http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae.nt> .
+<http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Escape to the Country"@en-gb .
+<http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Escape to the Country'"@en-gb .
+<http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae#id> <http://purl.org/ontology/po/schedule_date> "2012-03-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/5bff734a7629484ebdbe62947c2790ae/player> .
+<http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/240Y28> .
+<http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00jvj6n#programme> .
+<http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00jvj6n> .
+<http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae> <http://purl.org/dc/terms/title> "Information about the broadcast 'Escape to the Country'"@en-gb .
+<http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae#version> .
+<http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae#id> <http://www.w3.org/2000/01/rdf-schema#label> "Escape to the Country"@en-gb .
+<http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae#version> .
+<http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00jvj6d#p00q47wd> .
+<http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4c6ea~20120324T170500Z--PT0H45M0S> .
+<http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae#id> .
+<http://billings.acropolis.org.uk/5bff734a7629484ebdbe62947c2790ae#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/5bff734a7629484ebdbe62947c2790ae/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

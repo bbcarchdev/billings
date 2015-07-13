@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/677cc6c70f804d97ac4e330592eccd8b/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Dara O Briain's Science Club"@en-gb .
+<http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Dara O Briain's Science Club'"@en-gb .
+<http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b#version> .
+<http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/677cc6c70f804d97ac4e330592eccd8b/player> .
+<http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b#version> .
+<http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b#id> <http://purl.org/ontology/po/schedule_date> "2012-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23VE4I> .
+<http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01p014h#programme> .
+<http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01p014f#programme> .
+<http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01p014f#p010pq5y> .
+<http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;febc5~20121113T210000Z--PT1H0M0S> .
+<http://devapi.bbcredux.com/677cc6c70f804d97ac4e330592eccd8b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/677cc6c70f804d97ac4e330592eccd8b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b.nt> .
+<http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b#id> .
+<http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b> <http://purl.org/dc/terms/title> "Information about the broadcast 'Dara O Briain's Science Club'"@en-gb .
+<http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b#id> <http://www.w3.org/2000/01/rdf-schema#label> "Dara O Briain's Science Club"@en-gb .
+<http://billings.acropolis.org.uk/677cc6c70f804d97ac4e330592eccd8b#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01p014h> .
+<http://devapi.bbcredux.com/677cc6c70f804d97ac4e330592eccd8b/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b#id> <http://www.w3.org/2000/01/rdf-schema#label> "Nature's Top 40"@en-gb .
+<http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b#id> .
+<http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00g23j6#p00s8g13> .
+<http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10bf;fd3c1~20120517T120000Z--PT0H30M0S> .
+<http://devapi.bbcredux.com/bb99df18990b445e9de89d39a35a941b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/bb99df18990b445e9de89d39a35a941b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b#id> <http://purl.org/ontology/po/schedule_date> "2012-05-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/bb99df18990b445e9de89d39a35a941b/player> .
+<http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/O76IA> .
+<http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00g243l#programme> .
+<http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Nature's Top 40"@en-gb .
+<http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00g243l> .
+<http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b> <http://purl.org/dc/terms/title> "Information about the broadcast 'Nature's Top 40'"@en-gb .
+<http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Nature's Top 40'"@en-gb .
+<http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b.nt> .
+<http://devapi.bbcredux.com/bb99df18990b445e9de89d39a35a941b/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b#version> .
+<http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b#version> .
+<http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00g23j6#programme> .
+<http://devapi.bbcredux.com/bb99df18990b445e9de89d39a35a941b/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/bb99df18990b445e9de89d39a35a941b.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .

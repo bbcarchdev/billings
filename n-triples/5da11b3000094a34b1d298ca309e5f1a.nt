@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/5da11b3000094a34b1d298ca309e5f1a/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a#id> .
+<http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01dk3s4#programme> .
+<http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a#id> <http://purl.org/ontology/po/schedule_date> "2012-03-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a#version> .
+<http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Racing with the Hamiltons: Nic..."@en-gb .
+<http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Racing with the Hamiltons: Nic...'"@en-gb .
+<http://devapi.bbcredux.com/5da11b3000094a34b1d298ca309e5f1a/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/5da11b3000094a34b1d298ca309e5f1a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/5da11b3000094a34b1d298ca309e5f1a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a> <http://purl.org/dc/terms/title> "Information about the broadcast 'Racing with the Hamiltons: Nic...'"@en-gb .
+<http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/24144V> .
+<http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01d7kpj#programme> .
+<http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/5da11b3000094a34b1d298ca309e5f1a/player> .
+<http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01d7kpj> .
+<http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a.nt> .
+<http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a#version> .
+<http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01dk3s4#p00ppv1f> .
+<http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4af2c~20120313T002500Z--PT0H55M0S> .
+<http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a#id> <http://www.w3.org/2000/01/rdf-schema#label> "Racing with the Hamiltons: Nic..."@en-gb .
+<http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/5da11b3000094a34b1d298ca309e5f1a.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .

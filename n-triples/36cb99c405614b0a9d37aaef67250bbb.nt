@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb> <http://purl.org/dc/terms/title> "Information about the broadcast 'Prank Patrol Down Under'"@en-gb .
+<http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00xyhzj#p00hmk0w> .
+<http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4f6f4~20110625T072500Z--PT0H25M0S> .
+<http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/36cb99c405614b0a9d37aaef67250bbb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb#version> .
+<http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb.nt> .
+<http://devapi.bbcredux.com/36cb99c405614b0a9d37aaef67250bbb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/36cb99c405614b0a9d37aaef67250bbb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb#version> .
+<http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/36cb99c405614b0a9d37aaef67250bbb/player> .
+<http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb#id> .
+<http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb#id> <http://purl.org/ontology/po/schedule_date> "2011-06-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00xyj7r> .
+<http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Prank Patrol Down Under'"@en-gb .
+<http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Prank Patrol Down Under"@en-gb .
+<http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIH88> .
+<http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00xyj7r#programme> .
+<http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb#id> <http://www.w3.org/2000/01/rdf-schema#label> "Prank Patrol Down Under"@en-gb .
+<http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00xyhzj#programme> .
+<http://devapi.bbcredux.com/36cb99c405614b0a9d37aaef67250bbb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/36cb99c405614b0a9d37aaef67250bbb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .

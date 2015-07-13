@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a#id> .
+<http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23VBVK> .
+<http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00zl9d4#programme> .
+<http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a#version> .
+<http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b013z10d#p00jvldr> .
+<http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4ca47~20110824T232500Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b013z10d#programme> .
+<http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a#id> <http://www.w3.org/2000/01/rdf-schema#label> "Raymond Blanc's Kitchen Secrets"@en-gb .
+<http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Raymond Blanc's Kitchen Secrets"@en-gb .
+<http://devapi.bbcredux.com/825470741dbe4e468949b7f14c89b04a/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/825470741dbe4e468949b7f14c89b04a/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a> <http://purl.org/dc/terms/title> "Information about the broadcast 'Raymond Blanc's Kitchen Secrets'"@en-gb .
+<http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a.nt> .
+<http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Raymond Blanc's Kitchen Secrets'"@en-gb .
+<http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a#id> <http://purl.org/ontology/po/schedule_date> "2011-08-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00zl9d4> .
+<http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/825470741dbe4e468949b7f14c89b04a/player> .
+<http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a#version> .
+<http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/825470741dbe4e468949b7f14c89b04a#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/825470741dbe4e468949b7f14c89b04a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/825470741dbe4e468949b7f14c89b04a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .

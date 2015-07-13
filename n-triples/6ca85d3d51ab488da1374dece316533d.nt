@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Songs of Praise'"@en-gb .
+<http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01n5zcc> .
+<http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d#id> .
+<http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/6ca85d3d51ab488da1374dece316533d/player> .
+<http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d#version> .
+<http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/6ca85d3d51ab488da1374dece316533d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/6ca85d3d51ab488da1374dece316533d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d.nt> .
+<http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01n5z7w#programme> .
+<http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d> <http://purl.org/dc/terms/title> "Information about the broadcast 'Songs of Praise'"@en-gb .
+<http://devapi.bbcredux.com/6ca85d3d51ab488da1374dece316533d/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/6ca85d3d51ab488da1374dece316533d/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01n5z7w#p00yv1qc> .
+<http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;48e21~20120930T151500Z--PT0H35M0S> .
+<http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d#id> <http://purl.org/ontology/po/schedule_date> "2012-09-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23VCZ7> .
+<http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01n5zcc#programme> .
+<http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Songs of Praise"@en-gb .
+<http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d#version> .
+<http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/6ca85d3d51ab488da1374dece316533d#id> <http://www.w3.org/2000/01/rdf-schema#label> "Songs of Praise"@en-gb .

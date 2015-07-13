@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/b305ba5e4a6843e8a2dcb6763d2b4288/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/b305ba5e4a6843e8a2dcb6763d2b4288/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288#id> .
+<http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00p3zrw#programme> .
+<http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00p403d> .
+<http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288#episode> <http://www.w3.org/2000/01/rdf-schema#label> "School of Silence"@en-gb .
+<http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'School of Silence'"@en-gb .
+<http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288#version> .
+<http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SVZ0R> .
+<http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00p403d#programme> .
+<http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288#version> .
+<http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288#id> <http://purl.org/ontology/po/schedule_date> "2011-05-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/b305ba5e4a6843e8a2dcb6763d2b4288/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/b305ba5e4a6843e8a2dcb6763d2b4288/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00p3zrw#p00gzjky> .
+<http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..123f;fda2f~20110524T153000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288> <http://purl.org/dc/terms/title> "Information about the broadcast 'School of Silence'"@en-gb .
+<http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/b305ba5e4a6843e8a2dcb6763d2b4288/player> .
+<http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288.nt> .
+<http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288#id> <http://www.w3.org/2000/01/rdf-schema#label> "School of Silence"@en-gb .
+<http://billings.acropolis.org.uk/b305ba5e4a6843e8a2dcb6763d2b4288.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .

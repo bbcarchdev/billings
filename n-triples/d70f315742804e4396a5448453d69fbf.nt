@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Harry and Toto'"@en-gb .
+<http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/d70f315742804e4396a5448453d69fbf/player> .
+<http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00bzgsn#programme> .
+<http://devapi.bbcredux.com/d70f315742804e4396a5448453d69fbf/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://devapi.bbcredux.com/d70f315742804e4396a5448453d69fbf/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/d70f315742804e4396a5448453d69fbf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/d70f315742804e4396a5448453d69fbf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf#version> .
+<http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf#id> <http://www.w3.org/2000/01/rdf-schema#label> "Harry and Toto"@en-gb .
+<http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf#version> .
+<http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIHX2> .
+<http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00c8wpq#programme> .
+<http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf#id> .
+<http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf> <http://purl.org/dc/terms/title> "Information about the broadcast 'Harry and Toto'"@en-gb .
+<http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf#id> <http://purl.org/ontology/po/schedule_date> "2011-01-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00bzgsn#p00ddg4n> .
+<http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4a532~20110130T060000Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00c8wpq> .
+<http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf.nt> .
+<http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/d70f315742804e4396a5448453d69fbf#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Harry and Toto"@en-gb .

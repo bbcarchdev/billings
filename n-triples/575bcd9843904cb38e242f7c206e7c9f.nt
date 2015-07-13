@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f#version> .
+<http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/575bcd9843904cb38e242f7c206e7c9f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/575bcd9843904cb38e242f7c206e7c9f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/575bcd9843904cb38e242f7c206e7c9f/player> .
+<http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f#id> <http://purl.org/ontology/po/schedule_date> "2011-09-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f> <http://purl.org/dc/terms/title> "Information about the broadcast 'Comedy @ the Fringe'"@en-gb .
+<http://devapi.bbcredux.com/575bcd9843904cb38e242f7c206e7c9f/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/575bcd9843904cb38e242f7c206e7c9f/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Comedy @ the Fringe"@en-gb .
+<http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b014957y#p00k82pj> .
+<http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;fab56~20110914T015500Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f.nt> .
+<http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f#id> .
+<http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b014957y#programme> .
+<http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/156KUL> .
+<http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01495fl#programme> .
+<http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f#id> <http://www.w3.org/2000/01/rdf-schema#label> "Comedy @ the Fringe"@en-gb .
+<http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Comedy @ the Fringe'"@en-gb .
+<http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01495fl> .
+<http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f#version> .
+<http://billings.acropolis.org.uk/575bcd9843904cb38e242f7c206e7c9f#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .

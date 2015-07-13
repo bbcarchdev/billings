@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f#id> <http://purl.org/ontology/po/schedule_date> "2011-06-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://devapi.bbcredux.com/7dacd7d1af9b462d848446d49e10848f/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/I888K> .
+<http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0124qkj#programme> .
+<http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0124qjk#programme> .
+<http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f> <http://purl.org/dc/terms/title> "Information about the broadcast 'Lords - Localism'"@en-gb .
+<http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0124qkj> .
+<http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/7dacd7d1af9b462d848446d49e10848f/player> .
+<http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f#version> .
+<http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Lords - Localism'"@en-gb .
+<http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f.nt> .
+<http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Lords - Localism"@en-gb .
+<http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f#version> .
+<http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0124qjk#p00hjl5q> .
+<http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;bbef~20110621T050000Z--PT3H0M0S> .
+<http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f#id> <http://www.w3.org/2000/01/rdf-schema#label> "Lords - Localism"@en-gb .
+<http://devapi.bbcredux.com/7dacd7d1af9b462d848446d49e10848f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/7dacd7d1af9b462d848446d49e10848f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f#id> .
+<http://billings.acropolis.org.uk/7dacd7d1af9b462d848446d49e10848f#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/7dacd7d1af9b462d848446d49e10848f/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

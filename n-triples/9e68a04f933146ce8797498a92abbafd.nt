@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/9e68a04f933146ce8797498a92abbafd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/9e68a04f933146ce8797498a92abbafd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd.nt> .
+<http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/L3LQL> .
+<http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b017cmc0#programme> .
+<http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/9e68a04f933146ce8797498a92abbafd/player> .
+<http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd> <http://purl.org/dc/terms/title> "Information about the broadcast 'Live Scottish Parliament'"@en-gb .
+<http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd#id> .
+<http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd#version> .
+<http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b017cmb9#programme> .
+<http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Live Scottish Parliament'"@en-gb .
+<http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b017cmc0> .
+<http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b017cmb9#p00lrdsn> .
+<http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;cad6~20111117T141500Z--PT3H45M0S> .
+<http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Live Scottish Parliament"@en-gb .
+<http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd#id> <http://purl.org/ontology/po/schedule_date> "2011-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/9e68a04f933146ce8797498a92abbafd/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/9e68a04f933146ce8797498a92abbafd/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd#id> <http://www.w3.org/2000/01/rdf-schema#label> "Live Scottish Parliament"@en-gb .
+<http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/9e68a04f933146ce8797498a92abbafd#version> .

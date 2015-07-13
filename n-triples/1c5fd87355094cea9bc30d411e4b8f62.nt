@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62> <http://purl.org/dc/terms/title> "Information about the broadcast 'Tales from the Wild Wood'"@en-gb .
+<http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62#id> <http://purl.org/ontology/po/schedule_date> "2012-10-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62#version> .
+<http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62#id> <http://www.w3.org/2000/01/rdf-schema#label> "Tales from the Wild Wood"@en-gb .
+<http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Tales from the Wild Wood'"@en-gb .
+<http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Tales from the Wild Wood"@en-gb .
+<http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62#id> .
+<http://devapi.bbcredux.com/1c5fd87355094cea9bc30d411e4b8f62/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/1c5fd87355094cea9bc30d411e4b8f62/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62#version> .
+<http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/1c5fd87355094cea9bc30d411e4b8f62/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62.nt> .
+<http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01nj48d#programme> .
+<http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/1c5fd87355094cea9bc30d411e4b8f62/player> .
+<http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/247NJC> .
+<http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01nj48s#programme> .
+<http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01nj48d#p00zvp5b> .
+<http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..11c0;cdfa~20121024T230000Z--PT0H30M0S> .
+<http://devapi.bbcredux.com/1c5fd87355094cea9bc30d411e4b8f62/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/1c5fd87355094cea9bc30d411e4b8f62#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01nj48s> .

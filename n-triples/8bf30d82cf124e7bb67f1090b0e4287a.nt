@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01p64kh> .
+<http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01p64kf#programme> .
+<http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'World News Today'"@en-gb .
+<http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a#episode> <http://www.w3.org/2000/01/rdf-schema#label> "World News Today"@en-gb .
+<http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01p64kf#p011vs6w> .
+<http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..11c0;d876~20121205T190000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/5A73PO> .
+<http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01p64kh#programme> .
+<http://devapi.bbcredux.com/8bf30d82cf124e7bb67f1090b0e4287a/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/8bf30d82cf124e7bb67f1090b0e4287a/player> .
+<http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a#id> .
+<http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a.nt> .
+<http://devapi.bbcredux.com/8bf30d82cf124e7bb67f1090b0e4287a/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a#version> .
+<http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a#version> .
+<http://devapi.bbcredux.com/8bf30d82cf124e7bb67f1090b0e4287a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/8bf30d82cf124e7bb67f1090b0e4287a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a#id> <http://www.w3.org/2000/01/rdf-schema#label> "World News Today"@en-gb .
+<http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a#id> <http://purl.org/ontology/po/schedule_date> "2012-12-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/8bf30d82cf124e7bb67f1090b0e4287a> <http://purl.org/dc/terms/title> "Information about the broadcast 'World News Today'"@en-gb .

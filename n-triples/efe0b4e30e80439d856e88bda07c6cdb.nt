@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb#version> .
+<http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb#id> <http://www.w3.org/2000/01/rdf-schema#label> "RHS Chelsea Flower Show"@en-gb .
+<http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "RHS Chelsea Flower Show"@en-gb .
+<http://devapi.bbcredux.com/efe0b4e30e80439d856e88bda07c6cdb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/efe0b4e30e80439d856e88bda07c6cdb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb#id> <http://purl.org/ontology/po/schedule_date> "2012-05-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01j9gk0> .
+<http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb> <http://purl.org/dc/terms/title> "Information about the broadcast 'RHS Chelsea Flower Show'"@en-gb .
+<http://devapi.bbcredux.com/efe0b4e30e80439d856e88bda07c6cdb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/efe0b4e30e80439d856e88bda07c6cdb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/efe0b4e30e80439d856e88bda07c6cdb/player> .
+<http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'RHS Chelsea Flower Show'"@en-gb .
+<http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb.nt> .
+<http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23VD8X> .
+<http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01j9gk0#programme> .
+<http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01j9ghx#programme> .
+<http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb#version> .
+<http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01j9ghx#p00srppz> .
+<http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;495cb~20120525T113000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb#id> .
+<http://billings.acropolis.org.uk/efe0b4e30e80439d856e88bda07c6cdb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .

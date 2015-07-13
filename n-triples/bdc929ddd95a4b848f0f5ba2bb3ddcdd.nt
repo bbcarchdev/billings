@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/bdc929ddd95a4b848f0f5ba2bb3ddcdd/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd> <http://purl.org/dc/terms/title> "Information about the broadcast 'Diagnosis Murder'"@en-gb .
+<http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd#version> .
+<http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Diagnosis Murder"@en-gb .
+<http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0013mz0#p00fwrw5> .
+<http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4f2c9~20110401T120000Z--PT0H45M0S> .
+<http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4J5B6Y> .
+<http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007brhb#programme> .
+<http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0013mz0#programme> .
+<http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/bdc929ddd95a4b848f0f5ba2bb3ddcdd/player> .
+<http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd#id> .
+<http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd#version> .
+<http://devapi.bbcredux.com/bdc929ddd95a4b848f0f5ba2bb3ddcdd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/bdc929ddd95a4b848f0f5ba2bb3ddcdd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Diagnosis Murder'"@en-gb .
+<http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b007brhb> .
+<http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd.nt> .
+<http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd#id> <http://www.w3.org/2000/01/rdf-schema#label> "Diagnosis Murder"@en-gb .
+<http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd#id> <http://purl.org/ontology/po/schedule_date> "2011-04-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/bdc929ddd95a4b848f0f5ba2bb3ddcdd#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/bdc929ddd95a4b848f0f5ba2bb3ddcdd/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

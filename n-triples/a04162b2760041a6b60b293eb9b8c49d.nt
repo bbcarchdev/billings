@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b010h9hh> .
+<http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Scooby-Doo Show"@en-gb .
+<http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIKIP> .
+<http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b010h9hh#programme> .
+<http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d#id> .
+<http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d.nt> .
+<http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Scooby-Doo Show'"@en-gb .
+<http://devapi.bbcredux.com/a04162b2760041a6b60b293eb9b8c49d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/a04162b2760041a6b60b293eb9b8c49d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d#version> .
+<http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/a04162b2760041a6b60b293eb9b8c49d/player> .
+<http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Scooby-Doo Show'"@en-gb .
+<http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d#id> <http://purl.org/ontology/po/schedule_date> "2011-04-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/a04162b2760041a6b60b293eb9b8c49d/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/a04162b2760041a6b60b293eb9b8c49d/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b010h9gg#p00g39xz> .
+<http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..123f;fd177~20110411T150000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d#version> .
+<http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b010h9gg#programme> .
+<http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Scooby-Doo Show"@en-gb .
+<http://billings.acropolis.org.uk/a04162b2760041a6b60b293eb9b8c49d.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .

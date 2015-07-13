@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/541H4P> .
+<http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0090fq6#programme> .
+<http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354#version> .
+<http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354#id> <http://www.w3.org/2000/01/rdf-schema#label> "Wild Tales"@en-gb .
+<http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354#id> .
+<http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354.nt> .
+<http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Wild Tales'"@en-gb .
+<http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354> <http://purl.org/dc/terms/title> "Information about the broadcast 'Wild Tales'"@en-gb .
+<http://devapi.bbcredux.com/37212b6c8078418989d14b2998a68354/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/37212b6c8078418989d14b2998a68354/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/37212b6c8078418989d14b2998a68354/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/37212b6c8078418989d14b2998a68354/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354#id> <http://purl.org/ontology/po/schedule_date> "2011-06-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0090fbg#programme> .
+<http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Wild Tales"@en-gb .
+<http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/37212b6c8078418989d14b2998a68354/player> .
+<http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0090fbg#p00hg935> .
+<http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4e66c~20110616T060000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0090fq6> .
+<http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/37212b6c8078418989d14b2998a68354#version> .

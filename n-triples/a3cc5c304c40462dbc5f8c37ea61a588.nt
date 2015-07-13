@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b017ykv0> .
+<http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588#id> <http://www.w3.org/2000/01/rdf-schema#label> "Briefings - David Cameron"@en-gb .
+<http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/a3cc5c304c40462dbc5f8c37ea61a588/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/a3cc5c304c40462dbc5f8c37ea61a588/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/LF2C8> .
+<http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b017ykv0#programme> .
+<http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588.nt> .
+<http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b017ykrp#programme> .
+<http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588> <http://purl.org/dc/terms/title> "Information about the broadcast 'Briefings - David Cameron'"@en-gb .
+<http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Briefings - David Cameron'"@en-gb .
+<http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Briefings - David Cameron"@en-gb .
+<http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588#id> .
+<http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/a3cc5c304c40462dbc5f8c37ea61a588/player> .
+<http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588#version> .
+<http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://devapi.bbcredux.com/a3cc5c304c40462dbc5f8c37ea61a588/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588#version> .
+<http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b017ykrp#p00lyfgz> .
+<http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;cc0c~20111127T010000Z--PT0H40M0S> .
+<http://billings.acropolis.org.uk/a3cc5c304c40462dbc5f8c37ea61a588#id> <http://purl.org/ontology/po/schedule_date> "2011-11-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/a3cc5c304c40462dbc5f8c37ea61a588/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .

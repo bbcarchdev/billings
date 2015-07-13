@@ -1,0 +1,27 @@
+<http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e> <http://purl.org/dc/terms/title> "Information about the broadcast 'Norbit'"@en-gb .
+<http://devapi.bbcredux.com/30a6fa2ee435402a9e569a5b6460f45e/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/30a6fa2ee435402a9e569a5b6460f45e/player> .
+<http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00q9y32> .
+<http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e#version> .
+<http://devapi.bbcredux.com/30a6fa2ee435402a9e569a5b6460f45e/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00q9y32#programme> .
+<http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e#id> <http://purl.org/ontology/po/schedule_date> "2011-06-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e#id> .
+<http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e#version> .
+<http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e#id> <http://www.w3.org/2000/01/rdf-schema#label> "Norbit"@en-gb .
+<http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Norbit'"@en-gb .
+<http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00q9y2c#programme> .
+<http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/30a6fa2ee435402a9e569a5b6460f45e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/30a6fa2ee435402a9e569a5b6460f45e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Norbit"@en-gb .
+<http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e.nt> .
+<http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00q9y2c#p00hmk6c> .
+<http://billings.acropolis.org.uk/30a6fa2ee435402a9e569a5b6460f45e#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;fa1db~20110626T013000Z--PT1H35M0S> .

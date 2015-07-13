@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0132mx8#programme> .
+<http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba#id> .
+<http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba#version> .
+<http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0132mx8#p00jf6y0> .
+<http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4b4d8~20110804T014000Z--PT0H50M0S> .
+<http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba#id> <http://purl.org/ontology/po/schedule_date> "2011-08-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba#id> <http://www.w3.org/2000/01/rdf-schema#label> "Richard Hammond's Engineering..."@en-gb .
+<http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/c0b3e4e4b69642c4bbfc42800532d8ba/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b011x1wr> .
+<http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/c0b3e4e4b69642c4bbfc42800532d8ba/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba#version> .
+<http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba.nt> .
+<http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/c0b3e4e4b69642c4bbfc42800532d8ba/player> .
+<http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba> <http://purl.org/dc/terms/title> "Information about the broadcast 'Richard Hammond's Engineering...'"@en-gb .
+<http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Richard Hammond's Engineering...'"@en-gb .
+<http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Richard Hammond's Engineering..."@en-gb .
+<http://devapi.bbcredux.com/c0b3e4e4b69642c4bbfc42800532d8ba/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/c0b3e4e4b69642c4bbfc42800532d8ba/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/241277> .
+<http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b011x1wr#programme> .
+<http://billings.acropolis.org.uk/c0b3e4e4b69642c4bbfc42800532d8ba#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .

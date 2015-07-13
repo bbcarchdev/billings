@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/95b0e4db058a4d36b9c398fb0a1c4b99/player> .
+<http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/95b0e4db058a4d36b9c398fb0a1c4b99/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/95b0e4db058a4d36b9c398fb0a1c4b99/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99#version> .
+<http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b012107y> .
+<http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b012105f#programme> .
+<http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Shadow Line"@en-gb .
+<http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Shadow Line'"@en-gb .
+<http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Shadow Line"@en-gb .
+<http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b012105f#p00hh564> .
+<http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4edbf~20110619T213000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99#version> .
+<http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/95b0e4db058a4d36b9c398fb0a1c4b99/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99.nt> .
+<http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/95b0e4db058a4d36b9c398fb0a1c4b99/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99#id> .
+<http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1FN5GH> .
+<http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b012107y#programme> .
+<http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Shadow Line'"@en-gb .
+<http://billings.acropolis.org.uk/95b0e4db058a4d36b9c398fb0a1c4b99#id> <http://purl.org/ontology/po/schedule_date> "2011-06-19"^^<http://www.w3.org/2001/XMLSchema#date> .

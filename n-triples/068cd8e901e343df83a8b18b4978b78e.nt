@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b014fl07> .
+<http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e#version> .
+<http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/068cd8e901e343df83a8b18b4978b78e/player> .
+<http://devapi.bbcredux.com/068cd8e901e343df83a8b18b4978b78e/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e#id> <http://purl.org/ontology/po/schedule_date> "2011-09-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e#version> .
+<http://devapi.bbcredux.com/068cd8e901e343df83a8b18b4978b78e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/068cd8e901e343df83a8b18b4978b78e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e#id> <http://www.w3.org/2000/01/rdf-schema#label> "Live Cabinet Office Questions"@en-gb .
+<http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e> <http://purl.org/dc/terms/title> "Information about the broadcast 'Live Cabinet Office Questions'"@en-gb .
+<http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Live Cabinet Office Questions"@en-gb .
+<http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b014fkp8#programme> .
+<http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b014fkp8#p00k43dt> .
+<http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;c48e~20110907T103000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Live Cabinet Office Questions'"@en-gb .
+<http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e.nt> .
+<http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/JHGPM> .
+<http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b014fl07#programme> .
+<http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e#id> .
+<http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/068cd8e901e343df83a8b18b4978b78e.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/068cd8e901e343df83a8b18b4978b78e/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

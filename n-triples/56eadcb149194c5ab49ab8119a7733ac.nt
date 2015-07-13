@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://devapi.bbcredux.com/56eadcb149194c5ab49ab8119a7733ac/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/56eadcb149194c5ab49ab8119a7733ac/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/56eadcb149194c5ab49ab8119a7733ac/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b005v7w2#programme> .
+<http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Bob the Builder: Project Build It"@en-gb .
+<http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac#version> .
+<http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIGQ0> .
+<http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0078wq7#programme> .
+<http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0078wq7> .
+<http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b005v7w2#p00p0h1p> .
+<http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;9a93~20120216T073000Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac#id> .
+<http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/56eadcb149194c5ab49ab8119a7733ac/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac#version> .
+<http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac#id> <http://www.w3.org/2000/01/rdf-schema#label> "Bob the Builder: Project Build It"@en-gb .
+<http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Bob the Builder: Project Build It'"@en-gb .
+<http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac.nt> .
+<http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac#id> <http://purl.org/ontology/po/schedule_date> "2012-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/56eadcb149194c5ab49ab8119a7733ac/player> .
+<http://billings.acropolis.org.uk/56eadcb149194c5ab49ab8119a7733ac> <http://purl.org/dc/terms/title> "Information about the broadcast 'Bob the Builder: Project Build It'"@en-gb .

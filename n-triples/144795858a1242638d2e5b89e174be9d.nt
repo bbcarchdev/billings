@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0121ljz#p00hg9dt> .
+<http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;bb05~20110617T050000Z--PT3H0M0S> .
+<http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0121lp7> .
+<http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/I68BK> .
+<http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0121lp7#programme> .
+<http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d#id> <http://www.w3.org/2000/01/rdf-schema#label> "Lords - Police Reform"@en-gb .
+<http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0121ljz#programme> .
+<http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/144795858a1242638d2e5b89e174be9d/player> .
+<http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d> <http://purl.org/dc/terms/title> "Information about the broadcast 'Lords - Police Reform'"@en-gb .
+<http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d#version> .
+<http://devapi.bbcredux.com/144795858a1242638d2e5b89e174be9d/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Lords - Police Reform'"@en-gb .
+<http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d#id> <http://purl.org/ontology/po/schedule_date> "2011-06-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d.nt> .
+<http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/144795858a1242638d2e5b89e174be9d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/144795858a1242638d2e5b89e174be9d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Lords - Police Reform"@en-gb .
+<http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d#version> .
+<http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/144795858a1242638d2e5b89e174be9d#id> .
+<http://devapi.bbcredux.com/144795858a1242638d2e5b89e174be9d/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

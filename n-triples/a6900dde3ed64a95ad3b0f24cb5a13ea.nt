@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea#id> .
+<http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea#version> .
+<http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Lords - Crime and Courts"@en-gb .
+<http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea#id> <http://purl.org/ontology/po/schedule_date> "2012-12-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01pbhl5> .
+<http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea#id> <http://www.w3.org/2000/01/rdf-schema#label> "Lords - Crime and Courts"@en-gb .
+<http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea> <http://purl.org/dc/terms/title> "Information about the broadcast 'Lords - Crime and Courts'"@en-gb .
+<http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/a6900dde3ed64a95ad3b0f24cb5a13ea/player> .
+<http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01pbhkz#p011tc4t> .
+<http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1280;8ca2~20121205T010000Z--PT5H0M0S> .
+<http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Lords - Crime and Courts'"@en-gb .
+<http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea#version> .
+<http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01pbhkz#programme> .
+<http://devapi.bbcredux.com/a6900dde3ed64a95ad3b0f24cb5a13ea/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/a6900dde3ed64a95ad3b0f24cb5a13ea/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/a6900dde3ed64a95ad3b0f24cb5a13ea/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/a6900dde3ed64a95ad3b0f24cb5a13ea/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SS09Y> .
+<http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01pbhl5#programme> .
+<http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea.nt> .
+<http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/a6900dde3ed64a95ad3b0f24cb5a13ea.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .

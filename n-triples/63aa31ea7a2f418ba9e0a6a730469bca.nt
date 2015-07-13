@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca#id> <http://www.w3.org/2000/01/rdf-schema#label> "Diddy Dick and Dom"@en-gb .
+<http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4CDMOZ> .
+<http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008czb5#programme> .
+<http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/63aa31ea7a2f418ba9e0a6a730469bca/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/63aa31ea7a2f418ba9e0a6a730469bca/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/63aa31ea7a2f418ba9e0a6a730469bca/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008cyb9#p00h20nl> .
+<http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..123f;fdb1d~20110528T060000Z--PT0H5M0S> .
+<http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca#id> .
+<http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Diddy Dick and Dom"@en-gb .
+<http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca#version> .
+<http://devapi.bbcredux.com/63aa31ea7a2f418ba9e0a6a730469bca/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/63aa31ea7a2f418ba9e0a6a730469bca/player> .
+<http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b008czb5> .
+<http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008cyb9#programme> .
+<http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca.nt> .
+<http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Diddy Dick and Dom'"@en-gb .
+<http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca#version> .
+<http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca#id> <http://purl.org/ontology/po/schedule_date> "2011-05-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/63aa31ea7a2f418ba9e0a6a730469bca> <http://purl.org/dc/terms/title> "Information about the broadcast 'Diddy Dick and Dom'"@en-gb .

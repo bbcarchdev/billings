@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Mr Bloom's Nursery'"@en-gb .
+<http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Mr Bloom's Nursery"@en-gb .
+<http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed#version> .
+<http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed> <http://purl.org/dc/terms/title> "Information about the broadcast 'Mr Bloom's Nursery'"@en-gb .
+<http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SQ3FY> .
+<http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00zp6br#programme> .
+<http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00zp0q3#programme> .
+<http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed#id> <http://purl.org/ontology/po/schedule_date> "2011-08-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed#id> <http://www.w3.org/2000/01/rdf-schema#label> "Mr Bloom's Nursery"@en-gb .
+<http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00zp6br> .
+<http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/d4792c2c637249e89b485969d6fd58ed/player> .
+<http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://devapi.bbcredux.com/d4792c2c637249e89b485969d6fd58ed/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed.nt> .
+<http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed#id> .
+<http://devapi.bbcredux.com/d4792c2c637249e89b485969d6fd58ed/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed#version> .
+<http://devapi.bbcredux.com/d4792c2c637249e89b485969d6fd58ed/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/d4792c2c637249e89b485969d6fd58ed/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00zp0q3#p00jf7mq> .
+<http://billings.acropolis.org.uk/d4792c2c637249e89b485969d6fd58ed#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4ab01~20110803T084500Z--PT0H20M0S> .

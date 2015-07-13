@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e#id> .
+<http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Who Do You Think You Are?'"@en-gb .
+<http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/35d2fedda8724330a0fe2aeaafde9a3e/player> .
+<http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e.nt> .
+<http://devapi.bbcredux.com/35d2fedda8724330a0fe2aeaafde9a3e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/35d2fedda8724330a0fe2aeaafde9a3e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e#version> .
+<http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e#id> <http://www.w3.org/2000/01/rdf-schema#label> "Who Do You Think You Are?"@en-gb .
+<http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e#id> <http://purl.org/ontology/po/schedule_date> "2012-09-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01mxvn0#programme> .
+<http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Who Do You Think You Are?"@en-gb .
+<http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e#version> .
+<http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/2414U8> .
+<http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01mxvn2#programme> .
+<http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/35d2fedda8724330a0fe2aeaafde9a3e/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/35d2fedda8724330a0fe2aeaafde9a3e/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01mxvn0#p00ygm45> .
+<http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4f5ba~20120919T200000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e> <http://purl.org/dc/terms/title> "Information about the broadcast 'Who Do You Think You Are?'"@en-gb .
+<http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01mxvn2> .
+<http://billings.acropolis.org.uk/35d2fedda8724330a0fe2aeaafde9a3e.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .

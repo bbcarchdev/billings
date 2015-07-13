@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SVZBJ> .
+<http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00t6rpl#programme> .
+<http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Get Squiggling"@en-gb .
+<http://devapi.bbcredux.com/fda2692fac964364a7e62bb96b651b63/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/fda2692fac964364a7e62bb96b651b63/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00t694s#programme> .
+<http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63#id> <http://www.w3.org/2000/01/rdf-schema#label> "Get Squiggling"@en-gb .
+<http://devapi.bbcredux.com/fda2692fac964364a7e62bb96b651b63/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/fda2692fac964364a7e62bb96b651b63/player> .
+<http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63.nt> .
+<http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63#version> .
+<http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63> <http://purl.org/dc/terms/title> "Information about the broadcast 'Get Squiggling'"@en-gb .
+<http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63#id> <http://purl.org/ontology/po/schedule_date> "2012-06-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00t6rpl> .
+<http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63#id> .
+<http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00t694s#p00t2qbb> .
+<http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1240;d123~20120601T101000Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63#version> .
+<http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Get Squiggling'"@en-gb .
+<http://billings.acropolis.org.uk/fda2692fac964364a7e62bb96b651b63.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/fda2692fac964364a7e62bb96b651b63/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

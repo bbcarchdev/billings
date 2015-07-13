@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda#id> .
+<http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda#version> .
+<http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Only Connect'"@en-gb .
+<http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda#id> <http://www.w3.org/2000/01/rdf-schema#label> "Only Connect"@en-gb .
+<http://devapi.bbcredux.com/c580931c28024a52a855320675c7deda/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/c580931c28024a52a855320675c7deda/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1RK91F> .
+<http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0186y2m#programme> .
+<http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0186xyr#p00mg7q7> .
+<http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..41c0;92fe~20111213T003000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda#version> .
+<http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0186y2m> .
+<http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda#id> <http://purl.org/ontology/po/schedule_date> "2011-12-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/c580931c28024a52a855320675c7deda/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda> <http://purl.org/dc/terms/title> "Information about the broadcast 'Only Connect'"@en-gb .
+<http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0186xyr#programme> .
+<http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Only Connect"@en-gb .
+<http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/c580931c28024a52a855320675c7deda/player> .
+<http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/c580931c28024a52a855320675c7deda/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/c580931c28024a52a855320675c7deda.nt> .

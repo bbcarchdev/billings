@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/35W4K4> .
+<http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00bv2k8#programme> .
+<http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c#id> <http://purl.org/ontology/po/schedule_date> "2011-03-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c> <http://purl.org/dc/terms/title> "Information about the broadcast 'My New Best Friend'"@en-gb .
+<http://devapi.bbcredux.com/105c2860968e4f978ae0e50f499f776c/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00bv2gr#programme> .
+<http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c#id> .
+<http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c.nt> .
+<http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/105c2860968e4f978ae0e50f499f776c/player> .
+<http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c#version> .
+<http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'My New Best Friend'"@en-gb .
+<http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c#id> <http://www.w3.org/2000/01/rdf-schema#label> "My New Best Friend"@en-gb .
+<http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c#version> .
+<http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00bv2gr#p00fq31r> .
+<http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..41c0;f0a3~20110324T200000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c#episode> <http://www.w3.org/2000/01/rdf-schema#label> "My New Best Friend"@en-gb .
+<http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00bv2k8> .
+<http://billings.acropolis.org.uk/105c2860968e4f978ae0e50f499f776c.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/105c2860968e4f978ae0e50f499f776c/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/105c2860968e4f978ae0e50f499f776c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/105c2860968e4f978ae0e50f499f776c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .

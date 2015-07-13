@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Stamp Price Regulation Committee"@en-gb .
+<http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae#version> .
+<http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01hztpk#p00s09zw> .
+<http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1280;e51d~20120504T034500Z--PT1H15M0S> .
+<http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae#id> <http://www.w3.org/2000/01/rdf-schema#label> "Stamp Price Regulation Committee"@en-gb .
+<http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01hztvv> .
+<http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01hztpk#programme> .
+<http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae#id> .
+<http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae#version> .
+<http://devapi.bbcredux.com/c852c90cf99443979394919deb4400ae/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://devapi.bbcredux.com/c852c90cf99443979394919deb4400ae/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/c852c90cf99443979394919deb4400ae/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/c852c90cf99443979394919deb4400ae/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae> <http://purl.org/dc/terms/title> "Information about the broadcast 'Stamp Price Regulation Committee'"@en-gb .
+<http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae.nt> .
+<http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/PU7YD> .
+<http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01hztvv#programme> .
+<http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae#id> <http://purl.org/ontology/po/schedule_date> "2012-05-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Stamp Price Regulation Committee'"@en-gb .
+<http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/c852c90cf99443979394919deb4400ae/player> .
+<http://billings.acropolis.org.uk/c852c90cf99443979394919deb4400ae.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .

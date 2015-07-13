@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd#version> .
+<http://devapi.bbcredux.com/6b344967e1294e19b726c94bf49cbbdd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/6b344967e1294e19b726c94bf49cbbdd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Record'"@en-gb .
+<http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/6b344967e1294e19b726c94bf49cbbdd/player> .
+<http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Record'"@en-gb .
+<http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd#id> <http://purl.org/ontology/po/schedule_date> "2011-06-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0120z42#p00hfkd1> .
+<http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;baf7~20110616T023000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd#id> .
+<http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/I5TX9> .
+<http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0120z4x#programme> .
+<http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0120z42#programme> .
+<http://devapi.bbcredux.com/6b344967e1294e19b726c94bf49cbbdd/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/6b344967e1294e19b726c94bf49cbbdd/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd.nt> .
+<http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0120z4x> .
+<http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Record"@en-gb .
+<http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Record"@en-gb .
+<http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/6b344967e1294e19b726c94bf49cbbdd#version> .

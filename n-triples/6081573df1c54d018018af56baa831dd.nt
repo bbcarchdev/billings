@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/6081573df1c54d018018af56baa831dd/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0109gd5#p00g4nh2> .
+<http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..41c0;f269~20110414T001000Z--PT0H30M0S> .
+<http://devapi.bbcredux.com/6081573df1c54d018018af56baa831dd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/6081573df1c54d018018af56baa831dd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Petworth House: The Big Spring..."@en-gb .
+<http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd#version> .
+<http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/2410XL> .
+<http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0109gml#programme> .
+<http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd#id> <http://purl.org/ontology/po/schedule_date> "2011-04-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0109gml> .
+<http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0109gd5#programme> .
+<http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd#version> .
+<http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd.nt> .
+<http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Petworth House: The Big Spring...'"@en-gb .
+<http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd#id> .
+<http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd#id> <http://www.w3.org/2000/01/rdf-schema#label> "Petworth House: The Big Spring..."@en-gb .
+<http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/6081573df1c54d018018af56baa831dd/player> .
+<http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd> <http://purl.org/dc/terms/title> "Information about the broadcast 'Petworth House: The Big Spring...'"@en-gb .
+<http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/6081573df1c54d018018af56baa831dd#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/6081573df1c54d018018af56baa831dd/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

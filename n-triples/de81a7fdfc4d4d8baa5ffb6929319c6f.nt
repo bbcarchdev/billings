@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'House of Lords'"@en-gb .
+<http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b012nhjb#programme> .
+<http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/de81a7fdfc4d4d8baa5ffb6929319c6f/player> .
+<http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f#id> <http://purl.org/ontology/po/schedule_date> "2011-07-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/de81a7fdfc4d4d8baa5ffb6929319c6f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/de81a7fdfc4d4d8baa5ffb6929319c6f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f#episode> <http://www.w3.org/2000/01/rdf-schema#label> "House of Lords"@en-gb .
+<http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f#version> .
+<http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f#id> .
+<http://devapi.bbcredux.com/de81a7fdfc4d4d8baa5ffb6929319c6f/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f#version> .
+<http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b012nhln> .
+<http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f#id> <http://www.w3.org/2000/01/rdf-schema#label> "House of Lords"@en-gb .
+<http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/IIATY> .
+<http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b012nhln#programme> .
+<http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f.nt> .
+<http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b012nhjb#p00j2h4d> .
+<http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;bed8~20110715T230000Z--PT5H0M0S> .
+<http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f> <http://purl.org/dc/terms/title> "Information about the broadcast 'House of Lords'"@en-gb .
+<http://billings.acropolis.org.uk/de81a7fdfc4d4d8baa5ffb6929319c6f.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/de81a7fdfc4d4d8baa5ffb6929319c6f/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

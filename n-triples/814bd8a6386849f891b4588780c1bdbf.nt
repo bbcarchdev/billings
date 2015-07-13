@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIKJF> .
+<http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0186mql#programme> .
+<http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf#id> <http://www.w3.org/2000/01/rdf-schema#label> "Lulu Zipadoo"@en-gb .
+<http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf#id> .
+<http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf> <http://purl.org/dc/terms/title> "Information about the broadcast 'Lulu Zipadoo'"@en-gb .
+<http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf.nt> .
+<http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/814bd8a6386849f891b4588780c1bdbf/player> .
+<http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf#id> <http://purl.org/ontology/po/schedule_date> "2011-12-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0186mqj#programme> .
+<http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0186mql> .
+<http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf#version> .
+<http://devapi.bbcredux.com/814bd8a6386849f891b4588780c1bdbf/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/814bd8a6386849f891b4588780c1bdbf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/814bd8a6386849f891b4588780c1bdbf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf#version> .
+<http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Lulu Zipadoo'"@en-gb .
+<http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Lulu Zipadoo"@en-gb .
+<http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0186mqj#p00m8119> .
+<http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4dde6~20111209T085000Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://devapi.bbcredux.com/814bd8a6386849f891b4588780c1bdbf/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/814bd8a6386849f891b4588780c1bdbf.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .

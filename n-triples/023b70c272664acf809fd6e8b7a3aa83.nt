@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00rp6rc#p00j62m9> .
+<http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..41c0;fcc7~20110724T200000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83#id> <http://purl.org/ontology/po/schedule_date> "2011-07-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/023b70c272664acf809fd6e8b7a3aa83/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/023b70c272664acf809fd6e8b7a3aa83/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/023b70c272664acf809fd6e8b7a3aa83/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83#episode> <http://www.w3.org/2000/01/rdf-schema#label> "France on a Plate"@en-gb .
+<http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83.nt> .
+<http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00rp6rc#programme> .
+<http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83#id> <http://www.w3.org/2000/01/rdf-schema#label> "France on a Plate"@en-gb .
+<http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00fvfmf> .
+<http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/5416OJ> .
+<http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fvfmf#programme> .
+<http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83#version> .
+<http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83> <http://purl.org/dc/terms/title> "Information about the broadcast 'France on a Plate'"@en-gb .
+<http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/023b70c272664acf809fd6e8b7a3aa83/player> .
+<http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/023b70c272664acf809fd6e8b7a3aa83/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83#version> .
+<http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83#id> .
+<http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'France on a Plate'"@en-gb .
+<http://billings.acropolis.org.uk/023b70c272664acf809fd6e8b7a3aa83#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .

@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/f78c9d0bfa464ac287a9c6656c2a3ebf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/f78c9d0bfa464ac287a9c6656c2a3ebf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Dance Download"@en-gb .
+<http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b013m1hy> .
+<http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf> <http://purl.org/dc/terms/title> "Information about the broadcast 'Dance Download'"@en-gb .
+<http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/f78c9d0bfa464ac287a9c6656c2a3ebf/player> .
+<http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Dance Download'"@en-gb .
+<http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/f78c9d0bfa464ac287a9c6656c2a3ebf/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf#id> <http://purl.org/ontology/po/schedule_date> "2012-04-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf#version> .
+<http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf.nt> .
+<http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b013m05d#programme> .
+<http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SW0XO> .
+<http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b013m1hy#programme> .
+<http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b013m05d#p00qfj3k> .
+<http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..123f;faa6d~20120402T145500Z--PT0H5M0S> .
+<http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf#id> .
+<http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf#version> .
+<http://billings.acropolis.org.uk/f78c9d0bfa464ac287a9c6656c2a3ebf#id> <http://www.w3.org/2000/01/rdf-schema#label> "Dance Download"@en-gb .
+<http://devapi.bbcredux.com/f78c9d0bfa464ac287a9c6656c2a3ebf/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

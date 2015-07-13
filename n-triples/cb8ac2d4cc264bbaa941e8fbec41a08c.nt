@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01b65lm#programme> .
+<http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c> <http://purl.org/dc/terms/title> "Information about the broadcast 'San Francisco's Year Zero: We...'"@en-gb .
+<http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c#id> <http://www.w3.org/2000/01/rdf-schema#label> "San Francisco's Year Zero: We..."@en-gb .
+<http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01b65lm#p00nv7b1> .
+<http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..41c0;99cd~20120211T232500Z--PT1H30M0S> .
+<http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c#version> .
+<http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b01b65lr> .
+<http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c#episode> <http://www.w3.org/2000/01/rdf-schema#label> "San Francisco's Year Zero: We..."@en-gb .
+<http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c#id> .
+<http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c#id> <http://purl.org/ontology/po/schedule_date> "2012-02-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c.nt> .
+<http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c#version> .
+<http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/cb8ac2d4cc264bbaa941e8fbec41a08c/player> .
+<http://devapi.bbcredux.com/cb8ac2d4cc264bbaa941e8fbec41a08c/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/cb8ac2d4cc264bbaa941e8fbec41a08c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/cb8ac2d4cc264bbaa941e8fbec41a08c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/2415FT> .
+<http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b01b65lr#programme> .
+<http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'San Francisco's Year Zero: We...'"@en-gb .
+<http://billings.acropolis.org.uk/cb8ac2d4cc264bbaa941e8fbec41a08c.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/cb8ac2d4cc264bbaa941e8fbec41a08c/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .

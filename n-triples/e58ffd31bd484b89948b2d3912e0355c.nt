@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c#version> .
+<http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Dani's House"@en-gb .
+<http://devapi.bbcredux.com/e58ffd31bd484b89948b2d3912e0355c/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c.nt> .
+<http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c#id> <http://www.w3.org/2000/01/rdf-schema#label> "Dani's House"@en-gb .
+<http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ty81g#programme> .
+<http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SVZAJ> .
+<http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ty82k#programme> .
+<http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ty81g#p00szj89> .
+<http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1200;be30~20120530T122000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/e58ffd31bd484b89948b2d3912e0355c/player> .
+<http://devapi.bbcredux.com/e58ffd31bd484b89948b2d3912e0355c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/e58ffd31bd484b89948b2d3912e0355c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c#id> <http://purl.org/ontology/po/schedule_date> "2012-05-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00ty82k> .
+<http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c#id> .
+<http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c> <http://purl.org/dc/terms/title> "Information about the broadcast 'Dani's House'"@en-gb .
+<http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Dani's House'"@en-gb .
+<http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/e58ffd31bd484b89948b2d3912e0355c#version> .
+<http://devapi.bbcredux.com/e58ffd31bd484b89948b2d3912e0355c/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
