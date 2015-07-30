@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SII7X> .
+<http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00nm7kb#programme> .
+<http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00892cv#p00bdtry> .
+<http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;9e53~20101012T150500Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Large Family'"@en-gb .
+<http://devapi.bbcredux.com/f97753824ccb43f1acaee69c26958cdd/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00nm7kb> .
+<http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd#id> <http://purl.org/ontology/po/schedule_date> "2010-10-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Large Family"@en-gb .
+<http://devapi.bbcredux.com/f97753824ccb43f1acaee69c26958cdd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/f97753824ccb43f1acaee69c26958cdd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd#version> .
+<http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd#version> .
+<http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/f97753824ccb43f1acaee69c26958cdd/player> .
+<http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00892cv#programme> .
+<http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Large Family"@en-gb .
+<http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd.nt> .
+<http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd#id> .
+<http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/f97753824ccb43f1acaee69c26958cdd> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Large Family'"@en-gb .
+<http://devapi.bbcredux.com/f97753824ccb43f1acaee69c26958cdd/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de.nt> .
+<http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00p2fzf> .
+<http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/b309974af92a476ca050b74e1c5018de/player> .
+<http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/b309974af92a476ca050b74e1c5018de/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/b309974af92a476ca050b74e1c5018de/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de#id> <http://purl.org/ontology/po/schedule_date> "2010-05-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Hole in the Wall"@en-gb .
+<http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de> <http://purl.org/dc/terms/title> "Information about the broadcast 'Hole in the Wall'"@en-gb .
+<http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/b309974af92a476ca050b74e1c5018de/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de#id> <http://www.w3.org/2000/01/rdf-schema#label> "Hole in the Wall"@en-gb .
+<http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1RKB66> .
+<http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00p2fzf#programme> .
+<http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de#version> .
+<http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de#id> .
+<http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Hole in the Wall'"@en-gb .
+<http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de#version> .
+<http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00p2fyv#programme> .
+<http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00p2fyv#p007w5t4> .
+<http://billings.acropolis.org.uk/b309974af92a476ca050b74e1c5018de#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4e023~20100522T154500Z--PT0H30M0S> .
+<http://devapi.bbcredux.com/b309974af92a476ca050b74e1c5018de/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d> <http://purl.org/dc/terms/title> "Information about the broadcast 'Wibbly Pig'"@en-gb .
+<http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d#id> <http://purl.org/ontology/po/schedule_date> "2009-10-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d#id> <http://www.w3.org/2000/01/rdf-schema#label> "Wibbly Pig"@en-gb .
+<http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIIRA> .
+<http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00nk34x#programme> .
+<http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d#version> .
+<http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00nk34x> .
+<http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d#version> .
+<http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d.nt> .
+<http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00nk32v#p004q9h7> .
+<http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;bb32~20091019T143000Z--PT0H10M0S> .
+<http://devapi.bbcredux.com/5117b3f59ec0443da784cd4ac80c079d/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00nk32v#programme> .
+<http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d#id> .
+<http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/5117b3f59ec0443da784cd4ac80c079d/player> .
+<http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Wibbly Pig'"@en-gb .
+<http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/5117b3f59ec0443da784cd4ac80c079d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/5117b3f59ec0443da784cd4ac80c079d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/5117b3f59ec0443da784cd4ac80c079d#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Wibbly Pig"@en-gb .
+<http://devapi.bbcredux.com/5117b3f59ec0443da784cd4ac80c079d/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

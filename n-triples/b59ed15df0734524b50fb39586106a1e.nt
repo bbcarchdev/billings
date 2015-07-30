@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b005vykb#p0002trk> .
+<http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;44a44~20080428T122000Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1U5AUS> .
+<http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0079bh0#programme> .
+<http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/b59ed15df0734524b50fb39586106a1e/player> .
+<http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e#id> <http://www.w3.org/2000/01/rdf-schema#label> "Kenya Shorts: Kenya and World"@en-gb .
+<http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b005vykb#programme> .
+<http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e#version> .
+<http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e#id> .
+<http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e#version> .
+<http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Kenya Shorts: Kenya and World"@en-gb .
+<http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0079bh0> .
+<http://devapi.bbcredux.com/b59ed15df0734524b50fb39586106a1e/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e> <http://purl.org/dc/terms/title> "Information about the broadcast 'Kenya Shorts: Kenya and World'"@en-gb .
+<http://devapi.bbcredux.com/b59ed15df0734524b50fb39586106a1e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/b59ed15df0734524b50fb39586106a1e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Kenya Shorts: Kenya and World'"@en-gb .
+<http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e.nt> .
+<http://billings.acropolis.org.uk/b59ed15df0734524b50fb39586106a1e#id> <http://purl.org/ontology/po/schedule_date> "2008-04-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/b59ed15df0734524b50fb39586106a1e/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

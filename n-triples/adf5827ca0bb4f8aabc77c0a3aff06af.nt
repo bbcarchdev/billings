@@ -1,0 +1,27 @@
+<http://devapi.bbcredux.com/adf5827ca0bb4f8aabc77c0a3aff06af/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00c4j7z> .
+<http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af#version> .
+<http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af#id> <http://purl.org/ontology/po/schedule_date> "2008-06-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Lords - Youth Justice'"@en-gb .
+<http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af#version> .
+<http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af.nt> .
+<http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af#id> .
+<http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Lords - Youth Justice"@en-gb .
+<http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af#id> <http://www.w3.org/2000/01/rdf-schema#label> "Lords - Youth Justice"@en-gb .
+<http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/adf5827ca0bb4f8aabc77c0a3aff06af/player> .
+<http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00c4j7z#programme> .
+<http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00c4hjl#p000jjtk> .
+<http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;0faf~20080613T050000Z--PT3H0M0S> .
+<http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af> <http://purl.org/dc/terms/title> "Information about the broadcast 'Lords - Youth Justice'"@en-gb .
+<http://devapi.bbcredux.com/adf5827ca0bb4f8aabc77c0a3aff06af/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/adf5827ca0bb4f8aabc77c0a3aff06af/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/adf5827ca0bb4f8aabc77c0a3aff06af/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00c4hjl#programme> .
+<http://billings.acropolis.org.uk/adf5827ca0bb4f8aabc77c0a3aff06af#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .

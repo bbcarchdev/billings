@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/2591a06026304f6c8132b3832fa05bed/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/2591a06026304f6c8132b3832fa05bed/player> .
+<http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Filthy Rich and Famous"@en-gb .
+<http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/240WDP> .
+<http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fygx4#programme> .
+<http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed> <http://purl.org/dc/terms/title> "Information about the broadcast 'Filthy Rich and Famous'"@en-gb .
+<http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed#version> .
+<http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fyr19#programme> .
+<http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed#id> <http://purl.org/ontology/po/schedule_date> "2008-12-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/2591a06026304f6c8132b3832fa05bed/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/2591a06026304f6c8132b3832fa05bed/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/2591a06026304f6c8132b3832fa05bed/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed#version> .
+<http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00fygx4> .
+<http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed#id> <http://www.w3.org/2000/01/rdf-schema#label> "Filthy Rich and Famous"@en-gb .
+<http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Filthy Rich and Famous'"@en-gb .
+<http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fyr19#p001tjq1> .
+<http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;fade5~20081230T041500Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed.nt> .
+<http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/2591a06026304f6c8132b3832fa05bed#id> .

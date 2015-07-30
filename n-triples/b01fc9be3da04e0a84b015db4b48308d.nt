@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/b01fc9be3da04e0a84b015db4b48308d/player> .
+<http://devapi.bbcredux.com/b01fc9be3da04e0a84b015db4b48308d/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/b01fc9be3da04e0a84b015db4b48308d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/b01fc9be3da04e0a84b015db4b48308d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d#version> .
+<http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00fb5m8> .
+<http://devapi.bbcredux.com/b01fc9be3da04e0a84b015db4b48308d/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d.nt> .
+<http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d#version> .
+<http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d#id> <http://www.w3.org/2000/01/rdf-schema#label> "Prescott: The Class System and Me"@en-gb .
+<http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Prescott: The Class System and Me'"@en-gb .
+<http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fb5lr#programme> .
+<http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/240WMB> .
+<http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fb5m8#programme> .
+<http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d> <http://purl.org/dc/terms/title> "Information about the broadcast 'Prescott: The Class System and Me'"@en-gb .
+<http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d#id> <http://purl.org/ontology/po/schedule_date> "2008-10-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fb5lr#p000p4fq> .
+<http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4162d~20081027T210000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d#id> .
+<http://billings.acropolis.org.uk/b01fc9be3da04e0a84b015db4b48308d#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Prescott: The Class System and Me"@en-gb .

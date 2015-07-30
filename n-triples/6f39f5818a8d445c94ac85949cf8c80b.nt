@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/6f39f5818a8d445c94ac85949cf8c80b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/6f39f5818a8d445c94ac85949cf8c80b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Strictly Come Dancing - It...'"@en-gb .
+<http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b#id> <http://purl.org/ontology/po/schedule_date> "2009-10-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b.nt> .
+<http://devapi.bbcredux.com/6f39f5818a8d445c94ac85949cf8c80b/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1REA5J> .
+<http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00njjpv#programme> .
+<http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b#id> .
+<http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/6f39f5818a8d445c94ac85949cf8c80b/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b#version> .
+<http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b#id> <http://www.w3.org/2000/01/rdf-schema#label> "Strictly Come Dancing - It..."@en-gb .
+<http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00njjpv> .
+<http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00njjpb#p004qbxf> .
+<http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4a7e4~20091019T173000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Strictly Come Dancing - It..."@en-gb .
+<http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b> <http://purl.org/dc/terms/title> "Information about the broadcast 'Strictly Come Dancing - It...'"@en-gb .
+<http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b#version> .
+<http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00njjpb#programme> .
+<http://billings.acropolis.org.uk/6f39f5818a8d445c94ac85949cf8c80b#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/6f39f5818a8d445c94ac85949cf8c80b/player> .

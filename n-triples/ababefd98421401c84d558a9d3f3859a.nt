@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00t86yc#programme> .
+<http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/240YQP> .
+<http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00rkm3y#programme> .
+<http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a> <http://purl.org/dc/terms/title> "Information about the broadcast 'Requiem for Detroit?'"@en-gb .
+<http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a#version> .
+<http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Requiem for Detroit?"@en-gb .
+<http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a#id> .
+<http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a#version> .
+<http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/ababefd98421401c84d558a9d3f3859a/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a.nt> .
+<http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00t86yc#p008xb0x> .
+<http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4b0bb~20100726T014000Z--PT1H20M0S> .
+<http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Requiem for Detroit?'"@en-gb .
+<http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a#id> <http://purl.org/ontology/po/schedule_date> "2010-07-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a#id> <http://www.w3.org/2000/01/rdf-schema#label> "Requiem for Detroit?"@en-gb .
+<http://devapi.bbcredux.com/ababefd98421401c84d558a9d3f3859a/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00rkm3y> .
+<http://devapi.bbcredux.com/ababefd98421401c84d558a9d3f3859a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/ababefd98421401c84d558a9d3f3859a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/ababefd98421401c84d558a9d3f3859a/player> .
+<http://billings.acropolis.org.uk/ababefd98421401c84d558a9d3f3859a.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .

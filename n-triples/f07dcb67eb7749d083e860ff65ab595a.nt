@@ -1,0 +1,23 @@
+<http://billings.acropolis.org.uk/f07dcb67eb7749d083e860ff65ab595a#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Cannabis Statement"@en-gb .
+<http://billings.acropolis.org.uk/f07dcb67eb7749d083e860ff65ab595a#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/f07dcb67eb7749d083e860ff65ab595a#version> .
+<http://billings.acropolis.org.uk/f07dcb67eb7749d083e860ff65ab595a#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/f07dcb67eb7749d083e860ff65ab595a#id> <http://www.w3.org/2000/01/rdf-schema#label> "Cannabis Statement"@en-gb .
+<http://billings.acropolis.org.uk/f07dcb67eb7749d083e860ff65ab595a#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/f07dcb67eb7749d083e860ff65ab595a> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/f07dcb67eb7749d083e860ff65ab595a.nt> .
+<http://billings.acropolis.org.uk/f07dcb67eb7749d083e860ff65ab595a> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/f07dcb67eb7749d083e860ff65ab595a#id> .
+<http://devapi.bbcredux.com/f07dcb67eb7749d083e860ff65ab595a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/f07dcb67eb7749d083e860ff65ab595a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f07dcb67eb7749d083e860ff65ab595a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f07dcb67eb7749d083e860ff65ab595a#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/f07dcb67eb7749d083e860ff65ab595a#version> .
+<http://billings.acropolis.org.uk/f07dcb67eb7749d083e860ff65ab595a.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/f07dcb67eb7749d083e860ff65ab595a> <http://purl.org/dc/terms/title> "Information about the broadcast 'Cannabis Statement'"@en-gb .
+<http://billings.acropolis.org.uk/f07dcb67eb7749d083e860ff65ab595a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/f07dcb67eb7749d083e860ff65ab595a/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/f07dcb67eb7749d083e860ff65ab595a#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/f07dcb67eb7749d083e860ff65ab595a/player> .
+<http://billings.acropolis.org.uk/f07dcb67eb7749d083e860ff65ab595a.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/f07dcb67eb7749d083e860ff65ab595a#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Cannabis Statement'"@en-gb .
+<http://billings.acropolis.org.uk/f07dcb67eb7749d083e860ff65ab595a.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/f07dcb67eb7749d083e860ff65ab595a#id> <http://purl.org/ontology/po/schedule_date> "2008-05-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/f07dcb67eb7749d083e860ff65ab595a#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/f07dcb67eb7749d083e860ff65ab595a#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;5268~20080510T031500Z--PT0H45M0S> .
+<http://devapi.bbcredux.com/f07dcb67eb7749d083e860ff65ab595a/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

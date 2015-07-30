@@ -1,0 +1,27 @@
+<http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'This Week'"@en-gb .
+<http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ldwps#programme> .
+<http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/c06ae1d4b1cd417c83476604b5a8d68b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/c06ae1d4b1cd417c83476604b5a8d68b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b#version> .
+<http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b#version> .
+<http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b#id> <http://www.w3.org/2000/01/rdf-schema#label> "This Week"@en-gb .
+<http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b#episode> <http://www.w3.org/2000/01/rdf-schema#label> "This Week"@en-gb .
+<http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b> <http://purl.org/dc/terms/title> "Information about the broadcast 'This Week'"@en-gb .
+<http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00ldwps> .
+<http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ldwp2#p003kdm9> .
+<http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;e2dc~20090703T170000Z--PT0H45M0S> .
+<http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/c06ae1d4b1cd417c83476604b5a8d68b/player> .
+<http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b#id> .
+<http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/c06ae1d4b1cd417c83476604b5a8d68b/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/c06ae1d4b1cd417c83476604b5a8d68b/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b.nt> .
+<http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ldwp2#programme> .
+<http://billings.acropolis.org.uk/c06ae1d4b1cd417c83476604b5a8d68b#id> <http://purl.org/ontology/po/schedule_date> "2009-07-03"^^<http://www.w3.org/2001/XMLSchema#date> .

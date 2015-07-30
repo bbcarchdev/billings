@@ -1,0 +1,27 @@
+<http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00nvkmr> .
+<http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e#id> <http://www.w3.org/2000/01/rdf-schema#label> "Police Searches on the..."@en-gb .
+<http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e#version> .
+<http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e#version> .
+<http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/dd6022e0ebce470d92d62af33a39068e/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/dd6022e0ebce470d92d62af33a39068e/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e> <http://purl.org/dc/terms/title> "Information about the broadcast 'Police Searches on the...'"@en-gb .
+<http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e.nt> .
+<http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Police Searches on the...'"@en-gb .
+<http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00nvkmk#p004y4sm> .
+<http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;f403~20091030T102500Z--PT1H25M0S> .
+<http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00nvkmk#programme> .
+<http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Police Searches on the..."@en-gb .
+<http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/dd6022e0ebce470d92d62af33a39068e/player> .
+<http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e#id> .
+<http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/dd6022e0ebce470d92d62af33a39068e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/dd6022e0ebce470d92d62af33a39068e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e#id> <http://purl.org/ontology/po/schedule_date> "2009-10-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/dd6022e0ebce470d92d62af33a39068e#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00nvkmr#programme> .

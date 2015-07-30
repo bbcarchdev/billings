@@ -1,0 +1,27 @@
+<http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea#id> <http://purl.org/ontology/po/schedule_date> "2009-09-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00lbqst#p0046m7t> .
+<http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;eb6b~20090904T115000Z--PT0H35M0S> .
+<http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Briefings - The World in 2050"@en-gb .
+<http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea#id> .
+<http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/224dd1c25eae40b28812250be33e8cea/player> .
+<http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea#id> <http://www.w3.org/2000/01/rdf-schema#label> "Briefings - The World in 2050"@en-gb .
+<http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea> <http://purl.org/dc/terms/title> "Information about the broadcast 'Briefings - The World in 2050'"@en-gb .
+<http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea.nt> .
+<http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea#version> .
+<http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Briefings - The World in 2050'"@en-gb .
+<http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00lbqwq> .
+<http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00lbqst#programme> .
+<http://devapi.bbcredux.com/224dd1c25eae40b28812250be33e8cea/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea#version> .
+<http://devapi.bbcredux.com/224dd1c25eae40b28812250be33e8cea/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/224dd1c25eae40b28812250be33e8cea/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/224dd1c25eae40b28812250be33e8cea/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/224dd1c25eae40b28812250be33e8cea#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00lbqwq#programme> .

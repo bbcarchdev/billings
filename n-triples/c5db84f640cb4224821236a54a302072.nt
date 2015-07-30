@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072#id> <http://purl.org/ontology/po/schedule_date> "2008-12-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/c5db84f640cb4224821236a54a302072/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072> <http://purl.org/dc/terms/title> "Information about the broadcast 'Nigella's Christmas Kitchen'"@en-gb .
+<http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00gf1cs#programme> .
+<http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/240X80> .
+<http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00794hk#programme> .
+<http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072.nt> .
+<http://devapi.bbcredux.com/c5db84f640cb4224821236a54a302072/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/c5db84f640cb4224821236a54a302072/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/c5db84f640cb4224821236a54a302072/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Nigella's Christmas Kitchen"@en-gb .
+<http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072#id> .
+<http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Nigella's Christmas Kitchen'"@en-gb .
+<http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072#version> .
+<http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/c5db84f640cb4224821236a54a302072/player> .
+<http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00794hk> .
+<http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072#id> <http://www.w3.org/2000/01/rdf-schema#label> "Nigella's Christmas Kitchen"@en-gb .
+<http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00gf1cs#p001rgkq> .
+<http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;432cd~20081224T023000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072#version> .
+<http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/c5db84f640cb4224821236a54a302072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .

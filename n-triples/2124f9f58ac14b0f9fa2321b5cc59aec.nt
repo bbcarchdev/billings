@@ -1,0 +1,27 @@
+<http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec#id> <http://www.w3.org/2000/01/rdf-schema#label> "BOOKtalk - Beach Books"@en-gb .
+<http://devapi.bbcredux.com/2124f9f58ac14b0f9fa2321b5cc59aec/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'BOOKtalk - Beach Books'"@en-gb .
+<http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00lszwh> .
+<http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00lszwh#programme> .
+<http://devapi.bbcredux.com/2124f9f58ac14b0f9fa2321b5cc59aec/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec#id> .
+<http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec#version> .
+<http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec#episode> <http://www.w3.org/2000/01/rdf-schema#label> "BOOKtalk - Beach Books"@en-gb .
+<http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec#version> .
+<http://devapi.bbcredux.com/2124f9f58ac14b0f9fa2321b5cc59aec/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/2124f9f58ac14b0f9fa2321b5cc59aec/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec#id> <http://purl.org/ontology/po/schedule_date> "2009-08-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/2124f9f58ac14b0f9fa2321b5cc59aec/player> .
+<http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec.nt> .
+<http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00lszrm#programme> .
+<http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec> <http://purl.org/dc/terms/title> "Information about the broadcast 'BOOKtalk - Beach Books'"@en-gb .
+<http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00lszrm#p0040w18> .
+<http://billings.acropolis.org.uk/2124f9f58ac14b0f9fa2321b5cc59aec#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;e8c8~20090818T221000Z--PT0H35M0S> .

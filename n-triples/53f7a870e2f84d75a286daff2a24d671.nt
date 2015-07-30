@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0023q6j#programme> .
+<http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671#version> .
+<http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671#id> <http://www.w3.org/2000/01/rdf-schema#label> "Ethelbert the Tiger"@en-gb .
+<http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/53f7a870e2f84d75a286daff2a24d671/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671> <http://purl.org/dc/terms/title> "Information about the broadcast 'Ethelbert the Tiger'"@en-gb .
+<http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4BAJ0Y> .
+<http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00791jb#programme> .
+<http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Ethelbert the Tiger"@en-gb .
+<http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00791jb> .
+<http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671.nt> .
+<http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671#id> <http://purl.org/ontology/po/schedule_date> "2010-02-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671#version> .
+<http://devapi.bbcredux.com/53f7a870e2f84d75a286daff2a24d671/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/53f7a870e2f84d75a286daff2a24d671/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/53f7a870e2f84d75a286daff2a24d671/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671#id> .
+<http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Ethelbert the Tiger'"@en-gb .
+<http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/53f7a870e2f84d75a286daff2a24d671/player> .
+<http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0023q6j#p006jcmn> .
+<http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4d645~20100226T092000Z--PT0H5M0S> .
+<http://billings.acropolis.org.uk/53f7a870e2f84d75a286daff2a24d671#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .

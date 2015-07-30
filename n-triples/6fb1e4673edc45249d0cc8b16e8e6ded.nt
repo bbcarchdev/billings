@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded#version> .
+<http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded#id> .
+<http://devapi.bbcredux.com/6fb1e4673edc45249d0cc8b16e8e6ded/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded> <http://purl.org/dc/terms/title> "Information about the broadcast 'Star Trek: The Next Generation'"@en-gb .
+<http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0005f5f#programme> .
+<http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4J4UTL> .
+<http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0077ngk#programme> .
+<http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0077ngk> .
+<http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded#version> .
+<http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/6fb1e4673edc45249d0cc8b16e8e6ded/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/6fb1e4673edc45249d0cc8b16e8e6ded/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/6fb1e4673edc45249d0cc8b16e8e6ded/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded#id> <http://www.w3.org/2000/01/rdf-schema#label> "Star Trek: The Next Generation"@en-gb .
+<http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded.nt> .
+<http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Star Trek: The Next Generation'"@en-gb .
+<http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded#id> <http://purl.org/ontology/po/schedule_date> "2008-03-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0005f5f#p0000jr9> .
+<http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4126f~20080315T032500Z--PT0H45M0S> .
+<http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Star Trek: The Next Generation"@en-gb .
+<http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/6fb1e4673edc45249d0cc8b16e8e6ded#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/6fb1e4673edc45249d0cc8b16e8e6ded/player> .

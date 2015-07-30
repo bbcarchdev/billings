@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00h2rrp#p001wrgq> .
+<http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4e528~20090105T130000Z--PT0H25M0S> .
+<http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf#version> .
+<http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf#id> <http://www.w3.org/2000/01/rdf-schema#label> "Out of the Blue"@en-gb .
+<http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf> <http://purl.org/dc/terms/title> "Information about the broadcast 'Out of the Blue'"@en-gb .
+<http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/f04bbf68d9b54a8a896e57e5654f0daf/player> .
+<http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00h2rrp#programme> .
+<http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Out of the Blue"@en-gb .
+<http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4J5EPK> .
+<http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00gnczb#programme> .
+<http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Out of the Blue'"@en-gb .
+<http://devapi.bbcredux.com/f04bbf68d9b54a8a896e57e5654f0daf/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf#id> .
+<http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf#id> <http://purl.org/ontology/po/schedule_date> "2009-01-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf#version> .
+<http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/f04bbf68d9b54a8a896e57e5654f0daf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/f04bbf68d9b54a8a896e57e5654f0daf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00gnczb> .
+<http://devapi.bbcredux.com/f04bbf68d9b54a8a896e57e5654f0daf/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/f04bbf68d9b54a8a896e57e5654f0daf.nt> .

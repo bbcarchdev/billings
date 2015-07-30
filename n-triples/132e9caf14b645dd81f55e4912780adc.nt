@@ -1,0 +1,27 @@
+<http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b005nj3y#p0002jc7> .
+<http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;5313~20071101T134000Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc#version> .
+<http://devapi.bbcredux.com/132e9caf14b645dd81f55e4912780adc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/132e9caf14b645dd81f55e4912780adc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/132e9caf14b645dd81f55e4912780adc/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc#id> <http://www.w3.org/2000/01/rdf-schema#label> "Little Robots"@en-gb .
+<http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc.nt> .
+<http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0078t3p#programme> .
+<http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc#id> <http://purl.org/ontology/po/schedule_date> "2007-11-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc#version> .
+<http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc#id> .
+<http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Little Robots'"@en-gb .
+<http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/132e9caf14b645dd81f55e4912780adc/player> .
+<http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc> <http://purl.org/dc/terms/title> "Information about the broadcast 'Little Robots'"@en-gb .
+<http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Little Robots"@en-gb .
+<http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/132e9caf14b645dd81f55e4912780adc/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0078t3p> .
+<http://billings.acropolis.org.uk/132e9caf14b645dd81f55e4912780adc#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b005nj3y#programme> .

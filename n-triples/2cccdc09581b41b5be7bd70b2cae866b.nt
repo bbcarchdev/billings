@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b> <http://purl.org/dc/terms/title> "Information about the broadcast 'Mama Mirabelle's Home Movies'"@en-gb .
+<http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Mama Mirabelle's Home Movies"@en-gb .
+<http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b#id> .
+<http://devapi.bbcredux.com/2cccdc09581b41b5be7bd70b2cae866b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/2cccdc09581b41b5be7bd70b2cae866b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/2cccdc09581b41b5be7bd70b2cae866b/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0082ld5#programme> .
+<http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b#version> .
+<http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b.nt> .
+<http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4CDM4G> .
+<http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0082lfy#programme> .
+<http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b#version> .
+<http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/2cccdc09581b41b5be7bd70b2cae866b/player> .
+<http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://devapi.bbcredux.com/2cccdc09581b41b5be7bd70b2cae866b/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b#id> <http://www.w3.org/2000/01/rdf-schema#label> "Mama Mirabelle's Home Movies"@en-gb .
+<http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0082ld5#p0009cj1> .
+<http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;2722~20080330T170000Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0082lfy> .
+<http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Mama Mirabelle's Home Movies'"@en-gb .
+<http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/2cccdc09581b41b5be7bd70b2cae866b#id> <http://purl.org/ontology/po/schedule_date> "2008-03-30"^^<http://www.w3.org/2001/XMLSchema#date> .

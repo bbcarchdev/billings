@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Church of England General Synod"@en-gb .
+<http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd.nt> .
+<http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/c2e1ddbd01744106befe5e052e8384bd/player> .
+<http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00wbqrl#programme> .
+<http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd#id> <http://www.w3.org/2000/01/rdf-schema#label> "Church of England General Synod"@en-gb .
+<http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd#version> .
+<http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/c2e1ddbd01744106befe5e052e8384bd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/c2e1ddbd01744106befe5e052e8384bd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd> <http://purl.org/dc/terms/title> "Information about the broadcast 'Church of England General Synod'"@en-gb .
+<http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd#id> <http://purl.org/ontology/po/schedule_date> "2010-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/c2e1ddbd01744106befe5e052e8384bd/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/c2e1ddbd01744106befe5e052e8384bd/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Church of England General Synod'"@en-gb .
+<http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/F1ARM> .
+<http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00wbqv5#programme> .
+<http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00wbqv5> .
+<http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00wbqrl#p00cdmww> .
+<http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;a8c4~20101128T011000Z--PT0H35M0S> .
+<http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd#id> .
+<http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/c2e1ddbd01744106befe5e052e8384bd#version> .

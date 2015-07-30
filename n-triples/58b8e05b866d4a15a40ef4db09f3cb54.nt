@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54.nt> .
+<http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00hybms#p002nwzx> .
+<http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4c334~20090410T090000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00hybms#programme> .
+<http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54#version> .
+<http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/58b8e05b866d4a15a40ef4db09f3cb54/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Sorcerer's Apprentice'"@en-gb .
+<http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Sorcerer's Apprentice'"@en-gb .
+<http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/58b8e05b866d4a15a40ef4db09f3cb54/player> .
+<http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/58b8e05b866d4a15a40ef4db09f3cb54/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/58b8e05b866d4a15a40ef4db09f3cb54/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/58b8e05b866d4a15a40ef4db09f3cb54/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54#id> <http://purl.org/ontology/po/schedule_date> "2009-04-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00hyd2w> .
+<http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54#id> .
+<http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54#version> .
+<http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Sorcerer's Apprentice"@en-gb .
+<http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Sorcerer's Apprentice"@en-gb .
+<http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SVYM5> .
+<http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00hyd2w#programme> .
+<http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/58b8e05b866d4a15a40ef4db09f3cb54#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .

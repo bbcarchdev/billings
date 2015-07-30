@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb#id> <http://purl.org/ontology/po/schedule_date> "2007-09-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Splitting Cells"@en-gb .
+<http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007znp8#programme> .
+<http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb#id> .
+<http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Splitting Cells'"@en-gb .
+<http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/d7c5d12d45bd4668a1aca17ad192bfcb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb.nt> .
+<http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb#version> .
+<http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007znp8#p00088yz> .
+<http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;f1fc9~20070921T012500Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b007znpj> .
+<http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb#version> .
+<http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb> <http://purl.org/dc/terms/title> "Information about the broadcast 'Splitting Cells'"@en-gb .
+<http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/35VAV6> .
+<http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007znpj#programme> .
+<http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/d7c5d12d45bd4668a1aca17ad192bfcb/player> .
+<http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/d7c5d12d45bd4668a1aca17ad192bfcb#id> <http://www.w3.org/2000/01/rdf-schema#label> "Splitting Cells"@en-gb .
+<http://devapi.bbcredux.com/d7c5d12d45bd4668a1aca17ad192bfcb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/d7c5d12d45bd4668a1aca17ad192bfcb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/d7c5d12d45bd4668a1aca17ad192bfcb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

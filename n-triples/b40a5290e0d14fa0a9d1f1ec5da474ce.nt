@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/b40a5290e0d14fa0a9d1f1ec5da474ce/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce#id> .
+<http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/5416KK> .
+<http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008d3jb#programme> .
+<http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'A Passion for Plants'"@en-gb .
+<http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce#id> <http://purl.org/ontology/po/schedule_date> "2007-11-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/b40a5290e0d14fa0a9d1f1ec5da474ce/player> .
+<http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce.nt> .
+<http://devapi.bbcredux.com/b40a5290e0d14fa0a9d1f1ec5da474ce/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/b40a5290e0d14fa0a9d1f1ec5da474ce/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce#id> <http://www.w3.org/2000/01/rdf-schema#label> "A Passion for Plants"@en-gb .
+<http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008d3fx#programme> .
+<http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce#version> .
+<http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce> <http://purl.org/dc/terms/title> "Information about the broadcast 'A Passion for Plants'"@en-gb .
+<http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce#episode> <http://www.w3.org/2000/01/rdf-schema#label> "A Passion for Plants"@en-gb .
+<http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce#version> .
+<http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b008d3jb> .
+<http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008d3fx#p000btf6> .
+<http://billings.acropolis.org.uk/b40a5290e0d14fa0a9d1f1ec5da474ce#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;40415~20071130T200000Z--PT0H30M0S> .
+<http://devapi.bbcredux.com/b40a5290e0d14fa0a9d1f1ec5da474ce/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

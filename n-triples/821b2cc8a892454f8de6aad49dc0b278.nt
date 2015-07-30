@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278.nt> .
+<http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00jp7nm> .
+<http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Folk America at the Barbican:..."@en-gb .
+<http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00jp7fp#p006f1bw> .
+<http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..41c0;c814~20100219T204000Z--PT0H20M0S> .
+<http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278#version> .
+<http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278#id> <http://www.w3.org/2000/01/rdf-schema#label> "Folk America at the Barbican:..."@en-gb .
+<http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278#id> <http://purl.org/ontology/po/schedule_date> "2010-02-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00jp7fp#programme> .
+<http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Folk America at the Barbican:...'"@en-gb .
+<http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/821b2cc8a892454f8de6aad49dc0b278/player> .
+<http://devapi.bbcredux.com/821b2cc8a892454f8de6aad49dc0b278/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/821b2cc8a892454f8de6aad49dc0b278/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/821b2cc8a892454f8de6aad49dc0b278/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278#id> .
+<http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23UZ1M> .
+<http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00jp7nm#programme> .
+<http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278> <http://purl.org/dc/terms/title> "Information about the broadcast 'Folk America at the Barbican:...'"@en-gb .
+<http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/821b2cc8a892454f8de6aad49dc0b278#version> .
+<http://devapi.bbcredux.com/821b2cc8a892454f8de6aad49dc0b278/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .

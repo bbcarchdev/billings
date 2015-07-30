@@ -1,0 +1,24 @@
+<http://billings.acropolis.org.uk/23dc3a8f7e1e4ed58af689adf1a3164d#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/23dc3a8f7e1e4ed58af689adf1a3164d/player> .
+<http://billings.acropolis.org.uk/23dc3a8f7e1e4ed58af689adf1a3164d#id> <http://purl.org/ontology/po/schedule_date> "2010-05-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/23dc3a8f7e1e4ed58af689adf1a3164d#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..123f;f8ee9~20100521T144500Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/23dc3a8f7e1e4ed58af689adf1a3164d#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Dennis & Gnasher'"@en-gb .
+<http://billings.acropolis.org.uk/23dc3a8f7e1e4ed58af689adf1a3164d> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/23dc3a8f7e1e4ed58af689adf1a3164d.nt> .
+<http://devapi.bbcredux.com/23dc3a8f7e1e4ed58af689adf1a3164d/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/23dc3a8f7e1e4ed58af689adf1a3164d/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/23dc3a8f7e1e4ed58af689adf1a3164d#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/23dc3a8f7e1e4ed58af689adf1a3164d#version> .
+<http://devapi.bbcredux.com/23dc3a8f7e1e4ed58af689adf1a3164d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/23dc3a8f7e1e4ed58af689adf1a3164d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/23dc3a8f7e1e4ed58af689adf1a3164d#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/23dc3a8f7e1e4ed58af689adf1a3164d.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/23dc3a8f7e1e4ed58af689adf1a3164d#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIJGU> .
+<http://billings.acropolis.org.uk/23dc3a8f7e1e4ed58af689adf1a3164d> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/23dc3a8f7e1e4ed58af689adf1a3164d#id> .
+<http://billings.acropolis.org.uk/23dc3a8f7e1e4ed58af689adf1a3164d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/23dc3a8f7e1e4ed58af689adf1a3164d#id> <http://www.w3.org/2000/01/rdf-schema#label> "Dennis & Gnasher"@en-gb .
+<http://billings.acropolis.org.uk/23dc3a8f7e1e4ed58af689adf1a3164d.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/23dc3a8f7e1e4ed58af689adf1a3164d.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/23dc3a8f7e1e4ed58af689adf1a3164d#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/23dc3a8f7e1e4ed58af689adf1a3164d> <http://purl.org/dc/terms/title> "Information about the broadcast 'Dennis & Gnasher'"@en-gb .
+<http://billings.acropolis.org.uk/23dc3a8f7e1e4ed58af689adf1a3164d#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/23dc3a8f7e1e4ed58af689adf1a3164d#version> .
+<http://billings.acropolis.org.uk/23dc3a8f7e1e4ed58af689adf1a3164d#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Dennis & Gnasher"@en-gb .
+<http://billings.acropolis.org.uk/23dc3a8f7e1e4ed58af689adf1a3164d#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/23dc3a8f7e1e4ed58af689adf1a3164d#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .

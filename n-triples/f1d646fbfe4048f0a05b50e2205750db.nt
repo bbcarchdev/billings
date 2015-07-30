@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db#version> .
+<http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db> <http://purl.org/dc/terms/title> "Information about the broadcast 'Even Stevens'"@en-gb .
+<http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db.nt> .
+<http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/f1d646fbfe4048f0a05b50e2205750db/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/f1d646fbfe4048f0a05b50e2205750db/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/f1d646fbfe4048f0a05b50e2205750db/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00791c5> .
+<http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4BAJQ0> .
+<http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00791c5#programme> .
+<http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Even Stevens'"@en-gb .
+<http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/f1d646fbfe4048f0a05b50e2205750db/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db#id> <http://purl.org/ontology/po/schedule_date> "2008-04-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b005bsdx#programme> .
+<http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db#id> .
+<http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b005bsdx#p00024c6> .
+<http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..123f;f2dae~20080406T070000Z--PT0H25M0S> .
+<http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db#id> <http://www.w3.org/2000/01/rdf-schema#label> "Even Stevens"@en-gb .
+<http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db#version> .
+<http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/f1d646fbfe4048f0a05b50e2205750db/player> .
+<http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/f1d646fbfe4048f0a05b50e2205750db#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Even Stevens"@en-gb .

@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4CDYJR> .
+<http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ffqwd#programme> .
+<http://devapi.bbcredux.com/1829364f9da74a5995eab9e0a4a408ae/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/1829364f9da74a5995eab9e0a4a408ae/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ffqw6#p003z451> .
+<http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;ab79~20090812T144000Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae> <http://purl.org/dc/terms/title> "Information about the broadcast 'Big and Small'"@en-gb .
+<http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae#version> .
+<http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/1829364f9da74a5995eab9e0a4a408ae/player> .
+<http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae#id> <http://purl.org/ontology/po/schedule_date> "2009-08-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae#id> <http://www.w3.org/2000/01/rdf-schema#label> "Big and Small"@en-gb .
+<http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ffqw6#programme> .
+<http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Big and Small'"@en-gb .
+<http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae#version> .
+<http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae#id> .
+<http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Big and Small"@en-gb .
+<http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/1829364f9da74a5995eab9e0a4a408ae/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/1829364f9da74a5995eab9e0a4a408ae/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00ffqwd> .
+<http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/1829364f9da74a5995eab9e0a4a408ae.nt> .

@@ -1,0 +1,27 @@
+<http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5#id> <http://purl.org/ontology/po/schedule_date> "2009-11-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5#id> .
+<http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00p8gy0> .
+<http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00p8gy0#programme> .
+<http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5#version> .
+<http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5#episode> <http://www.w3.org/2000/01/rdf-schema#label> "First Lady"@en-gb .
+<http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5#version> .
+<http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00p8gtr#programme> .
+<http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00p8gtr#p005cbty> .
+<http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;f87d~20091129T231500Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5> <http://purl.org/dc/terms/title> "Information about the broadcast 'First Lady'"@en-gb .
+<http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5#id> <http://www.w3.org/2000/01/rdf-schema#label> "First Lady"@en-gb .
+<http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/fbc3aef16396438abb27e6dcc7be3db5/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/fbc3aef16396438abb27e6dcc7be3db5/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/fbc3aef16396438abb27e6dcc7be3db5/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/fbc3aef16396438abb27e6dcc7be3db5/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/fbc3aef16396438abb27e6dcc7be3db5/player> .
+<http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'First Lady'"@en-gb .
+<http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/fbc3aef16396438abb27e6dcc7be3db5.nt> .

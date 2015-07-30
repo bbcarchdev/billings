@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb#id> .
+<http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb#version> .
+<http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00hy9s9#p00cg037> .
+<http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4d439~20101207T110000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00hy9s9#programme> .
+<http://devapi.bbcredux.com/7ea03fd90ddf44f499bc1711ba1bcccb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb#id> <http://www.w3.org/2000/01/rdf-schema#label> "In the Night Garden"@en-gb .
+<http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb> <http://purl.org/dc/terms/title> "Information about the broadcast 'In the Night Garden'"@en-gb .
+<http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00hybbk> .
+<http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb#version> .
+<http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/7ea03fd90ddf44f499bc1711ba1bcccb/player> .
+<http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb#id> <http://purl.org/ontology/po/schedule_date> "2010-12-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4CDYAG> .
+<http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00hybbk#programme> .
+<http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "In the Night Garden"@en-gb .
+<http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/7ea03fd90ddf44f499bc1711ba1bcccb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'In the Night Garden'"@en-gb .
+<http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb.nt> .
+<http://billings.acropolis.org.uk/7ea03fd90ddf44f499bc1711ba1bcccb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/7ea03fd90ddf44f499bc1711ba1bcccb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/7ea03fd90ddf44f499bc1711ba1bcccb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .

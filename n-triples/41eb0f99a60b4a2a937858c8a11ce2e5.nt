@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5#id> <http://purl.org/ontology/po/schedule_date> "2007-07-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5.nt> .
+<http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b006k7qh#programme> .
+<http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/35V92X> .
+<http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0074sxv#programme> .
+<http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5#version> .
+<http://devapi.bbcredux.com/41eb0f99a60b4a2a937858c8a11ce2e5/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/41eb0f99a60b4a2a937858c8a11ce2e5/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/41eb0f99a60b4a2a937858c8a11ce2e5/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5> <http://purl.org/dc/terms/title> "Information about the broadcast 'Lead Balloon'"@en-gb .
+<http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5#id> <http://www.w3.org/2000/01/rdf-schema#label> "Lead Balloon"@en-gb .
+<http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5#id> .
+<http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0074sxv> .
+<http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/41eb0f99a60b4a2a937858c8a11ce2e5/player> .
+<http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Lead Balloon"@en-gb .
+<http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b006k7qh#p0003tt6> .
+<http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..41c0;43e9~20070719T213000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/41eb0f99a60b4a2a937858c8a11ce2e5/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5#version> .
+<http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/41eb0f99a60b4a2a937858c8a11ce2e5#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Lead Balloon'"@en-gb .

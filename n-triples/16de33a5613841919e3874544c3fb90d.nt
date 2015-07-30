@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/16de33a5613841919e3874544c3fb90d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/16de33a5613841919e3874544c3fb90d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d#version> .
+<http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d.nt> .
+<http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SVYVU> .
+<http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00hbcss#programme> .
+<http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/16de33a5613841919e3874544c3fb90d/player> .
+<http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d#id> <http://www.w3.org/2000/01/rdf-schema#label> "Paradise Cafe"@en-gb .
+<http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d#version> .
+<http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00hbcss> .
+<http://devapi.bbcredux.com/16de33a5613841919e3874544c3fb90d/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00hbcml#programme> .
+<http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d#id> <http://purl.org/ontology/po/schedule_date> "2010-07-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d#id> .
+<http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Paradise Cafe'"@en-gb .
+<http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/16de33a5613841919e3874544c3fb90d/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d> <http://purl.org/dc/terms/title> "Information about the broadcast 'Paradise Cafe'"@en-gb .
+<http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Paradise Cafe"@en-gb .
+<http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00hbcml#p008k6b5> .
+<http://billings.acropolis.org.uk/16de33a5613841919e3874544c3fb90d#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4928a~20100703T073000Z--PT0H30M0S> .

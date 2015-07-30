@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00pgt2f#programme> .
+<http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Shanghai Knights"@en-gb .
+<http://devapi.bbcredux.com/e6e6195cde9b44bf95eb8ce34ef92fdd/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd#id> <http://www.w3.org/2000/01/rdf-schema#label> "Shanghai Knights"@en-gb .
+<http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4J3Z0M> .
+<http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0074gbx#programme> .
+<http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd#id> <http://purl.org/ontology/po/schedule_date> "2009-12-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd#version> .
+<http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd#id> .
+<http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd#version> .
+<http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd.nt> .
+<http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00pgt2f#p005j4d0> .
+<http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;fd6e8~20091216T201000Z--PT1H50M0S> .
+<http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0074gbx> .
+<http://devapi.bbcredux.com/e6e6195cde9b44bf95eb8ce34ef92fdd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/e6e6195cde9b44bf95eb8ce34ef92fdd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Shanghai Knights'"@en-gb .
+<http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/e6e6195cde9b44bf95eb8ce34ef92fdd/player> .
+<http://devapi.bbcredux.com/e6e6195cde9b44bf95eb8ce34ef92fdd/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/e6e6195cde9b44bf95eb8ce34ef92fdd> <http://purl.org/dc/terms/title> "Information about the broadcast 'Shanghai Knights'"@en-gb .

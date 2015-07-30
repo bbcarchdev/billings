@@ -1,0 +1,27 @@
+<http://devapi.bbcredux.com/16f7542e23ee47cbbc63bae34b9c8bbb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/16f7542e23ee47cbbc63bae34b9c8bbb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/16f7542e23ee47cbbc63bae34b9c8bbb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/16f7542e23ee47cbbc63bae34b9c8bbb/player> .
+<http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Tennis: Australian Open 2010'"@en-gb .
+<http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb#id> <http://purl.org/ontology/po/schedule_date> "2010-01-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Tennis: Australian Open 2010"@en-gb .
+<http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb> <http://purl.org/dc/terms/title> "Information about the broadcast 'Tennis: Australian Open 2010'"@en-gb .
+<http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00qq6gb#programme> .
+<http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb#version> .
+<http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00qq6gd#programme> .
+<http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb#id> .
+<http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00qq6gb#p00648p2> .
+<http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4aeb7~20100124T000500Z--PT2H25M0S> .
+<http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb.nt> .
+<http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb#id> <http://www.w3.org/2000/01/rdf-schema#label> "Tennis: Australian Open 2010"@en-gb .
+<http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00qq6gd> .
+<http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/16f7542e23ee47cbbc63bae34b9c8bbb#version> .
+<http://devapi.bbcredux.com/16f7542e23ee47cbbc63bae34b9c8bbb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

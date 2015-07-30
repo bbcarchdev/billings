@@ -1,0 +1,27 @@
+<http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00bx84p#programme> .
+<http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcnews24#id> .
+<http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d.nt> .
+<http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00bx850#programme> .
+<http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d#version> .
+<http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00bx84p#p000j3lp> .
+<http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..113f;f6caf~20080525T003000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Straight Talk'"@en-gb .
+<http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d> <http://purl.org/dc/terms/title> "Information about the broadcast 'Straight Talk'"@en-gb .
+<http://devapi.bbcredux.com/cfff43b891424cbf9ce90b0c1be1291d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/cfff43b891424cbf9ce90b0c1be1291d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00bx850> .
+<http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/cfff43b891424cbf9ce90b0c1be1291d/player> .
+<http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d#id> <http://www.w3.org/2000/01/rdf-schema#label> "Straight Talk"@en-gb .
+<http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d#id> .
+<http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d#id> <http://purl.org/ontology/po/schedule_date> "2008-05-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Straight Talk"@en-gb .
+<http://devapi.bbcredux.com/cfff43b891424cbf9ce90b0c1be1291d/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/cfff43b891424cbf9ce90b0c1be1291d#version> .
+<http://devapi.bbcredux.com/cfff43b891424cbf9ce90b0c1be1291d/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

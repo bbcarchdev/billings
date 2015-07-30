@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858#id> .
+<http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858#id> <http://purl.org/ontology/po/schedule_date> "2008-01-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858#id> <http://www.w3.org/2000/01/rdf-schema#label> "Saturday Kitchen "@en-gb .
+<http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008s93d#p000d4cq> .
+<http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;44724~20080126T100000Z--PT1H30M0S> .
+<http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858.nt> .
+<http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858#version> .
+<http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/35d3f6d81acb4b19802d837b3c596858/player> .
+<http://devapi.bbcredux.com/35d3f6d81acb4b19802d837b3c596858/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://devapi.bbcredux.com/35d3f6d81acb4b19802d837b3c596858/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858#version> .
+<http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858> <http://purl.org/dc/terms/title> "Information about the broadcast 'Saturday Kitchen '"@en-gb .
+<http://devapi.bbcredux.com/35d3f6d81acb4b19802d837b3c596858/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/35d3f6d81acb4b19802d837b3c596858/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008s93d#programme> .
+<http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Saturday Kitchen '"@en-gb .
+<http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b008s94w> .
+<http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Saturday Kitchen "@en-gb .
+<http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/35W5G2> .
+<http://billings.acropolis.org.uk/35d3f6d81acb4b19802d837b3c596858#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008s94w#programme> .

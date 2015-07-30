@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Dear Diary'"@en-gb .
+<http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/f0797fd529594cf7ab6e985e5fc7d2ab/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab#version> .
+<http://devapi.bbcredux.com/f0797fd529594cf7ab6e985e5fc7d2ab/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/f0797fd529594cf7ab6e985e5fc7d2ab/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab#id> <http://www.w3.org/2000/01/rdf-schema#label> "Dear Diary"@en-gb .
+<http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab.nt> .
+<http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00pws9f> .
+<http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab#id> <http://purl.org/ontology/po/schedule_date> "2010-01-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Dear Diary"@en-gb .
+<http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab#version> .
+<http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00pws8n#programme> .
+<http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab#id> .
+<http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/f0797fd529594cf7ab6e985e5fc7d2ab/player> .
+<http://devapi.bbcredux.com/f0797fd529594cf7ab6e985e5fc7d2ab/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab> <http://purl.org/dc/terms/title> "Information about the broadcast 'Dear Diary'"@en-gb .
+<http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00pws8n#p005vq0c> .
+<http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..41c0;c435~20100111T210000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/247M3P> .
+<http://billings.acropolis.org.uk/f0797fd529594cf7ab6e985e5fc7d2ab#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00pws9f#programme> .

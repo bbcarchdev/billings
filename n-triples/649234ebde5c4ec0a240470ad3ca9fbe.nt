@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe#version> .
+<http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe#id> .
+<http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Fun with Phonics'"@en-gb .
+<http://devapi.bbcredux.com/649234ebde5c4ec0a240470ad3ca9fbe/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/649234ebde5c4ec0a240470ad3ca9fbe/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe.nt> .
+<http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008pzpp#programme> .
+<http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/649234ebde5c4ec0a240470ad3ca9fbe/player> .
+<http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe#id> <http://purl.org/ontology/po/schedule_date> "2008-12-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe#id> <http://www.w3.org/2000/01/rdf-schema#label> "Fun with Phonics"@en-gb .
+<http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008pzpp#p001qh1c> .
+<http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;e4e9~20081218T122500Z--PT0H5M0S> .
+<http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe#version> .
+<http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1U5D7J> .
+<http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008pzq7#programme> .
+<http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Fun with Phonics"@en-gb .
+<http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/649234ebde5c4ec0a240470ad3ca9fbe/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/649234ebde5c4ec0a240470ad3ca9fbe/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b008pzq7> .
+<http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe> <http://purl.org/dc/terms/title> "Information about the broadcast 'Fun with Phonics'"@en-gb .
+<http://billings.acropolis.org.uk/649234ebde5c4ec0a240470ad3ca9fbe#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .

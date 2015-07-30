@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Travels with Vasari"@en-gb .
+<http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://devapi.bbcredux.com/fb4d04c9527746f886373b9bdbc7a715/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/fb4d04c9527746f886373b9bdbc7a715/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23UV2N> .
+<http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fqvnc#programme> .
+<http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715#version> .
+<http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715#id> <http://www.w3.org/2000/01/rdf-schema#label> "Travels with Vasari"@en-gb .
+<http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fqrnh#p00553lb> .
+<http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..41c0;c093~20091123T232000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715#id> <http://purl.org/ontology/po/schedule_date> "2009-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715#id> .
+<http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715> <http://purl.org/dc/terms/title> "Information about the broadcast 'Travels with Vasari'"@en-gb .
+<http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715.nt> .
+<http://devapi.bbcredux.com/fb4d04c9527746f886373b9bdbc7a715/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715#version> .
+<http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00fqvnc> .
+<http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fqrnh#programme> .
+<http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Travels with Vasari'"@en-gb .
+<http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/fb4d04c9527746f886373b9bdbc7a715#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/fb4d04c9527746f886373b9bdbc7a715/player> .
+<http://devapi.bbcredux.com/fb4d04c9527746f886373b9bdbc7a715/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

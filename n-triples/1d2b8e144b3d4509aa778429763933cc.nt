@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Schools: The Maths Channel'"@en-gb .
+<http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc> <http://purl.org/dc/terms/title> "Information about the broadcast 'Schools: The Maths Channel'"@en-gb .
+<http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0062ksv#p00034z7> .
+<http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;40436~20071130T112000Z--PT0H10M0S> .
+<http://devapi.bbcredux.com/1d2b8e144b3d4509aa778429763933cc/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1U5BN8> .
+<http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0078zf5#programme> .
+<http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc#id> <http://purl.org/ontology/po/schedule_date> "2007-11-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/1d2b8e144b3d4509aa778429763933cc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/1d2b8e144b3d4509aa778429763933cc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0078zf5> .
+<http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc#version> .
+<http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc#version> .
+<http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/1d2b8e144b3d4509aa778429763933cc/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0062ksv#programme> .
+<http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Schools: The Maths Channel"@en-gb .
+<http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc#id> .
+<http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc#id> <http://www.w3.org/2000/01/rdf-schema#label> "Schools: The Maths Channel"@en-gb .
+<http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/1d2b8e144b3d4509aa778429763933cc/player> .
+<http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/1d2b8e144b3d4509aa778429763933cc.nt> .

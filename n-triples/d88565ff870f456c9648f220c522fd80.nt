@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/d88565ff870f456c9648f220c522fd80/player> .
+<http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/d88565ff870f456c9648f220c522fd80/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/d88565ff870f456c9648f220c522fd80/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/d88565ff870f456c9648f220c522fd80/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00x52nh#p00cwy3z> .
+<http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..113f;ff924~20101229T103000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80.nt> .
+<http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Review 2010: Return to the Floods'"@en-gb .
+<http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80#id> <http://purl.org/ontology/po/schedule_date> "2010-12-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00x52nh#programme> .
+<http://devapi.bbcredux.com/d88565ff870f456c9648f220c522fd80/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/FHHIS> .
+<http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00x543d#programme> .
+<http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcnews24#id> .
+<http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Review 2010: Return to the Floods"@en-gb .
+<http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80#version> .
+<http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80> <http://purl.org/dc/terms/title> "Information about the broadcast 'Review 2010: Return to the Floods'"@en-gb .
+<http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80#id> .
+<http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80#id> <http://www.w3.org/2000/01/rdf-schema#label> "Review 2010: Return to the Floods"@en-gb .
+<http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00x543d> .
+<http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/d88565ff870f456c9648f220c522fd80#version> .

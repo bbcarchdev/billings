@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/d9b446f139eb4962ad03857f925d3bfd/player> .
+<http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Bizarre ER"@en-gb .
+<http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/d9b446f139eb4962ad03857f925d3bfd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/d9b446f139eb4962ad03857f925d3bfd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00936kl#p000fc7y> .
+<http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;f079b~20080306T223000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd#id> <http://purl.org/ontology/po/schedule_date> "2008-03-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd#id> <http://www.w3.org/2000/01/rdf-schema#label> "Bizarre ER"@en-gb .
+<http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00936kl#programme> .
+<http://devapi.bbcredux.com/d9b446f139eb4962ad03857f925d3bfd/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00936lc> .
+<http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd#version> .
+<http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Bizarre ER'"@en-gb .
+<http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd.nt> .
+<http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd#id> .
+<http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd> <http://purl.org/dc/terms/title> "Information about the broadcast 'Bizarre ER'"@en-gb .
+<http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/d9b446f139eb4962ad03857f925d3bfd/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/35W54U> .
+<http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00936lc#programme> .
+<http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/d9b446f139eb4962ad03857f925d3bfd#version> .

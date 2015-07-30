@@ -1,0 +1,24 @@
+<http://billings.acropolis.org.uk/0d6e57279073404491134575e1d32479.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/0d6e57279073404491134575e1d32479#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIJBL> .
+<http://billings.acropolis.org.uk/0d6e57279073404491134575e1d32479> <http://purl.org/dc/terms/title> "Information about the broadcast 'dirtgirlworld'"@en-gb .
+<http://billings.acropolis.org.uk/0d6e57279073404491134575e1d32479#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;e0e4~20100329T144500Z--PT0H15M0S> .
+<http://devapi.bbcredux.com/0d6e57279073404491134575e1d32479/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/0d6e57279073404491134575e1d32479/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/0d6e57279073404491134575e1d32479/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/0d6e57279073404491134575e1d32479#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/0d6e57279073404491134575e1d32479#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/0d6e57279073404491134575e1d32479#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'dirtgirlworld'"@en-gb .
+<http://billings.acropolis.org.uk/0d6e57279073404491134575e1d32479> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/0d6e57279073404491134575e1d32479#id> .
+<http://billings.acropolis.org.uk/0d6e57279073404491134575e1d32479#id> <http://purl.org/ontology/po/schedule_date> "2010-03-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/0d6e57279073404491134575e1d32479> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/0d6e57279073404491134575e1d32479#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/0d6e57279073404491134575e1d32479/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/0d6e57279073404491134575e1d32479#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/0d6e57279073404491134575e1d32479/player> .
+<http://billings.acropolis.org.uk/0d6e57279073404491134575e1d32479#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/0d6e57279073404491134575e1d32479#version> .
+<http://billings.acropolis.org.uk/0d6e57279073404491134575e1d32479> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/0d6e57279073404491134575e1d32479.nt> .
+<http://billings.acropolis.org.uk/0d6e57279073404491134575e1d32479#id> <http://www.w3.org/2000/01/rdf-schema#label> "dirtgirlworld"@en-gb .
+<http://billings.acropolis.org.uk/0d6e57279073404491134575e1d32479#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/0d6e57279073404491134575e1d32479.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/0d6e57279073404491134575e1d32479#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/0d6e57279073404491134575e1d32479#version> .
+<http://billings.acropolis.org.uk/0d6e57279073404491134575e1d32479#episode> <http://www.w3.org/2000/01/rdf-schema#label> "dirtgirlworld"@en-gb .
+<http://billings.acropolis.org.uk/0d6e57279073404491134575e1d32479.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .

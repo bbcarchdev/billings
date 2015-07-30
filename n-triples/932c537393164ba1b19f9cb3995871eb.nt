@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb> <http://purl.org/dc/terms/title> "Information about the broadcast 'Grandpa In My Pocket'"@en-gb .
+<http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb.nt> .
+<http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/932c537393164ba1b19f9cb3995871eb/player> .
+<http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/932c537393164ba1b19f9cb3995871eb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb#version> .
+<http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00hn95j#p00c81z3> .
+<http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;a86a~20101128T173000Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00hn98y> .
+<http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00hn95j#programme> .
+<http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/932c537393164ba1b19f9cb3995871eb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/932c537393164ba1b19f9cb3995871eb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/932c537393164ba1b19f9cb3995871eb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Grandpa In My Pocket"@en-gb .
+<http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb#id> <http://purl.org/ontology/po/schedule_date> "2010-11-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Grandpa In My Pocket'"@en-gb .
+<http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SVYB0> .
+<http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00hn98y#programme> .
+<http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb#version> .
+<http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb#id> <http://www.w3.org/2000/01/rdf-schema#label> "Grandpa In My Pocket"@en-gb .
+<http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/932c537393164ba1b19f9cb3995871eb#id> .

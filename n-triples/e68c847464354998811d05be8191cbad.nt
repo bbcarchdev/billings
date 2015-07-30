@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/e68c847464354998811d05be8191cbad/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/e68c847464354998811d05be8191cbad/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad#id> <http://www.w3.org/2000/01/rdf-schema#label> "Dennis & Gnasher"@en-gb .
+<http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Dennis & Gnasher"@en-gb .
+<http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00mvnqf#p008kmbk> .
+<http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;496c2~20100704T061500Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad#id> .
+<http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad#id> <http://purl.org/ontology/po/schedule_date> "2010-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad> <http://purl.org/dc/terms/title> "Information about the broadcast 'Dennis & Gnasher'"@en-gb .
+<http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad.nt> .
+<http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00mvnqf#programme> .
+<http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/e68c847464354998811d05be8191cbad/player> .
+<http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Dennis & Gnasher'"@en-gb .
+<http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00mvpbw> .
+<http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad#version> .
+<http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad#version> .
+<http://devapi.bbcredux.com/e68c847464354998811d05be8191cbad/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIJDZ> .
+<http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00mvpbw#programme> .
+<http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/e68c847464354998811d05be8191cbad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/e68c847464354998811d05be8191cbad/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

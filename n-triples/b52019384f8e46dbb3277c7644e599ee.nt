@@ -1,0 +1,27 @@
+<http://devapi.bbcredux.com/b52019384f8e46dbb3277c7644e599ee/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/b52019384f8e46dbb3277c7644e599ee/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Ant Bully"@en-gb .
+<http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00pk65k#programme> .
+<http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee#id> <http://purl.org/ontology/po/schedule_date> "2010-12-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00pk65y#programme> .
+<http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee#version> .
+<http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee#version> .
+<http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee.nt> .
+<http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00pk65y> .
+<http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/b52019384f8e46dbb3277c7644e599ee/player> .
+<http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00pk65k#p00cq4vw> .
+<http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4f58e~20101226T125000Z--PT1H20M0S> .
+<http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Ant Bully"@en-gb .
+<http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Ant Bully'"@en-gb .
+<http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/b52019384f8e46dbb3277c7644e599ee/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/b52019384f8e46dbb3277c7644e599ee/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Ant Bully'"@en-gb .
+<http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/b52019384f8e46dbb3277c7644e599ee#id> .

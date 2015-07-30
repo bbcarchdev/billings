@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade#id> <http://www.w3.org/2000/01/rdf-schema#label> "Conservatives 2010"@en-gb .
+<http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade#version> .
+<http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00v7sk8#programme> .
+<http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade.nt> .
+<http://devapi.bbcredux.com/35c6be4169814436988e2ec895f77ade/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00v7sk8#p00b89yy> .
+<http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;a09e~20101005T050000Z--PT3H30M0S> .
+<http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Conservatives 2010'"@en-gb .
+<http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00v7ss2> .
+<http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/35c6be4169814436988e2ec895f77ade/player> .
+<http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade#id> .
+<http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/EFMJM> .
+<http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00v7ss2#programme> .
+<http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade#version> .
+<http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade#id> <http://purl.org/ontology/po/schedule_date> "2010-10-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/35c6be4169814436988e2ec895f77ade/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/35c6be4169814436988e2ec895f77ade/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/35c6be4169814436988e2ec895f77ade/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade> <http://purl.org/dc/terms/title> "Information about the broadcast 'Conservatives 2010'"@en-gb .
+<http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/35c6be4169814436988e2ec895f77ade#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Conservatives 2010"@en-gb .

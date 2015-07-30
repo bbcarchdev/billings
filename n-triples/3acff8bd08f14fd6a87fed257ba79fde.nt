@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde.nt> .
+<http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde#version> .
+<http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/3acff8bd08f14fd6a87fed257ba79fde/player> .
+<http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00mrzjn#p004pwd2> .
+<http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;fd0f8~20091017T203000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00mrzkc> .
+<http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde#id> <http://www.w3.org/2000/01/rdf-schema#label> "Lunch Monkeys"@en-gb .
+<http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/15CKCM> .
+<http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00mrzkc#programme> .
+<http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde> <http://purl.org/dc/terms/title> "Information about the broadcast 'Lunch Monkeys'"@en-gb .
+<http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00mrzjn#programme> .
+<http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde#id> <http://purl.org/ontology/po/schedule_date> "2009-10-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/3acff8bd08f14fd6a87fed257ba79fde/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/3acff8bd08f14fd6a87fed257ba79fde/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/3acff8bd08f14fd6a87fed257ba79fde/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Lunch Monkeys"@en-gb .
+<http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde#version> .
+<http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde#id> .
+<http://devapi.bbcredux.com/3acff8bd08f14fd6a87fed257ba79fde/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/3acff8bd08f14fd6a87fed257ba79fde#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Lunch Monkeys'"@en-gb .

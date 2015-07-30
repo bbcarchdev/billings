@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Briefings - George Osbourne"@en-gb .
+<http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00t0524> .
+<http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185#version> .
+<http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/92c8921dec184baf9a929545fc3c2185/player> .
+<http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/DQYL2> .
+<http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00t0524#programme> .
+<http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00t051t#programme> .
+<http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/92c8921dec184baf9a929545fc3c2185/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/92c8921dec184baf9a929545fc3c2185/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/92c8921dec184baf9a929545fc3c2185/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185.nt> .
+<http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185> <http://purl.org/dc/terms/title> "Information about the broadcast 'Briefings - George Osbourne'"@en-gb .
+<http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185#version> .
+<http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Briefings - George Osbourne'"@en-gb .
+<http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00t051t#p008fhc7> .
+<http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;9632~20100619T194000Z--PT0H50M0S> .
+<http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185#id> .
+<http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185#id> <http://www.w3.org/2000/01/rdf-schema#label> "Briefings - George Osbourne"@en-gb .
+<http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/92c8921dec184baf9a929545fc3c2185/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/92c8921dec184baf9a929545fc3c2185#id> <http://purl.org/ontology/po/schedule_date> "2010-06-19"^^<http://www.w3.org/2001/XMLSchema#date> .

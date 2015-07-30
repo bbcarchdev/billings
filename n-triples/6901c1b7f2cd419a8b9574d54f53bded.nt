@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/2410HA> .
+<http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00spkgj#programme> .
+<http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded#id> <http://purl.org/ontology/po/schedule_date> "2010-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded#version> .
+<http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded#id> .
+<http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded.nt> .
+<http://devapi.bbcredux.com/6901c1b7f2cd419a8b9574d54f53bded/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'WAGs, Kids and World Cup Dreams'"@en-gb .
+<http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00spkff#p008r85p> .
+<http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;fef45~20100716T011500Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00spkgj> .
+<http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/6901c1b7f2cd419a8b9574d54f53bded/player> .
+<http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded> <http://purl.org/dc/terms/title> "Information about the broadcast 'WAGs, Kids and World Cup Dreams'"@en-gb .
+<http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded#version> .
+<http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded#episode> <http://www.w3.org/2000/01/rdf-schema#label> "WAGs, Kids and World Cup Dreams"@en-gb .
+<http://devapi.bbcredux.com/6901c1b7f2cd419a8b9574d54f53bded/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/6901c1b7f2cd419a8b9574d54f53bded/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00spkff#programme> .
+<http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded#id> <http://www.w3.org/2000/01/rdf-schema#label> "WAGs, Kids and World Cup Dreams"@en-gb .
+<http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/6901c1b7f2cd419a8b9574d54f53bded.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/6901c1b7f2cd419a8b9574d54f53bded/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

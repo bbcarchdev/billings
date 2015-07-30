@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb#id> .
+<http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b008vln7> .
+<http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb#version> .
+<http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Baby Borrowers on Holiday: Friends..'"@en-gb .
+<http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008vlmt#programme> .
+<http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Baby Borrowers on Holiday: Friends.."@en-gb .
+<http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/35W4UU> .
+<http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008vln7#programme> .
+<http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb#id> <http://purl.org/ontology/po/schedule_date> "2008-01-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb#version> .
+<http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Baby Borrowers on Holiday: Friends..'"@en-gb .
+<http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb.nt> .
+<http://devapi.bbcredux.com/8eb6b3ca87c3478f982e93849c5ed5cb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/8eb6b3ca87c3478f982e93849c5ed5cb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/8eb6b3ca87c3478f982e93849c5ed5cb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/8eb6b3ca87c3478f982e93849c5ed5cb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Baby Borrowers on Holiday: Friends.."@en-gb .
+<http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008vlmt#p000d865> .
+<http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;f454d~20080125T031000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/8eb6b3ca87c3478f982e93849c5ed5cb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/8eb6b3ca87c3478f982e93849c5ed5cb/player> .

@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d> <http://purl.org/dc/terms/title> "Information about the broadcast 'Lunar Jim'"@en-gb .
+<http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Lunar Jim'"@en-gb .
+<http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/036963cf237d436d853438d17d88ae3d/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00936mh#programme> .
+<http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d.nt> .
+<http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Lunar Jim"@en-gb .
+<http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d#id> <http://purl.org/ontology/po/schedule_date> "2008-06-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d#id> .
+<http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIHZD> .
+<http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0093744#programme> .
+<http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/036963cf237d436d853438d17d88ae3d/player> .
+<http://devapi.bbcredux.com/036963cf237d436d853438d17d88ae3d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/036963cf237d436d853438d17d88ae3d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d#version> .
+<http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d#version> .
+<http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00936mh#p000fc90> .
+<http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;169f~20080617T074000Z--PT0H20M0S> .
+<http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0093744> .
+<http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://devapi.bbcredux.com/036963cf237d436d853438d17d88ae3d/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d#id> <http://www.w3.org/2000/01/rdf-schema#label> "Lunar Jim"@en-gb .
+<http://billings.acropolis.org.uk/036963cf237d436d853438d17d88ae3d#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .

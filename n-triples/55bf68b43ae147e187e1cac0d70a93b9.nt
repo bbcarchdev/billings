@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9#id> <http://purl.org/ontology/po/schedule_date> "2008-10-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9#id> .
+<http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Danger Mouse"@en-gb .
+<http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/55bf68b43ae147e187e1cac0d70a93b9/player> .
+<http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Danger Mouse'"@en-gb .
+<http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/55bf68b43ae147e187e1cac0d70a93b9/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/55bf68b43ae147e187e1cac0d70a93b9/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0004mnb#programme> .
+<http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9.nt> .
+<http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/55bf68b43ae147e187e1cac0d70a93b9/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00876wh> .
+<http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9> <http://purl.org/dc/terms/title> "Information about the broadcast 'Danger Mouse'"@en-gb .
+<http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4J5EAX> .
+<http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00876wh#programme> .
+<http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9#id> <http://www.w3.org/2000/01/rdf-schema#label> "Danger Mouse"@en-gb .
+<http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0004mnb#p0000jbp> .
+<http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;41618~20081027T110000Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9#version> .
+<http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/55bf68b43ae147e187e1cac0d70a93b9#version> .
+<http://devapi.bbcredux.com/55bf68b43ae147e187e1cac0d70a93b9/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

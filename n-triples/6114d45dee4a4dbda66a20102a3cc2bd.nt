@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd> <http://purl.org/dc/terms/title> "Information about the broadcast 'Wolverine and the X-Men'"@en-gb .
+<http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Wolverine and the X-Men'"@en-gb .
+<http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd#id> <http://purl.org/ontology/po/schedule_date> "2009-02-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00hldgh> .
+<http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd#version> .
+<http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd#id> <http://www.w3.org/2000/01/rdf-schema#label> "Wolverine and the X-Men"@en-gb .
+<http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIHXZ> .
+<http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00hldgh#programme> .
+<http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/6114d45dee4a4dbda66a20102a3cc2bd/player> .
+<http://devapi.bbcredux.com/6114d45dee4a4dbda66a20102a3cc2bd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/6114d45dee4a4dbda66a20102a3cc2bd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00hlb5v#programme> .
+<http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Wolverine and the X-Men"@en-gb .
+<http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd#id> .
+<http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd#version> .
+<http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd.nt> .
+<http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00hlb5v#p0023f0g> .
+<http://billings.acropolis.org.uk/6114d45dee4a4dbda66a20102a3cc2bd#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..123f;fa226~20090208T152000Z--PT0H25M0S> .
+<http://devapi.bbcredux.com/6114d45dee4a4dbda66a20102a3cc2bd/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://devapi.bbcredux.com/6114d45dee4a4dbda66a20102a3cc2bd/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

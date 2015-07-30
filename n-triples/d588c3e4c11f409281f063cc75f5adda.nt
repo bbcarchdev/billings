@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/d588c3e4c11f409281f063cc75f5adda/player> .
+<http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Theo's Adventure Capitalists'"@en-gb .
+<http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00sf0kj> .
+<http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00t610t#programme> .
+<http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda#id> .
+<http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Theo's Adventure Capitalists"@en-gb .
+<http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda.nt> .
+<http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/240ZF6> .
+<http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00sf0kj#programme> .
+<http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda#version> .
+<http://devapi.bbcredux.com/d588c3e4c11f409281f063cc75f5adda/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/d588c3e4c11f409281f063cc75f5adda/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda#id> <http://www.w3.org/2000/01/rdf-schema#label> "Theo's Adventure Capitalists"@en-gb .
+<http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda#id> <http://purl.org/ontology/po/schedule_date> "2010-07-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/d588c3e4c11f409281f063cc75f5adda/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/d588c3e4c11f409281f063cc75f5adda/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00t610t#p008tjy7> .
+<http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4a39b~20100721T015000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda#version> .
+<http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda> <http://purl.org/dc/terms/title> "Information about the broadcast 'Theo's Adventure Capitalists'"@en-gb .
+<http://billings.acropolis.org.uk/d588c3e4c11f409281f063cc75f5adda.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .

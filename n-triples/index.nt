@@ -1,82 +1,82 @@
-<http://billings.acropolis.org.uk/a5d95405091e40e9b0a4317909269759#id> <http://www.w3.org/2000/01/rdf-schema#label> "BBC London News"@en-gb .
-<http://billings.acropolis.org.uk/44aa05131fa2411c9013a62d3eb826c4#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
-<http://billings.acropolis.org.uk/44c7ff19fff04b6488b5e9d0c9c9615f#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
-<http://billings.acropolis.org.uk/6c60ab8c019949378dbdf6610cab4a4a#id> <http://www.w3.org/2000/01/rdf-schema#label> "BBC News at Six"@en-gb .
-<http://billings.acropolis.org.uk/e6e5a8b4d957402f96765a15bb61586d#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/1b927aa53d98476ba5ba794828a91dde#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Papers"@en-gb .
+<http://billings.acropolis.org.uk/d1a6a8af17f84687beab01785c8521f2#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/a9b8976878c34f018c8a88f839e3e961#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/1b84dbb4a3be46f1ad55bf17b13b3af6#id> <http://www.w3.org/2000/01/rdf-schema#label> "Child Abuse Inquiry"@en-gb .
 <http://billings.acropolis.org.uk/index.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
-<http://billings.acropolis.org.uk/7b6b8322f90c4a7c8c7df81f710c5361#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
-<http://billings.acropolis.org.uk/3016c27568b34a06bc619edf26aec772#id> <http://www.w3.org/2000/01/rdf-schema#label> "Sarah & Duck"@en-gb .
-<http://billings.acropolis.org.uk/d057e10274e64eb6916cfb327fa87af5#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
-<http://billings.acropolis.org.uk/08a60a27bc4b4686873450e4ed7a718b#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
-<http://billings.acropolis.org.uk/e8c28f0401ae495a811155f3195d1b37#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
-<http://billings.acropolis.org.uk/d85e63b81da648b2ac849254a889a5d0#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
-<http://billings.acropolis.org.uk/fcae722539564583a7a16d480f3d0b56#id> <http://www.w3.org/2000/01/rdf-schema#label> "Charlie and Lola"@en-gb .
-<http://billings.acropolis.org.uk/44aa05131fa2411c9013a62d3eb826c4#id> <http://www.w3.org/2000/01/rdf-schema#label> "New: Clangers"@en-gb .
-<http://billings.acropolis.org.uk/c71ebd147c74433cb9a6e6736b93e8a4#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Story of Tracy Beaker"@en-gb .
-<http://billings.acropolis.org.uk/7b6b8322f90c4a7c8c7df81f710c5361#id> <http://www.w3.org/2000/01/rdf-schema#label> "This Is BBC Three"@en-gb .
-<http://billings.acropolis.org.uk/c38ee588fb92467c88b1bee4a7ce9060#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
-<http://billings.acropolis.org.uk/ae1e4d8bf5374dba8bc790c6129c1ad5#id> <http://www.w3.org/2000/01/rdf-schema#label> "Morph"@en-gb .
-<http://billings.acropolis.org.uk/c3ba956395d5482e85fca4a61751feb0#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
-<http://billings.acropolis.org.uk/d85e63b81da648b2ac849254a889a5d0#id> <http://www.w3.org/2000/01/rdf-schema#label> "Wimbledon Sportsday"@en-gb .
+<http://billings.acropolis.org.uk/a3bd2753fc704b8796b4e55c56c908d9#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/f9f031fb0d454200adfc679b31ffe01a#id> <http://www.w3.org/2000/01/rdf-schema#label> "Odyssey"@en-gb .
+<http://billings.acropolis.org.uk/e88ae8f4a15343b2b89dca7f1d0d3621#id> <http://www.w3.org/2000/01/rdf-schema#label> "Monday in Parliament"@en-gb .
+<http://billings.acropolis.org.uk/7c095f829c0648efa15c9e249afc4b4b#id> <http://www.w3.org/2000/01/rdf-schema#label> "Daily Politics"@en-gb .
+<http://billings.acropolis.org.uk/54e241b551a34b4789c74a08f7ad7300#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/d0aca95ab9ac44c88a4de66f276ba1b6#id> <http://www.w3.org/2000/01/rdf-schema#label> "Sportsday"@en-gb .
+<http://billings.acropolis.org.uk/0fbd6c29c5fa47f8bd1229af6271b6c5#id> <http://www.w3.org/2000/01/rdf-schema#label> "BBC London News"@en-gb .
+<http://billings.acropolis.org.uk/49e2433a9cd34e5b9424c18ace1e5ab4#id> <http://www.w3.org/2000/01/rdf-schema#label> "Watchdog"@en-gb .
+<http://billings.acropolis.org.uk/c1e6525ed41d4bf39e3c6f03f8892093#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/b75dae84049d489db696232184b82bca#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/0fbd6c29c5fa47f8bd1229af6271b6c5#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/1b84dbb4a3be46f1ad55bf17b13b3af6#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/f9f031fb0d454200adfc679b31ffe01a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/80b81364b76b4a9fa9db342f642a43ef#id> <http://www.w3.org/2000/01/rdf-schema#label> "HARDtalk"@en-gb .
+<http://billings.acropolis.org.uk/6fea304c8676447fa23a06e3443633d6#id> <http://www.w3.org/2000/01/rdf-schema#label> "Newsday"@en-gb .
+<http://billings.acropolis.org.uk/49e2433a9cd34e5b9424c18ace1e5ab4#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
 <http://billings.acropolis.org.uk/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> .
-<http://billings.acropolis.org.uk/331b01fd87c74e8b96fe0dc44bfa8b93#id> <http://www.w3.org/2000/01/rdf-schema#label> "Newsround"@en-gb .
-<http://billings.acropolis.org.uk/44c7ff19fff04b6488b5e9d0c9c9615f#id> <http://www.w3.org/2000/01/rdf-schema#label> "Kickabout+"@en-gb .
-<http://billings.acropolis.org.uk/16f87773654944d0a9728f005e9a573c#id> <http://www.w3.org/2000/01/rdf-schema#label> "Kate and Mim-Mim"@en-gb .
-<http://billings.acropolis.org.uk/fb56755a66f349efb4f4c2ff68e44a2d#id> <http://www.w3.org/2000/01/rdf-schema#label> "This Is BBC Four"@en-gb .
-<http://billings.acropolis.org.uk/5b781e204ad440acb1960ca42a5933a2#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
-<http://billings.acropolis.org.uk/fb56755a66f349efb4f4c2ff68e44a2d#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/7c095f829c0648efa15c9e249afc4b4b#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/1b927aa53d98476ba5ba794828a91dde#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/e042fc82c4a04cc7a35e310162f234f6#id> <http://www.w3.org/2000/01/rdf-schema#label> "Have I Got Old News for You"@en-gb .
+<http://billings.acropolis.org.uk/44413fd8fc434f728a32177573d6a389#id> <http://www.w3.org/2000/01/rdf-schema#label> "American Dad!"@en-gb .
+<http://billings.acropolis.org.uk/053ffb74cd7c440ba34819dc40244c6b#id> <http://www.w3.org/2000/01/rdf-schema#label> "New: Young Welsh and Pretty Skint"@en-gb .
+<http://billings.acropolis.org.uk/49236501cf5040299fbc3c0ea6c13684#id> <http://www.w3.org/2000/01/rdf-schema#label> "BBC News"@en-gb .
 <http://billings.acropolis.org.uk/index.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
-<http://billings.acropolis.org.uk/fcae722539564583a7a16d480f3d0b56#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
-<http://billings.acropolis.org.uk/e6e5a8b4d957402f96765a15bb61586d#id> <http://www.w3.org/2000/01/rdf-schema#label> "Dragons - Riders of Berk"@en-gb .
-<http://billings.acropolis.org.uk/9796f91f3e2a4439974617eae59a3f10#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Adventures of Abney and Teal"@en-gb .
-<http://billings.acropolis.org.uk/d8d9c895365c47ada85499888b1cedfa#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
-<http://billings.acropolis.org.uk/c38ee588fb92467c88b1bee4a7ce9060#id> <http://www.w3.org/2000/01/rdf-schema#label> "Topsy and Tim"@en-gb .
-<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/331b01fd87c74e8b96fe0dc44bfa8b93#id> .
-<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/6cdc817d22cd414ab9b52bae9e9b47a7#id> .
-<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/44c7ff19fff04b6488b5e9d0c9c9615f#id> .
-<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/5b781e204ad440acb1960ca42a5933a2#id> .
-<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/ae1e4d8bf5374dba8bc790c6129c1ad5#id> .
-<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/e8c28f0401ae495a811155f3195d1b37#id> .
-<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/16f87773654944d0a9728f005e9a573c#id> .
-<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/42da4de50f034d7b9f28dff7e8eff4d1#id> .
-<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/d057e10274e64eb6916cfb327fa87af5#id> .
-<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/3016c27568b34a06bc619edf26aec772#id> .
-<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/c38ee588fb92467c88b1bee4a7ce9060#id> .
-<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/44aa05131fa2411c9013a62d3eb826c4#id> .
-<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/c71ebd147c74433cb9a6e6736b93e8a4#id> .
-<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/9796f91f3e2a4439974617eae59a3f10#id> .
-<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/fcae722539564583a7a16d480f3d0b56#id> .
-<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/e6e5a8b4d957402f96765a15bb61586d#id> .
-<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/08a60a27bc4b4686873450e4ed7a718b#id> .
-<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/6c60ab8c019949378dbdf6610cab4a4a#id> .
-<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/d8d9c895365c47ada85499888b1cedfa#id> .
-<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/801d596886a64097a2f1f383a5dac33f#id> .
-<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/c3ba956395d5482e85fca4a61751feb0#id> .
-<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/a5d95405091e40e9b0a4317909269759#id> .
-<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/d85e63b81da648b2ac849254a889a5d0#id> .
-<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/fb56755a66f349efb4f4c2ff68e44a2d#id> .
-<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/7b6b8322f90c4a7c8c7df81f710c5361#id> .
-<http://billings.acropolis.org.uk/3016c27568b34a06bc619edf26aec772#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
-<http://billings.acropolis.org.uk/d057e10274e64eb6916cfb327fa87af5#id> <http://www.w3.org/2000/01/rdf-schema#label> "Officially Amazing 3"@en-gb .
-<http://billings.acropolis.org.uk/6cdc817d22cd414ab9b52bae9e9b47a7#id> <http://www.w3.org/2000/01/rdf-schema#label> "Nina and the Neurons: Go Engineering"@en-gb .
-<http://billings.acropolis.org.uk/42da4de50f034d7b9f28dff7e8eff4d1#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
-<http://billings.acropolis.org.uk/42da4de50f034d7b9f28dff7e8eff4d1#id> <http://www.w3.org/2000/01/rdf-schema#label> "BBC News at Five"@en-gb .
-<http://billings.acropolis.org.uk/08a60a27bc4b4686873450e4ed7a718b#id> <http://www.w3.org/2000/01/rdf-schema#label> "BBC News at Six"@en-gb .
+<http://billings.acropolis.org.uk/6fea304c8676447fa23a06e3443633d6#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/49236501cf5040299fbc3c0ea6c13684#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/80b81364b76b4a9fa9db342f642a43ef#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/77156f82ff7f44d9a0931b5ef83945e8#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/d1a6a8af17f84687beab01785c8521f2#id> <http://www.w3.org/2000/01/rdf-schema#label> "Teenage Millionaire: The Year I Won..."@en-gb .
+<http://billings.acropolis.org.uk/9e08028c5391458d9cf6ef7c102c1c0e#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Women's Football Show"@en-gb .
+<http://billings.acropolis.org.uk/e88ae8f4a15343b2b89dca7f1d0d3621#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/45dd939f0a374c13a1b5af1fb2deb1dd#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/1b84dbb4a3be46f1ad55bf17b13b3af6#id> .
+<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/a3bd2753fc704b8796b4e55c56c908d9#id> .
+<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/053ffb74cd7c440ba34819dc40244c6b#id> .
+<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/0fbd6c29c5fa47f8bd1229af6271b6c5#id> .
+<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/e042fc82c4a04cc7a35e310162f234f6#id> .
+<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/d0aca95ab9ac44c88a4de66f276ba1b6#id> .
+<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/e88ae8f4a15343b2b89dca7f1d0d3621#id> .
+<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/49236501cf5040299fbc3c0ea6c13684#id> .
+<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/43bec48c3daa400dacf54c1db41e6580#id> .
+<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/9e08028c5391458d9cf6ef7c102c1c0e#id> .
+<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/b75dae84049d489db696232184b82bca#id> .
+<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/54e241b551a34b4789c74a08f7ad7300#id> .
+<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/1b927aa53d98476ba5ba794828a91dde#id> .
+<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/8b5c5fcaf8c644549d1a008f90a133ab#id> .
+<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/45dd939f0a374c13a1b5af1fb2deb1dd#id> .
+<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/44413fd8fc434f728a32177573d6a389#id> .
+<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/f9f031fb0d454200adfc679b31ffe01a#id> .
+<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/7c095f829c0648efa15c9e249afc4b4b#id> .
+<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/a9b8976878c34f018c8a88f839e3e961#id> .
+<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/77156f82ff7f44d9a0931b5ef83945e8#id> .
+<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/80b81364b76b4a9fa9db342f642a43ef#id> .
+<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/d1a6a8af17f84687beab01785c8521f2#id> .
+<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/49e2433a9cd34e5b9424c18ace1e5ab4#id> .
+<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/c1e6525ed41d4bf39e3c6f03f8892093#id> .
+<http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://billings.acropolis.org.uk/6fea304c8676447fa23a06e3443633d6#id> .
+<http://billings.acropolis.org.uk/b75dae84049d489db696232184b82bca#id> <http://www.w3.org/2000/01/rdf-schema#label> "Family Guy"@en-gb .
+<http://billings.acropolis.org.uk/43bec48c3daa400dacf54c1db41e6580#id> <http://www.w3.org/2000/01/rdf-schema#label> "Have I Got a Bit More Old News for You"@en-gb .
+<http://billings.acropolis.org.uk/a9b8976878c34f018c8a88f839e3e961#id> <http://www.w3.org/2000/01/rdf-schema#label> "Newsday"@en-gb .
+<http://billings.acropolis.org.uk/8b5c5fcaf8c644549d1a008f90a133ab#id> <http://www.w3.org/2000/01/rdf-schema#label> "Rome: A History of the Eternal City"@en-gb .
+<http://billings.acropolis.org.uk/77156f82ff7f44d9a0931b5ef83945e8#id> <http://www.w3.org/2000/01/rdf-schema#label> "Family Guy"@en-gb .
+<http://billings.acropolis.org.uk/a3bd2753fc704b8796b4e55c56c908d9#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Papers"@en-gb .
+<http://billings.acropolis.org.uk/8b5c5fcaf8c644549d1a008f90a133ab#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/45dd939f0a374c13a1b5af1fb2deb1dd#id> <http://www.w3.org/2000/01/rdf-schema#label> "Sportsday"@en-gb .
 <http://billings.acropolis.org.uk/index.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
-<http://billings.acropolis.org.uk/6cdc817d22cd414ab9b52bae9e9b47a7#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
-<http://billings.acropolis.org.uk/6c60ab8c019949378dbdf6610cab4a4a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/54e241b551a34b4789c74a08f7ad7300#id> <http://www.w3.org/2000/01/rdf-schema#label> "Lords Questions"@en-gb .
+<http://billings.acropolis.org.uk/43bec48c3daa400dacf54c1db41e6580#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/e042fc82c4a04cc7a35e310162f234f6#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/c1e6525ed41d4bf39e3c6f03f8892093#id> <http://www.w3.org/2000/01/rdf-schema#label> "Tutankhamun: The Truth Uncovered"@en-gb .
 <http://billings.acropolis.org.uk/> <http://www.w3.org/1999/xhtml/vocab#next> <http://billings.acropolis.org.uk/?offset=25> .
 <http://billings.acropolis.org.uk/> <http://www.w3.org/2000/01/rdf-schema#label> "BBC broadcast billings data"@en-gb .
-<http://billings.acropolis.org.uk/c3ba956395d5482e85fca4a61751feb0#id> <http://www.w3.org/2000/01/rdf-schema#label> "Minuscule"@en-gb .
-<http://billings.acropolis.org.uk/c71ebd147c74433cb9a6e6736b93e8a4#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
-<http://billings.acropolis.org.uk/331b01fd87c74e8b96fe0dc44bfa8b93#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
-<http://billings.acropolis.org.uk/801d596886a64097a2f1f383a5dac33f#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
-<http://billings.acropolis.org.uk/9796f91f3e2a4439974617eae59a3f10#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
-<http://billings.acropolis.org.uk/801d596886a64097a2f1f383a5dac33f#id> <http://www.w3.org/2000/01/rdf-schema#label> "In the Night Garden"@en-gb .
-<http://billings.acropolis.org.uk/e8c28f0401ae495a811155f3195d1b37#id> <http://www.w3.org/2000/01/rdf-schema#label> "Nine Minute Ninja"@en-gb .
-<http://billings.acropolis.org.uk/ae1e4d8bf5374dba8bc790c6129c1ad5#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/053ffb74cd7c440ba34819dc40244c6b#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/d0aca95ab9ac44c88a4de66f276ba1b6#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/9e08028c5391458d9cf6ef7c102c1c0e#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
 <http://billings.acropolis.org.uk/> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/index.nt> .
-<http://billings.acropolis.org.uk/16f87773654944d0a9728f005e9a573c#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
-<http://billings.acropolis.org.uk/5b781e204ad440acb1960ca42a5933a2#id> <http://www.w3.org/2000/01/rdf-schema#label> "Rastamouse"@en-gb .
-<http://billings.acropolis.org.uk/d8d9c895365c47ada85499888b1cedfa#id> <http://www.w3.org/2000/01/rdf-schema#label> "Waybuloo"@en-gb .
-<http://billings.acropolis.org.uk/a5d95405091e40e9b0a4317909269759#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/44413fd8fc434f728a32177573d6a389#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .

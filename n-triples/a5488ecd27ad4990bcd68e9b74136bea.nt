@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00d3mpy#p000lm7w> .
+<http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..123f;f55f4~20080823T150000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea#id> <http://purl.org/ontology/po/schedule_date> "2008-08-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/a5488ecd27ad4990bcd68e9b74136bea/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea> <http://purl.org/dc/terms/title> "Information about the broadcast 'Grange Hill '"@en-gb .
+<http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Grange Hill '"@en-gb .
+<http://devapi.bbcredux.com/a5488ecd27ad4990bcd68e9b74136bea/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/a5488ecd27ad4990bcd68e9b74136bea/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/a5488ecd27ad4990bcd68e9b74136bea/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea#version> .
+<http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/a5488ecd27ad4990bcd68e9b74136bea/player> .
+<http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00d3msf> .
+<http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea#version> .
+<http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea#id> <http://www.w3.org/2000/01/rdf-schema#label> "Grange Hill "@en-gb .
+<http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Grange Hill "@en-gb .
+<http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea#id> .
+<http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4CDYNU> .
+<http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00d3msf#programme> .
+<http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00d3mpy#programme> .
+<http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/a5488ecd27ad4990bcd68e9b74136bea.nt> .

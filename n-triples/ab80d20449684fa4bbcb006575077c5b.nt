@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b.nt> .
+<http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/54BW4M> .
+<http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008ncc7#programme> .
+<http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Sarah Jane Adventures"@en-gb .
+<http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b#id> .
+<http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://devapi.bbcredux.com/ab80d20449684fa4bbcb006575077c5b/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/ab80d20449684fa4bbcb006575077c5b/player> .
+<http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b#version> .
+<http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Sarah Jane Adventures'"@en-gb .
+<http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Sarah Jane Adventures'"@en-gb .
+<http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/ab80d20449684fa4bbcb006575077c5b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/ab80d20449684fa4bbcb006575077c5b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/ab80d20449684fa4bbcb006575077c5b/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008ncb7#programme> .
+<http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b008ncc7> .
+<http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Sarah Jane Adventures"@en-gb .
+<http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b#id> <http://purl.org/ontology/po/schedule_date> "2010-10-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b#version> .
+<http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008ncb7#p00blnw6> .
+<http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..123f;fb0c8~20101022T122500Z--PT1H5M0S> .
+<http://billings.acropolis.org.uk/ab80d20449684fa4bbcb006575077c5b#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .

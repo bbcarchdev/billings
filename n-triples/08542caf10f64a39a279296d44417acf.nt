@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4BAIMY> .
+<http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007c0ml#programme> .
+<http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf#id> <http://purl.org/ontology/po/schedule_date> "2009-03-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf#id> <http://www.w3.org/2000/01/rdf-schema#label> "Mona the Vampire"@en-gb .
+<http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf#id> .
+<http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/08542caf10f64a39a279296d44417acf/player> .
+<http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf> <http://purl.org/dc/terms/title> "Information about the broadcast 'Mona the Vampire'"@en-gb .
+<http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Mona the Vampire'"@en-gb .
+<http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf#version> .
+<http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b007c0ml> .
+<http://devapi.bbcredux.com/08542caf10f64a39a279296d44417acf/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b001y162#programme> .
+<http://devapi.bbcredux.com/08542caf10f64a39a279296d44417acf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/08542caf10f64a39a279296d44417acf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Mona the Vampire"@en-gb .
+<http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf#version> .
+<http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf.nt> .
+<http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b001y162#p002d2lx> .
+<http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..123f;faae7~20090317T144500Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/08542caf10f64a39a279296d44417acf.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/08542caf10f64a39a279296d44417acf/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

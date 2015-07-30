@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Brian Clough: The Greatest..."@en-gb .
+<http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c#id> .
+<http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00t61h7> .
+<http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00t61gz#programme> .
+<http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00t61gz#p008t51b> .
+<http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4aa8b~20100719T222000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c#version> .
+<http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c#id> <http://purl.org/ontology/po/schedule_date> "2010-07-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/b6265235ab83480db144924bbd7fb80c/player> .
+<http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c#version> .
+<http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c> <http://purl.org/dc/terms/title> "Information about the broadcast 'Brian Clough: The Greatest...'"@en-gb .
+<http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c#id> <http://www.w3.org/2000/01/rdf-schema#label> "Brian Clough: The Greatest..."@en-gb .
+<http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/7A35AE> .
+<http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00t61h7#programme> .
+<http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c.nt> .
+<http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/b6265235ab83480db144924bbd7fb80c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/b6265235ab83480db144924bbd7fb80c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/b6265235ab83480db144924bbd7fb80c/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/b6265235ab83480db144924bbd7fb80c/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/b6265235ab83480db144924bbd7fb80c#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Brian Clough: The Greatest...'"@en-gb .

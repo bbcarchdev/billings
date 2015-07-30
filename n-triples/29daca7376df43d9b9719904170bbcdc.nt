@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc#version> .
+<http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/29daca7376df43d9b9719904170bbcdc/player> .
+<http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc#id> <http://www.w3.org/2000/01/rdf-schema#label> "Razzle Dazzle"@en-gb .
+<http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc#id> <http://purl.org/ontology/po/schedule_date> "2008-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/29daca7376df43d9b9719904170bbcdc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/29daca7376df43d9b9719904170bbcdc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc.nt> .
+<http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc#version> .
+<http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0078vhp> .
+<http://devapi.bbcredux.com/29daca7376df43d9b9719904170bbcdc/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/29daca7376df43d9b9719904170bbcdc/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc#id> .
+<http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b005rpmc#programme> .
+<http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4CBJZB> .
+<http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0078vhp#programme> .
+<http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Razzle Dazzle"@en-gb .
+<http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc> <http://purl.org/dc/terms/title> "Information about the broadcast 'Razzle Dazzle'"@en-gb .
+<http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b005rpmc#p0002nms> .
+<http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;05f2~20080304T090000Z--PT0H20M0S> .
+<http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Razzle Dazzle'"@en-gb .
+<http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/29daca7376df43d9b9719904170bbcdc#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .

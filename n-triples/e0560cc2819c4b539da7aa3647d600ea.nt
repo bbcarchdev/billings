@@ -1,0 +1,27 @@
+<http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea#version> .
+<http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00k8f2h> .
+<http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00k8dmg#programme> .
+<http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Sportsday"@en-gb .
+<http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcnews24#id> .
+<http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea#id> .
+<http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea.nt> .
+<http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00k8dmg#p002x2k8> .
+<http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..113f;fe031~20090502T173000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea> <http://purl.org/dc/terms/title> "Information about the broadcast 'Sportsday'"@en-gb .
+<http://devapi.bbcredux.com/e0560cc2819c4b539da7aa3647d600ea/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://devapi.bbcredux.com/e0560cc2819c4b539da7aa3647d600ea/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/e0560cc2819c4b539da7aa3647d600ea/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Sportsday'"@en-gb .
+<http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/e0560cc2819c4b539da7aa3647d600ea/player> .
+<http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00k8f2h#programme> .
+<http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea#version> .
+<http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea#id> <http://www.w3.org/2000/01/rdf-schema#label> "Sportsday"@en-gb .
+<http://billings.acropolis.org.uk/e0560cc2819c4b539da7aa3647d600ea#id> <http://purl.org/ontology/po/schedule_date> "2009-05-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/e0560cc2819c4b539da7aa3647d600ea/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

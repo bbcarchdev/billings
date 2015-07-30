@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Cash in the Attic'"@en-gb .
+<http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/06a4260b60934eb187f152b2ae9d060d/player> .
+<http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0026c1r#programme> .
+<http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d#id> <http://purl.org/ontology/po/schedule_date> "2007-06-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d#version> .
+<http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d> <http://purl.org/dc/terms/title> "Information about the broadcast 'Cash in the Attic'"@en-gb .
+<http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Cash in the Attic"@en-gb .
+<http://devapi.bbcredux.com/06a4260b60934eb187f152b2ae9d060d/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/06a4260b60934eb187f152b2ae9d060d/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/35W43I> .
+<http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007chj5#programme> .
+<http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b007chj5> .
+<http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d.nt> .
+<http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d#id> <http://www.w3.org/2000/01/rdf-schema#label> "Cash in the Attic"@en-gb .
+<http://devapi.bbcredux.com/06a4260b60934eb187f152b2ae9d060d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/06a4260b60934eb187f152b2ae9d060d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0026c1r#p00lqc1z> .
+<http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;42e81~20070628T111500Z--PT0H45M0S> .
+<http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d#id> .
+<http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/06a4260b60934eb187f152b2ae9d060d#version> .

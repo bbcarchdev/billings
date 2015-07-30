@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957#id> <http://purl.org/ontology/po/schedule_date> "2010-09-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957> <http://purl.org/dc/terms/title> "Information about the broadcast 'American Dad!'"@en-gb .
+<http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957#episode> <http://www.w3.org/2000/01/rdf-schema#label> "American Dad!"@en-gb .
+<http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00ntg1s> .
+<http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00g9ncj#p00b2zl2> .
+<http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;ff86e~20100926T011000Z--PT0H25M0S> .
+<http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'American Dad!'"@en-gb .
+<http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957.nt> .
+<http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957#version> .
+<http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957#id> .
+<http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://devapi.bbcredux.com/31e645d34cf24d3ea9dddfae41ba5957/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/31e645d34cf24d3ea9dddfae41ba5957/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/31e645d34cf24d3ea9dddfae41ba5957/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/31e645d34cf24d3ea9dddfae41ba5957/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4J62AS> .
+<http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ntg1s#programme> .
+<http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00g9ncj#programme> .
+<http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957#id> <http://www.w3.org/2000/01/rdf-schema#label> "American Dad!"@en-gb .
+<http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957#version> .
+<http://billings.acropolis.org.uk/31e645d34cf24d3ea9dddfae41ba5957#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/31e645d34cf24d3ea9dddfae41ba5957/player> .

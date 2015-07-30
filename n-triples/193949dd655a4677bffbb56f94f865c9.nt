@@ -1,0 +1,27 @@
+<http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9#id> <http://www.w3.org/2000/01/rdf-schema#label> "Shaun the Sheep"@en-gb .
+<http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/193949dd655a4677bffbb56f94f865c9/player> .
+<http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9.nt> .
+<http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Shaun the Sheep'"@en-gb .
+<http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9#version> .
+<http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIJIS> .
+<http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00slkvz#programme> .
+<http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/#p007wx7t> .
+<http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4d750~20100524T145500Z--PT0H10M0S> .
+<http://devapi.bbcredux.com/193949dd655a4677bffbb56f94f865c9/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9#version> .
+<http://devapi.bbcredux.com/193949dd655a4677bffbb56f94f865c9/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9#id> <http://purl.org/ontology/po/schedule_date> "2010-05-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Shaun the Sheep"@en-gb .
+<http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00slkvz> .
+<http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9> <http://purl.org/dc/terms/title> "Information about the broadcast 'Shaun the Sheep'"@en-gb .
+<http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/193949dd655a4677bffbb56f94f865c9#id> .
+<http://devapi.bbcredux.com/193949dd655a4677bffbb56f94f865c9/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/193949dd655a4677bffbb56f94f865c9/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .

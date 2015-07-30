@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb.nt> .
+<http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb#id> <http://purl.org/ontology/po/schedule_date> "2007-07-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb> <http://purl.org/dc/terms/title> "Information about the broadcast 'Something for the Weekend'"@en-gb .
+<http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/f207c426f4114ff29bcd0a348c3be8fb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b007rs7c> .
+<http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007rs76#p0006b0t> .
+<http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;43281~20070701T090000Z--PT1H30M0S> .
+<http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb#version> .
+<http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Something for the Weekend"@en-gb .
+<http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/f207c426f4114ff29bcd0a348c3be8fb/player> .
+<http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb#id> .
+<http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb#version> .
+<http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007rs76#programme> .
+<http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://devapi.bbcredux.com/f207c426f4114ff29bcd0a348c3be8fb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/35W4GN> .
+<http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007rs7c#programme> .
+<http://devapi.bbcredux.com/f207c426f4114ff29bcd0a348c3be8fb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/f207c426f4114ff29bcd0a348c3be8fb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb#id> <http://www.w3.org/2000/01/rdf-schema#label> "Something for the Weekend"@en-gb .
+<http://billings.acropolis.org.uk/f207c426f4114ff29bcd0a348c3be8fb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Something for the Weekend'"@en-gb .

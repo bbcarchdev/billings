@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb#id> <http://www.w3.org/2000/01/rdf-schema#label> "Young, Dumb and Living off Mum"@en-gb .
+<http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Young, Dumb and Living off Mum'"@en-gb .
+<http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/1106e0a9ccf2445786640ffd7c63acdb/player> .
+<http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00tbv3w#p0093jnn> .
+<http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;ff16f~20100807T031500Z--PT1H0M0S> .
+<http://devapi.bbcredux.com/1106e0a9ccf2445786640ffd7c63acdb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/1106e0a9ccf2445786640ffd7c63acdb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb#version> .
+<http://devapi.bbcredux.com/1106e0a9ccf2445786640ffd7c63acdb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/1106e0a9ccf2445786640ffd7c63acdb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00tbv42> .
+<http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb.nt> .
+<http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Young, Dumb and Living off Mum"@en-gb .
+<http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb#version> .
+<http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00tbv3w#programme> .
+<http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1RKCR0> .
+<http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00tbv42#programme> .
+<http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb> <http://purl.org/dc/terms/title> "Information about the broadcast 'Young, Dumb and Living off Mum'"@en-gb .
+<http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb#id> <http://purl.org/ontology/po/schedule_date> "2010-08-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb#id> .
+<http://billings.acropolis.org.uk/1106e0a9ccf2445786640ffd7c63acdb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .

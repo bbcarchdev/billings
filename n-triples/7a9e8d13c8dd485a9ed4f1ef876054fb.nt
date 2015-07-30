@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/7a9e8d13c8dd485a9ed4f1ef876054fb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/7a9e8d13c8dd485a9ed4f1ef876054fb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb#id> <http://www.w3.org/2000/01/rdf-schema#label> "Top Gear"@en-gb .
+<http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb#version> .
+<http://devapi.bbcredux.com/7a9e8d13c8dd485a9ed4f1ef876054fb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb#version> .
+<http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b006c7t3#programme> .
+<http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb#id> .
+<http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b006c7t3#p007rnjz> .
+<http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;fe7aa~20100515T185500Z--PT1H5M0S> .
+<http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb> <http://purl.org/dc/terms/title> "Information about the broadcast 'Top Gear'"@en-gb .
+<http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb#id> <http://purl.org/ontology/po/schedule_date> "2010-05-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/7a9e8d13c8dd485a9ed4f1ef876054fb/player> .
+<http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Top Gear"@en-gb .
+<http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Top Gear'"@en-gb .
+<http://devapi.bbcredux.com/7a9e8d13c8dd485a9ed4f1ef876054fb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/2FCYS7> .
+<http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0074fvk#programme> .
+<http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb.nt> .
+<http://billings.acropolis.org.uk/7a9e8d13c8dd485a9ed4f1ef876054fb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0074fvk> .

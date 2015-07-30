@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa.nt> .
+<http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa#id> <http://purl.org/ontology/po/schedule_date> "2008-05-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/49c0a73a89d545159af7734202d6a9fa/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa#version> .
+<http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Delta Forever'"@en-gb .
+<http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa> <http://purl.org/dc/terms/title> "Information about the broadcast 'Delta Forever'"@en-gb .
+<http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa#id> .
+<http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa#version> .
+<http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/15CK27> .
+<http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00br2xt#programme> .
+<http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Delta Forever"@en-gb .
+<http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00br2xt> .
+<http://devapi.bbcredux.com/49c0a73a89d545159af7734202d6a9fa/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/49c0a73a89d545159af7734202d6a9fa/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa#id> <http://www.w3.org/2000/01/rdf-schema#label> "Delta Forever"@en-gb .
+<http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00br2wz#p000hvxb> .
+<http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;f69be~20080526T021000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/49c0a73a89d545159af7734202d6a9fa/player> .
+<http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/49c0a73a89d545159af7734202d6a9fa#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00br2wz#programme> .
+<http://devapi.bbcredux.com/49c0a73a89d545159af7734202d6a9fa/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

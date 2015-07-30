@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad#id> <http://purl.org/ontology/po/schedule_date> "2009-10-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b001nx0j#programme> .
+<http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad#id> .
+<http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad#version> .
+<http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1RRR2B> .
+<http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00797jr#programme> .
+<http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/d421a6173eea4e9799a80aa24d6b1dad/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/d421a6173eea4e9799a80aa24d6b1dad/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00797jr> .
+<http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Belief File'"@en-gb .
+<http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad> <http://purl.org/dc/terms/title> "Information about the broadcast 'Belief File'"@en-gb .
+<http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b001nx0j#p004kpwx> .
+<http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;49a12~20091007T035500Z--PT1H5M0S> .
+<http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad#version> .
+<http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad#id> <http://www.w3.org/2000/01/rdf-schema#label> "Belief File"@en-gb .
+<http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad.nt> .
+<http://devapi.bbcredux.com/d421a6173eea4e9799a80aa24d6b1dad/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/d421a6173eea4e9799a80aa24d6b1dad/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/d421a6173eea4e9799a80aa24d6b1dad/player> .
+<http://billings.acropolis.org.uk/d421a6173eea4e9799a80aa24d6b1dad#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Belief File"@en-gb .

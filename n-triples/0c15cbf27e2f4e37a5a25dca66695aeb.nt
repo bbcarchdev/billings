@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/541H4N> .
+<http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008yxbl#programme> .
+<http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b008yxbl> .
+<http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/0c15cbf27e2f4e37a5a25dca66695aeb/player> .
+<http://devapi.bbcredux.com/0c15cbf27e2f4e37a5a25dca66695aeb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Wild Tales"@en-gb .
+<http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb#version> .
+<http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Wild Tales'"@en-gb .
+<http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb#id> .
+<http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008yxb7#programme> .
+<http://devapi.bbcredux.com/0c15cbf27e2f4e37a5a25dca66695aeb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008yxb7#p006mnvw> .
+<http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..123f;ff40b~20100305T100000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb#version> .
+<http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb#id> <http://www.w3.org/2000/01/rdf-schema#label> "Wild Tales"@en-gb .
+<http://devapi.bbcredux.com/0c15cbf27e2f4e37a5a25dca66695aeb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/0c15cbf27e2f4e37a5a25dca66695aeb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb> <http://purl.org/dc/terms/title> "Information about the broadcast 'Wild Tales'"@en-gb .
+<http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb#id> <http://purl.org/ontology/po/schedule_date> "2010-03-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/0c15cbf27e2f4e37a5a25dca66695aeb.nt> .

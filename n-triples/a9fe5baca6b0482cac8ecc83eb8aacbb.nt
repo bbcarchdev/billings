@@ -1,0 +1,27 @@
+<http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb#version> .
+<http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/a9fe5baca6b0482cac8ecc83eb8aacbb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/a9fe5baca6b0482cac8ecc83eb8aacbb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb#version> .
+<http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/a9fe5baca6b0482cac8ecc83eb8aacbb/player> .
+<http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Athletics: World Championships"@en-gb .
+<http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb#id> .
+<http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb#id> <http://www.w3.org/2000/01/rdf-schema#label> "Athletics: World Championships"@en-gb .
+<http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00m9gdt#p0040d80> .
+<http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4e39f~20090816T080000Z--PT3H0M0S> .
+<http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb> <http://purl.org/dc/terms/title> "Information about the broadcast 'Athletics: World Championships'"@en-gb .
+<http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00m9gdt#programme> .
+<http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00m9gl2> .
+<http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/a9fe5baca6b0482cac8ecc83eb8aacbb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/a9fe5baca6b0482cac8ecc83eb8aacbb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb#id> <http://purl.org/ontology/po/schedule_date> "2009-08-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Athletics: World Championships'"@en-gb .
+<http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb.nt> .
+<http://billings.acropolis.org.uk/a9fe5baca6b0482cac8ecc83eb8aacbb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00m9gl2#programme> .

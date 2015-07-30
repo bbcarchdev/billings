@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Homes Under the Hammer'"@en-gb .
+<http://devapi.bbcredux.com/478f9d488fde41edb46286a7d9cbfdbf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/478f9d488fde41edb46286a7d9cbfdbf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/478f9d488fde41edb46286a7d9cbfdbf/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf.nt> .
+<http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf#id> <http://purl.org/ontology/po/schedule_date> "2008-09-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf#version> .
+<http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf#id> .
+<http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Homes Under the Hammer"@en-gb .
+<http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/478f9d488fde41edb46286a7d9cbfdbf/player> .
+<http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0080r49> .
+<http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf#id> <http://www.w3.org/2000/01/rdf-schema#label> "Homes Under the Hammer"@en-gb .
+<http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf#version> .
+<http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf> <http://purl.org/dc/terms/title> "Information about the broadcast 'Homes Under the Hammer'"@en-gb .
+<http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://devapi.bbcredux.com/478f9d488fde41edb46286a7d9cbfdbf/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0080r3d#programme> .
+<http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/35W46H> .
+<http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0080r49#programme> .
+<http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0080r3d#p0008rps> .
+<http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;40459~20080929T090000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/478f9d488fde41edb46286a7d9cbfdbf#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .

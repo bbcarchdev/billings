@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b005fnm5#p00027rh> .
+<http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;f7196~20070829T234000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883> <http://purl.org/dc/terms/title> "Information about the broadcast 'Two Pints of Lager and...'"@en-gb .
+<http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b005fnm5#programme> .
+<http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883#version> .
+<http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/f5469f1edd814fe296db069509967883/player> .
+<http://devapi.bbcredux.com/f5469f1edd814fe296db069509967883/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/f5469f1edd814fe296db069509967883/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0074chg> .
+<http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883#id> .
+<http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883.nt> .
+<http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Two Pints of Lager and...'"@en-gb .
+<http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883#id> <http://www.w3.org/2000/01/rdf-schema#label> "Two Pints of Lager and..."@en-gb .
+<http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1RSHPD> .
+<http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0074chg#programme> .
+<http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883#id> <http://purl.org/ontology/po/schedule_date> "2007-08-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883#version> .
+<http://devapi.bbcredux.com/f5469f1edd814fe296db069509967883/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Two Pints of Lager and..."@en-gb .
+<http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/f5469f1edd814fe296db069509967883#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://devapi.bbcredux.com/f5469f1edd814fe296db069509967883/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a#id> <http://purl.org/ontology/po/schedule_date> "2007-09-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008048m#p004883f> .
+<http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;41df7~20070918T023000Z--PT0H50M0S> .
+<http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a#episode> <http://www.w3.org/2000/01/rdf-schema#label> "This World: Vodka's My Poison"@en-gb .
+<http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a.nt> .
+<http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a#id> .
+<http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a> <http://purl.org/dc/terms/title> "Information about the broadcast 'This World: Vodka's My Poison'"@en-gb .
+<http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/73S96> .
+<http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007967j#programme> .
+<http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/aaf9786a7bd6457f8dca4188b96de12a/player> .
+<http://devapi.bbcredux.com/aaf9786a7bd6457f8dca4188b96de12a/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/aaf9786a7bd6457f8dca4188b96de12a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/aaf9786a7bd6457f8dca4188b96de12a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a#version> .
+<http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'This World: Vodka's My Poison'"@en-gb .
+<http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b007967j> .
+<http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a#version> .
+<http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a#id> <http://www.w3.org/2000/01/rdf-schema#label> "This World: Vodka's My Poison"@en-gb .
+<http://billings.acropolis.org.uk/aaf9786a7bd6457f8dca4188b96de12a#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008048m#programme> .
+<http://devapi.bbcredux.com/aaf9786a7bd6457f8dca4188b96de12a/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

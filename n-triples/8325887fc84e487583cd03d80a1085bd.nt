@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/8325887fc84e487583cd03d80a1085bd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/8325887fc84e487583cd03d80a1085bd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/8325887fc84e487583cd03d80a1085bd/player> .
+<http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00l6f0v#programme> .
+<http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Sam and Mark's Guide to Dodging...'"@en-gb .
+<http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd#id> <http://purl.org/ontology/po/schedule_date> "2010-07-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd#version> .
+<http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd> <http://purl.org/dc/terms/title> "Information about the broadcast 'Sam and Mark's Guide to Dodging...'"@en-gb .
+<http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd#id> <http://www.w3.org/2000/01/rdf-schema#label> "Sam and Mark's Guide to Dodging..."@en-gb .
+<http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd#version> .
+<http://devapi.bbcredux.com/8325887fc84e487583cd03d80a1085bd/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00l6f19> .
+<http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd.nt> .
+<http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00l6f0v#p008vsl8> .
+<http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..123f;f9f1c~20100722T121000Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd#id> .
+<http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/T2PKW> .
+<http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00l6f19#programme> .
+<http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/8325887fc84e487583cd03d80a1085bd#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Sam and Mark's Guide to Dodging..."@en-gb .
+<http://devapi.bbcredux.com/8325887fc84e487583cd03d80a1085bd/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

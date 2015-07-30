@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/5b32009a3205479a843ef9e92e7a509e/player> .
+<http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e> <http://purl.org/dc/terms/title> "Information about the broadcast 'Don't Tell the Bride'"@en-gb .
+<http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00mq36q> .
+<http://devapi.bbcredux.com/5b32009a3205479a843ef9e92e7a509e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/5b32009a3205479a843ef9e92e7a509e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e#id> <http://purl.org/ontology/po/schedule_date> "2009-09-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/5b32009a3205479a843ef9e92e7a509e/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/240XLX> .
+<http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00mq36q#programme> .
+<http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Don't Tell the Bride"@en-gb .
+<http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e#version> .
+<http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e#id> <http://www.w3.org/2000/01/rdf-schema#label> "Don't Tell the Bride"@en-gb .
+<http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Don't Tell the Bride'"@en-gb .
+<http://devapi.bbcredux.com/5b32009a3205479a843ef9e92e7a509e/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e#version> .
+<http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e.nt> .
+<http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00mq357#programme> .
+<http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e#id> .
+<http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00mq357#p0047tzp> .
+<http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;fcce1~20090908T224500Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/5b32009a3205479a843ef9e92e7a509e.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .

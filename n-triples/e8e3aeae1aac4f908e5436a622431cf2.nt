@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00vbpf0#p00b87nx> .
+<http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;a146~20100927T073000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2#id> .
+<http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2.nt> .
+<http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Andrew Marr Interviews Ed Miliband"@en-gb .
+<http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/EHH6G> .
+<http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00vbpf2#programme> .
+<http://devapi.bbcredux.com/e8e3aeae1aac4f908e5436a622431cf2/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/e8e3aeae1aac4f908e5436a622431cf2/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Andrew Marr Interviews Ed Miliband'"@en-gb .
+<http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/e8e3aeae1aac4f908e5436a622431cf2/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/e8e3aeae1aac4f908e5436a622431cf2/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00vbpf2> .
+<http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/e8e3aeae1aac4f908e5436a622431cf2/player> .
+<http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2#id> <http://purl.org/ontology/po/schedule_date> "2010-09-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00vbpf0#programme> .
+<http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2#version> .
+<http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2> <http://purl.org/dc/terms/title> "Information about the broadcast 'Andrew Marr Interviews Ed Miliband'"@en-gb .
+<http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2#version> .
+<http://billings.acropolis.org.uk/e8e3aeae1aac4f908e5436a622431cf2#id> <http://www.w3.org/2000/01/rdf-schema#label> "Andrew Marr Interviews Ed Miliband"@en-gb .

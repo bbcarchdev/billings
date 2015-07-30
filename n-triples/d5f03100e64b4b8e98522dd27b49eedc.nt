@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/d5f03100e64b4b8e98522dd27b49eedc/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc#id> .
+<http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Tommy Zoom"@en-gb .
+<http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc.nt> .
+<http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007vtj8#programme> .
+<http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0079ffc> .
+<http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Tommy Zoom'"@en-gb .
+<http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4CDLTF> .
+<http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0079ffc#programme> .
+<http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc#version> .
+<http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc#version> .
+<http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc> <http://purl.org/dc/terms/title> "Information about the broadcast 'Tommy Zoom'"@en-gb .
+<http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc#id> <http://www.w3.org/2000/01/rdf-schema#label> "Tommy Zoom"@en-gb .
+<http://devapi.bbcredux.com/d5f03100e64b4b8e98522dd27b49eedc/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/d5f03100e64b4b8e98522dd27b49eedc/player> .
+<http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007vtj8#p0098xy8> .
+<http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;8f2b~20100816T055000Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/d5f03100e64b4b8e98522dd27b49eedc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/d5f03100e64b4b8e98522dd27b49eedc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc#id> <http://purl.org/ontology/po/schedule_date> "2010-08-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/d5f03100e64b4b8e98522dd27b49eedc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .

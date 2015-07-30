@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0077prg> .
+<http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc#version> .
+<http://devapi.bbcredux.com/813d01976113433c9d011d74ed00c5bc/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Schools: English Express"@en-gb .
+<http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc> <http://purl.org/dc/terms/title> "Information about the broadcast 'Schools: English Express'"@en-gb .
+<http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc#id> <http://purl.org/ontology/po/schedule_date> "2008-03-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1U4YO6> .
+<http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0077prg#programme> .
+<http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/813d01976113433c9d011d74ed00c5bc/player> .
+<http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Schools: English Express'"@en-gb .
+<http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b000tsqf#programme> .
+<http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc.nt> .
+<http://devapi.bbcredux.com/813d01976113433c9d011d74ed00c5bc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/813d01976113433c9d011d74ed00c5bc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/813d01976113433c9d011d74ed00c5bc/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc#id> <http://www.w3.org/2000/01/rdf-schema#label> "Schools: English Express"@en-gb .
+<http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc#id> .
+<http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc#version> .
+<http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b000tsqf#p000140d> .
+<http://billings.acropolis.org.uk/813d01976113433c9d011d74ed00c5bc#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4086c~20080307T111000Z--PT0H20M0S> .

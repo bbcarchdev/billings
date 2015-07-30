@@ -1,0 +1,27 @@
+<http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b007c382> .
+<http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/5de815951c254cd9ae735455cb3f254e/player> .
+<http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e.nt> .
+<http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e#id> .
+<http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'My Family'"@en-gb .
+<http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007c382#programme> .
+<http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e#version> .
+<http://devapi.bbcredux.com/5de815951c254cd9ae735455cb3f254e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/5de815951c254cd9ae735455cb3f254e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e#episode> <http://www.w3.org/2000/01/rdf-schema#label> "My Family"@en-gb .
+<http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e#id> <http://purl.org/ontology/po/schedule_date> "2009-06-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e> <http://purl.org/dc/terms/title> "Information about the broadcast 'My Family'"@en-gb .
+<http://devapi.bbcredux.com/5de815951c254cd9ae735455cb3f254e/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00268z6#p003f3hw> .
+<http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;45463~20090613T154000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00268z6#programme> .
+<http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e#version> .
+<http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/5de815951c254cd9ae735455cb3f254e#id> <http://www.w3.org/2000/01/rdf-schema#label> "My Family"@en-gb .
+<http://devapi.bbcredux.com/5de815951c254cd9ae735455cb3f254e/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Flog It!'"@en-gb .
+<http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b006t6xy#p0004cj9> .
+<http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4157b~20070912T144500Z--PT0H45M0S> .
+<http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/5416GM> .
+<http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0079548#programme> .
+<http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Flog It!"@en-gb .
+<http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b#id> <http://purl.org/ontology/po/schedule_date> "2007-09-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/1cf660f4ec8a483889750f405289863b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/1cf660f4ec8a483889750f405289863b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/1cf660f4ec8a483889750f405289863b/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/1cf660f4ec8a483889750f405289863b/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b> <http://purl.org/dc/terms/title> "Information about the broadcast 'Flog It!'"@en-gb .
+<http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b#version> .
+<http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b#version> .
+<http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0079548> .
+<http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/1cf660f4ec8a483889750f405289863b/player> .
+<http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b#id> .
+<http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b006t6xy#programme> .
+<http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b#id> <http://www.w3.org/2000/01/rdf-schema#label> "Flog It!"@en-gb .
+<http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b.nt> .
+<http://billings.acropolis.org.uk/1cf660f4ec8a483889750f405289863b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .

@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/887b8b22503b4000bdc0557ec0be53ca/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b008wfhd> .
+<http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca#id> <http://purl.org/ontology/po/schedule_date> "2008-01-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008wfgn#p000ddp0> .
+<http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;44a0f~20080129T183000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca#id> .
+<http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca> <http://purl.org/dc/terms/title> "Information about the broadcast 'Ben Fogle's Extreme Dreams'"@en-gb .
+<http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Ben Fogle's Extreme Dreams'"@en-gb .
+<http://devapi.bbcredux.com/887b8b22503b4000bdc0557ec0be53ca/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/887b8b22503b4000bdc0557ec0be53ca/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca.nt> .
+<http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/887b8b22503b4000bdc0557ec0be53ca/player> .
+<http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca#version> .
+<http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca#id> <http://www.w3.org/2000/01/rdf-schema#label> "Ben Fogle's Extreme Dreams"@en-gb .
+<http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008wfgn#programme> .
+<http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/35W4FV> .
+<http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008wfhd#programme> .
+<http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca#version> .
+<http://devapi.bbcredux.com/887b8b22503b4000bdc0557ec0be53ca/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/887b8b22503b4000bdc0557ec0be53ca#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Ben Fogle's Extreme Dreams"@en-gb .

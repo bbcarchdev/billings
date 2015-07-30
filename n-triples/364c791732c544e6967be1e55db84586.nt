@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b008j4jk> .
+<http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586#version> .
+<http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b006p7rx#programme> .
+<http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'A View from a Hill'"@en-gb .
+<http://devapi.bbcredux.com/364c791732c544e6967be1e55db84586/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/364c791732c544e6967be1e55db84586/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/364c791732c544e6967be1e55db84586/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586#id> .
+<http://devapi.bbcredux.com/364c791732c544e6967be1e55db84586/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586#id> <http://www.w3.org/2000/01/rdf-schema#label> "A View from a Hill"@en-gb .
+<http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586#id> <http://purl.org/ontology/po/schedule_date> "2008-12-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586#version> .
+<http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/364c791732c544e6967be1e55db84586/player> .
+<http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4D2J4D> .
+<http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008j4jk#programme> .
+<http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586#episode> <http://www.w3.org/2000/01/rdf-schema#label> "A View from a Hill"@en-gb .
+<http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b006p7rx#p001r7nq> .
+<http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..41c0;a561~20081223T013000Z--PT0H40M0S> .
+<http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586> <http://purl.org/dc/terms/title> "Information about the broadcast 'A View from a Hill'"@en-gb .
+<http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586.nt> .
+<http://billings.acropolis.org.uk/364c791732c544e6967be1e55db84586.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .

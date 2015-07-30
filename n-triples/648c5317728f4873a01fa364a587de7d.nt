@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0090s36#p000f1jw> .
+<http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;45f84~20080215T032000Z--PT0H45M0S> .
+<http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d> <http://purl.org/dc/terms/title> "Information about the broadcast 'Wanted Down Under'"@en-gb .
+<http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b008pw4c> .
+<http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/5415ZA> .
+<http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008pw4c#programme> .
+<http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d.nt> .
+<http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/648c5317728f4873a01fa364a587de7d/player> .
+<http://devapi.bbcredux.com/648c5317728f4873a01fa364a587de7d/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/648c5317728f4873a01fa364a587de7d/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d#id> <http://purl.org/ontology/po/schedule_date> "2008-02-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d#id> .
+<http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d#version> .
+<http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d#id> <http://www.w3.org/2000/01/rdf-schema#label> "Wanted Down Under"@en-gb .
+<http://devapi.bbcredux.com/648c5317728f4873a01fa364a587de7d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/648c5317728f4873a01fa364a587de7d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d#version> .
+<http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Wanted Down Under'"@en-gb .
+<http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Wanted Down Under"@en-gb .
+<http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0090s36#programme> .
+<http://billings.acropolis.org.uk/648c5317728f4873a01fa364a587de7d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .

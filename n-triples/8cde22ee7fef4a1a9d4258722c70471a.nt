@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fc0qq#p000p5ph> .
+<http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;bc92~20081016T183000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a#id> <http://www.w3.org/2000/01/rdf-schema#label> "Prime Minister's Questions"@en-gb .
+<http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a#id> .
+<http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/8cde22ee7fef4a1a9d4258722c70471a/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fc0qq#programme> .
+<http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a#version> .
+<http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a> <http://purl.org/dc/terms/title> "Information about the broadcast 'Prime Minister's Questions'"@en-gb .
+<http://devapi.bbcredux.com/8cde22ee7fef4a1a9d4258722c70471a/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/8cde22ee7fef4a1a9d4258722c70471a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/8cde22ee7fef4a1a9d4258722c70471a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a#id> <http://purl.org/ontology/po/schedule_date> "2008-10-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a#version> .
+<http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Prime Minister's Questions"@en-gb .
+<http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a.nt> .
+<http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/8cde22ee7fef4a1a9d4258722c70471a/player> .
+<http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Prime Minister's Questions'"@en-gb .
+<http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/ADLDLU> .
+<http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fc0qx#programme> .
+<http://billings.acropolis.org.uk/8cde22ee7fef4a1a9d4258722c70471a#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00fc0qx> .

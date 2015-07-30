@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa.nt> .
+<http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa#id> .
+<http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa#id> <http://purl.org/ontology/po/schedule_date> "2009-10-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fz8v2#p004sjqc> .
+<http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;bc70~20091025T163000Z--PT0H20M0S> .
+<http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa#id> <http://www.w3.org/2000/01/rdf-schema#label> "Big Cook Little Cook"@en-gb .
+<http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa> <http://purl.org/dc/terms/title> "Information about the broadcast 'Big Cook Little Cook'"@en-gb .
+<http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fz8v2#programme> .
+<http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00790v1> .
+<http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/229496843ee9452f9ca559493cb9d7fa/player> .
+<http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa#version> .
+<http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4CDJR0> .
+<http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00790v1#programme> .
+<http://devapi.bbcredux.com/229496843ee9452f9ca559493cb9d7fa/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Big Cook Little Cook"@en-gb .
+<http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Big Cook Little Cook'"@en-gb .
+<http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/229496843ee9452f9ca559493cb9d7fa/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/229496843ee9452f9ca559493cb9d7fa/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/229496843ee9452f9ca559493cb9d7fa/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/229496843ee9452f9ca559493cb9d7fa#version> .

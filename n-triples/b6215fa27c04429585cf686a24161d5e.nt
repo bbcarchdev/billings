@@ -1,0 +1,27 @@
+<http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0094jvj#p000fjhh> .
+<http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;7503~20080302T160000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e#version> .
+<http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e#id> .
+<http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0094jvn#programme> .
+<http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Hearts and Minds"@en-gb .
+<http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Hearts and Minds'"@en-gb .
+<http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e#id> <http://purl.org/ontology/po/schedule_date> "2008-03-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0094jvn> .
+<http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/b6215fa27c04429585cf686a24161d5e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/b6215fa27c04429585cf686a24161d5e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/b6215fa27c04429585cf686a24161d5e/player> .
+<http://devapi.bbcredux.com/b6215fa27c04429585cf686a24161d5e/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e.nt> .
+<http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e#version> .
+<http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e> <http://purl.org/dc/terms/title> "Information about the broadcast 'Hearts and Minds'"@en-gb .
+<http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0094jvj#programme> .
+<http://devapi.bbcredux.com/b6215fa27c04429585cf686a24161d5e/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/b6215fa27c04429585cf686a24161d5e#id> <http://www.w3.org/2000/01/rdf-schema#label> "Hearts and Minds"@en-gb .

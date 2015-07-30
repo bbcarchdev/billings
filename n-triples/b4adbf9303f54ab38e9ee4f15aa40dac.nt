@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac.nt> .
+<http://devapi.bbcredux.com/b4adbf9303f54ab38e9ee4f15aa40dac/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00s3w2v#p0075f9t> .
+<http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;49e44~20100413T161500Z--PT0H45M0S> .
+<http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Weakest Link"@en-gb .
+<http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac#id> .
+<http://devapi.bbcredux.com/b4adbf9303f54ab38e9ee4f15aa40dac/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://devapi.bbcredux.com/b4adbf9303f54ab38e9ee4f15aa40dac/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/b4adbf9303f54ab38e9ee4f15aa40dac/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Weakest Link"@en-gb .
+<http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac#id> <http://purl.org/ontology/po/schedule_date> "2010-04-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac#version> .
+<http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Weakest Link'"@en-gb .
+<http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac#version> .
+<http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1RQZWE> .
+<http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00s3w2x#programme> .
+<http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/b4adbf9303f54ab38e9ee4f15aa40dac/player> .
+<http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00s3w2x> .
+<http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Weakest Link'"@en-gb .
+<http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00s3w2v#programme> .
+<http://billings.acropolis.org.uk/b4adbf9303f54ab38e9ee4f15aa40dac.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .

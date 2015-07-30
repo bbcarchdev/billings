@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ty84z#programme> .
+<http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d.nt> .
+<http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d#version> .
+<http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d#version> .
+<http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d#id> <http://www.w3.org/2000/01/rdf-schema#label> "Gardeners' World"@en-gb .
+<http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ty84z#p00b2wnk> .
+<http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4e550~20100924T193000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/38fd8bb760d541098cf4de08cf3e439d/player> .
+<http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Gardeners' World"@en-gb .
+<http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d> <http://purl.org/dc/terms/title> "Information about the broadcast 'Gardeners' World'"@en-gb .
+<http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/38fd8bb760d541098cf4de08cf3e439d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/38fd8bb760d541098cf4de08cf3e439d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23V39B> .
+<http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ty879#programme> .
+<http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00ty879> .
+<http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Gardeners' World'"@en-gb .
+<http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d#id> <http://purl.org/ontology/po/schedule_date> "2010-09-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/38fd8bb760d541098cf4de08cf3e439d#id> .
+<http://devapi.bbcredux.com/38fd8bb760d541098cf4de08cf3e439d/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/38fd8bb760d541098cf4de08cf3e439d/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .

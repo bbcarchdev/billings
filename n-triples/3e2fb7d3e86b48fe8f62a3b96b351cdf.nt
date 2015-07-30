@@ -1,0 +1,27 @@
+<http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf#version> .
+<http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf#id> .
+<http://devapi.bbcredux.com/3e2fb7d3e86b48fe8f62a3b96b351cdf/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Panorama'"@en-gb .
+<http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fg41f#p000pgtp> .
+<http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..113f;ffb88~20081113T043000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Panorama"@en-gb .
+<http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/3e2fb7d3e86b48fe8f62a3b96b351cdf/player> .
+<http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00fg420> .
+<http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcnews24#id> .
+<http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf#id> <http://purl.org/ontology/po/schedule_date> "2008-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fg420#programme> .
+<http://devapi.bbcredux.com/3e2fb7d3e86b48fe8f62a3b96b351cdf/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/3e2fb7d3e86b48fe8f62a3b96b351cdf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/3e2fb7d3e86b48fe8f62a3b96b351cdf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fg41f#programme> .
+<http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf> <http://purl.org/dc/terms/title> "Information about the broadcast 'Panorama'"@en-gb .
+<http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf#id> <http://www.w3.org/2000/01/rdf-schema#label> "Panorama"@en-gb .
+<http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf#version> .
+<http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/3e2fb7d3e86b48fe8f62a3b96b351cdf.nt> .

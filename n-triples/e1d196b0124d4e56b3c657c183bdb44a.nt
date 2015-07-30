@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Farm to Pharma: The Rise and..."@en-gb .
+<http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/e1d196b0124d4e56b3c657c183bdb44a/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00k36fj> .
+<http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a#id> <http://www.w3.org/2000/01/rdf-schema#label> "Farm to Pharma: The Rise and..."@en-gb .
+<http://devapi.bbcredux.com/e1d196b0124d4e56b3c657c183bdb44a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/e1d196b0124d4e56b3c657c183bdb44a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00k36d7#p002xjzc> .
+<http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..41c0;b049~20090505T015500Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23V0EM> .
+<http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00k36fj#programme> .
+<http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a#id> <http://purl.org/ontology/po/schedule_date> "2009-05-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/e1d196b0124d4e56b3c657c183bdb44a/player> .
+<http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Farm to Pharma: The Rise and...'"@en-gb .
+<http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a#id> .
+<http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a> <http://purl.org/dc/terms/title> "Information about the broadcast 'Farm to Pharma: The Rise and...'"@en-gb .
+<http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a#version> .
+<http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a#version> .
+<http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a.nt> .
+<http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00k36d7#programme> .
+<http://billings.acropolis.org.uk/e1d196b0124d4e56b3c657c183bdb44a.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/e1d196b0124d4e56b3c657c183bdb44a/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

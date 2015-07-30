@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/0de4086b2462469a8653f19530e36beb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/0de4086b2462469a8653f19530e36beb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb#version> .
+<http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb.nt> .
+<http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://devapi.bbcredux.com/0de4086b2462469a8653f19530e36beb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb> <http://purl.org/dc/terms/title> "Information about the broadcast 'Bizarre ER'"@en-gb .
+<http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Bizarre ER"@en-gb .
+<http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00kffws> .
+<http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Bizarre ER'"@en-gb .
+<http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00kffrl#programme> .
+<http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/240VTJ> .
+<http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00kffws#programme> .
+<http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb#id> <http://purl.org/ontology/po/schedule_date> "2009-05-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00kffrl#p0031ngv> .
+<http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;fbea9~20090517T014500Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/0de4086b2462469a8653f19530e36beb/player> .
+<http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb#id> <http://www.w3.org/2000/01/rdf-schema#label> "Bizarre ER"@en-gb .
+<http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb#version> .
+<http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/0de4086b2462469a8653f19530e36beb#id> .
+<http://devapi.bbcredux.com/0de4086b2462469a8653f19530e36beb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

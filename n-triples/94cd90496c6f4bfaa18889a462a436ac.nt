@@ -1,0 +1,27 @@
+<http://devapi.bbcredux.com/94cd90496c6f4bfaa18889a462a436ac/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/94cd90496c6f4bfaa18889a462a436ac/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/94cd90496c6f4bfaa18889a462a436ac/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcnews24#id> .
+<http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac#id> .
+<http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fslt5#programme> .
+<http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac#version> .
+<http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fslqs#programme> .
+<http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac> <http://purl.org/dc/terms/title> "Information about the broadcast 'Sportsday'"@en-gb .
+<http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac#version> .
+<http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac#id> <http://purl.org/ontology/po/schedule_date> "2008-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac#id> <http://www.w3.org/2000/01/rdf-schema#label> "Sportsday"@en-gb .
+<http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac.nt> .
+<http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/94cd90496c6f4bfaa18889a462a436ac/player> .
+<http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Sportsday"@en-gb .
+<http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fslqs#p000prq1> .
+<http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..113f;f8a5f~20081116T184500Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Sportsday'"@en-gb .
+<http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/94cd90496c6f4bfaa18889a462a436ac#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00fslt5> .
+<http://devapi.bbcredux.com/94cd90496c6f4bfaa18889a462a436ac/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

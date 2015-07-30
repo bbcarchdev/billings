@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00tqs9l> .
+<http://devapi.bbcredux.com/1d03f8c03e96413eb71200d0697203ef/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00vdh2d#p00bl2dp> .
+<http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;49c68~20101022T015500Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef#version> .
+<http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00vdh2d#programme> .
+<http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef#id> .
+<http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Big School Lottery'"@en-gb .
+<http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef.nt> .
+<http://devapi.bbcredux.com/1d03f8c03e96413eb71200d0697203ef/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/1d03f8c03e96413eb71200d0697203ef/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Big School Lottery"@en-gb .
+<http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Big School Lottery'"@en-gb .
+<http://devapi.bbcredux.com/1d03f8c03e96413eb71200d0697203ef/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Big School Lottery"@en-gb .
+<http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef#id> <http://purl.org/ontology/po/schedule_date> "2010-10-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef#version> .
+<http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/1d03f8c03e96413eb71200d0697203ef/player> .
+<http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/2410ZU> .
+<http://billings.acropolis.org.uk/1d03f8c03e96413eb71200d0697203ef#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00tqs9l#programme> .

@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab.nt> .
+<http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab#version> .
+<http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4KU41D> .
+<http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0082h4b#programme> .
+<http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab#id> <http://www.w3.org/2000/01/rdf-schema#label> "Doctors To Be: Twenty Years On..."@en-gb .
+<http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Doctors To Be: Twenty Years On...'"@en-gb .
+<http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Doctors To Be: Twenty Years On..."@en-gb .
+<http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0082h25#p000990k> .
+<http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..41c0;3ccf~20071015T200000Z--PT0H30M0S> .
+<http://devapi.bbcredux.com/ded2469b45f548db970b20e7902c15ab/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab#version> .
+<http://devapi.bbcredux.com/ded2469b45f548db970b20e7902c15ab/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/ded2469b45f548db970b20e7902c15ab/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab#id> <http://purl.org/ontology/po/schedule_date> "2007-10-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0082h4b> .
+<http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/ded2469b45f548db970b20e7902c15ab/player> .
+<http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab#id> .
+<http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0082h25#programme> .
+<http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab> <http://purl.org/dc/terms/title> "Information about the broadcast 'Doctors To Be: Twenty Years On...'"@en-gb .
+<http://billings.acropolis.org.uk/ded2469b45f548db970b20e7902c15ab#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/ded2469b45f548db970b20e7902c15ab/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

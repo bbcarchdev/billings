@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f#id> .
+<http://devapi.bbcredux.com/d6b25d6e864e414c936603818fce869f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/d6b25d6e864e414c936603818fce869f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00tr84d> .
+<http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/d6b25d6e864e414c936603818fce869f/player> .
+<http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/E5PIY> .
+<http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00tr84d#programme> .
+<http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Ieuan Wyn Jones Speech'"@en-gb .
+<http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f#version> .
+<http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f#id> <http://www.w3.org/2000/01/rdf-schema#label> "Ieuan Wyn Jones Speech"@en-gb .
+<http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f#id> <http://purl.org/ontology/po/schedule_date> "2010-09-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/d6b25d6e864e414c936603818fce869f/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f.nt> .
+<http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f#version> .
+<http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00tr82l#programme> .
+<http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00tr82l#p009t9qv> .
+<http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;9e65~20100911T202000Z--PT0H40M0S> .
+<http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f> <http://purl.org/dc/terms/title> "Information about the broadcast 'Ieuan Wyn Jones Speech'"@en-gb .
+<http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/d6b25d6e864e414c936603818fce869f#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Ieuan Wyn Jones Speech"@en-gb .
+<http://devapi.bbcredux.com/d6b25d6e864e414c936603818fce869f/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

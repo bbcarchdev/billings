@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Guns of Navarone"@en-gb .
+<http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee#version> .
+<http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b001s7l2#programme> .
+<http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/107c3ae23b4a467a872095c3bd99efee/player> .
+<http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee#id> .
+<http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee.nt> .
+<http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4J41J8> .
+<http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00pk778#programme> .
+<http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee#id> <http://purl.org/ontology/po/schedule_date> "2010-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b001s7l2#p005mm0j> .
+<http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;489b8~20100101T142500Z--PT2H30M0S> .
+<http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Guns of Navarone'"@en-gb .
+<http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Guns of Navarone'"@en-gb .
+<http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00pk778> .
+<http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Guns of Navarone"@en-gb .
+<http://devapi.bbcredux.com/107c3ae23b4a467a872095c3bd99efee/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/107c3ae23b4a467a872095c3bd99efee/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/107c3ae23b4a467a872095c3bd99efee#version> .
+<http://devapi.bbcredux.com/107c3ae23b4a467a872095c3bd99efee/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/107c3ae23b4a467a872095c3bd99efee/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .

@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b009nh06#p001jd61> .
+<http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;deea~20081201T163000Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e> <http://purl.org/dc/terms/title> "Information about the broadcast 'Jackanory Junior'"@en-gb .
+<http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b009nh57> .
+<http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e#id> <http://www.w3.org/2000/01/rdf-schema#label> "Jackanory Junior"@en-gb .
+<http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e#id> .
+<http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Jackanory Junior"@en-gb .
+<http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/694673c57f5141ffbb06847deacfe38e/player> .
+<http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4CDMZU> .
+<http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b009nh57#programme> .
+<http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://devapi.bbcredux.com/694673c57f5141ffbb06847deacfe38e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/694673c57f5141ffbb06847deacfe38e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/694673c57f5141ffbb06847deacfe38e/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Jackanory Junior'"@en-gb .
+<http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e#version> .
+<http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e.nt> .
+<http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b009nh06#programme> .
+<http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/694673c57f5141ffbb06847deacfe38e/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e#version> .
+<http://billings.acropolis.org.uk/694673c57f5141ffbb06847deacfe38e#id> <http://purl.org/ontology/po/schedule_date> "2008-12-01"^^<http://www.w3.org/2001/XMLSchema#date> .

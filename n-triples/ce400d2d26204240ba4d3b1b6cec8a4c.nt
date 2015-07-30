@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c#id> .
+<http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c#version> .
+<http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b009507f> .
+<http://devapi.bbcredux.com/ce400d2d26204240ba4d3b1b6cec8a4c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/ce400d2d26204240ba4d3b1b6cec8a4c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Find Me the Face"@en-gb .
+<http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c#id> <http://purl.org/ontology/po/schedule_date> "2008-03-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/ce400d2d26204240ba4d3b1b6cec8a4c/player> .
+<http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0095052#programme> .
+<http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c.nt> .
+<http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Find Me the Face'"@en-gb .
+<http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/35W4Z6> .
+<http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b009507f#programme> .
+<http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c#version> .
+<http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/ce400d2d26204240ba4d3b1b6cec8a4c/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/ce400d2d26204240ba4d3b1b6cec8a4c/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c> <http://purl.org/dc/terms/title> "Information about the broadcast 'Find Me the Face'"@en-gb .
+<http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0095052#p000fn5v> .
+<http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;f0cc4~20080312T021500Z--PT0H55M0S> .
+<http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c#id> <http://www.w3.org/2000/01/rdf-schema#label> "Find Me the Face"@en-gb .
+<http://billings.acropolis.org.uk/ce400d2d26204240ba4d3b1b6cec8a4c#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .

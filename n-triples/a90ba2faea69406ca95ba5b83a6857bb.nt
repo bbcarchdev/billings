@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Basil Brush Show'"@en-gb .
+<http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb#version> .
+<http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb.nt> .
+<http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Basil Brush Show"@en-gb .
+<http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb#version> .
+<http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb#id> .
+<http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b005fmb0#p00cg05t> .
+<http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..123f;fb95b~20101207T070500Z--PT0H25M0S> .
+<http://devapi.bbcredux.com/a90ba2faea69406ca95ba5b83a6857bb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/a90ba2faea69406ca95ba5b83a6857bb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb#id> <http://purl.org/ontology/po/schedule_date> "2010-12-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Basil Brush Show'"@en-gb .
+<http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/a90ba2faea69406ca95ba5b83a6857bb/player> .
+<http://devapi.bbcredux.com/a90ba2faea69406ca95ba5b83a6857bb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Basil Brush Show"@en-gb .
+<http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4CBMJR> .
+<http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0078p9h#programme> .
+<http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://devapi.bbcredux.com/a90ba2faea69406ca95ba5b83a6857bb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b005fmb0#programme> .
+<http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0078p9h> .
+<http://billings.acropolis.org.uk/a90ba2faea69406ca95ba5b83a6857bb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .

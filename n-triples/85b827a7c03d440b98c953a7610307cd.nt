@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd> <http://purl.org/dc/terms/title> "Information about the broadcast 'Planet Earth'"@en-gb .
+<http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b006mlvp#programme> .
+<http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/85b827a7c03d440b98c953a7610307cd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/85b827a7c03d440b98c953a7610307cd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd#id> <http://www.w3.org/2000/01/rdf-schema#label> "Planet Earth"@en-gb .
+<http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/5411OQ> .
+<http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0074t2b#programme> .
+<http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Planet Earth'"@en-gb .
+<http://devapi.bbcredux.com/85b827a7c03d440b98c953a7610307cd/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/85b827a7c03d440b98c953a7610307cd/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b006mlvp#p0031ng0> .
+<http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4f0f9~20090516T175000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0074t2b> .
+<http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Planet Earth"@en-gb .
+<http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd#version> .
+<http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd#version> .
+<http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/85b827a7c03d440b98c953a7610307cd/player> .
+<http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd.nt> .
+<http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd#id> <http://purl.org/ontology/po/schedule_date> "2009-05-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/85b827a7c03d440b98c953a7610307cd#id> .

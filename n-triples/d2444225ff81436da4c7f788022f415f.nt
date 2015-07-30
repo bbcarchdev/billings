@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/240X9X> .
+<http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00l1hrq#programme> .
+<http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Katie Price: The Jordan Years"@en-gb .
+<http://devapi.bbcredux.com/d2444225ff81436da4c7f788022f415f/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Katie Price: The Jordan Years'"@en-gb .
+<http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f#id> .
+<http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/d2444225ff81436da4c7f788022f415f/player> .
+<http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00l1xwm#programme> .
+<http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/d2444225ff81436da4c7f788022f415f/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/d2444225ff81436da4c7f788022f415f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/d2444225ff81436da4c7f788022f415f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f> <http://purl.org/dc/terms/title> "Information about the broadcast 'Katie Price: The Jordan Years'"@en-gb .
+<http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f#version> .
+<http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00l1xwm#p003cd7f> .
+<http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;fc2f0~20090617T031000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f#id> <http://www.w3.org/2000/01/rdf-schema#label> "Katie Price: The Jordan Years"@en-gb .
+<http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f#id> <http://purl.org/ontology/po/schedule_date> "2009-06-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00l1hrq> .
+<http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f.nt> .
+<http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/d2444225ff81436da4c7f788022f415f#version> .

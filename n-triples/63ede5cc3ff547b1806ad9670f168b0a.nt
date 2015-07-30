@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a#id> <http://purl.org/ontology/po/schedule_date> "2008-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/63ede5cc3ff547b1806ad9670f168b0a/player> .
+<http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a.nt> .
+<http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0090d2x#programme> .
+<http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/54BZUA> .
+<http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0090d3n#programme> .
+<http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Ashes to Ashes"@en-gb .
+<http://devapi.bbcredux.com/63ede5cc3ff547b1806ad9670f168b0a/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/63ede5cc3ff547b1806ad9670f168b0a/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a#id> .
+<http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/63ede5cc3ff547b1806ad9670f168b0a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/63ede5cc3ff547b1806ad9670f168b0a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a> <http://purl.org/dc/terms/title> "Information about the broadcast 'Ashes to Ashes'"@en-gb .
+<http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0090d3n> .
+<http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a#version> .
+<http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a#id> <http://www.w3.org/2000/01/rdf-schema#label> "Ashes to Ashes"@en-gb .
+<http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Ashes to Ashes'"@en-gb .
+<http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a#version> .
+<http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0090d2x#p000dyw7> .
+<http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..41c0;6eec~20080228T220000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/63ede5cc3ff547b1806ad9670f168b0a.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .

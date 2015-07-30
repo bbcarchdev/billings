@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The First World War from Above'"@en-gb .
+<http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae#version> .
+<http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/36ba9f7887574765bb5fb75f3c3866ae/player> .
+<http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae> <http://purl.org/dc/terms/title> "Information about the broadcast 'The First World War from Above'"@en-gb .
+<http://devapi.bbcredux.com/36ba9f7887574765bb5fb75f3c3866ae/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/36ba9f7887574765bb5fb75f3c3866ae/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The First World War from Above"@en-gb .
+<http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae#id> <http://www.w3.org/2000/01/rdf-schema#label> "The First World War from Above"@en-gb .
+<http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00vyrz7#programme> .
+<http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae#id> <http://purl.org/ontology/po/schedule_date> "2010-11-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00vyrz7#p00bvql9> .
+<http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4bde9~20101107T210000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae#id> .
+<http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/247MJR> .
+<http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00vyrzh#programme> .
+<http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00vyrzh> .
+<http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae.nt> .
+<http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/36ba9f7887574765bb5fb75f3c3866ae#version> .
+<http://devapi.bbcredux.com/36ba9f7887574765bb5fb75f3c3866ae/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/36ba9f7887574765bb5fb75f3c3866ae/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .

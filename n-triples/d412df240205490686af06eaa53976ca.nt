@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca#version> .
+<http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca#id> <http://purl.org/ontology/po/schedule_date> "2010-12-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca.nt> .
+<http://devapi.bbcredux.com/d412df240205490686af06eaa53976ca/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/d412df240205490686af06eaa53976ca/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Guess with Jess'"@en-gb .
+<http://devapi.bbcredux.com/d412df240205490686af06eaa53976ca/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00nyxjv> .
+<http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIJ0X> .
+<http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00nyxjv#programme> .
+<http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca#id> .
+<http://devapi.bbcredux.com/d412df240205490686af06eaa53976ca/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/d412df240205490686af06eaa53976ca/player> .
+<http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca#version> .
+<http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca> <http://purl.org/dc/terms/title> "Information about the broadcast 'Guess with Jess'"@en-gb .
+<http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00nywx6#p00cg02h> .
+<http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4d425~20101207T063000Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00nywx6#programme> .
+<http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca#id> <http://www.w3.org/2000/01/rdf-schema#label> "Guess with Jess"@en-gb .
+<http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Guess with Jess"@en-gb .
+<http://billings.acropolis.org.uk/d412df240205490686af06eaa53976ca#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .

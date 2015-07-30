@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/2412FH> .
+<http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00tr85p#programme> .
+<http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Rigoletto Live from Mantua: Act 1"@en-gb .
+<http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/360577a81a8e4980a48ed80f974e8e22/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00tr7y5#p009p91q> .
+<http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4e121~20100904T181500Z--PT1H15M0S> .
+<http://devapi.bbcredux.com/360577a81a8e4980a48ed80f974e8e22/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/360577a81a8e4980a48ed80f974e8e22/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22#id> .
+<http://devapi.bbcredux.com/360577a81a8e4980a48ed80f974e8e22/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22#id> <http://www.w3.org/2000/01/rdf-schema#label> "Rigoletto Live from Mantua: Act 1"@en-gb .
+<http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22.nt> .
+<http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00tr7y5#programme> .
+<http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00tr85p> .
+<http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22> <http://purl.org/dc/terms/title> "Information about the broadcast 'Rigoletto Live from Mantua: Act 1'"@en-gb .
+<http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22#id> <http://purl.org/ontology/po/schedule_date> "2010-09-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22#version> .
+<http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Rigoletto Live from Mantua: Act 1'"@en-gb .
+<http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22#version> .
+<http://billings.acropolis.org.uk/360577a81a8e4980a48ed80f974e8e22#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/360577a81a8e4980a48ed80f974e8e22/player> .

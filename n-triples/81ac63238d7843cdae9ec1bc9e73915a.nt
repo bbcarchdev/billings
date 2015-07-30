@@ -1,0 +1,27 @@
+<http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'All the Queen's Men'"@en-gb .
+<http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0067k2q#p00bvs0g> .
+<http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4bde0~20101108T001500Z--PT1H40M0S> .
+<http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a#episode> <http://www.w3.org/2000/01/rdf-schema#label> "All the Queen's Men"@en-gb .
+<http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a#version> .
+<http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a> <http://purl.org/dc/terms/title> "Information about the broadcast 'All the Queen's Men'"@en-gb .
+<http://devapi.bbcredux.com/81ac63238d7843cdae9ec1bc9e73915a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/81ac63238d7843cdae9ec1bc9e73915a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a#id> .
+<http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a#id> <http://purl.org/ontology/po/schedule_date> "2010-11-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0067k2q#programme> .
+<http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007cg0f#programme> .
+<http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b007cg0f> .
+<http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a#id> <http://www.w3.org/2000/01/rdf-schema#label> "All the Queen's Men"@en-gb .
+<http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/81ac63238d7843cdae9ec1bc9e73915a/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/81ac63238d7843cdae9ec1bc9e73915a/player> .
+<http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a#version> .
+<http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/81ac63238d7843cdae9ec1bc9e73915a.nt> .
+<http://devapi.bbcredux.com/81ac63238d7843cdae9ec1bc9e73915a/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

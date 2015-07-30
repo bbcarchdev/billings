@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Rugby League: Challenge Cup Semi Final"@en-gb .
+<http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d#id> .
+<http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/7A34IN> .
+<http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00csg5j#programme> .
+<http://devapi.bbcredux.com/1bc1feb5723442f599c57c5c2c2e7d2d/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Rugby League: Challenge Cup Semi Final'"@en-gb .
+<http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d> <http://purl.org/dc/terms/title> "Information about the broadcast 'Rugby League: Challenge Cup Semi Final'"@en-gb .
+<http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00csg5j> .
+<http://devapi.bbcredux.com/1bc1feb5723442f599c57c5c2c2e7d2d/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d#version> .
+<http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d.nt> .
+<http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/1bc1feb5723442f599c57c5c2c2e7d2d/player> .
+<http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/1bc1feb5723442f599c57c5c2c2e7d2d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/1bc1feb5723442f599c57c5c2c2e7d2d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d#id> <http://purl.org/ontology/po/schedule_date> "2008-07-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00csg1z#programme> .
+<http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d#id> <http://www.w3.org/2000/01/rdf-schema#label> "Rugby League: Challenge Cup Semi Final"@en-gb .
+<http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d#version> .
+<http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00csg1z#p000kwdj> .
+<http://billings.acropolis.org.uk/1bc1feb5723442f599c57c5c2c2e7d2d#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;43cf7~20080727T141000Z--PT2H20M0S> .

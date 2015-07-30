@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f.nt> .
+<http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00vndwd> .
+<http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Mark Lawson Talks to Julie Walters'"@en-gb .
+<http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f#version> .
+<http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Mark Lawson Talks to Julie Walters"@en-gb .
+<http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f#version> .
+<http://devapi.bbcredux.com/cbedd74e8fa147cd99217fd90ed7303f/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/cbedd74e8fa147cd99217fd90ed7303f/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/cbedd74e8fa147cd99217fd90ed7303f/player> .
+<http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/cbedd74e8fa147cd99217fd90ed7303f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/cbedd74e8fa147cd99217fd90ed7303f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f#id> .
+<http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f#id> <http://purl.org/ontology/po/schedule_date> "2010-11-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f#id> <http://www.w3.org/2000/01/rdf-schema#label> "Mark Lawson Talks to Julie Walters"@en-gb .
+<http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00vndt1#p00bspwx> .
+<http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..41c0;e355~20101103T001500Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00vndt1#programme> .
+<http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23V2IH> .
+<http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00vndwd#programme> .
+<http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f> <http://purl.org/dc/terms/title> "Information about the broadcast 'Mark Lawson Talks to Julie Walters'"@en-gb .
+<http://billings.acropolis.org.uk/cbedd74e8fa147cd99217fd90ed7303f#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .

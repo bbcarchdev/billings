@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b#id> <http://www.w3.org/2000/01/rdf-schema#label> "Step Inside"@en-gb .
+<http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b005chl0#programme> .
+<http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Step Inside'"@en-gb .
+<http://devapi.bbcredux.com/19f9e1cc1fa740a8a2f200ce3bdd0f8b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/19f9e1cc1fa740a8a2f200ce3bdd0f8b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b#id> .
+<http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b#id> <http://purl.org/ontology/po/schedule_date> "2007-12-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/19f9e1cc1fa740a8a2f200ce3bdd0f8b/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/TFH1S> .
+<http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0078x0w#programme> .
+<http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0078x0w> .
+<http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b#version> .
+<http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b.nt> .
+<http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Step Inside"@en-gb .
+<http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b> <http://purl.org/dc/terms/title> "Information about the broadcast 'Step Inside'"@en-gb .
+<http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b005chl0#p00025hy> .
+<http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;256a~20071229T125000Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b#version> .
+<http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/19f9e1cc1fa740a8a2f200ce3bdd0f8b/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/19f9e1cc1fa740a8a2f200ce3bdd0f8b#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/19f9e1cc1fa740a8a2f200ce3bdd0f8b/player> .

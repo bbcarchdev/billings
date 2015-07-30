@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316#version> .
+<http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00229qz#programme> .
+<http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316.nt> .
+<http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Story Makers'"@en-gb .
+<http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316#id> .
+<http://devapi.bbcredux.com/197abcbd4dc64cd5a40a436d13f0d316/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/197abcbd4dc64cd5a40a436d13f0d316/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00229qz#p0001tql> .
+<http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;6d03~20071123T180000Z--PT0H20M0S> .
+<http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/197abcbd4dc64cd5a40a436d13f0d316/player> .
+<http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Story Makers"@en-gb .
+<http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316#id> <http://www.w3.org/2000/01/rdf-schema#label> "Story Makers"@en-gb .
+<http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316#version> .
+<http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4CBD6G> .
+<http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0078xtq#programme> .
+<http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0078xtq> .
+<http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316> <http://purl.org/dc/terms/title> "Information about the broadcast 'Story Makers'"@en-gb .
+<http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316#id> <http://purl.org/ontology/po/schedule_date> "2007-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/197abcbd4dc64cd5a40a436d13f0d316#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/197abcbd4dc64cd5a40a436d13f0d316/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/197abcbd4dc64cd5a40a436d13f0d316/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .

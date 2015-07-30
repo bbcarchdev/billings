@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda#version> .
+<http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda#id> .
+<http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda> <http://purl.org/dc/terms/title> "Information about the broadcast 'The National Lottery: Big 7'"@en-gb .
+<http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda.nt> .
+<http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/97a8a202db8e4a92a731debad4a14bda/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The National Lottery: Big 7"@en-gb .
+<http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b007zzct> .
+<http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/97a8a202db8e4a92a731debad4a14bda/player> .
+<http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007zzc7#programme> .
+<http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/97a8a202db8e4a92a731debad4a14bda/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1RH92R> .
+<http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007zzct#programme> .
+<http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda#id> <http://www.w3.org/2000/01/rdf-schema#label> "The National Lottery: Big 7"@en-gb .
+<http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The National Lottery: Big 7'"@en-gb .
+<http://devapi.bbcredux.com/97a8a202db8e4a92a731debad4a14bda/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/97a8a202db8e4a92a731debad4a14bda/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda#version> .
+<http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda#id> <http://purl.org/ontology/po/schedule_date> "2007-09-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007zzc7#p00465j3> .
+<http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;419ab~20070915T195500Z--PT0H45M0S> .
+<http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/97a8a202db8e4a92a731debad4a14bda#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .

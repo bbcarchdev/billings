@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10#id> <http://purl.org/ontology/po/schedule_date> "2009-04-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Oz and James Drink to Britain'"@en-gb .
+<http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/8feef961bdc040f796b506692c01cf10/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10#version> .
+<http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/240VB8> .
+<http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00hn73g#programme> .
+<http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/8feef961bdc040f796b506692c01cf10/player> .
+<http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10#id> .
+<http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://devapi.bbcredux.com/8feef961bdc040f796b506692c01cf10/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10#version> .
+<http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10.nt> .
+<http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Oz and James Drink to Britain"@en-gb .
+<http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10#id> <http://www.w3.org/2000/01/rdf-schema#label> "Oz and James Drink to Britain"@en-gb .
+<http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10> <http://purl.org/dc/terms/title> "Information about the broadcast 'Oz and James Drink to Britain'"@en-gb .
+<http://devapi.bbcredux.com/8feef961bdc040f796b506692c01cf10/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/8feef961bdc040f796b506692c01cf10/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00js8dm#p002nd8r> .
+<http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4bfd6~20090409T004500Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00hn73g> .
+<http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/8feef961bdc040f796b506692c01cf10#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00js8dm#programme> .

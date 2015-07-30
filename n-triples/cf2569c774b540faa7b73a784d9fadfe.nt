@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/cf2569c774b540faa7b73a784d9fadfe/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe#id> <http://purl.org/ontology/po/schedule_date> "2008-08-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/cf2569c774b540faa7b73a784d9fadfe/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/cf2569c774b540faa7b73a784d9fadfe/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe#id> .
+<http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b001rlfx#programme> .
+<http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe#id> <http://www.w3.org/2000/01/rdf-schema#label> "Clifford the Big Red Dog"@en-gb .
+<http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe#version> .
+<http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b001rlfx#p0001m2r> .
+<http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;4d9d~20080813T144500Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe.nt> .
+<http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0078cc0> .
+<http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe> <http://purl.org/dc/terms/title> "Information about the broadcast 'Clifford the Big Red Dog'"@en-gb .
+<http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/cf2569c774b540faa7b73a784d9fadfe/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Clifford the Big Red Dog'"@en-gb .
+<http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/cf2569c774b540faa7b73a784d9fadfe/player> .
+<http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4BAIPZ> .
+<http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0078cc0#programme> .
+<http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe#version> .
+<http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Clifford the Big Red Dog"@en-gb .
+<http://billings.acropolis.org.uk/cf2569c774b540faa7b73a784d9fadfe#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .

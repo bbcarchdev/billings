@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00pd4w2> .
+<http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIJNN> .
+<http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00pd4w2#programme> .
+<http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Twisted Whiskers Show'"@en-gb .
+<http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00pd3w3#p005dls5> .
+<http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..123f;fe30d~20091208T101000Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/afc85eaa7184482e878251fe43adfe0e/player> .
+<http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e#id> .
+<http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00pd3w3#programme> .
+<http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e#version> .
+<http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Twisted Whiskers Show'"@en-gb .
+<http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Twisted Whiskers Show"@en-gb .
+<http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e#version> .
+<http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e#id> <http://purl.org/ontology/po/schedule_date> "2009-12-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/afc85eaa7184482e878251fe43adfe0e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/afc85eaa7184482e878251fe43adfe0e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/afc85eaa7184482e878251fe43adfe0e/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Twisted Whiskers Show"@en-gb .
+<http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/afc85eaa7184482e878251fe43adfe0e.nt> .
+<http://devapi.bbcredux.com/afc85eaa7184482e878251fe43adfe0e/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

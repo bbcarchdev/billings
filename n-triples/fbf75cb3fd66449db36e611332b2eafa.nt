@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa#id> <http://www.w3.org/2000/01/rdf-schema#label> "The People's Hospital"@en-gb .
+<http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23UVZH> .
+<http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fg9ph#programme> .
+<http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/fbf75cb3fd66449db36e611332b2eafa/player> .
+<http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fnyvf#programme> .
+<http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://devapi.bbcredux.com/fbf75cb3fd66449db36e611332b2eafa/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/fbf75cb3fd66449db36e611332b2eafa/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa> <http://purl.org/dc/terms/title> "Information about the broadcast 'The People's Hospital'"@en-gb .
+<http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa#id> .
+<http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The People's Hospital"@en-gb .
+<http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The People's Hospital'"@en-gb .
+<http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa#version> .
+<http://devapi.bbcredux.com/fbf75cb3fd66449db36e611332b2eafa/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa#version> .
+<http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa.nt> .
+<http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00fg9ph> .
+<http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fnyvf#p001fchc> .
+<http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;423ef~20081121T013000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/fbf75cb3fd66449db36e611332b2eafa#id> <http://purl.org/ontology/po/schedule_date> "2008-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/fbf75cb3fd66449db36e611332b2eafa/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

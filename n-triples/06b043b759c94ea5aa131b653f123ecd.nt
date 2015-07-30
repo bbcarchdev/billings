@@ -1,0 +1,27 @@
+<http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd#version> .
+<http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd#episode> <http://www.w3.org/2000/01/rdf-schema#label> "BOOKtalk"@en-gb .
+<http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ktrbc#programme> .
+<http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd.nt> .
+<http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd> <http://purl.org/dc/terms/title> "Information about the broadcast 'BOOKtalk'"@en-gb .
+<http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/06b043b759c94ea5aa131b653f123ecd/player> .
+<http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ktpxy#p003xxsd> .
+<http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;e72c~20090808T214500Z--PT0H15M0S> .
+<http://devapi.bbcredux.com/06b043b759c94ea5aa131b653f123ecd/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ktpxy#programme> .
+<http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd#id> <http://purl.org/ontology/po/schedule_date> "2009-08-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd#version> .
+<http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/06b043b759c94ea5aa131b653f123ecd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/06b043b759c94ea5aa131b653f123ecd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd#id> <http://www.w3.org/2000/01/rdf-schema#label> "BOOKtalk"@en-gb .
+<http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd#id> .
+<http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00ktrbc> .
+<http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/06b043b759c94ea5aa131b653f123ecd/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/06b043b759c94ea5aa131b653f123ecd#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'BOOKtalk'"@en-gb .

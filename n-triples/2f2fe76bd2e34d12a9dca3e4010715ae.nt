@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Family Guy'"@en-gb .
+<http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b000xd0y#p00610pn> .
+<http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;fdac1~20100123T231500Z--PT0H25M0S> .
+<http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae#version> .
+<http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4J5ET4> .
+<http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008s2jv#programme> .
+<http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b008s2jv> .
+<http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Family Guy"@en-gb .
+<http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae#version> .
+<http://devapi.bbcredux.com/2f2fe76bd2e34d12a9dca3e4010715ae/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/2f2fe76bd2e34d12a9dca3e4010715ae/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae#id> .
+<http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae.nt> .
+<http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/2f2fe76bd2e34d12a9dca3e4010715ae/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/2f2fe76bd2e34d12a9dca3e4010715ae/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae#id> <http://www.w3.org/2000/01/rdf-schema#label> "Family Guy"@en-gb .
+<http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b000xd0y#programme> .
+<http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae#id> <http://purl.org/ontology/po/schedule_date> "2010-01-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/2f2fe76bd2e34d12a9dca3e4010715ae/player> .
+<http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/2f2fe76bd2e34d12a9dca3e4010715ae> <http://purl.org/dc/terms/title> "Information about the broadcast 'Family Guy'"@en-gb .

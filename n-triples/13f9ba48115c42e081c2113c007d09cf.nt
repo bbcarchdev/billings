@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00l7r9j> .
+<http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Crude Britannia: The Story of..."@en-gb .
+<http://devapi.bbcredux.com/13f9ba48115c42e081c2113c007d09cf/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23UXG7> .
+<http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00l7r9j#programme> .
+<http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf> <http://purl.org/dc/terms/title> "Information about the broadcast 'Crude Britannia: The Story of...'"@en-gb .
+<http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf#version> .
+<http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00l7r85#programme> .
+<http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00l7r85#p003dxr8> .
+<http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..41c0;b4e5~20090621T024000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf.nt> .
+<http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/13f9ba48115c42e081c2113c007d09cf/player> .
+<http://devapi.bbcredux.com/13f9ba48115c42e081c2113c007d09cf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/13f9ba48115c42e081c2113c007d09cf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf#id> <http://www.w3.org/2000/01/rdf-schema#label> "Crude Britannia: The Story of..."@en-gb .
+<http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf#id> <http://purl.org/ontology/po/schedule_date> "2009-06-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/13f9ba48115c42e081c2113c007d09cf/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf#id> .
+<http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf#version> .
+<http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Crude Britannia: The Story of...'"@en-gb .
+<http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/13f9ba48115c42e081c2113c007d09cf.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .

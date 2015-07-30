@@ -1,0 +1,27 @@
+<http://devapi.bbcredux.com/a061c25b36ac470e86968c937fa2bf4f/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f.nt> .
+<http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f#id> <http://www.w3.org/2000/01/rdf-schema#label> "Who Framed Roger Rabbit"@en-gb .
+<http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b000mb1p#programme> .
+<http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007btk6#programme> .
+<http://devapi.bbcredux.com/a061c25b36ac470e86968c937fa2bf4f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/a061c25b36ac470e86968c937fa2bf4f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f#version> .
+<http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f> <http://purl.org/dc/terms/title> "Information about the broadcast 'Who Framed Roger Rabbit'"@en-gb .
+<http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/a061c25b36ac470e86968c937fa2bf4f/player> .
+<http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b007btk6> .
+<http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f#id> <http://purl.org/ontology/po/schedule_date> "2010-12-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b000mb1p#p00cq4vs> .
+<http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4f58c~20101226T094500Z--PT1H35M0S> .
+<http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/a061c25b36ac470e86968c937fa2bf4f/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f#id> .
+<http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f#version> .
+<http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Who Framed Roger Rabbit'"@en-gb .
+<http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Who Framed Roger Rabbit"@en-gb .
+<http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/a061c25b36ac470e86968c937fa2bf4f#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .

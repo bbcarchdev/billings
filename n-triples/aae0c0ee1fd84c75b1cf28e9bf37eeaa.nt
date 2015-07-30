@@ -1,0 +1,27 @@
+<http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa#version> .
+<http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00q2w34> .
+<http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa#version> .
+<http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa#id> <http://purl.org/ontology/po/schedule_date> "2010-01-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/aae0c0ee1fd84c75b1cf28e9bf37eeaa/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa#id> <http://www.w3.org/2000/01/rdf-schema#label> "BBC News"@en-gb .
+<http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa#episode> <http://www.w3.org/2000/01/rdf-schema#label> "BBC News"@en-gb .
+<http://devapi.bbcredux.com/aae0c0ee1fd84c75b1cf28e9bf37eeaa/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa> <http://purl.org/dc/terms/title> "Information about the broadcast 'BBC News'"@en-gb .
+<http://devapi.bbcredux.com/aae0c0ee1fd84c75b1cf28e9bf37eeaa/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/aae0c0ee1fd84c75b1cf28e9bf37eeaa/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00q2w10#p005zn4r> .
+<http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;4a3b7~20100121T035000Z--PT2H10M0S> .
+<http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa.nt> .
+<http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00q2w10#programme> .
+<http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00q2w34#programme> .
+<http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/aae0c0ee1fd84c75b1cf28e9bf37eeaa/player> .
+<http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa#id> .
+<http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'BBC News'"@en-gb .
+<http://billings.acropolis.org.uk/aae0c0ee1fd84c75b1cf28e9bf37eeaa#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .

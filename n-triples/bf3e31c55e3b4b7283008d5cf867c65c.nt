@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c> <http://purl.org/dc/terms/title> "Information about the broadcast 'Pitt and Kantrop'"@en-gb .
+<http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b005zbr6#p0002yq7> .
+<http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4423a~20071019T060000Z--PT0H25M0S> .
+<http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIGKI> .
+<http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0079bqf#programme> .
+<http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/bf3e31c55e3b4b7283008d5cf867c65c/player> .
+<http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c#version> .
+<http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c#version> .
+<http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c.nt> .
+<http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b005zbr6#programme> .
+<http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c#id> <http://www.w3.org/2000/01/rdf-schema#label> "Pitt and Kantrop"@en-gb .
+<http://devapi.bbcredux.com/bf3e31c55e3b4b7283008d5cf867c65c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/bf3e31c55e3b4b7283008d5cf867c65c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c#id> .
+<http://devapi.bbcredux.com/bf3e31c55e3b4b7283008d5cf867c65c/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0079bqf> .
+<http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c#id> <http://purl.org/ontology/po/schedule_date> "2007-10-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Pitt and Kantrop'"@en-gb .
+<http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Pitt and Kantrop"@en-gb .
+<http://billings.acropolis.org.uk/bf3e31c55e3b4b7283008d5cf867c65c#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/bf3e31c55e3b4b7283008d5cf867c65c/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

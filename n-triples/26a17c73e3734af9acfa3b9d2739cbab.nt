@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab#version> .
+<http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab#id> .
+<http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Honey, We're Killing the Kids'"@en-gb .
+<http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007wjnl#p0007cs1> .
+<http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;f62d7~20070813T200000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Honey, We're Killing the Kids"@en-gb .
+<http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab> <http://purl.org/dc/terms/title> "Information about the broadcast 'Honey, We're Killing the Kids'"@en-gb .
+<http://devapi.bbcredux.com/26a17c73e3734af9acfa3b9d2739cbab/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab.nt> .
+<http://devapi.bbcredux.com/26a17c73e3734af9acfa3b9d2739cbab/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/26a17c73e3734af9acfa3b9d2739cbab/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab#id> <http://purl.org/ontology/po/schedule_date> "2007-08-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab#id> <http://www.w3.org/2000/01/rdf-schema#label> "Honey, We're Killing the Kids"@en-gb .
+<http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab#version> .
+<http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b007wjqn> .
+<http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/26a17c73e3734af9acfa3b9d2739cbab/player> .
+<http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007wjnl#programme> .
+<http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4RHDM8> .
+<http://billings.acropolis.org.uk/26a17c73e3734af9acfa3b9d2739cbab#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007wjqn#programme> .
+<http://devapi.bbcredux.com/26a17c73e3734af9acfa3b9d2739cbab/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

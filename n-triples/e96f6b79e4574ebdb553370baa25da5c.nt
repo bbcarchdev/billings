@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c> <http://purl.org/dc/terms/title> "Information about the broadcast 'Animal 24:7'"@en-gb .
+<http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c.nt> .
+<http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c#version> .
+<http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Animal 24:7'"@en-gb .
+<http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0081r7s#programme> .
+<http://devapi.bbcredux.com/e96f6b79e4574ebdb553370baa25da5c/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/e96f6b79e4574ebdb553370baa25da5c/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c#id> <http://www.w3.org/2000/01/rdf-schema#label> "Animal 24:7"@en-gb .
+<http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Animal 24:7"@en-gb .
+<http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c#id> .
+<http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/35W4QT> .
+<http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0081r8h#programme> .
+<http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0081r8h> .
+<http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/e96f6b79e4574ebdb553370baa25da5c/player> .
+<http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0081r7s#p001rgjx> .
+<http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;432ed~20081223T091500Z--PT0H45M0S> .
+<http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c#id> <http://purl.org/ontology/po/schedule_date> "2008-12-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/e96f6b79e4574ebdb553370baa25da5c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/e96f6b79e4574ebdb553370baa25da5c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/e96f6b79e4574ebdb553370baa25da5c#version> .

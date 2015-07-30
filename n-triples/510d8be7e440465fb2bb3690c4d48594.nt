@@ -1,0 +1,27 @@
+<http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594#id> <http://purl.org/ontology/po/schedule_date> "2008-06-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Lords - The Lisbon Treaty'"@en-gb .
+<http://devapi.bbcredux.com/510d8be7e440465fb2bb3690c4d48594/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/510d8be7e440465fb2bb3690c4d48594/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Lords - The Lisbon Treaty"@en-gb .
+<http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/510d8be7e440465fb2bb3690c4d48594/player> .
+<http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00c7h1t#p000jrcq> .
+<http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;98ae~20080619T173000Z--PT3H15M0S> .
+<http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594#version> .
+<http://devapi.bbcredux.com/510d8be7e440465fb2bb3690c4d48594/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00c7h1y#programme> .
+<http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594> <http://purl.org/dc/terms/title> "Information about the broadcast 'Lords - The Lisbon Treaty'"@en-gb .
+<http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594#version> .
+<http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594#id> <http://www.w3.org/2000/01/rdf-schema#label> "Lords - The Lisbon Treaty"@en-gb .
+<http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00c7h1t#programme> .
+<http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00c7h1y> .
+<http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594#id> .
+<http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594.nt> .
+<http://billings.acropolis.org.uk/510d8be7e440465fb2bb3690c4d48594#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/510d8be7e440465fb2bb3690c4d48594/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

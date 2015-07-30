@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00crqq4> .
+<http://devapi.bbcredux.com/2c8e4234005e4a1d8a69092fdff0cccb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Flintstones'"@en-gb .
+<http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb#version> .
+<http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb#version> .
+<http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb#id> .
+<http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb#id> <http://purl.org/ontology/po/schedule_date> "2010-05-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b000y1xh#programme> .
+<http://devapi.bbcredux.com/2c8e4234005e4a1d8a69092fdff0cccb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/2c8e4234005e4a1d8a69092fdff0cccb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Flintstones"@en-gb .
+<http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b000y1xh#p007pd6x> .
+<http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4c6a5~20100511T100500Z--PT0H25M0S> .
+<http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/2c8e4234005e4a1d8a69092fdff0cccb/player> .
+<http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Flintstones'"@en-gb .
+<http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4J4TNZ> .
+<http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00crqq4#programme> .
+<http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb.nt> .
+<http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Flintstones"@en-gb .
+<http://billings.acropolis.org.uk/2c8e4234005e4a1d8a69092fdff0cccb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://devapi.bbcredux.com/2c8e4234005e4a1d8a69092fdff0cccb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

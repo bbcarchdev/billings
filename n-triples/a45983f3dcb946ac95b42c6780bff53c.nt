@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c#id> .
+<http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00njzhg#programme> .
+<http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c#version> .
+<http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SVYZX> .
+<http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00nk0f4#programme> .
+<http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c#id> <http://www.w3.org/2000/01/rdf-schema#label> "I Can Cook"@en-gb .
+<http://devapi.bbcredux.com/a45983f3dcb946ac95b42c6780bff53c/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c.nt> .
+<http://devapi.bbcredux.com/a45983f3dcb946ac95b42c6780bff53c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/a45983f3dcb946ac95b42c6780bff53c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'I Can Cook'"@en-gb .
+<http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c#version> .
+<http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/a45983f3dcb946ac95b42c6780bff53c/player> .
+<http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c#episode> <http://www.w3.org/2000/01/rdf-schema#label> "I Can Cook"@en-gb .
+<http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c#id> <http://purl.org/ontology/po/schedule_date> "2010-05-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00nk0f4> .
+<http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00njzhg#p007zqrt> .
+<http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;f395~20100529T090000Z--PT0H25M0S> .
+<http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c> <http://purl.org/dc/terms/title> "Information about the broadcast 'I Can Cook'"@en-gb .
+<http://billings.acropolis.org.uk/a45983f3dcb946ac95b42c6780bff53c.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/a45983f3dcb946ac95b42c6780bff53c/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

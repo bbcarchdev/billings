@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d#id> .
+<http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/98e205a939d54ac8a42d9e12d358d09d/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d.nt> .
+<http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d#version> .
+<http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00vtwc6#programme> .
+<http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00vtwg5> .
+<http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d> <http://purl.org/dc/terms/title> "Information about the broadcast 'Deadly 60 Bite Size'"@en-gb .
+<http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00vtwc6#p00btv8s> .
+<http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..123f;fb1f6~20101028T060500Z--PT0H5M0S> .
+<http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d#version> .
+<http://devapi.bbcredux.com/98e205a939d54ac8a42d9e12d358d09d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/98e205a939d54ac8a42d9e12d358d09d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/98e205a939d54ac8a42d9e12d358d09d/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d#id> <http://www.w3.org/2000/01/rdf-schema#label> "Deadly 60 Bite Size"@en-gb .
+<http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/98e205a939d54ac8a42d9e12d358d09d/player> .
+<http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d#id> <http://purl.org/ontology/po/schedule_date> "2010-10-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Deadly 60 Bite Size'"@en-gb .
+<http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/T2Q7A> .
+<http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00vtwg5#programme> .
+<http://billings.acropolis.org.uk/98e205a939d54ac8a42d9e12d358d09d#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Deadly 60 Bite Size"@en-gb .

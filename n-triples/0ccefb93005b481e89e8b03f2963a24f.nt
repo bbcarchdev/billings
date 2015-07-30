@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/0ccefb93005b481e89e8b03f2963a24f/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/0ccefb93005b481e89e8b03f2963a24f/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00qpl7y> .
+<http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f> <http://purl.org/dc/terms/title> "Information about the broadcast 'Mad Men'"@en-gb .
+<http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f.nt> .
+<http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f#id> <http://www.w3.org/2000/01/rdf-schema#label> "Mad Men"@en-gb .
+<http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f#id> .
+<http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f#version> .
+<http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f#id> <http://purl.org/ontology/po/schedule_date> "2010-03-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00qm8dv#programme> .
+<http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Mad Men'"@en-gb .
+<http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00qm8dv#p006kx0m> .
+<http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4df6d~20100302T232000Z--PT0H50M0S> .
+<http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f#version> .
+<http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/0ccefb93005b481e89e8b03f2963a24f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/0ccefb93005b481e89e8b03f2963a24f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/0ccefb93005b481e89e8b03f2963a24f/player> .
+<http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Mad Men"@en-gb .
+<http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4J62FS> .
+<http://billings.acropolis.org.uk/0ccefb93005b481e89e8b03f2963a24f#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00qpl7y#programme> .

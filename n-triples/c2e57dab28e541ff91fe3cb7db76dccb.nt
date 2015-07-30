@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Roly Mo Show"@en-gb .
+<http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/c2e57dab28e541ff91fe3cb7db76dccb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb#version> .
+<http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/c2e57dab28e541ff91fe3cb7db76dccb/player> .
+<http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b005slmv#programme> .
+<http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb.nt> .
+<http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb#version> .
+<http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb#id> <http://purl.org/ontology/po/schedule_date> "2007-07-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b005slmv#p0002ptq> .
+<http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;39fe~20070707T064500Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Roly Mo Show"@en-gb .
+<http://devapi.bbcredux.com/c2e57dab28e541ff91fe3cb7db76dccb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/c2e57dab28e541ff91fe3cb7db76dccb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/c2e57dab28e541ff91fe3cb7db76dccb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Roly Mo Show'"@en-gb .
+<http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4CBP4D> .
+<http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0078vyr#programme> .
+<http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Roly Mo Show'"@en-gb .
+<http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0078vyr> .
+<http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/c2e57dab28e541ff91fe3cb7db76dccb#id> .

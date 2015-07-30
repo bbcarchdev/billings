@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Health Questions"@en-gb .
+<http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c#version> .
+<http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c#id> <http://purl.org/ontology/po/schedule_date> "2010-09-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00tr65h#p009qm8n> .
+<http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;9e12~20100908T000000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c#version> .
+<http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00tr65h#programme> .
+<http://devapi.bbcredux.com/63e4f0acb031498c9e52d6a6154f121c/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c> <http://purl.org/dc/terms/title> "Information about the broadcast 'Health Questions'"@en-gb .
+<http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/E5O42> .
+<http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00tr6kg#programme> .
+<http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00tr6kg> .
+<http://devapi.bbcredux.com/63e4f0acb031498c9e52d6a6154f121c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/63e4f0acb031498c9e52d6a6154f121c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c#id> <http://www.w3.org/2000/01/rdf-schema#label> "Health Questions"@en-gb .
+<http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/63e4f0acb031498c9e52d6a6154f121c/player> .
+<http://devapi.bbcredux.com/63e4f0acb031498c9e52d6a6154f121c/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c#id> .
+<http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c.nt> .
+<http://billings.acropolis.org.uk/63e4f0acb031498c9e52d6a6154f121c#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Health Questions'"@en-gb .

@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Pingu Show'"@en-gb .
+<http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b#id> .
+<http://devapi.bbcredux.com/905089194c6745b4ae98da888377716b/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/905089194c6745b4ae98da888377716b/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Pingu Show"@en-gb .
+<http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b#id> <http://purl.org/ontology/po/schedule_date> "2010-11-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SII4P> .
+<http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008pbkv#programme> .
+<http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b#version> .
+<http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b.nt> .
+<http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008pbg1#programme> .
+<http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Pingu Show'"@en-gb .
+<http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/905089194c6745b4ae98da888377716b/player> .
+<http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Pingu Show"@en-gb .
+<http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b#version> .
+<http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008pbg1#p00bygv0> .
+<http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4b222~20101110T060000Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/905089194c6745b4ae98da888377716b#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b008pbkv> .
+<http://devapi.bbcredux.com/905089194c6745b4ae98da888377716b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/905089194c6745b4ae98da888377716b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .

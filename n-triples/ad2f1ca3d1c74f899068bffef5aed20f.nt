@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Finley the Fire Engine"@en-gb .
+<http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b009365c> .
+<http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SII20> .
+<http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b009365c#programme> .
+<http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f#id> .
+<http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f#id> <http://purl.org/ontology/po/schedule_date> "2008-02-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f#id> <http://www.w3.org/2000/01/rdf-schema#label> "Finley the Fire Engine"@en-gb .
+<http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f#version> .
+<http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Finley the Fire Engine'"@en-gb .
+<http://devapi.bbcredux.com/ad2f1ca3d1c74f899068bffef5aed20f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/ad2f1ca3d1c74f899068bffef5aed20f/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f.nt> .
+<http://devapi.bbcredux.com/ad2f1ca3d1c74f899068bffef5aed20f/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f> <http://purl.org/dc/terms/title> "Information about the broadcast 'Finley the Fire Engine'"@en-gb .
+<http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f#version> .
+<http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b009364n#p000fbpz> .
+<http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;6a20~20080225T164500Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/ad2f1ca3d1c74f899068bffef5aed20f/player> .
+<http://billings.acropolis.org.uk/ad2f1ca3d1c74f899068bffef5aed20f#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b009364n#programme> .
+<http://devapi.bbcredux.com/ad2f1ca3d1c74f899068bffef5aed20f/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

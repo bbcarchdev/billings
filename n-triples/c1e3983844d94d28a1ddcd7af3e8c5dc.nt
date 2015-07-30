@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00cvkzn#programme> .
+<http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Mayor's Question Time'"@en-gb .
+<http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/ACRQ0O> .
+<http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00cvkzq#programme> .
+<http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc#version> .
+<http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00cvkzn#p000l3c4> .
+<http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;b16a~20080913T053500Z--PT2H45M0S> .
+<http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc> <http://purl.org/dc/terms/title> "Information about the broadcast 'Mayor's Question Time'"@en-gb .
+<http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/c1e3983844d94d28a1ddcd7af3e8c5dc/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/c1e3983844d94d28a1ddcd7af3e8c5dc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/c1e3983844d94d28a1ddcd7af3e8c5dc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc#id> .
+<http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Mayor's Question Time"@en-gb .
+<http://devapi.bbcredux.com/c1e3983844d94d28a1ddcd7af3e8c5dc/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc.nt> .
+<http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/c1e3983844d94d28a1ddcd7af3e8c5dc/player> .
+<http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00cvkzq> .
+<http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc#id> <http://purl.org/ontology/po/schedule_date> "2008-09-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc#version> .
+<http://billings.acropolis.org.uk/c1e3983844d94d28a1ddcd7af3e8c5dc#id> <http://www.w3.org/2000/01/rdf-schema#label> "Mayor's Question Time"@en-gb .

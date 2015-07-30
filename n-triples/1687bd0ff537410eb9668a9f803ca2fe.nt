@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe#version> .
+<http://devapi.bbcredux.com/1687bd0ff537410eb9668a9f803ca2fe/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/1687bd0ff537410eb9668a9f803ca2fe/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/1687bd0ff537410eb9668a9f803ca2fe/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Boxing: World Championships..."@en-gb .
+<http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe#version> .
+<http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00mqlwy#programme> .
+<http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe> <http://purl.org/dc/terms/title> "Information about the broadcast 'Boxing: World Championships...'"@en-gb .
+<http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe#id> <http://purl.org/ontology/po/schedule_date> "2009-09-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe.nt> .
+<http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/1687bd0ff537410eb9668a9f803ca2fe/player> .
+<http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Boxing: World Championships...'"@en-gb .
+<http://devapi.bbcredux.com/1687bd0ff537410eb9668a9f803ca2fe/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00mqlzj> .
+<http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe#id> <http://www.w3.org/2000/01/rdf-schema#label> "Boxing: World Championships..."@en-gb .
+<http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00mqlwy#p0049nrx> .
+<http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4fb9e~20090913T140000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/7A34P4> .
+<http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00mqlzj#programme> .
+<http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe#id> .
+<http://billings.acropolis.org.uk/1687bd0ff537410eb9668a9f803ca2fe#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .

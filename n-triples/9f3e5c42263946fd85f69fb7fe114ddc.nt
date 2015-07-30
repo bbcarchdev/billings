@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/9f3e5c42263946fd85f69fb7fe114ddc/player> .
+<http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc#version> .
+<http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0066ylg#p0003b9v> .
+<http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;d7c6~20081105T095000Z--PT0H25M0S> .
+<http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc#id> <http://purl.org/ontology/po/schedule_date> "2008-11-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/9f3e5c42263946fd85f69fb7fe114ddc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/9f3e5c42263946fd85f69fb7fe114ddc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Doodle Do"@en-gb .
+<http://devapi.bbcredux.com/9f3e5c42263946fd85f69fb7fe114ddc/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4CDJXQ> .
+<http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0079668#programme> .
+<http://devapi.bbcredux.com/9f3e5c42263946fd85f69fb7fe114ddc/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc#id> .
+<http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0066ylg#programme> .
+<http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Doodle Do'"@en-gb .
+<http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc#version> .
+<http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc> <http://purl.org/dc/terms/title> "Information about the broadcast 'Doodle Do'"@en-gb .
+<http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc.nt> .
+<http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0079668> .
+<http://billings.acropolis.org.uk/9f3e5c42263946fd85f69fb7fe114ddc#id> <http://www.w3.org/2000/01/rdf-schema#label> "Doodle Do"@en-gb .

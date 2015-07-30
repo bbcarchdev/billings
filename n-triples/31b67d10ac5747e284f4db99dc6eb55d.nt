@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Daily Politics Election Debate"@en-gb .
+<http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d#version> .
+<http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d#id> <http://purl.org/ontology/po/schedule_date> "2010-04-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/5AHKR1> .
+<http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00s78dc#programme> .
+<http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Daily Politics Election Debate"@en-gb .
+<http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00s78dc> .
+<http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d#id> .
+<http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/31b67d10ac5747e284f4db99dc6eb55d/player> .
+<http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Daily Politics Election Debate'"@en-gb .
+<http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00s781v#programme> .
+<http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Daily Politics Election Debate'"@en-gb .
+<http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d#version> .
+<http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d.nt> .
+<http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://devapi.bbcredux.com/31b67d10ac5747e284f4db99dc6eb55d/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/31b67d10ac5747e284f4db99dc6eb55d/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00s781v#p007ftxb> .
+<http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4b7e3~20100427T131500Z--PT0H45M0S> .
+<http://billings.acropolis.org.uk/31b67d10ac5747e284f4db99dc6eb55d#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/31b67d10ac5747e284f4db99dc6eb55d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/31b67d10ac5747e284f4db99dc6eb55d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .

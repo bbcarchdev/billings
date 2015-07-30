@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b#version> .
+<http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b#episode> <http://www.w3.org/2000/01/rdf-schema#label> "La La Land"@en-gb .
+<http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b#version> .
+<http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b#id> .
+<http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00sdcxs#programme> .
+<http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b> <http://purl.org/dc/terms/title> "Information about the broadcast 'La La Land'"@en-gb .
+<http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b.nt> .
+<http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/464a0be51ebb4bdca5b27d5401063b9b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/464a0be51ebb4bdca5b27d5401063b9b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/464a0be51ebb4bdca5b27d5401063b9b/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b#id> <http://www.w3.org/2000/01/rdf-schema#label> "La La Land"@en-gb .
+<http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00sdcy1> .
+<http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'La La Land'"@en-gb .
+<http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b#id> <http://purl.org/ontology/po/schedule_date> "2010-05-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00sdcxs#p007pd7z> .
+<http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;fe7b5~20100511T213000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/464a0be51ebb4bdca5b27d5401063b9b/player> .
+<http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4J62L1> .
+<http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00sdcy1#programme> .
+<http://devapi.bbcredux.com/464a0be51ebb4bdca5b27d5401063b9b/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/464a0be51ebb4bdca5b27d5401063b9b#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .

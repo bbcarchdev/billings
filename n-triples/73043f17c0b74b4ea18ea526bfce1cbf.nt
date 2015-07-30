@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf> <http://purl.org/dc/terms/title> "Information about the broadcast 'Call the Cops'"@en-gb .
+<http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00d4nkh> .
+<http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf.nt> .
+<http://devapi.bbcredux.com/73043f17c0b74b4ea18ea526bfce1cbf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/73043f17c0b74b4ea18ea526bfce1cbf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1RQZPL> .
+<http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00d4nkh#programme> .
+<http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00d4n09#p000lnm0> .
+<http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..41c0;576b~20080825T001500Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Call the Cops"@en-gb .
+<http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/73043f17c0b74b4ea18ea526bfce1cbf/player> .
+<http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf#version> .
+<http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf#id> <http://purl.org/ontology/po/schedule_date> "2008-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/73043f17c0b74b4ea18ea526bfce1cbf/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/73043f17c0b74b4ea18ea526bfce1cbf/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00d4n09#programme> .
+<http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf#version> .
+<http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf#id> .
+<http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Call the Cops'"@en-gb .
+<http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf#id> <http://www.w3.org/2000/01/rdf-schema#label> "Call the Cops"@en-gb .
+<http://billings.acropolis.org.uk/73043f17c0b74b4ea18ea526bfce1cbf#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .

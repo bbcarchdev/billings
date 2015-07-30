@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf#version> .
+<http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1FN5BL> .
+<http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ndr4m#programme> .
+<http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Well"@en-gb .
+<http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ndmtb#p004m885> .
+<http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4a056~20091010T121500Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00ndmtb#programme> .
+<http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Well'"@en-gb .
+<http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00ndr4m> .
+<http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf.nt> .
+<http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf#id> .
+<http://devapi.bbcredux.com/d53c123f3aa94441bcbb66847fc7eccf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/d53c123f3aa94441bcbb66847fc7eccf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf#id> <http://purl.org/ontology/po/schedule_date> "2009-10-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/d53c123f3aa94441bcbb66847fc7eccf/player> .
+<http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Well'"@en-gb .
+<http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Well"@en-gb .
+<http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf#version> .
+<http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/d53c123f3aa94441bcbb66847fc7eccf#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/d53c123f3aa94441bcbb66847fc7eccf/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://devapi.bbcredux.com/d53c123f3aa94441bcbb66847fc7eccf/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

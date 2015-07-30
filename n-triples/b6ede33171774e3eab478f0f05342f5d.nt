@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/b6ede33171774e3eab478f0f05342f5d/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d#version> .
+<http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fb9c6#programme> .
+<http://devapi.bbcredux.com/b6ede33171774e3eab478f0f05342f5d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/b6ede33171774e3eab478f0f05342f5d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d#id> <http://purl.org/ontology/po/schedule_date> "2008-10-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d.nt> .
+<http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00fb9c6#p000p4qc> .
+<http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;415ad~20081028T035500Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4D2CN3> .
+<http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00f3pnj#programme> .
+<http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d#id> <http://www.w3.org/2000/01/rdf-schema#label> "Silent Witness"@en-gb .
+<http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d> <http://purl.org/dc/terms/title> "Information about the broadcast 'Silent Witness'"@en-gb .
+<http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d#id> .
+<http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/b6ede33171774e3eab478f0f05342f5d/player> .
+<http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00f3pnj> .
+<http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Silent Witness"@en-gb .
+<http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d#version> .
+<http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Silent Witness'"@en-gb .
+<http://billings.acropolis.org.uk/b6ede33171774e3eab478f0f05342f5d#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/b6ede33171774e3eab478f0f05342f5d/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Bill and Ben'"@en-gb .
+<http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc#version> .
+<http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/5b5616efdf9f43dfba6b17bab425cfdc/player> .
+<http://devapi.bbcredux.com/5b5616efdf9f43dfba6b17bab425cfdc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/5b5616efdf9f43dfba6b17bab425cfdc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b001jh65#p0001fkw> .
+<http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;4c7b~20080812T102500Z--PT0H10M0S> .
+<http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc> <http://purl.org/dc/terms/title> "Information about the broadcast 'Bill and Ben'"@en-gb .
+<http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Bill and Ben"@en-gb .
+<http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00788lq> .
+<http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc#id> <http://www.w3.org/2000/01/rdf-schema#label> "Bill and Ben"@en-gb .
+<http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc#id> .
+<http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc#version> .
+<http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc.nt> .
+<http://devapi.bbcredux.com/5b5616efdf9f43dfba6b17bab425cfdc/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/5b5616efdf9f43dfba6b17bab425cfdc/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b001jh65#programme> .
+<http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc#id> <http://purl.org/ontology/po/schedule_date> "2008-08-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4BAIM1> .
+<http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00788lq#programme> .
+<http://billings.acropolis.org.uk/5b5616efdf9f43dfba6b17bab425cfdc.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .

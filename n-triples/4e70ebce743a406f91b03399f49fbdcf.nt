@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Richard Hammond Meets Evel Knievel"@en-gb .
+<http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf#version> .
+<http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b008l30z> .
+<http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf#id> <http://www.w3.org/2000/01/rdf-schema#label> "Richard Hammond Meets Evel Knievel"@en-gb .
+<http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/4e70ebce743a406f91b03399f49fbdcf/player> .
+<http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf.nt> .
+<http://devapi.bbcredux.com/4e70ebce743a406f91b03399f49fbdcf/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/4e70ebce743a406f91b03399f49fbdcf/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Richard Hammond Meets Evel Knievel'"@en-gb .
+<http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf#id> <http://purl.org/ontology/po/schedule_date> "2008-07-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf#id> .
+<http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/4e70ebce743a406f91b03399f49fbdcf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/4e70ebce743a406f91b03399f49fbdcf/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf#version> .
+<http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/35W57E> .
+<http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008l30z#programme> .
+<http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008l2zx#programme> .
+<http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf> <http://purl.org/dc/terms/title> "Information about the broadcast 'Richard Hammond Meets Evel Knievel'"@en-gb .
+<http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008l2zx#p000cnhm> .
+<http://billings.acropolis.org.uk/4e70ebce743a406f91b03399f49fbdcf#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;42add~20080708T200000Z--PT1H0M0S> .

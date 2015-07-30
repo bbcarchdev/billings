@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/99f95022cab84e0ca9bf1de5fab4d80b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/99f95022cab84e0ca9bf1de5fab4d80b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008y70t#programme> .
+<http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008y70t#p000dn29> .
+<http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;45752~20080208T133000Z--PT3H45M0S> .
+<http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b> <http://purl.org/dc/terms/title> "Information about the broadcast 'Tennis: Davis Cup'"@en-gb .
+<http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b.nt> .
+<http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/99f95022cab84e0ca9bf1de5fab4d80b/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/99f95022cab84e0ca9bf1de5fab4d80b/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b#id> <http://purl.org/ontology/po/schedule_date> "2008-02-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Tennis: Davis Cup"@en-gb .
+<http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b008y727> .
+<http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b#version> .
+<http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b#id> <http://www.w3.org/2000/01/rdf-schema#label> "Tennis: Davis Cup"@en-gb .
+<http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b#id> .
+<http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b#version> .
+<http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/99f95022cab84e0ca9bf1de5fab4d80b/player> .
+<http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4KS8R3> .
+<http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008y727#programme> .
+<http://billings.acropolis.org.uk/99f95022cab84e0ca9bf1de5fab4d80b#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Tennis: Davis Cup'"@en-gb .

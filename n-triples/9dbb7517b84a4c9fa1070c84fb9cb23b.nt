@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b#version> .
+<http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00vz4y7#p00bvrxn> .
+<http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4a9dc~20101106T090000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Live 'n' Deadly'"@en-gb .
+<http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/9dbb7517b84a4c9fa1070c84fb9cb23b/player> .
+<http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00vz4y7#programme> .
+<http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/9dbb7517b84a4c9fa1070c84fb9cb23b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/9dbb7517b84a4c9fa1070c84fb9cb23b/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b#version> .
+<http://devapi.bbcredux.com/9dbb7517b84a4c9fa1070c84fb9cb23b/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/9dbb7517b84a4c9fa1070c84fb9cb23b/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b#id> .
+<http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b#id> <http://www.w3.org/2000/01/rdf-schema#label> "Live 'n' Deadly"@en-gb .
+<http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b#id> <http://purl.org/ontology/po/schedule_date> "2010-11-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/T2Q61> .
+<http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00vz5bz#programme> .
+<http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b.nt> .
+<http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00vz5bz> .
+<http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Live 'n' Deadly"@en-gb .
+<http://billings.acropolis.org.uk/9dbb7517b84a4c9fa1070c84fb9cb23b> <http://purl.org/dc/terms/title> "Information about the broadcast 'Live 'n' Deadly'"@en-gb .

@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Legend of Dick and Dom"@en-gb .
+<http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Legend of Dick and Dom"@en-gb .
+<http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Legend of Dick and Dom'"@en-gb .
+<http://devapi.bbcredux.com/b1a76b69b14d4b6b9c6fd3913dc164df/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/b1a76b69b14d4b6b9c6fd3913dc164df/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SQ0S0> .
+<http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00jcgw2#programme> .
+<http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00jcgv3#p0045hqy> .
+<http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4ecdc~20090901T073000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df.nt> .
+<http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00jcgv3#programme> .
+<http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Legend of Dick and Dom'"@en-gb .
+<http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df#id> .
+<http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df#version> .
+<http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00jcgw2> .
+<http://devapi.bbcredux.com/b1a76b69b14d4b6b9c6fd3913dc164df/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/b1a76b69b14d4b6b9c6fd3913dc164df/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df#id> <http://purl.org/ontology/po/schedule_date> "2009-09-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/b1a76b69b14d4b6b9c6fd3913dc164df/player> .
+<http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df#version> .
+<http://billings.acropolis.org.uk/b1a76b69b14d4b6b9c6fd3913dc164df#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .

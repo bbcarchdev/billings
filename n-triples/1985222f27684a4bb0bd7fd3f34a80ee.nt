@@ -1,0 +1,24 @@
+<http://billings.acropolis.org.uk/1985222f27684a4bb0bd7fd3f34a80ee> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/1985222f27684a4bb0bd7fd3f34a80ee#id> .
+<http://billings.acropolis.org.uk/1985222f27684a4bb0bd7fd3f34a80ee#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/1985222f27684a4bb0bd7fd3f34a80ee#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Barnaby Bear'"@en-gb .
+<http://billings.acropolis.org.uk/1985222f27684a4bb0bd7fd3f34a80ee#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/1985222f27684a4bb0bd7fd3f34a80ee#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;ef3f~20090202T113000Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/1985222f27684a4bb0bd7fd3f34a80ee#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1U59MU> .
+<http://billings.acropolis.org.uk/1985222f27684a4bb0bd7fd3f34a80ee#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/1985222f27684a4bb0bd7fd3f34a80ee#id> <http://purl.org/ontology/po/schedule_date> "2009-02-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/1985222f27684a4bb0bd7fd3f34a80ee#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Barnaby Bear"@en-gb .
+<http://billings.acropolis.org.uk/1985222f27684a4bb0bd7fd3f34a80ee.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/1985222f27684a4bb0bd7fd3f34a80ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/1985222f27684a4bb0bd7fd3f34a80ee/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://devapi.bbcredux.com/1985222f27684a4bb0bd7fd3f34a80ee/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/1985222f27684a4bb0bd7fd3f34a80ee/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/1985222f27684a4bb0bd7fd3f34a80ee> <http://purl.org/dc/terms/title> "Information about the broadcast 'Barnaby Bear'"@en-gb .
+<http://billings.acropolis.org.uk/1985222f27684a4bb0bd7fd3f34a80ee#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/1985222f27684a4bb0bd7fd3f34a80ee/player> .
+<http://billings.acropolis.org.uk/1985222f27684a4bb0bd7fd3f34a80ee.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/1985222f27684a4bb0bd7fd3f34a80ee#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/1985222f27684a4bb0bd7fd3f34a80ee#version> .
+<http://billings.acropolis.org.uk/1985222f27684a4bb0bd7fd3f34a80ee#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/1985222f27684a4bb0bd7fd3f34a80ee> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/1985222f27684a4bb0bd7fd3f34a80ee.nt> .
+<http://devapi.bbcredux.com/1985222f27684a4bb0bd7fd3f34a80ee/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/1985222f27684a4bb0bd7fd3f34a80ee#id> <http://www.w3.org/2000/01/rdf-schema#label> "Barnaby Bear"@en-gb .
+<http://billings.acropolis.org.uk/1985222f27684a4bb0bd7fd3f34a80ee#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/1985222f27684a4bb0bd7fd3f34a80ee#version> .
+<http://billings.acropolis.org.uk/1985222f27684a4bb0bd7fd3f34a80ee.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .

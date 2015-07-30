@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada#version> .
+<http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada#id> <http://purl.org/ontology/po/schedule_date> "2010-02-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00qnz74> .
+<http://devapi.bbcredux.com/71e20f0775644535965194f0291e0ada/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/71e20f0775644535965194f0291e0ada/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/71e20f0775644535965194f0291e0ada/player> .
+<http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00qnz5x#p0067nbq> .
+<http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;fdd10~20100209T034500Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada#version> .
+<http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Being Human"@en-gb .
+<http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada.nt> .
+<http://devapi.bbcredux.com/71e20f0775644535965194f0291e0ada/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada#id> <http://www.w3.org/2000/01/rdf-schema#label> "Being Human"@en-gb .
+<http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada#id> .
+<http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00qnz5x#programme> .
+<http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/1FTWDF> .
+<http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00qnz74#programme> .
+<http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada> <http://purl.org/dc/terms/title> "Information about the broadcast 'Being Human'"@en-gb .
+<http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Being Human'"@en-gb .
+<http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/71e20f0775644535965194f0291e0ada.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/71e20f0775644535965194f0291e0ada/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

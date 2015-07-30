@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/4f58309798ec4d9d80c0f90208b81674/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/4f58309798ec4d9d80c0f90208b81674/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674#version> .
+<http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b008w1dq> .
+<http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4CDYRY> .
+<http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008w1dq#programme> .
+<http://devapi.bbcredux.com/4f58309798ec4d9d80c0f90208b81674/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/4f58309798ec4d9d80c0f90208b81674/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674#id> <http://www.w3.org/2000/01/rdf-schema#label> "Evacuation to the Manor House"@en-gb .
+<http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674#id> .
+<http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008w1bg#programme> .
+<http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b008w1bg#p000dbyp> .
+<http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;4129f~20081021T090000Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674.nt> .
+<http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/4f58309798ec4d9d80c0f90208b81674/player> .
+<http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Evacuation to the Manor House"@en-gb .
+<http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674> <http://purl.org/dc/terms/title> "Information about the broadcast 'Evacuation to the Manor House'"@en-gb .
+<http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674#version> .
+<http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Evacuation to the Manor House'"@en-gb .
+<http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674#id> <http://purl.org/ontology/po/schedule_date> "2008-10-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/4f58309798ec4d9d80c0f90208b81674#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .

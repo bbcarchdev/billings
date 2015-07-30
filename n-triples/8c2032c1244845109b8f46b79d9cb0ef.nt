@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/8c2032c1244845109b8f46b79d9cb0ef/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef#id> <http://purl.org/ontology/po/schedule_date> "2010-11-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Kara Tointon: Don't Call Me Stupid'"@en-gb .
+<http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/8c2032c1244845109b8f46b79d9cb0ef/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/8c2032c1244845109b8f46b79d9cb0ef/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/8c2032c1244845109b8f46b79d9cb0ef/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00vy8bl#programme> .
+<http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00vy8c7> .
+<http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef#version> .
+<http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef#version> .
+<http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef#id> .
+<http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/23V3WP> .
+<http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00vy8c7#programme> .
+<http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef.nt> .
+<http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Kara Tointon: Don't Call Me Stupid"@en-gb .
+<http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/8c2032c1244845109b8f46b79d9cb0ef/player> .
+<http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00vy8bl#p00bz202> .
+<http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;ffce7~20101111T210000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef#id> <http://www.w3.org/2000/01/rdf-schema#label> "Kara Tointon: Don't Call Me Stupid"@en-gb .
+<http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/8c2032c1244845109b8f46b79d9cb0ef> <http://purl.org/dc/terms/title> "Information about the broadcast 'Kara Tointon: Don't Call Me Stupid'"@en-gb .

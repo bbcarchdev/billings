@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb#id> <http://purl.org/ontology/po/schedule_date> "2007-08-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/5416BI> .
+<http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007x5yl#programme> .
+<http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb#id> <http://www.w3.org/2000/01/rdf-schema#label> "India With Sanjeev Bhaskar"@en-gb .
+<http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007ydbz#programme> .
+<http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007ydbz#p00hqh7k> .
+<http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;40669~20070830T003500Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb#version> .
+<http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b007x5yl> .
+<http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb#episode> <http://www.w3.org/2000/01/rdf-schema#label> "India With Sanjeev Bhaskar"@en-gb .
+<http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb> <http://purl.org/dc/terms/title> "Information about the broadcast 'India With Sanjeev Bhaskar'"@en-gb .
+<http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/9b28c235339740019f839c408dd319bb/player> .
+<http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://devapi.bbcredux.com/9b28c235339740019f839c408dd319bb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/9b28c235339740019f839c408dd319bb/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb.nt> .
+<http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'India With Sanjeev Bhaskar'"@en-gb .
+<http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb#id> .
+<http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb#version> .
+<http://billings.acropolis.org.uk/9b28c235339740019f839c408dd319bb#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/9b28c235339740019f839c408dd319bb/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/9b28c235339740019f839c408dd319bb/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .

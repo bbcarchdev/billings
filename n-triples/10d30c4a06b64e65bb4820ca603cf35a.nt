@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a.nt> .
+<http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00hcgr8#p0086lyt> .
+<http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..123f;f949a~20100612T072500Z--PT0H35M0S> .
+<http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a#version> .
+<http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Da Dick and Dom Dairies"@en-gb .
+<http://devapi.bbcredux.com/10d30c4a06b64e65bb4820ca603cf35a/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/10d30c4a06b64e65bb4820ca603cf35a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/10d30c4a06b64e65bb4820ca603cf35a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00hcgts> .
+<http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a#id> <http://www.w3.org/2000/01/rdf-schema#label> "Da Dick and Dom Dairies"@en-gb .
+<http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/10d30c4a06b64e65bb4820ca603cf35a/player> .
+<http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a> <http://purl.org/dc/terms/title> "Information about the broadcast 'Da Dick and Dom Dairies'"@en-gb .
+<http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a#version> .
+<http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SQ0SB> .
+<http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00hcgts#programme> .
+<http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a#id> <http://purl.org/ontology/po/schedule_date> "2010-06-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00hcgr8#programme> .
+<http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Da Dick and Dom Dairies'"@en-gb .
+<http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a#id> .
+<http://devapi.bbcredux.com/10d30c4a06b64e65bb4820ca603cf35a/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/10d30c4a06b64e65bb4820ca603cf35a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .

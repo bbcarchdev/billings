@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd#id> <http://www.w3.org/2000/01/rdf-schema#label> "Cramp Twins"@en-gb .
+<http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd#version> .
+<http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://devapi.bbcredux.com/765892e88f3e43e2a4145ff956c12bdd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/765892e88f3e43e2a4145ff956c12bdd/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd> <http://purl.org/dc/terms/title> "Information about the broadcast 'Cramp Twins'"@en-gb .
+<http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Cramp Twins"@en-gb .
+<http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd#id> <http://purl.org/ontology/po/schedule_date> "2008-07-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b001n1b4#p0001jrr> .
+<http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..123f;f4001~20080730T150000Z--PT0H15M0S> .
+<http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/765892e88f3e43e2a4145ff956c12bdd/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd#id> .
+<http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4BAINE> .
+<http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00797g0#programme> .
+<http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/765892e88f3e43e2a4145ff956c12bdd/player> .
+<http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd#version> .
+<http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b001n1b4#programme> .
+<http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00797g0> .
+<http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Cramp Twins'"@en-gb .
+<http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/765892e88f3e43e2a4145ff956c12bdd.nt> .
+<http://devapi.bbcredux.com/765892e88f3e43e2a4145ff956c12bdd/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

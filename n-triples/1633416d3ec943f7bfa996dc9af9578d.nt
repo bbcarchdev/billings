@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00q3bzl#p007rnk5> .
+<http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;fe750~20100515T234500Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/1633416d3ec943f7bfa996dc9af9578d/player> .
+<http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d#id> .
+<http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/156K6Y> .
+<http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00q3bzs#programme> .
+<http://devapi.bbcredux.com/1633416d3ec943f7bfa996dc9af9578d/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Coming of Age"@en-gb .
+<http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Coming of Age'"@en-gb .
+<http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d#id> <http://purl.org/ontology/po/schedule_date> "2010-05-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d.nt> .
+<http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d#id> <http://www.w3.org/2000/01/rdf-schema#label> "Coming of Age"@en-gb .
+<http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d#version> .
+<http://devapi.bbcredux.com/1633416d3ec943f7bfa996dc9af9578d/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00q3bzs> .
+<http://devapi.bbcredux.com/1633416d3ec943f7bfa996dc9af9578d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/1633416d3ec943f7bfa996dc9af9578d/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d#version> .
+<http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d> <http://purl.org/dc/terms/title> "Information about the broadcast 'Coming of Age'"@en-gb .
+<http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00q3bzl#programme> .
+<http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/1633416d3ec943f7bfa996dc9af9578d.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .

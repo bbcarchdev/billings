@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc> <http://purl.org/dc/terms/title> "Information about the broadcast 'Mad Men'"@en-gb .
+<http://devapi.bbcredux.com/f8d21714e2bb449e96c1162a2e4e0ddc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/f8d21714e2bb449e96c1162a2e4e0ddc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4J5EL8> .
+<http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00b09hw#programme> .
+<http://devapi.bbcredux.com/f8d21714e2bb449e96c1162a2e4e0ddc/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Mad Men"@en-gb .
+<http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc#id> <http://www.w3.org/2000/01/rdf-schema#label> "Mad Men"@en-gb .
+<http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbctwo#id> .
+<http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/f8d21714e2bb449e96c1162a2e4e0ddc/player> .
+<http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc#id> .
+<http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Mad Men'"@en-gb .
+<http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc#version> .
+<http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc#id> <http://purl.org/ontology/po/schedule_date> "2008-04-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc.nt> .
+<http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00b09g1#programme> .
+<http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00b09g1#p000gw4s> .
+<http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1084;44859~20080427T020500Z--PT0H50M0S> .
+<http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc#version> .
+<http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00b09hw> .
+<http://billings.acropolis.org.uk/f8d21714e2bb449e96c1162a2e4e0ddc#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/f8d21714e2bb449e96c1162a2e4e0ddc/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

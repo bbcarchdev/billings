@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Red Sonja"@en-gb .
+<http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a#id> <http://purl.org/ontology/po/schedule_date> "2007-08-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b0074b00> .
+<http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a> <http://purl.org/dc/terms/title> "Information about the broadcast 'Red Sonja'"@en-gb .
+<http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Red Sonja'"@en-gb .
+<http://devapi.bbcredux.com/e83b3000c9c64e3d8f3421301375634a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/e83b3000c9c64e3d8f3421301375634a/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a.nt> .
+<http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a#id> .
+<http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b000n3fb#p0000t6r> .
+<http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..10ff;f06d9~20070829T221500Z--PT1H25M0S> .
+<http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a#version> .
+<http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b000n3fb#programme> .
+<http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a#id> <http://www.w3.org/2000/01/rdf-schema#label> "Red Sonja"@en-gb .
+<http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a#version> .
+<http://devapi.bbcredux.com/e83b3000c9c64e3d8f3421301375634a/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/e83b3000c9c64e3d8f3421301375634a/player> .
+<http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcthree#id> .
+<http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4J43V4> .
+<http://billings.acropolis.org.uk/e83b3000c9c64e3d8f3421301375634a#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0074b00#programme> .
+<http://devapi.bbcredux.com/e83b3000c9c64e3d8f3421301375634a/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

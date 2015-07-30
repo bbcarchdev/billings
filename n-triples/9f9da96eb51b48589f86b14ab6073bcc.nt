@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc#id> <http://purl.org/ontology/po/schedule_date> "2008-03-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://devapi.bbcredux.com/9f9da96eb51b48589f86b14ab6073bcc/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc#version> .
+<http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcone#id> .
+<http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007zq64#programme> .
+<http://devapi.bbcredux.com/9f9da96eb51b48589f86b14ab6073bcc/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc#id> <http://www.w3.org/2000/01/rdf-schema#label> "High School Musical 2"@en-gb .
+<http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b009kfsn> .
+<http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc> <http://purl.org/dc/terms/title> "Information about the broadcast 'High School Musical 2'"@en-gb .
+<http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b007zq64#p00089gl> .
+<http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..1044;41ae6~20080321T160500Z--PT1H45M0S> .
+<http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc#episode> <http://www.w3.org/2000/01/rdf-schema#label> "High School Musical 2"@en-gb .
+<http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc#id> .
+<http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'High School Musical 2'"@en-gb .
+<http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/9f9da96eb51b48589f86b14ab6073bcc/player> .
+<http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4J3ZL0> .
+<http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b009kfsn#programme> .
+<http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/9f9da96eb51b48589f86b14ab6073bcc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/9f9da96eb51b48589f86b14ab6073bcc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc#version> .
+<http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/9f9da96eb51b48589f86b14ab6073bcc.nt> .

@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e#id> <http://www.w3.org/2000/01/rdf-schema#label> "The Jet Stream and Us"@en-gb .
+<http://devapi.bbcredux.com/597d683fde2348e6871429d0c9fff14e/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e.nt> .
+<http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/597d683fde2348e6871429d0c9fff14e/player> .
+<http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'The Jet Stream and Us'"@en-gb .
+<http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e#id> <http://purl.org/ontology/po/schedule_date> "2009-05-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0090990#p003618r> .
+<http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..41c0;b306~20090531T200000Z--PT1H0M0S> .
+<http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/597d683fde2348e6871429d0c9fff14e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/597d683fde2348e6871429d0c9fff14e/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/56LIMJ> .
+<http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00909b0#programme> .
+<http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00909b0> .
+<http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://devapi.bbcredux.com/597d683fde2348e6871429d0c9fff14e/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b0090990#programme> .
+<http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e#id> .
+<http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e#version> .
+<http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e#version> .
+<http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e#episode> <http://www.w3.org/2000/01/rdf-schema#label> "The Jet Stream and Us"@en-gb .
+<http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e> <http://purl.org/dc/terms/title> "Information about the broadcast 'The Jet Stream and Us'"@en-gb .
+<http://billings.acropolis.org.uk/597d683fde2348e6871429d0c9fff14e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .

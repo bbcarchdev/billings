@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00dxldq> .
+<http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/d2ca4c8974e2433aa95628fb2e094f1c/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c> <http://purl.org/dc/terms/title> "Information about the broadcast 'Outback 8'"@en-gb .
+<http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c#version> .
+<http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00mr33l#programme> .
+<http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Outback 8"@en-gb .
+<http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00mr33l#p00489qz> .
+<http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..123f;fd0a2~20090909T093500Z--PT0H25M0S> .
+<http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c.nt> .
+<http://devapi.bbcredux.com/d2ca4c8974e2433aa95628fb2e094f1c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/d2ca4c8974e2433aa95628fb2e094f1c/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c#id> <http://www.w3.org/2000/01/rdf-schema#label> "Outback 8"@en-gb .
+<http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Outback 8'"@en-gb .
+<http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c#id> .
+<http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c#version> .
+<http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/d2ca4c8974e2433aa95628fb2e094f1c/player> .
+<http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c#id> <http://purl.org/ontology/po/schedule_date> "2009-09-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SQ0AT> .
+<http://billings.acropolis.org.uk/d2ca4c8974e2433aa95628fb2e094f1c#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00dxldq#programme> .
+<http://devapi.bbcredux.com/d2ca4c8974e2433aa95628fb2e094f1c/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

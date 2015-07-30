@@ -1,0 +1,28 @@
+<http://devapi.bbcredux.com/0189966ea31d459bba9abf3da4c50500/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00xnl5h#programme> .
+<http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcparl#id> .
+<http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500#version> .
+<http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500> <http://purl.org/dc/terms/title> "Information about the broadcast 'Anthony Howard Tribute'"@en-gb .
+<http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/FRDTW> .
+<http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00xnlqh#programme> .
+<http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/0189966ea31d459bba9abf3da4c50500/player> .
+<http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00xnl5h#p00cxtsk> .
+<http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4280;ac16~20101223T123500Z--PT0H30M0S> .
+<http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500.nt> .
+<http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500#id> .
+<http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00xnlqh> .
+<http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Anthony Howard Tribute'"@en-gb .
+<http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500#version> .
+<http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500#id> <http://purl.org/ontology/po/schedule_date> "2010-12-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://devapi.bbcredux.com/0189966ea31d459bba9abf3da4c50500/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/0189966ea31d459bba9abf3da4c50500/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500#id> <http://www.w3.org/2000/01/rdf-schema#label> "Anthony Howard Tribute"@en-gb .
+<http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/0189966ea31d459bba9abf3da4c50500#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Anthony Howard Tribute"@en-gb .
+<http://devapi.bbcredux.com/0189966ea31d459bba9abf3da4c50500/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

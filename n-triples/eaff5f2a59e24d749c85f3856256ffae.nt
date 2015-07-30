@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/4HHBJ8> .
+<http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b009lvpn#programme> .
+<http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae#id> <http://www.w3.org/2000/01/rdf-schema#label> "Omnibus: Through Many Dangers..."@en-gb .
+<http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Omnibus: Through Many Dangers...'"@en-gb .
+<http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae> <http://purl.org/dc/terms/title> "Information about the broadcast 'Omnibus: Through Many Dangers...'"@en-gb .
+<http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b009lvpn> .
+<http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://devapi.bbcredux.com/eaff5f2a59e24d749c85f3856256ffae/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/eaff5f2a59e24d749c85f3856256ffae/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae#id> .
+<http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b000gdkj#p00m90sj> .
+<http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..41c0;22f8~20080328T210000Z--PT1H30M0S> .
+<http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Omnibus: Through Many Dangers..."@en-gb .
+<http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae#id> <http://purl.org/ontology/po/schedule_date> "2008-03-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae#version> .
+<http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae#version> .
+<http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae.nt> .
+<http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/bbcfour#id> .
+<http://devapi.bbcredux.com/eaff5f2a59e24d749c85f3856256ffae/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b000gdkj#programme> .
+<http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/eaff5f2a59e24d749c85f3856256ffae#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/eaff5f2a59e24d749c85f3856256ffae/player> .
+<http://devapi.bbcredux.com/eaff5f2a59e24d749c85f3856256ffae/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .

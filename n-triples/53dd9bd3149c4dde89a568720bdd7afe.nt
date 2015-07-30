@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/53dd9bd3149c4dde89a568720bdd7afe/player> .
+<http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe.nt> .
+<http://devapi.bbcredux.com/53dd9bd3149c4dde89a568720bdd7afe/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Shaun the Sheep'"@en-gb .
+<http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
+<http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SIJI4> .
+<http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00p6r3z#programme> .
+<http://devapi.bbcredux.com/53dd9bd3149c4dde89a568720bdd7afe/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://devapi.bbcredux.com/53dd9bd3149c4dde89a568720bdd7afe/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/53dd9bd3149c4dde89a568720bdd7afe/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00phmwx#p0079dh9> .
+<http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..123f;ffc84~20100417T171500Z--PT0H5M0S> .
+<http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe#id> <http://purl.org/ontology/po/schedule_date> "2010-04-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Shaun the Sheep"@en-gb .
+<http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbbc#id> .
+<http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00phmwx#programme> .
+<http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe#id> .
+<http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe#version> .
+<http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe> <http://purl.org/dc/terms/title> "Information about the broadcast 'Shaun the Sheep'"@en-gb .
+<http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe#id> <http://www.w3.org/2000/01/rdf-schema#label> "Shaun the Sheep"@en-gb .
+<http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe#version> .
+<http://billings.acropolis.org.uk/53dd9bd3149c4dde89a568720bdd7afe#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00p6r3z> .

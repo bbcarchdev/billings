@@ -1,0 +1,28 @@
+<http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc#id> <http://purl.org/ontology/po/broadcast_on> <http://billings.acropolis.org.uk/cbeebies#id> .
+<http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc#version> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00s907t#programme> .
+<http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc#episode> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.bbc.co.uk/programmes/b00s92d3> .
+<http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc> <http://xmlns.com/foaf/0.1/primaryTopic> <http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc#id> .
+<http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc> <http://purl.org/dc/terms/hasFormat> <http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc.nt> .
+<http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc.nt> <http://purl.org/dc/terms/license> <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/> .
+<http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc#version> <http://www.w3.org/2000/01/rdf-schema#label> "A version of 'Big Barn Farm'"@en-gb .
+<http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc#episode> <http://purl.org/ontology/po/version> <http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc#version> .
+<http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc#episode> <http://search.yahoo.com/mrss/player> <http://devapi.bbcredux.com/12bbe19e24724e9bbe2b3553a3bceadc/player> .
+<http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc#id> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00s907t#p007hf56> .
+<http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc#id> <http://www.w3.org/2002/07/owl#sameAs> <dvb://233a..4240;ecb1~20100430T131000Z--PT0H20M0S> .
+<http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Text> .
+<http://devapi.bbcredux.com/12bbe19e24724e9bbe2b3553a3bceadc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/MovingImage> .
+<http://devapi.bbcredux.com/12bbe19e24724e9bbe2b3553a3bceadc/player> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc.nt> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/application/n-triples> .
+<http://devapi.bbcredux.com/12bbe19e24724e9bbe2b3553a3bceadc/player> <http://purl.org/dc/terms/license> <http://billings.acropolis.org.uk/terms/redux#id> .
+<http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc#id> <http://purl.org/ontology/po/broadcast_of> <http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc#version> .
+<http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc#episode> <http://www.w3.org/2002/07/owl#sameAs> <crid://fp.bbc.co.uk/SVZCY> .
+<http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc#episode> <http://www.w3.org/2002/07/owl#sameAs> <http://www.bbc.co.uk/programmes/b00s92d3#programme> .
+<http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc> <http://purl.org/dc/terms/title> "Information about the broadcast 'Big Barn Farm'"@en-gb .
+<http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc#id> <http://purl.org/ontology/po/schedule_date> "2010-04-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Broadcast> .
+<http://devapi.bbcredux.com/12bbe19e24724e9bbe2b3553a3bceadc/player> <http://purl.org/dc/terms/format> <http://purl.org/NET/mediatypes/text/html> .
+<http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc#episode> <http://www.w3.org/2000/01/rdf-schema#label> "Big Barn Farm"@en-gb .
+<http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc#id> <http://www.w3.org/2000/01/rdf-schema#label> "Big Barn Farm"@en-gb .
+<http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc#episode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Episode> .
+<http://billings.acropolis.org.uk/12bbe19e24724e9bbe2b3553a3bceadc#version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/po/Version> .
